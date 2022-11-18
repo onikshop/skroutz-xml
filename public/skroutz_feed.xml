@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2022-11-13 14:02</created_at>
+  <created_at>2022-11-18 09:13</created_at>
   <product>
     <featureImage>https://static.wixstatic.com/media/6c7135_89caf63b5ed94b60a4e8cc519a15fe31~mv2.png</featureImage>
     <size>W28 L28, W31 L28, W31 L30, W32 L28</size>
@@ -184,32 +184,6 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
-    <featureImage>https://static.wixstatic.com/media/6c7135_56248b39eb7e48009710880973022f5d~mv2.jpg</featureImage>
-    <size>M, L</size>
-    <additionalImages>https://static.wixstatic.com/media/6c7135_d48948308ab248eb8077174948d57a8a~mv2.jpg</additionalImages>
-    <id>1692d2b8-338c-c5ac-096b-727b67fd9435</id>
-    <name>Alita Cropped Top</name>
-    <sku>e96d2d47-cc73-3a53-f694-8d8498026bca</sku>
-    <link>https://www.onikshop.gr/product-page/alita-cropped-top</link>
-    <description>Αμάνικη μπλούζα με βάτεςΑμάνικη crop μπλούζα με βάτες και logo με strass μπροστά. Κάτω μέρος με λάστιχο.100% Cotton</description>
-    <color>Λευκό</color>
-    <price>34.9</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <featureImage>https://static.wixstatic.com/media/6c7135_accd0b8f25954ccd8469bf11186fc2bb~mv2.jpg</featureImage>
-    <size>M, L</size>
-    <additionalImages>https://static.wixstatic.com/media/6c7135_a9cd81357b5e4754bf541e619576d071~mv2.jpg</additionalImages>
-    <id>1692d2b8-338c-c5ac-096b-727b67fd9435</id>
-    <name>Alita Cropped Top</name>
-    <sku>e96d2d47-cc73-3a53-f694-8d8498026bca</sku>
-    <link>https://www.onikshop.gr/product-page/alita-cropped-top</link>
-    <description>Αμάνικη μπλούζα με βάτεςΑμάνικη crop μπλούζα με βάτες και logo με strass μπροστά. Κάτω μέρος με λάστιχο.100% Cotton</description>
-    <color>Μαύρο</color>
-    <price>34.9</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
     <featureImage>https://static.wixstatic.com/media/6c7135_07a25ce6cd6b42fda6049f19f980ed7e~mv2.jpg</featureImage>
     <size>W33, W38</size>
     <additionalImages>https://static.wixstatic.com/media/6c7135_12757e02a864421781e771f98e4657ca~mv2.jpg</additionalImages>
@@ -222,20 +196,6 @@
     <description>ΚΩΔΙΚΟΣ: MP-D-JNS-S22-035-LIGHT BLUE DENIMΜΕΣΗ: MID WAISTFIT TYPE: TAPERED</description>
     <color>Πετροπλυμένο</color>
     <price>42.36</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <featureImage>https://static.wixstatic.com/media/6c7135_6210c36e4e8a41a492adda0ba826cb77~mv2.jpg</featureImage>
-    <size>S, M, L, XL, XXL, 3XL</size>
-    <additionalImages>https://static.wixstatic.com/media/6c7135_269d442eacb5491d9d1764be67d34851~mv2.jpg</additionalImages>
-    <additionalImages>https://static.wixstatic.com/media/6c7135_ef8e242a37834108822df093ddde4753~mv2.jpg</additionalImages>
-    <id>bf6d16c7-d617-ede4-f9ce-bd709c7fd69a</id>
-    <name>Ari T-Shirt Edward</name>
-    <sku>4092e938-29e8-121b-0631-428f63802965</sku>
-    <link>https://www.onikshop.gr/product-page/ari-t-shirt-edward</link>
-    <description>T-shirt με ξέβαμμαΚοντομάνικη μπλούζα &amp;nbsp;με στρογγυλή λαιμόκοψη και τυπωμένο logo μπροστά.&amp;nbsp;100% Cotton</description>
-    <color>Γκρι</color>
-    <price>31.92</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -558,7 +518,7 @@
     <link>https://www.onikshop.gr/product-page/celio-light-down-jacket-sucolor-blue</link>
     <description>Μανίκια: Μακρυμάνικα&lt;br&gt;Μήκος: Κοντό&lt;br&gt;Στυλ: Puffer&lt;br&gt;Με Κουκούλα</description>
     <color>Μπλε Ανοιχτό</color>
-    <price>41.3</price>
+    <price>29.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -733,7 +693,7 @@
     <name>Celio T-shirt Bestato</name>
     <sku>e005782c-c17d-bbe9-51a7-2489c739f3e8</sku>
     <link>https://www.onikshop.gr/product-page/celio-t-shirt-bestato</link>
-    <description>100% Cotton</description>
+    <description>100% Βαμβάκι</description>
     <color>Βαθύ σκούρο Μπλε</color>
     <price>15.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -798,7 +758,7 @@
     <link>https://www.onikshop.gr/product-page/celio-vuprem-ανδρικο-μπουφαν-bomber</link>
     <description>Celio Vuprem Ανδρικό Μπουφάν Bomber&amp;nbsp;&amp;nbsp;</description>
     <color>Μαύρο</color>
-    <price>69</price>
+    <price>34.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -868,7 +828,7 @@
     <name>CELIO – Tee Shirt Mc Bework</name>
     <sku>9f5a0718-3c4e-fab5-2533-224cce20251c</sku>
     <link>https://www.onikshop.gr/product-page/celio-tee-shirt-mc-bework</link>
-    <description>100% Cotton</description>
+    <description>100% Βαμβάκι</description>
     <color>Κεραμιδί</color>
     <price>15.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1054,7 +1014,7 @@
     <name>DAVIE POLO Heavy Tools</name>
     <sku>25e55244-9319-5376-ad82-2138c8eac541</sku>
     <link>https://www.onikshop.gr/product-page/davie</link>
-    <description>This men's polo shirt will instantly dress up simple denim t-shirt combinations! The on-trend stripes and understated branding will give everyone a stylish look. The lightweight, soft-touch pure cotton fabric and sleek collar-button neck ensure maximum comfort even when worn all day. The perfect choice for casual weekdays, active programs, but also for evening outings. Wear it with your favourite pair of Heavy Tools chinos, jeans or bermudas from the new collection! Material: 100% cotton, single jersey. The model is 188 cm tall and wears size L.</description>
+    <description>Υλικό: 100% βαμβάκι, μονό ζέρσεϊ. Το μοντέλο έχει ύψος 188 cm και φοράει νούμερο L.</description>
     <color>Βαθύ σκούρο Μπλε</color>
     <price>32.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1067,7 +1027,7 @@
     <name>DAVIE POLO Heavy Tools</name>
     <sku>25e55244-9319-5376-ad82-2138c8eac541</sku>
     <link>https://www.onikshop.gr/product-page/davie</link>
-    <description>This men's polo shirt will instantly dress up simple denim t-shirt combinations! The on-trend stripes and understated branding will give everyone a stylish look. The lightweight, soft-touch pure cotton fabric and sleek collar-button neck ensure maximum comfort even when worn all day. The perfect choice for casual weekdays, active programs, but also for evening outings. Wear it with your favourite pair of Heavy Tools chinos, jeans or bermudas from the new collection! Material: 100% cotton, single jersey. The model is 188 cm tall and wears size L.</description>
+    <description>Υλικό: 100% βαμβάκι, μονό ζέρσεϊ. Το μοντέλο έχει ύψος 188 cm και φοράει νούμερο L.</description>
     <color>Φιστικί</color>
     <price>32.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1135,7 +1095,7 @@
     <name>Digital Hackers</name>
     <sku>5891be88-9279-2889-fbbe-25891309f6ba</sku>
     <link>https://www.onikshop.gr/product-page/digital-hackers</link>
-    <description>100% Cotton</description>
+    <description>100% Βαμβάκι</description>
     <color>Γκρι</color>
     <price>17.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1149,7 +1109,7 @@
     <name>Digital Hackers</name>
     <sku>5891be88-9279-2889-fbbe-25891309f6ba</sku>
     <link>https://www.onikshop.gr/product-page/digital-hackers</link>
-    <description>100% Cotton</description>
+    <description>100% Βαμβάκι</description>
     <color>Απαλό Ρόζ</color>
     <price>17.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1286,7 +1246,7 @@
     <name>FRED PERRY BLOCK TIPPED PIQUE POLO SHIRT IN NAVY</name>
     <sku>183d4d8f-86dd-89a2-1569-eafd62ef4463</sku>
     <link>https://www.onikshop.gr/product-page/fred-perry-block-tipped-pique-polo-shirt-in-navy</link>
-    <description>Block Tipped Pique Polo Shirt in NAVY from trusted designer brand Fred Perry. With its classic polo collar, two-button opening and short sleeves this comfortable polo features contrasting block colours at the collar and sleeves as well as the embroidered logo on the chest. adding a final touch of style.</description>
+    <description>Πουκάμισο με μύτες Pique Polo σε NAVY από την αξιόπιστη επωνυμία σχεδιαστή Fred Perry. Με τον κλασικό γιακά πόλο, το άνοιγμα με δύο κουμπιά και τα κοντά μανίκια, αυτό το άνετο πόλο διαθέτει χρώματα σε αντίθεση στο γιακά και τα μανίκια, καθώς και το κεντημένο λογότυπο στο στήθος. προσθέτοντας μια τελευταία πινελιά στυλ.</description>
     <color>Βαθύ σκούρο Μπλε</color>
     <price>49.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1314,7 +1274,7 @@
     <name>Fred Perry Twin tipped</name>
     <sku>71b11e38-35af-adbe-7854-23605c8153e6</sku>
     <link>https://www.onikshop.gr/product-page/fred-perry-twin-tipped</link>
-    <description>A crew neck t-shirt with our signature twin tipping at the neck and cuff. Made in lightweight cotton jersey, in our regular fit.Lightweight cotton jersey / Regular fit / Twin tipped neck and cuff</description>
+    <description>Ένα μπλουζάκι με λαιμόκοψη στο πλήρωμα με το χαρακτηριστικό δίδυμο άκρο στο λαιμό και τη μανσέτα. Φτιαγμένο σε ελαφρύ βαμβακερό ζέρσεϊ, στην κανονική μας εφαρμογή. Ελαφρύ βαμβακερό ζέρσεϊ / Κανονική εφαρμογή / Λαιμός και μανσέτα με διπλή μύτη</description>
     <color>Κόκκινο</color>
     <price>55.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1514,7 +1474,7 @@
     <name>GUY HAMPTONS FLORAL</name>
     <sku>4e1eb5a8-4523-8c32-1a37-6bbaf90d8e16</sku>
     <link>https://www.onikshop.gr/product-page/guy-hamptons-floral</link>
-    <description>Pure Viscose</description>
+    <description>Καθαρή βισκόζη</description>
     <color>Εμπριμέ</color>
     <price>27.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1527,7 +1487,7 @@
     <name>Guy Hamptons Taglia</name>
     <sku>ba773b3c-221e-1243-ff10-dfadc633f82f</sku>
     <link>https://www.onikshop.gr/product-page/guy-hamptons-taglia</link>
-    <description>pure linen</description>
+    <description>&lt;br&gt;καθαρό λινό</description>
     <color>Μπεζ</color>
     <price>34.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1551,7 +1511,7 @@
     <name>Hackers Doberman Digital</name>
     <sku>e6db38cf-9e09-f002-8b84-759bb3961a21</sku>
     <link>https://www.onikshop.gr/product-page/hackers-doberman-digital</link>
-    <description>100%Cotton</description>
+    <description>100% βαμβάκι</description>
     <color>Λευκό</color>
     <price>20.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1564,7 +1524,7 @@
     <name>Hackers Doberman Digital</name>
     <sku>e6db38cf-9e09-f002-8b84-759bb3961a21</sku>
     <link>https://www.onikshop.gr/product-page/hackers-doberman-digital</link>
-    <description>100%Cotton</description>
+    <description>100% βαμβάκι</description>
     <color>Μαύρο</color>
     <price>20.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1579,7 +1539,7 @@
     <name>Hackers Tshirt</name>
     <sku>ded41cce-71f6-a927-4c3a-47629c34d8b5</sku>
     <link>https://www.onikshop.gr/product-page/hackers-tshirt</link>
-    <description>100%Cotton</description>
+    <description>&amp;nbsp;100% βαμβάκι</description>
     <color>Μαύρο</color>
     <price>18.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1647,7 +1607,7 @@
     <name>Heavy Tools SLATER</name>
     <sku>29494113-61f2-f945-1169-baf66de94d7c</sku>
     <link>https://www.onikshop.gr/product-page/heavy-tools-slater</link>
-    <description>The real classic! Whether it's just for everyday wear or for sports, this men's overhead hoodie is the best choice! With its kangaroo pockets, ribbed bottom and sleeve cuffs, it is extremely comfortable. The well-ventilated, high cotton content fabric is perfect for all-day wear. The characterful embroidered, tone-in-tone branding will add a trendy look to any outfit! Material: 80% cotton, 20% polyester, inside brushed fleece. The model is 188 cm tall and wears size L</description>
+    <description>Το πραγματικό κλασικό! Είτε είναι μόνο για καθημερινή χρήση είτε για αθλητικά, αυτό το ανδρικό φούτερ με κουκούλα είναι η καλύτερη επιλογή! Με τις τσέπες καγκουρό, το κάτω μέρος με ραβδώσεις και τις μανσέτες στα μανίκια, είναι εξαιρετικά άνετο. Το καλά αεριζόμενο ύφασμα υψηλής περιεκτικότητας σε βαμβάκι είναι ιδανικό για χρήση όλη την ημέρα. Το χαρακτηριστικό κεντημένο, σε τόνους επωνυμίας θα προσθέσει μια μοντέρνα εμφάνιση σε κάθε ντύσιμο! Υλικό: 80% βαμβάκι, 20% πολυεστέρας, εσωτερικό βουρτσισμένο φλις. Το μοντέλο έχει ύψος 188 cm και φοράει νούμερο L</description>
     <color>Βαθύ σκούρο Μπλε</color>
     <price>59.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1661,7 +1621,7 @@
     <name>Heavy Tools SLATER</name>
     <sku>29494113-61f2-f945-1169-baf66de94d7c</sku>
     <link>https://www.onikshop.gr/product-page/heavy-tools-slater</link>
-    <description>The real classic! Whether it's just for everyday wear or for sports, this men's overhead hoodie is the best choice! With its kangaroo pockets, ribbed bottom and sleeve cuffs, it is extremely comfortable. The well-ventilated, high cotton content fabric is perfect for all-day wear. The characterful embroidered, tone-in-tone branding will add a trendy look to any outfit! Material: 80% cotton, 20% polyester, inside brushed fleece. The model is 188 cm tall and wears size L</description>
+    <description>Το πραγματικό κλασικό! Είτε είναι μόνο για καθημερινή χρήση είτε για αθλητικά, αυτό το ανδρικό φούτερ με κουκούλα είναι η καλύτερη επιλογή! Με τις τσέπες καγκουρό, το κάτω μέρος με ραβδώσεις και τις μανσέτες στα μανίκια, είναι εξαιρετικά άνετο. Το καλά αεριζόμενο ύφασμα υψηλής περιεκτικότητας σε βαμβάκι είναι ιδανικό για χρήση όλη την ημέρα. Το χαρακτηριστικό κεντημένο, σε τόνους επωνυμίας θα προσθέσει μια μοντέρνα εμφάνιση σε κάθε ντύσιμο! Υλικό: 80% βαμβάκι, 20% πολυεστέρας, εσωτερικό βουρτσισμένο φλις. Το μοντέλο έχει ύψος 188 cm και φοράει νούμερο L</description>
     <color>Εκρού</color>
     <price>59.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1675,7 +1635,7 @@
     <name>Heavy Tools SLATER</name>
     <sku>29494113-61f2-f945-1169-baf66de94d7c</sku>
     <link>https://www.onikshop.gr/product-page/heavy-tools-slater</link>
-    <description>The real classic! Whether it's just for everyday wear or for sports, this men's overhead hoodie is the best choice! With its kangaroo pockets, ribbed bottom and sleeve cuffs, it is extremely comfortable. The well-ventilated, high cotton content fabric is perfect for all-day wear. The characterful embroidered, tone-in-tone branding will add a trendy look to any outfit! Material: 80% cotton, 20% polyester, inside brushed fleece. The model is 188 cm tall and wears size L</description>
+    <description>Το πραγματικό κλασικό! Είτε είναι μόνο για καθημερινή χρήση είτε για αθλητικά, αυτό το ανδρικό φούτερ με κουκούλα είναι η καλύτερη επιλογή! Με τις τσέπες καγκουρό, το κάτω μέρος με ραβδώσεις και τις μανσέτες στα μανίκια, είναι εξαιρετικά άνετο. Το καλά αεριζόμενο ύφασμα υψηλής περιεκτικότητας σε βαμβάκι είναι ιδανικό για χρήση όλη την ημέρα. Το χαρακτηριστικό κεντημένο, σε τόνους επωνυμίας θα προσθέσει μια μοντέρνα εμφάνιση σε κάθε ντύσιμο! Υλικό: 80% βαμβάκι, 20% πολυεστέρας, εσωτερικό βουρτσισμένο φλις. Το μοντέλο έχει ύψος 188 cm και φοράει νούμερο L</description>
     <color>Πορτοκαλί</color>
     <price>59.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1689,7 +1649,7 @@
     <name>Heavy Tools SNOKER</name>
     <sku>6f5159e1-c9c3-d466-ba27-1a318a86cead</sku>
     <link>https://www.onikshop.gr/product-page/heavy-tools-snoker</link>
-    <description>This men's overheads hoodie is a real staple in our autumn/winter wardrobe! Whether it's for simple weekdays, a night out or sports, this is the perfect choice! With its sporty lines, kangaroo pockets, ribbed bottom and sleeve cuffs, it's extremely comfortable. The breathable, high cotton content fabric is perfect for all-day wear. The characterful yet understated branding and exciting colours will add a trendy look to any outfit! Material: 80% cotton, 20% polyester, inside brushed fleece. The model is 188 cm tall and wears size L</description>
+    <description>Αυτό το ανδρικό φούτερ με κουκούλα είναι μια πραγματική βάση στη φθινοπωρινή/χειμερινή γκαρνταρόμπα μας! Είτε πρόκειται για απλές καθημερινές, είτε για βραδινή έξοδο είτε για σπορ, αυτή είναι η τέλεια επιλογή! Με τις σπορ γραμμές, τις καγκουρό τσέπες, το κάτω μέρος με ραβδώσεις και τις μανσέτες στα μανίκια, είναι εξαιρετικά άνετο. Το διαπνέον ύφασμα υψηλής περιεκτικότητας σε βαμβάκι είναι ιδανικό για χρήση όλη την ημέρα. Το χαρακτηριστικό αλλά διακριτικό branding και τα συναρπαστικά χρώματα θα προσθέσουν μια μοντέρνα εμφάνιση σε κάθε ντύσιμο! Υλικό: 80% βαμβάκι, 20% πολυεστέρας, εσωτερικό βουρτσισμένο φλις. Το μοντέλο έχει ύψος 188 cm και φοράει νούμερο L</description>
     <color>Βυσσινί</color>
     <price>59.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1703,7 +1663,7 @@
     <name>Heavy Tools SNOKER</name>
     <sku>6f5159e1-c9c3-d466-ba27-1a318a86cead</sku>
     <link>https://www.onikshop.gr/product-page/heavy-tools-snoker</link>
-    <description>This men's overheads hoodie is a real staple in our autumn/winter wardrobe! Whether it's for simple weekdays, a night out or sports, this is the perfect choice! With its sporty lines, kangaroo pockets, ribbed bottom and sleeve cuffs, it's extremely comfortable. The breathable, high cotton content fabric is perfect for all-day wear. The characterful yet understated branding and exciting colours will add a trendy look to any outfit! Material: 80% cotton, 20% polyester, inside brushed fleece. The model is 188 cm tall and wears size L</description>
+    <description>Αυτό το ανδρικό φούτερ με κουκούλα είναι μια πραγματική βάση στη φθινοπωρινή/χειμερινή γκαρνταρόμπα μας! Είτε πρόκειται για απλές καθημερινές, είτε για βραδινή έξοδο είτε για σπορ, αυτή είναι η τέλεια επιλογή! Με τις σπορ γραμμές, τις καγκουρό τσέπες, το κάτω μέρος με ραβδώσεις και τις μανσέτες στα μανίκια, είναι εξαιρετικά άνετο. Το διαπνέον ύφασμα υψηλής περιεκτικότητας σε βαμβάκι είναι ιδανικό για χρήση όλη την ημέρα. Το χαρακτηριστικό αλλά διακριτικό branding και τα συναρπαστικά χρώματα θα προσθέσουν μια μοντέρνα εμφάνιση σε κάθε ντύσιμο! Υλικό: 80% βαμβάκι, 20% πολυεστέρας, εσωτερικό βουρτσισμένο φλις. Το μοντέλο έχει ύψος 188 cm και φοράει νούμερο L</description>
     <color>Πετρόλ</color>
     <price>59.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1718,7 +1678,7 @@
     <name>Heavy Tools STORE</name>
     <sku>d94f3292-dc3d-e3cb-4512-d203d262328a</sku>
     <link>https://www.onikshop.gr/product-page/heavy-tools-store</link>
-    <description>The real classic! Whether it's just for everyday wear or for sports, this men's hoodie is the best choice! With its zip closure, kangaroo pockets, ribbed bottom and sleeve cuffs, it is extremely comfortable. The well-ventilated, high cotton content fabric is perfect for all-day wear. The characterful embroidered, tone-in-tone branding will add a trendy look to any outfit! Material: 80% cotton, 20% polyester, inside brushed fleece. The model is 188 cm tall and wears size L</description>
+    <description>Το πραγματικό κλασικό! Είτε είναι μόνο για καθημερινή χρήση είτε για αθλητικά, αυτό το ανδρικό hoodie είναι η καλύτερη επιλογή! Με το κλείσιμο με φερμουάρ, τις τσέπες καγκουρό, το κάτω μέρος με ραβδώσεις και τις μανσέτες στα μανίκια, είναι εξαιρετικά άνετο. Το καλά αεριζόμενο ύφασμα υψηλής περιεκτικότητας σε βαμβάκι είναι ιδανικό για χρήση όλη την ημέρα. Το χαρακτηριστικό κεντημένο, σε τόνους επωνυμίας θα προσθέσει μια μοντέρνα εμφάνιση σε κάθε ντύσιμο! Υλικό: 80% βαμβάκι, 20% πολυεστέρας, εσωτερικό βουρτσισμένο φλις. Το μοντέλο έχει ύψος 188 cm και φοράει νούμερο L</description>
     <color>Βυσσινί</color>
     <price>64.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1733,7 +1693,7 @@
     <name>Heavy Tools STORE</name>
     <sku>d94f3292-dc3d-e3cb-4512-d203d262328a</sku>
     <link>https://www.onikshop.gr/product-page/heavy-tools-store</link>
-    <description>The real classic! Whether it's just for everyday wear or for sports, this men's hoodie is the best choice! With its zip closure, kangaroo pockets, ribbed bottom and sleeve cuffs, it is extremely comfortable. The well-ventilated, high cotton content fabric is perfect for all-day wear. The characterful embroidered, tone-in-tone branding will add a trendy look to any outfit! Material: 80% cotton, 20% polyester, inside brushed fleece. The model is 188 cm tall and wears size L</description>
+    <description>Το πραγματικό κλασικό! Είτε είναι μόνο για καθημερινή χρήση είτε για αθλητικά, αυτό το ανδρικό hoodie είναι η καλύτερη επιλογή! Με το κλείσιμο με φερμουάρ, τις τσέπες καγκουρό, το κάτω μέρος με ραβδώσεις και τις μανσέτες στα μανίκια, είναι εξαιρετικά άνετο. Το καλά αεριζόμενο ύφασμα υψηλής περιεκτικότητας σε βαμβάκι είναι ιδανικό για χρήση όλη την ημέρα. Το χαρακτηριστικό κεντημένο, σε τόνους επωνυμίας θα προσθέσει μια μοντέρνα εμφάνιση σε κάθε ντύσιμο! Υλικό: 80% βαμβάκι, 20% πολυεστέρας, εσωτερικό βουρτσισμένο φλις. Το μοντέλο έχει ύψος 188 cm και φοράει νούμερο L</description>
     <color>Καφέ Κονιάκ</color>
     <price>64.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1747,7 +1707,7 @@
     <name>Heavy Tools WANTI22</name>
     <sku>26292f61-95bc-c924-d6fd-eeabb7f6f169</sku>
     <link>https://www.onikshop.gr/product-page/heavy-tools-wanti22</link>
-    <description>The vest is always a perfect choice! This men's hooded, zipped, quilted vest with its trendy colors, straight, comfortable fit, adjustable and detachable hood, practical zipped pockets, inner pocket and small brandings provides the right comfort for any outdoor programme on cooler days. It is a great choice for outdoor activities, sports and travel, but it can even be an accessory for busy everyday life. Choose your favorite Heavy Tools jeans or cargo trousers, sweater from our new collection! Material: shell: 100% polyester, lining: 100% polyester, padding: 100% polyester. The modell is 188 cm tall and wears size L.</description>
+    <description>Το γιλέκο είναι πάντα τέλεια επιλογή! Αυτό το ανδρικό γιλέκο με κουκούλα, με φερμουάρ, καπιτονέ με τα μοντέρνα του χρώματα, την ίσια, άνετη εφαρμογή, την ρυθμιζόμενη και αποσπώμενη κουκούλα, τις πρακτικές τσέπες με φερμουάρ, την εσωτερική τσέπη και τα μικρά σήματα παρέχει τη σωστή άνεση για οποιοδήποτε πρόγραμμα εξωτερικού χώρου τις πιο δροσερές μέρες. Είναι μια εξαιρετική επιλογή για υπαίθριες δραστηριότητες, αθλήματα και ταξίδια, αλλά μπορεί να είναι ακόμα και αξεσουάρ για πολυάσχολη καθημερινότητα. Επιλέξτε το αγαπημένο σας τζιν Heavy Tools ή ένα cargo παντελόνι, πουλόβερ από τη νέα μας συλλογή! Υλικό: κέλυφος: 100% πολυεστέρας, επένδυση: 100% πολυεστέρας, επένδυση: 100% πολυεστέρας. Το μοντέλο έχει ύψος 188 cm και φοράει μέγεθος L.</description>
     <color>Κόκκινο</color>
     <price>64.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1762,7 +1722,7 @@
     <name>Heavy Tools WANTI22</name>
     <sku>26292f61-95bc-c924-d6fd-eeabb7f6f169</sku>
     <link>https://www.onikshop.gr/product-page/heavy-tools-wanti22</link>
-    <description>The vest is always a perfect choice! This men's hooded, zipped, quilted vest with its trendy colors, straight, comfortable fit, adjustable and detachable hood, practical zipped pockets, inner pocket and small brandings provides the right comfort for any outdoor programme on cooler days. It is a great choice for outdoor activities, sports and travel, but it can even be an accessory for busy everyday life. Choose your favorite Heavy Tools jeans or cargo trousers, sweater from our new collection! Material: shell: 100% polyester, lining: 100% polyester, padding: 100% polyester. The modell is 188 cm tall and wears size L.</description>
+    <description>Το γιλέκο είναι πάντα τέλεια επιλογή! Αυτό το ανδρικό γιλέκο με κουκούλα, με φερμουάρ, καπιτονέ με τα μοντέρνα του χρώματα, την ίσια, άνετη εφαρμογή, την ρυθμιζόμενη και αποσπώμενη κουκούλα, τις πρακτικές τσέπες με φερμουάρ, την εσωτερική τσέπη και τα μικρά σήματα παρέχει τη σωστή άνεση για οποιοδήποτε πρόγραμμα εξωτερικού χώρου τις πιο δροσερές μέρες. Είναι μια εξαιρετική επιλογή για υπαίθριες δραστηριότητες, αθλήματα και ταξίδια, αλλά μπορεί να είναι ακόμα και αξεσουάρ για πολυάσχολη καθημερινότητα. Επιλέξτε το αγαπημένο σας τζιν Heavy Tools ή ένα cargo παντελόνι, πουλόβερ από τη νέα μας συλλογή! Υλικό: κέλυφος: 100% πολυεστέρας, επένδυση: 100% πολυεστέρας, επένδυση: 100% πολυεστέρας. Το μοντέλο έχει ύψος 188 cm και φοράει μέγεθος L.</description>
     <color>Πετρόλ</color>
     <price>64.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1776,7 +1736,7 @@
     <name>Heavy Tools WANTI22</name>
     <sku>26292f61-95bc-c924-d6fd-eeabb7f6f169</sku>
     <link>https://www.onikshop.gr/product-page/heavy-tools-wanti22</link>
-    <description>The vest is always a perfect choice! This men's hooded, zipped, quilted vest with its trendy colors, straight, comfortable fit, adjustable and detachable hood, practical zipped pockets, inner pocket and small brandings provides the right comfort for any outdoor programme on cooler days. It is a great choice for outdoor activities, sports and travel, but it can even be an accessory for busy everyday life. Choose your favorite Heavy Tools jeans or cargo trousers, sweater from our new collection! Material: shell: 100% polyester, lining: 100% polyester, padding: 100% polyester. The modell is 188 cm tall and wears size L.</description>
+    <description>Το γιλέκο είναι πάντα τέλεια επιλογή! Αυτό το ανδρικό γιλέκο με κουκούλα, με φερμουάρ, καπιτονέ με τα μοντέρνα του χρώματα, την ίσια, άνετη εφαρμογή, την ρυθμιζόμενη και αποσπώμενη κουκούλα, τις πρακτικές τσέπες με φερμουάρ, την εσωτερική τσέπη και τα μικρά σήματα παρέχει τη σωστή άνεση για οποιοδήποτε πρόγραμμα εξωτερικού χώρου τις πιο δροσερές μέρες. Είναι μια εξαιρετική επιλογή για υπαίθριες δραστηριότητες, αθλήματα και ταξίδια, αλλά μπορεί να είναι ακόμα και αξεσουάρ για πολυάσχολη καθημερινότητα. Επιλέξτε το αγαπημένο σας τζιν Heavy Tools ή ένα cargo παντελόνι, πουλόβερ από τη νέα μας συλλογή! Υλικό: κέλυφος: 100% πολυεστέρας, επένδυση: 100% πολυεστέρας, επένδυση: 100% πολυεστέρας. Το μοντέλο έχει ύψος 188 cm και φοράει μέγεθος L.</description>
     <color>Μαύρο</color>
     <price>64.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1790,7 +1750,7 @@
     <name>Heavy Tools WANTI22</name>
     <sku>26292f61-95bc-c924-d6fd-eeabb7f6f169</sku>
     <link>https://www.onikshop.gr/product-page/heavy-tools-wanti22</link>
-    <description>The vest is always a perfect choice! This men's hooded, zipped, quilted vest with its trendy colors, straight, comfortable fit, adjustable and detachable hood, practical zipped pockets, inner pocket and small brandings provides the right comfort for any outdoor programme on cooler days. It is a great choice for outdoor activities, sports and travel, but it can even be an accessory for busy everyday life. Choose your favorite Heavy Tools jeans or cargo trousers, sweater from our new collection! Material: shell: 100% polyester, lining: 100% polyester, padding: 100% polyester. The modell is 188 cm tall and wears size L.</description>
+    <description>Το γιλέκο είναι πάντα τέλεια επιλογή! Αυτό το ανδρικό γιλέκο με κουκούλα, με φερμουάρ, καπιτονέ με τα μοντέρνα του χρώματα, την ίσια, άνετη εφαρμογή, την ρυθμιζόμενη και αποσπώμενη κουκούλα, τις πρακτικές τσέπες με φερμουάρ, την εσωτερική τσέπη και τα μικρά σήματα παρέχει τη σωστή άνεση για οποιοδήποτε πρόγραμμα εξωτερικού χώρου τις πιο δροσερές μέρες. Είναι μια εξαιρετική επιλογή για υπαίθριες δραστηριότητες, αθλήματα και ταξίδια, αλλά μπορεί να είναι ακόμα και αξεσουάρ για πολυάσχολη καθημερινότητα. Επιλέξτε το αγαπημένο σας τζιν Heavy Tools ή ένα cargo παντελόνι, πουλόβερ από τη νέα μας συλλογή! Υλικό: κέλυφος: 100% πολυεστέρας, επένδυση: 100% πολυεστέρας, επένδυση: 100% πολυεστέρας. Το μοντέλο έχει ύψος 188 cm και φοράει μέγεθος L.</description>
     <color>Μπεζ</color>
     <price>64.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1807,7 +1767,7 @@
     <name>HeavyTools WIDDY</name>
     <sku>88ddf427-401c-30b5-ec2e-2fd6c0793c74</sku>
     <link>https://www.onikshop.gr/product-page/heavytools-widdy</link>
-    <description>The vest is always a perfect choice! This men's zip-up, quilted vest with a straight, comfortable fit, inside windbreaker, practical zippered pockets and small brandings provides the right comfort for any outdoor programme even on cooler days. It is a great choice for outdoor activities, travel, but it can also be an accessory for busy everyday life. Choose your favorite Heavy Tools jeans or cargo trousers, sweater from our new collection! Material: shell: 100% polyester, lining: 100% polyester, padding: 100% polyester. The model t is 188 cm tall and wears size L</description>
+    <description>Το γιλέκο είναι πάντα τέλεια επιλογή! Αυτό το ανδρικό γιλέκο με φερμουάρ, καπιτονέ με ίσια, άνετη εφαρμογή, εσωτερικά αντιανεμικό, πρακτικές τσέπες με φερμουάρ και μικρές επωνυμίες παρέχει τη σωστή άνεση για κάθε υπαίθριο πρόγραμμα ακόμα και τις πιο δροσερές μέρες. Είναι μια εξαιρετική επιλογή για υπαίθριες δραστηριότητες, ταξίδια, αλλά μπορεί να είναι και αξεσουάρ για πολυάσχολη καθημερινότητα. Επιλέξτε το αγαπημένο σας τζιν Heavy Tools ή ένα cargo παντελόνι, πουλόβερ από τη νέα μας συλλογή! Υλικό: κέλυφος: 100% πολυεστέρας, επένδυση: 100% πολυεστέρας, επένδυση: 100% πολυεστέρας. Το μοντέλο t έχει ύψος 188 cm και φοράει μέγεθος L</description>
     <color>Βαθύ σκούρο Μπλε</color>
     <price>64.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1846,7 +1806,7 @@
     <name>Jersey top with a front print s.Oliver</name>
     <sku>f5fabdc0-58c4-77d7-784e-d438e892bb5c</sku>
     <link>https://www.onikshop.gr/product-page/jersey-top-with-a-front-print</link>
-    <description>Print: graphic print, statement printNeckline: round necklineStyle: in a casual lookOccasion: Casual2111344.03D0.M&lt;br&gt;4066279651240</description>
+    <description>Λαιμόκοψη: στρογγυλή λαιμόκοψηΣτυλ: σε casual εμφάνισηΠερίσταση: Casual2111344.03D0.M&lt;br&gt;4066279651240</description>
     <color>Μπεζ</color>
     <price>17.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1859,7 +1819,7 @@
     <name>Jersey top with a garment wash s.Oliver</name>
     <sku>35e96bd6-d201-bb90-215f-357ac1d8bf02</sku>
     <link>https://www.onikshop.gr/product-page/jersey-top-with-a-garment-wash</link>
-    <description>&lt;ul&gt;	&lt;li&gt;	Pattern: all-over pattern	&lt;/li&gt;	&lt;li&gt;	Neckline: round neckline	&lt;/li&gt;	&lt;li&gt;	Sleeve: short sleeves	&lt;/li&gt;	&lt;li&gt;	Details: garment wash	&lt;/li&gt;	&lt;li&gt;	Style: in a casual look	&lt;/li&gt;	&lt;li&gt;	Occasion: Casual	&lt;/li&gt;&lt;/ul&gt;2111891.78A0.XS&lt;br&gt;4063619121302</description>
+    <description>Μοτίβο: μοτίβο παντούΛαιμόκοψη: στρογγυλή λαιμόκοψηΜανίκι: κοντά μανίκιαΛεπτομέρειες: πλύσιμο ρούχωνΣτυλ: σε casual εμφάνισηΠερίσταση: Casual2111891.78A0.XS&lt;br&gt;4063619121302</description>
     <color>Κυπαρισσί</color>
     <price>27.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1874,7 +1834,7 @@
     <name>Jersey top with a retro print s.Oliver</name>
     <sku>8d5a0d00-c5da-6a0b-85f5-e6ec8f2f0e87</sku>
     <link>https://www.onikshop.gr/product-page/jersey-top-with-a-retro-print</link>
-    <description>Pattern: plainPrint: printed lettering, retro printNeckline: round neckline, neckline with a ribbed trimSleeve: short sleevesStyle: vintageOccasion: Casual2113553.01D0.XS&lt;br&gt;4063619166150</description>
+    <description>Μοτίβο: απλόΕκτύπωση: τυπωμένα γράμματα, ρετρό εκτύπωσηΛαιμόκοψη: στρογγυλή λαιμόκοψη, λαιμόκοψη με ραβδωτό τελείωμαΜανίκι: κοντά μανίκιαΣτυλ: vintageΠερίσταση: Casual2113553.01D0.XS&lt;br&gt;4063619166150</description>
     <color>Λευκό</color>
     <price>25.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -1892,20 +1852,6 @@
     <description>ΚΩΔΙΚΟΣ: MP-D-JNS-S22-012-BLEACHED DENIMΜΕΣΗ: MID WAISTFIT TYPE: CARROT</description>
     <color>Πετροπλυμένο</color>
     <price>76.72</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <featureImage>https://static.wixstatic.com/media/6c7135_968d6e0aef3e41bf90443267f5f0bd8a~mv2.jpg</featureImage>
-    <size>S, M, L, XL, XXL, 3XL</size>
-    <additionalImages>https://static.wixstatic.com/media/6c7135_0b109eef89e94b15b9d108f4a2d67730~mv2.jpg</additionalImages>
-    <additionalImages>https://static.wixstatic.com/media/6c7135_5a8c6e9ac93f44c9816995fc24b943e0~mv2.jpg</additionalImages>
-    <id>a3f5c492-776e-117c-1e06-d6d323bacd85</id>
-    <name>Lark T-shirt Edward</name>
-    <sku>5c0a3b6d-8891-ee83-e1f9-292cdc45327a</sku>
-    <link>https://www.onikshop.gr/product-page/lark-t-shirt-edward</link>
-    <description>Μπλούζα με τσεπάκιΜπλούζα με στρόγγυλη λαιμόκοψη και κοντό μανίκι. Τσεπάκι και slogan-στάμπα στο στήθος. Πίσω μέρος με slogan-στάμπα.100% Cotton</description>
-    <color>Μαύρο</color>
-    <price>31.92</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -2338,19 +2284,6 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
-    <featureImage>https://static.wixstatic.com/media/6c7135_d0db5548eb0e4512b2aa7323384f5276~mv2.jpeg</featureImage>
-    <size>S, M, L</size>
-    <additionalImages>https://static.wixstatic.com/media/6c7135_3ba955859e2a4cb686e51b978a291e1e~mv2.jpeg</additionalImages>
-    <id>4c703e7a-cd31-481b-a021-886c0217ffac</id>
-    <name>Lee Wobbly Logo Ανδρικό T-shirt Navy Μπλε με Λογότυπο</name>
-    <sku>b38fc185-32ce-b7e4-5fde-7793fde80053</sku>
-    <link>https://www.onikshop.gr/product-page/lee-wobbly-logo-ανδρικό-t-shirt-navy-μπλε-με-λογότυπο</link>
-    <description>Ανδρικό t-shirt της εταιρίας Lee σε navy μπλε χρώμα ιδανικό για κάθε είδους αθλητική δραστηριότητα. Κατασκευασμένο από ύφασμα με τεχνολογία που απομακρύνει την υγρασία και τον ιδρώτα από το σώμα, προσφέροντας ανάλαφρη αίσθηση.&lt;br&gt;• Εφαρμογή: Slim&lt;br&gt;• Σύνθεση: 100% Βαμβάκι</description>
-    <color>Βαθύ σκούρο Μπλε</color>
-    <price>28</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
     <featureImage>https://static.wixstatic.com/media/6c7135_e2ef85a8ae0240a38a082f9c3d52ba6e~mv2.jpeg</featureImage>
     <size>S, M, L, XL, XXL</size>
     <additionalImages>https://static.wixstatic.com/media/6c7135_6919acbccb114173a17212ba940728ff~mv2.jpeg</additionalImages>
@@ -2449,19 +2382,6 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
-    <featureImage>https://static.wixstatic.com/media/6c7135_3315acb5b80a49d1868b367960fd9440~mv2.jpeg</featureImage>
-    <size>S, M, L</size>
-    <additionalImages>https://static.wixstatic.com/media/6c7135_2da019c5d25544a69b91d8cbe99d655a~mv2.jpeg</additionalImages>
-    <id>3e237672-16fb-28c6-d742-646fbc474a1b</id>
-    <name>Lee Ανδρικό T-shirt Μαύρο με Λογότυπο</name>
-    <sku>c1dc898d-e904-d739-28bd-9b9043b8b5e4</sku>
-    <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-μαύρο-με-λογότυπο</link>
-    <description>Βασικά χαρακτηριστικά:Κανονική εφαρμογή&lt;br&gt;Μεγάλο λογότυπο στο στήθος&lt;br&gt;Στρογγυλή λαιμόκοψη&lt;br&gt;Σύνθεση: 100% Cotton</description>
-    <color>Μαύρο</color>
-    <price>28</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
     <featureImage>https://static.wixstatic.com/media/6c7135_8c7d283d99324e9282cd6bbc6c3021fe~mv2.jpeg</featureImage>
     <size>S, M, L, 4XL</size>
     <additionalImages>https://static.wixstatic.com/media/6c7135_e52fbcab235e43f59963b407706b0857~mv2.jpeg</additionalImages>
@@ -2476,7 +2396,7 @@
   </product>
   <product>
     <featureImage>https://static.wixstatic.com/media/6c7135_d42c46b383ae40eda44588700db61101~mv2.jpeg</featureImage>
-    <size>S, L, XXL, 3XL</size>
+    <size>S, XL, XXL, 3XL</size>
     <additionalImages>https://static.wixstatic.com/media/6c7135_15a5de7ec2ff4caaa9edd97f9b2d0225~mv2.jpeg</additionalImages>
     <additionalImages>https://static.wixstatic.com/media/6c7135_ae03cb3dc62a4a339e355141914acd90~mv2.jpeg</additionalImages>
     <id>d4683e44-a7ad-3569-4a69-bf6bb96746d9</id>
@@ -2551,7 +2471,7 @@
     <name>Leonardo Uomo Πουκάμισο S22LU01172-2</name>
     <sku>8ec6cfde-88db-3121-9975-f74008cf2307</sku>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-πουκάμισο-s22lu01172-2</link>
-    <description>80% COTTON 20% POLYESTER</description>
+    <description>80% ΒΑΜΒΑΚΙ 20% ΠΟΛΥΕΣΤΕΡ</description>
     <color>Καφέ Ανοιχτό</color>
     <price>29.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -3672,7 +3592,7 @@
     <name>MARICO</name>
     <sku>dfbb8712-74b8-6056-6a2e-fe8785217367</sku>
     <link>https://www.onikshop.gr/product-page/marico</link>
-    <description>If you're on holiday, this men's short sleeve T-shirt is the perfect choice! Made from lightweight, soft cotton fabric with a comfortable crew neck. The exciting, printed branding with a soft touch will brighten up your most casual look. Material: 100% cotton, single jersey. The model height is 188 cm and wears size L</description>
+    <description>Υλικό: 100% βαμβάκι, μονό ζέρσεϊ. Το μοντέλο έχει ύψος 188 cm και φοράει μέγεθος L</description>
     <color>Μπλε</color>
     <price>24.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -3895,7 +3815,7 @@
     <name>P/Club POLO</name>
     <sku>79a7e39d-f2a5-0a09-0b09-16cc66ad5173</sku>
     <link>https://www.onikshop.gr/product-page/p-club</link>
-    <description>100% Cotton</description>
+    <description>100% βαμβάκι</description>
     <color>Πράσινο</color>
     <price>27.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -3936,7 +3856,7 @@
     <name>Piqué  shirt POLO s.Oliver</name>
     <sku>a3ec7b1a-267b-1a04-7a10-40fb9ba875cf</sku>
     <link>https://www.onikshop.gr/product-page/piqué-polo-shirt</link>
-    <description>Pattern: plainCollar: polo collarFastener: buttonsSleeve: short sleeves, ribbed cuffsDetails: logoStyle: in a sporty look, classic look2113217.6045.S&lt;br&gt;4066279572880</description>
+    <description>Μοτίβο: απλόΓιακάς: γιακάς πόλοΣυνδετήρας: κουμπιάΜανίκι: κοντά μανίκια, ριμπ μανσέτεςΛεπτομέρειες: λογότυποΣτυλ: σε σπορ εμφάνιση, κλασική εμφάνιση2113217.6045.s&lt;br&gt;4066279572880</description>
     <color>Κίτρινο</color>
     <price>20.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4033,35 +3953,9 @@
     <name>ROLLER22</name>
     <sku>3856181f-98a1-891e-eb44-59550cb783c3</sku>
     <link>https://www.onikshop.gr/product-page/roller22</link>
-    <description>This men's short-sleeve shirt with its classic comfort fit, fine weave, small patterned fabric, nicely crafted collar and small, embroidered branding is a great choice for a busy day at the office or a summer evening out. The lightweight, soft cotton fabric ensures a comfortable feel even when worn all day. For a more stylish ensemble, choose your favourite pair of Heavy Tools jeans or bermudas to complement your shirt. Material: 100% cotton, poplin. Model is 188 cm tall and wears size L</description>
+    <description>Υλικό: 100% βαμβάκι, ποπλίνα. Το μοντέλο έχει ύψος 188 cm και φοράει νούμερο L</description>
     <color>Μπλε κλασικό</color>
     <price>39.95</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <featureImage>https://static.wixstatic.com/media/6c7135_7629c9e8255748ea8edb72c0ac4dfec4~mv2.jpg</featureImage>
-    <size>S, M, L</size>
-    <additionalImages>https://static.wixstatic.com/media/6c7135_b1dea8f5a61c4e739b2052542e8f3927~mv2.jpg</additionalImages>
-    <id>abefd1f8-a949-5e8a-d1b8-b9db695098e2</id>
-    <name>Rosinda Top</name>
-    <sku>54102e07-56b6-a175-2e47-462496af671d</sku>
-    <link>https://www.onikshop.gr/product-page/rosinda-top</link>
-    <description>Koντομάνικη Crop Μπλούζα με Τύπωμα λογότυποKoντομάνικη μπλούζα με τύπωμα logo-σφραφίδα στο στήθος και επαναλαμβανόμενο λογότυπο σε απλικέ σχέδιο στους ώμους. Σχέδιο cropped.&amp;nbsp;100%cotton</description>
-    <color>Λευκό</color>
-    <price>23.73</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <featureImage>https://static.wixstatic.com/media/6c7135_a0f56086dee94d71946a2b67e7518c14~mv2.jpg</featureImage>
-    <size>S, M, L</size>
-    <additionalImages>https://static.wixstatic.com/media/6c7135_3c459145cdb147888ab96db6806af979~mv2.jpg</additionalImages>
-    <id>abefd1f8-a949-5e8a-d1b8-b9db695098e2</id>
-    <name>Rosinda Top</name>
-    <sku>54102e07-56b6-a175-2e47-462496af671d</sku>
-    <link>https://www.onikshop.gr/product-page/rosinda-top</link>
-    <description>Koντομάνικη Crop Μπλούζα με Τύπωμα λογότυποKoντομάνικη μπλούζα με τύπωμα logo-σφραφίδα στο στήθος και επαναλαμβανόμενο λογότυπο σε απλικέ σχέδιο στους ώμους. Σχέδιο cropped.&amp;nbsp;100%cotton</description>
-    <color>Μαύρο</color>
-    <price>23.73</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -4073,7 +3967,7 @@
     <name>S.Oliver 2057715</name>
     <sku>f8e191f0-a51c-32e3-eb4a-a2999540d855</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-2057715</link>
-    <description>98%Cotton 2%Elastane&amp;nbsp;</description>
+    <description>98%Βαμβάκι 2%Ελαστάνη</description>
     <color>Ρόζ</color>
     <price>27.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4086,7 +3980,7 @@
     <name>s.Oliver Baumwollmix  Sweatshirts</name>
     <sku>a9228ccb-1238-f45a-039a-92983a0d778c</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-baumwollmix-sweatshirts</link>
-    <description>Product details&lt;br&gt;Hood: with a hood, With a drawstring panelSleeve: ribbed cuffs, long sleevesDetails: appliquéHem: With a ribbed trimStyle: in a casual lookOccasion: Casual</description>
+    <description>Λεπτομέρειες προιόντος&lt;br&gt;Κουκούλα: με κουκούλα, Με κορδόνι περίσφιξηςΜανίκι: ριμπ μανσέτες, μακριά μανίκιαΛεπτομέρειες: απλικέΣτρίφωμα: Με ραβδωτή επένδυσηΣτυλ: σε casual εμφάνισηΠερίσταση: Casual</description>
     <color>Λευκό</color>
     <price>59.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4100,14 +3994,14 @@
     <name>s.Oliver Baumwollmix  Sweatshirts</name>
     <sku>a9228ccb-1238-f45a-039a-92983a0d778c</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-baumwollmix-sweatshirts</link>
-    <description>Product details&lt;br&gt;Hood: with a hood, With a drawstring panelSleeve: ribbed cuffs, long sleevesDetails: appliquéHem: With a ribbed trimStyle: in a casual lookOccasion: Casual</description>
+    <description>Λεπτομέρειες προιόντος&lt;br&gt;Κουκούλα: με κουκούλα, Με κορδόνι περίσφιξηςΜανίκι: ριμπ μανσέτες, μακριά μανίκιαΛεπτομέρειες: απλικέΣτρίφωμα: Με ραβδωτή επένδυσηΣτυλ: σε casual εμφάνισηΠερίσταση: Casual</description>
     <color>Καφέ Ανοιχτό</color>
     <price>59.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
     <featureImage>https://static.wixstatic.com/media/6c7135_1f7d6a464d8f466b9da4af6505946ef4~mv2.webp</featureImage>
-    <size>M, XL</size>
+    <size>S, M, L, XL, XXL, 3XL</size>
     <additionalImages>https://static.wixstatic.com/media/6c7135_298171ba759743a4b1be5141f428f508~mv2.webp</additionalImages>
     <additionalImages>https://static.wixstatic.com/media/6c7135_f40486ce30fa450eb689a5d6717f9d46~mv2.jpg</additionalImages>
     <additionalImages>https://static.wixstatic.com/media/6c7135_e4a2864908c24c0aa8caa1b2c958c760~mv2.jpg</additionalImages>
@@ -4115,7 +4009,7 @@
     <name>s.Oliver Fine knit jumper with a V-neckline</name>
     <sku>8751af74-40e8-6793-bab5-0ae007cc6864</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-fine-knit-jumper-with-a-v-neckline</link>
-    <description>Pattern: plainNeckline: neckline with a ribbed trim, V-necklineSleeve: ribbed cuffsDetails: logoStyle: classic lookOccasion: Casual</description>
+    <description>Μοτίβο: απλόΛαιμόκοψη: λαιμόκοψη με ραβδωτή επένδυση, λαιμόκοψη VΜανίκι: μανσέτες με ραβδώσειςΛεπτομέρειες: λογότυποΣτυλ: κλασική εμφάνισηΠερίσταση: Casual</description>
     <color>Μαύρο</color>
     <price>35.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4128,7 +4022,7 @@
     <name>s.Oliver Hoodie with a logo print</name>
     <sku>ed22bc38-dfbd-9218-fd2a-4a9c3b86984b</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-hoodie-with-a-logo-print</link>
-    <description>Pattern: plainPrint: logo printHood: fixed, With a drawstring panelSleeve: ribbed cuffs, dropped shoulders, long sleevesPockets: Kangaroo pocketHem: With a ribbed trim</description>
+    <description>Μοτίβο: απλόΕκτύπωση: εκτύπωση λογότυπουΚουκούλα: σταθερή, Με κορδόνι περίσφιξηςΜανίκι: ριμπ μανσέτες, πεσμένοι ώμοι, μακριά μανίκιαΤσέπες: Τσέπη καγκουρόΣτρίφωμα: Με ραβδωτή επένδυση</description>
     <color>Βαθύ Κόκκινο</color>
     <price>45.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4157,7 +4051,7 @@
     <name>s.Oliver Leichte Steppjacke</name>
     <sku>7223413f-d8e3-1b9f-6ff9-73fdaf8034ab</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-leichte-steppjacke</link>
-    <description>Texture: quiltingPattern: melangeHood: fixedFastener: zipSleeve: elasticated cuffsPockets: slit pocket</description>
+    <description>Υφή: καπιτονέΜοτίβο: melangeΚουκούλα: σταθερόΚλείσιμο: φερμουάρΜανίκι: ελαστικές μανσέτεςΤσέπες: τσέπη με σχισμή</description>
     <color>Λαδί</color>
     <price>69.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4172,48 +4066,48 @@
     <name>s.Oliver Leichte Steppjacke</name>
     <sku>7223413f-d8e3-1b9f-6ff9-73fdaf8034ab</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-leichte-steppjacke</link>
-    <description>Texture: quiltingPattern: melangeHood: fixedFastener: zipSleeve: elasticated cuffsPockets: slit pocket</description>
+    <description>Υφή: καπιτονέΜοτίβο: melangeΚουκούλα: σταθερόΚλείσιμο: φερμουάρΜανίκι: ελαστικές μανσέτεςΤσέπες: τσέπη με σχισμή</description>
     <color>Μπλε</color>
     <price>69.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
     <featureImage>https://static.wixstatic.com/media/6c7135_4cf81bc092ba4dc996e271f80c22b07c~mv2.webp</featureImage>
-    <size>S, M, L, XL, XXL, 3XL, 4XL</size>
+    <size>S, M, L, XL, XXL</size>
     <additionalImages>https://static.wixstatic.com/media/6c7135_0c474445b483472eb00e74e72d69144a~mv2.webp</additionalImages>
     <additionalImages>https://static.wixstatic.com/media/6c7135_19c6c21bb86b4819b414e0d229e63f43~mv2.jpg</additionalImages>
     <id>96aa4ae4-db9d-57e2-f7c7-ea4933e589c9</id>
     <name>s.Oliver logo print  Sweatshirts</name>
     <sku>6955b51b-2462-a81d-0838-15b6cc1a7636</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-logo-print-sweatshirts</link>
-    <description>Pattern: plain, melangePrint: logo printHood: fixed, With a drawstring panelSleeve: ribbed cuffsHem: With a ribbed trimStyle: in a casual look</description>
+    <description>Κουκούλα: σταθερή, Με κορδόνι περίσφιξηςΜανίκι: μανσέτες με ραβδώσειςΣτρίφωμα: Με ραβδωτή επένδυσηΣτυλ: σε casual εμφάνιση</description>
     <color>Βαθύ Κόκκινο</color>
     <price>59.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
     <featureImage>https://static.wixstatic.com/media/6c7135_67dd6878a7534ce5b9e5971d0c6f90bb~mv2.webp</featureImage>
-    <size>S, M, L, XL, XXL, 3XL, 4XL</size>
+    <size>S, M, L, XL, XXL</size>
     <additionalImages>https://static.wixstatic.com/media/6c7135_74b359f7908f4b8aacf82ae6877c0a8d~mv2.webp</additionalImages>
     <additionalImages>https://static.wixstatic.com/media/6c7135_f3c1a136997741ba952b1f8903df6714~mv2.jpg</additionalImages>
     <id>96aa4ae4-db9d-57e2-f7c7-ea4933e589c9</id>
     <name>s.Oliver logo print  Sweatshirts</name>
     <sku>6955b51b-2462-a81d-0838-15b6cc1a7636</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-logo-print-sweatshirts</link>
-    <description>Pattern: plain, melangePrint: logo printHood: fixed, With a drawstring panelSleeve: ribbed cuffsHem: With a ribbed trimStyle: in a casual look</description>
+    <description>Κουκούλα: σταθερή, Με κορδόνι περίσφιξηςΜανίκι: μανσέτες με ραβδώσειςΣτρίφωμα: Με ραβδωτή επένδυσηΣτυλ: σε casual εμφάνιση</description>
     <color>Βαθύ σκούρο Μπλε</color>
     <price>59.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
     <featureImage>https://static.wixstatic.com/media/6c7135_21960aa31eb34b349ef9f8fa886a3655~mv2.jpg</featureImage>
-    <size>S, M, L, XL, XXL, 3XL, 4XL</size>
+    <size>S, M, L, XL, XXL</size>
     <additionalImages>https://static.wixstatic.com/media/6c7135_441157fa677b4670b7f73e3d0773f5fc~mv2.webp</additionalImages>
     <id>96aa4ae4-db9d-57e2-f7c7-ea4933e589c9</id>
     <name>s.Oliver logo print  Sweatshirts</name>
     <sku>6955b51b-2462-a81d-0838-15b6cc1a7636</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-logo-print-sweatshirts</link>
-    <description>Pattern: plain, melangePrint: logo printHood: fixed, With a drawstring panelSleeve: ribbed cuffsHem: With a ribbed trimStyle: in a casual look</description>
+    <description>Κουκούλα: σταθερή, Με κορδόνι περίσφιξηςΜανίκι: μανσέτες με ραβδώσειςΣτρίφωμα: Με ραβδωτή επένδυσηΣτυλ: σε casual εμφάνιση</description>
     <color>Λευκό</color>
     <price>59.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4227,7 +4121,7 @@
     <name>s.Oliver Pullover</name>
     <sku>065a2269-e6c0-4a4f-0409-0f4195322a3b</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-pullover</link>
-    <description>Product details&lt;br&gt;Pattern: plainNeckline: crew neckSleeve: ribbed cuffsDetails: logoStyle: classic lookOccasion: Casual</description>
+    <description>Λεπτομέρειες προιόντος&lt;br&gt;Μοτίβο: απλόΛαιμόκοψη: λαιμόκοψη πληρώματοςΜανίκι: μανσέτες με ραβδώσειςΛεπτομέρειες: λογότυποΣτυλ: κλασική εμφάνισηΠερίσταση: Casual</description>
     <color>Βυσσινί</color>
     <price>35.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4242,7 +4136,7 @@
     <name>s.Oliver Pullover</name>
     <sku>065a2269-e6c0-4a4f-0409-0f4195322a3b</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-pullover</link>
-    <description>Product details&lt;br&gt;Pattern: plainNeckline: crew neckSleeve: ribbed cuffsDetails: logoStyle: classic lookOccasion: Casual</description>
+    <description>Λεπτομέρειες προιόντος&lt;br&gt;Μοτίβο: απλόΛαιμόκοψη: λαιμόκοψη πληρώματοςΜανίκι: μανσέτες με ραβδώσειςΛεπτομέρειες: λογότυποΣτυλ: κλασική εμφάνισηΠερίσταση: Casual</description>
     <color>Μπλέ Μελανζέ</color>
     <price>35.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4256,7 +4150,7 @@
     <name>s.Oliver Pullover</name>
     <sku>065a2269-e6c0-4a4f-0409-0f4195322a3b</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-pullover</link>
-    <description>Product details&lt;br&gt;Pattern: plainNeckline: crew neckSleeve: ribbed cuffsDetails: logoStyle: classic lookOccasion: Casual</description>
+    <description>Λεπτομέρειες προιόντος&lt;br&gt;Μοτίβο: απλόΛαιμόκοψη: λαιμόκοψη πληρώματοςΜανίκι: μανσέτες με ραβδώσειςΛεπτομέρειες: λογότυποΣτυλ: κλασική εμφάνισηΠερίσταση: Casual</description>
     <color>Μπλέ Ουρανί</color>
     <price>35.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4272,7 +4166,7 @@
     <name>s.Oliver Pullover</name>
     <sku>065a2269-e6c0-4a4f-0409-0f4195322a3b</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-pullover</link>
-    <description>Product details&lt;br&gt;Pattern: plainNeckline: crew neckSleeve: ribbed cuffsDetails: logoStyle: classic lookOccasion: Casual</description>
+    <description>Λεπτομέρειες προιόντος&lt;br&gt;Μοτίβο: απλόΛαιμόκοψη: λαιμόκοψη πληρώματοςΜανίκι: μανσέτες με ραβδώσειςΛεπτομέρειες: λογότυποΣτυλ: κλασική εμφάνισηΠερίσταση: Casual</description>
     <color>Μαύρο</color>
     <price>35.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4286,7 +4180,7 @@
     <name>s.Oliver Quilted body warmer with a stand-up collar</name>
     <sku>ed4b22bf-b8ac-4db4-c1bf-95cf5c3e7c57</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-quilted-body-warmer-with-a-stand-up-collar</link>
-    <description>Pattern: plainCollar: stand-up collarFastener: zipPockets: Zip pocketDetails: logo appliquéStyle: in a clean look</description>
+    <description>Μοτίβο: απλόΓιακάς: όρθιος γιακάςΚλείσιμο: φερμουάρΤσέπες: Τσέπη με φερμουάρΛεπτομέρειες: απλικέ με λογότυποΣτυλ: σε καθαρή εμφάνιση</description>
     <color>Μπορντώ</color>
     <price>109.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4301,14 +4195,14 @@
     <name>s.Oliver Quilted body warmer with a stand-up collar</name>
     <sku>ed4b22bf-b8ac-4db4-c1bf-95cf5c3e7c57</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-quilted-body-warmer-with-a-stand-up-collar</link>
-    <description>Pattern: plainCollar: stand-up collarFastener: zipPockets: Zip pocketDetails: logo appliquéStyle: in a clean look</description>
+    <description>Μοτίβο: απλόΓιακάς: όρθιος γιακάςΚλείσιμο: φερμουάρΤσέπες: Τσέπη με φερμουάρΛεπτομέρειες: απλικέ με λογότυποΣτυλ: σε καθαρή εμφάνιση</description>
     <color>Μαύρο</color>
     <price>109.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
     <featureImage>https://static.wixstatic.com/media/6c7135_4fb1613367e648e68f1413d722f36514~mv2.webp</featureImage>
-    <size>S, M, L</size>
+    <size>S, M, L, XL, XXL</size>
     <additionalImages>https://static.wixstatic.com/media/6c7135_c0738d768a1c4855a1c84033cb0cf75d~mv2.webp</additionalImages>
     <additionalImages>https://static.wixstatic.com/media/6c7135_ecc384fdbde7496c831be91478d13bf0~mv2.webp</additionalImages>
     <additionalImages>https://static.wixstatic.com/media/6c7135_4887ce301df04b6d9176025628f969a1~mv2.webp</additionalImages>
@@ -4317,7 +4211,7 @@
     <name>s.Oliver Regular: shirt with a check pattern</name>
     <sku>ca442dc8-bf77-f9f0-f509-e754d5d6d466</sku>
     <link>https://www.onikshop.gr/product-page/s-oliver-regular-shirt-with-a-check-pattern</link>
-    <description>Pattern: checkCollar: shirt collarFastener: button placketSleeve: cuffsPockets: breast pocketHem: rounded hem</description>
+    <description>Γιακάς: γιακάς πουκαμίσουΣυνδετήρας: πατιλέτα κουμπιώνΜανίκι: μανσέτεςΤσέπες: τσέπη στο στήθος</description>
     <color>Καρό</color>
     <price>45.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4518,7 +4412,7 @@
     <name>Shirt Man White Levis - 866250002</name>
     <sku>862d99c8-9864-23db-72b9-1ca32c29f4d3</sku>
     <link>https://www.onikshop.gr/product-page/shirt-man-white-levis-866250002</link>
-    <description>&lt;br&gt;Men's Shirt, Levi's&lt;br&gt;Classic cotton shirt with logo on the chest. It features the traditional collar pattern, button closure cuffs and a round cut hem. A casual model for work days.</description>
+    <description>Ανδρικό πουκάμισο, Levi's&lt;br&gt;Κλασικό βαμβακερό πουκάμισο με λογότυπο στο στήθος. Διαθέτει το παραδοσιακό σχέδιο γιακά, μανσέτες με κουμπιά και στρογγυλό στρίφωμα. Ένα casual μοντέλο για τις εργάσιμες μέρες.</description>
     <color>Λευκό</color>
     <price>42</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4774,9 +4668,9 @@
     <name>T-shirt with a Henley collar s.Oliver</name>
     <sku>0d351e46-eace-38f6-32b5-4303378f6da6</sku>
     <link>https://www.onikshop.gr/product-page/t-shirt-with-a-henley-collar</link>
-    <description>&lt;ul&gt;	&lt;li&gt;	Neckline: Henley neckline	&lt;/li&gt;	&lt;li&gt;	Fastener: button placket	&lt;/li&gt;	&lt;li&gt;	Sleeve: short sleeves	&lt;/li&gt;	&lt;li&gt;	Style: In a casual look	&lt;/li&gt;	&lt;li&gt;	Occasion: Casual	&lt;/li&gt;&lt;/ul&gt;</description>
+    <description>Λαιμόκοψη: Λαιμόκοψη HenleyΣυνδετήρας: πατιλέτα κουμπιώνΜανίκι: κοντά μανίκιαΣτυλ: Σε casual εμφάνισηΠερίσταση: Casual</description>
     <color>Σιέλ</color>
-    <price>39</price>
+    <price>23.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -4787,9 +4681,9 @@
     <name>T-shirt with a Henley collar s.Oliver</name>
     <sku>0d351e46-eace-38f6-32b5-4303378f6da6</sku>
     <link>https://www.onikshop.gr/product-page/t-shirt-with-a-henley-collar</link>
-    <description>&lt;ul&gt;	&lt;li&gt;	Neckline: Henley neckline	&lt;/li&gt;	&lt;li&gt;	Fastener: button placket	&lt;/li&gt;	&lt;li&gt;	Sleeve: short sleeves	&lt;/li&gt;	&lt;li&gt;	Style: In a casual look	&lt;/li&gt;	&lt;li&gt;	Occasion: Casual	&lt;/li&gt;&lt;/ul&gt;</description>
+    <description>Λαιμόκοψη: Λαιμόκοψη HenleyΣυνδετήρας: πατιλέτα κουμπιώνΜανίκι: κοντά μανίκιαΣτυλ: Σε casual εμφάνισηΠερίσταση: Casual</description>
     <color>Γκρι</color>
-    <price>39</price>
+    <price>23.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -4800,7 +4694,7 @@
     <name>T-shirt with a round neckline s.Oliver</name>
     <sku>5d43fbfb-7dc3-9605-cc78-70ff8a4b83a3</sku>
     <link>https://www.onikshop.gr/product-page/t-shirt-with-a-round-neckline</link>
-    <description>Neckline: round neckline, neckline with a ribbed trimSleeve: short sleevesStyle: In a casual lookOccasion: Casual2114451.8592.L&lt;br&gt;4066279655101</description>
+    <description>Λαιμόκοψη: στρογγυλή λαιμόκοψη, λαιμόκοψη με ραβδωτό τελείωμαΜανίκι: κοντά μανίκιαΣτυλ: Σε casual εμφάνισηΠερίσταση: Casual2114451.8592.Λ&lt;br&gt;4066279655101</description>
     <color>Καφέ</color>
     <price>19.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4819,19 +4713,6 @@
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
-    <featureImage>https://static.wixstatic.com/media/6c7135_9140bea62727478581dfdafc1ca9e0de~mv2.jpg</featureImage>
-    <size>S, M, L, XL, XXL, 3XL</size>
-    <additionalImages>https://static.wixstatic.com/media/6c7135_d855c98d27484241bd0c2a7789fe8a6d~mv2.jpg</additionalImages>
-    <id>053bb194-d1aa-beaa-5a4a-1548d2e2d1ef</id>
-    <name>T-Shirt λαιμόκοψη με τρέσα Lion – Μαύρο Martini</name>
-    <sku>fac44e6b-2e55-4155-a5b5-eab72d1d2e10</sku>
-    <link>https://www.onikshop.gr/product-page/t-shirt-λαιμόκοψη-με-τρέσα-lion-μαύρο-martini</link>
-    <description>T-Shirt – 100% Βαμβάκι</description>
-    <color>Μαύρο</color>
-    <price>20.8</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
     <featureImage>https://static.wixstatic.com/media/6c7135_b922141164f8482cbf6327109b321447~mv2.jpg</featureImage>
     <size>S, M, L, XL, XXL, 3XL</size>
     <additionalImages>https://static.wixstatic.com/media/6c7135_ad627ab9dc3f491ca7759afedfa6b27a~mv2.jpg</additionalImages>
@@ -4842,19 +4723,6 @@
     <description>T-shirt μονόχρωμο τύπωμα στο στήθος, τρέσα στους ώμους και στρογγυλάδα για τελείωμα.Κανονική γραμμή&lt;br&gt;100% Βαμβάκι&lt;br&gt;Στρογγυλάδα τελείωμα</description>
     <color>Λευκό</color>
     <price>20.8</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <featureImage>https://static.wixstatic.com/media/6c7135_51cc6d9c0739448e81520a48a6137e94~mv2.jpg</featureImage>
-    <size>S, M, L, XL, XXL, 3XL</size>
-    <additionalImages>https://static.wixstatic.com/media/6c7135_60cb34fb567d4b139e75002fd0b067a8~mv2.jpg</additionalImages>
-    <id>f64c9634-1763-ab1a-6788-01a51554479a</id>
-    <name>T-Shirt λαιμόκοψη χρυσό τύπωμα – Μαύρο</name>
-    <sku>09b369cb-e89c-54e5-9877-fe5aeaabb865</sku>
-    <link>https://www.onikshop.gr/product-page/t-shirt-λαιμόκοψη-χρυσό-τύπωμα-μαύρο</link>
-    <description>T-shirt μονόχρωμο με χρυσό τύπωμα στο στήθος MRT MARTINI και ίσιο τελείωμα.Κανονική γραμμή&lt;br&gt;100% Βαμβάκι&lt;br&gt;Ίσιο τελείωμα&lt;br&gt;ΚΩΔΙΚΟΣ ΠΡΟΪΟΝΤΟΣ: 70746-2&lt;br&gt;ΚΑΤΗΓΟΡΙΕΣ: T-SHIRT, ΑΝΔΡΙΚΑ, ΑΝΟΙΞΗ-ΚΑΛΟΚΑΙΡΙ 22</description>
-    <color>Μαύρο</color>
-    <price>24.7</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
@@ -4933,7 +4801,7 @@
     <name>Top with print details S.Oliver</name>
     <sku>b4033bfd-ad4e-ac4e-bba0-fb8ea369643b</sku>
     <link>https://www.onikshop.gr/product-page/top-with-print-details-s-oliver</link>
-    <description>Pattern: melangePrint: printed lettering, logo print, front printNeckline: round necklineSleeve: With a rolled hemStyle: In a casual lookOccasion: Casual2111878.01D0.S&lt;br&gt;4063619123627Material&lt;br&gt;Fabric: jersey, cottonQuality: softMaterial composition&lt;br&gt;65% polyester, 35% cottonCare instructions&lt;br&gt;Gentle wash cycle 30°&lt;br&gt;Gentle wash cycle 30°Do not chlore&lt;br&gt;Do not chloreDo not tumble&lt;br&gt;Do not tumbleNo hot ironing&lt;br&gt;No hot ironingNo dry cleaning&lt;br&gt;No dry cleaning</description>
+    <description>Μοτίβο: melangeΕκτύπωση: τυπωμένα γράμματα, εκτύπωση λογότυπου, μπροστινή εκτύπωσηΛαιμόκοψη: στρογγυλή λαιμόκοψηΜανίκι: Με ρολό στρίφωμα</description>
     <color>Λευκό</color>
     <price>13.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4946,7 +4814,7 @@
     <name>Top with print details S.Oliver</name>
     <sku>b4033bfd-ad4e-ac4e-bba0-fb8ea369643b</sku>
     <link>https://www.onikshop.gr/product-page/top-with-print-details-s-oliver</link>
-    <description>Pattern: melangePrint: printed lettering, logo print, front printNeckline: round necklineSleeve: With a rolled hemStyle: In a casual lookOccasion: Casual2111878.01D0.S&lt;br&gt;4063619123627Material&lt;br&gt;Fabric: jersey, cottonQuality: softMaterial composition&lt;br&gt;65% polyester, 35% cottonCare instructions&lt;br&gt;Gentle wash cycle 30°&lt;br&gt;Gentle wash cycle 30°Do not chlore&lt;br&gt;Do not chloreDo not tumble&lt;br&gt;Do not tumbleNo hot ironing&lt;br&gt;No hot ironingNo dry cleaning&lt;br&gt;No dry cleaning</description>
+    <description>Μοτίβο: melangeΕκτύπωση: τυπωμένα γράμματα, εκτύπωση λογότυπου, μπροστινή εκτύπωσηΛαιμόκοψη: στρογγυλή λαιμόκοψηΜανίκι: Με ρολό στρίφωμα</description>
     <color>Γκρι</color>
     <price>13.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4960,7 +4828,7 @@
     <name>Valor T-shirt Edward</name>
     <sku>1114f1f8-fffe-f0cb-3a46-40307199da4e</sku>
     <link>https://www.onikshop.gr/product-page/valor-t-shirt-edward</link>
-    <description>T-shirt σε φαρδυά γραμμήΚοντομάνικη μπλούζα &amp;nbsp;με στρογγυλή λαιμόκοψη και τυπωμένο logo μπροστά σε χρωματική αντίθεση. Τυπωμένο Slogan στο πίσω μέρος100% CottonΛεπτομέρειες Προ</description>
+    <description>T-shirt σε φαρδυά γραμμήΚοντομάνικη μπλούζα &amp;nbsp;με στρογγυλή λαιμόκοψη και τυπωμένο logo μπροστά σε χρωματική αντίθεση. Τυπωμένο Slogan στο πίσω μέρος100% Cotton&amp;nbsp;</description>
     <color>Γκρι Ανοιχτό</color>
     <price>31.92</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -4974,7 +4842,7 @@
     <name>Valor T-shirt Edward</name>
     <sku>1114f1f8-fffe-f0cb-3a46-40307199da4e</sku>
     <link>https://www.onikshop.gr/product-page/valor-t-shirt-edward</link>
-    <description>T-shirt σε φαρδυά γραμμήΚοντομάνικη μπλούζα &amp;nbsp;με στρογγυλή λαιμόκοψη και τυπωμένο logo μπροστά σε χρωματική αντίθεση. Τυπωμένο Slogan στο πίσω μέρος100% CottonΛεπτομέρειες Προ</description>
+    <description>T-shirt σε φαρδυά γραμμήΚοντομάνικη μπλούζα &amp;nbsp;με στρογγυλή λαιμόκοψη και τυπωμένο logo μπροστά σε χρωματική αντίθεση. Τυπωμένο Slogan στο πίσω μέρος100% Cotton&amp;nbsp;</description>
     <color>Μαύρο</color>
     <price>31.92</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -5475,7 +5343,7 @@
     <name>Wrangler SIGN OFF TEE</name>
     <sku>ba20d241-a1bc-7a47-2f7f-a43ac625ba66</sku>
     <link>https://www.onikshop.gr/product-page/wrangler-sign-off-tee-1</link>
-    <description>The original, effortlessly stylish Wrangler tee. Regular fit and crew neck with sharp chest logo.</description>
+    <description>μπλουζάκι Wrangler. Κανονική εφαρμογή και λαιμόκοψη με κοφτερό λογότυπο στο στήθος.</description>
     <color>Μπλε</color>
     <price>28</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -6009,7 +5877,7 @@
     <name>Ανδρικό T-shirt S.Oliver logo</name>
     <sku>1467a11f-6f82-29f4-5c11-fffb3bf28bb6</sku>
     <link>https://www.onikshop.gr/product-page/ανδρικό-t-shirt-s-oliver-logo</link>
-    <description>Pattern: melangeNeckline: round neckline, neckline with a ribbed trimDetails: logoStyle: In a casual lookOccasion: Casual</description>
+    <description>Μοτίβο: melangeΛαιμόκοψη: στρογγυλή λαιμόκοψη, λαιμόκοψη με ραβδωτό τελείωμαΛεπτομέρειες: λογότυποΣτυλ: Σε casual εμφάνισηΠερίσταση: Casual</description>
     <color>Λευκό</color>
     <price>19</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -6021,7 +5889,7 @@
     <name>Ανδρικό T-shirt S.Oliver logo</name>
     <sku>1467a11f-6f82-29f4-5c11-fffb3bf28bb6</sku>
     <link>https://www.onikshop.gr/product-page/ανδρικό-t-shirt-s-oliver-logo</link>
-    <description>Pattern: melangeNeckline: round neckline, neckline with a ribbed trimDetails: logoStyle: In a casual lookOccasion: Casual</description>
+    <description>Μοτίβο: melangeΛαιμόκοψη: στρογγυλή λαιμόκοψη, λαιμόκοψη με ραβδωτό τελείωμαΛεπτομέρειες: λογότυποΣτυλ: Σε casual εμφάνισηΠερίσταση: Casual</description>
     <color>Μαύρο</color>
     <price>19</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -6034,7 +5902,7 @@
     <name>Ανδρικό T-shirt S.Oliver logo</name>
     <sku>1467a11f-6f82-29f4-5c11-fffb3bf28bb6</sku>
     <link>https://www.onikshop.gr/product-page/ανδρικό-t-shirt-s-oliver-logo</link>
-    <description>Pattern: melangeNeckline: round neckline, neckline with a ribbed trimDetails: logoStyle: In a casual lookOccasion: Casual</description>
+    <description>Μοτίβο: melangeΛαιμόκοψη: στρογγυλή λαιμόκοψη, λαιμόκοψη με ραβδωτό τελείωμαΛεπτομέρειες: λογότυποΣτυλ: Σε casual εμφάνισηΠερίσταση: Casual</description>
     <color>Βαθύ σκούρο Μπλε</color>
     <price>19</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -6142,7 +6010,7 @@
     <additionalImages>https://static.wixstatic.com/media/bbad40_2aba77459d11447ebd17eff5ffc1a22c~mv2.jpg</additionalImages>
     <additionalImages>https://static.wixstatic.com/media/bbad40_8dc74600bda5492a81c93010dfdef4bb~mv2.jpg</additionalImages>
     <id>1b7bfc7c-32c9-14eb-db4d-f3cc21bb02f3</id>
-    <name>Ανδρικό Ημίπαλτο  S.Oliver</name>
+    <name>Ανδρικό Ημίπαλτο  S.Oliver</name>
     <sku>e4840383-cd36-eb14-24b2-0c33de44fd0c</sku>
     <link>https://www.onikshop.gr/product-page/ανδρικό-ημίπαλτο-s-oliver</link>
     <description>Ανδρικό Ημίπαλτο &amp;nbsp;S.Oliver&amp;nbsp;</description>
@@ -7792,7 +7660,7 @@
     <name>Τρίχρωμο  Hackers</name>
     <sku>419ea992-9672-6f48-5fe3-022f58055ff0</sku>
     <link>https://www.onikshop.gr/product-page/τρίχρωμο-hackers</link>
-    <description>100% Cotton</description>
+    <description>100% βαμβάκι</description>
     <color>Μαύρο</color>
     <price>16.8</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -7855,42 +7723,6 @@
     <description>Φούτερ&amp;nbsp;-&amp;nbsp;Paco &amp;amp; Co</description>
     <color>Κίτρινο</color>
     <price>19</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <featureImage>https://static.wixstatic.com/media/bbad40_11b2d8a0cbe2419fb7bdbf0d7ee91327~mv2.jpg</featureImage>
-    <size>S, M, L, XL, XXL</size>
-    <id>6bc19ad2-2fe9-2cff-8981-1400f7f05677</id>
-    <name>ΦΟΥΤΕΡ LEE - MIDNIGHT NAVY &amp; DARK SLATE</name>
-    <sku>943e652d-d016-d300-767e-ebff080fa988</sku>
-    <link>https://www.onikshop.gr/product-page/φουτερ-midnight-navy</link>
-    <description>Μπλούζα φούτερ από τη συλλογή Lee.</description>
-    <color>Μαύρο</color>
-    <price>75</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <featureImage>https://static.wixstatic.com/media/bbad40_52e60a6481234d689dbe489917c7922c~mv2.jpg</featureImage>
-    <size>S, M, L, XL, XXL</size>
-    <id>6bc19ad2-2fe9-2cff-8981-1400f7f05677</id>
-    <name>ΦΟΥΤΕΡ LEE - MIDNIGHT NAVY &amp; DARK SLATE</name>
-    <sku>943e652d-d016-d300-767e-ebff080fa988</sku>
-    <link>https://www.onikshop.gr/product-page/φουτερ-midnight-navy</link>
-    <description>Μπλούζα φούτερ από τη συλλογή Lee.</description>
-    <color>Γκρι/Μπλε</color>
-    <price>75</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-  </product>
-  <product>
-    <featureImage>https://static.wixstatic.com/media/bbad40_580761832f714923a53157ca9962ed89~mv2.jpg</featureImage>
-    <size>S, M, L, XL, XXL</size>
-    <id>bd92391b-aade-64dc-f73e-3e7e2c5c885a</id>
-    <name>ΦΟΥΤΕΡ LEE - WASHED BLACK</name>
-    <sku>426dc6e4-5521-9b23-08c1-c181d3a377a5</sku>
-    <link>https://www.onikshop.gr/product-page/φουτερ-washed-black</link>
-    <description>Μπλούζα φούτερ από τη συλλογή Lee.</description>
-    <color>Γκρι</color>
-    <price>75</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
   </product>
   <product>
