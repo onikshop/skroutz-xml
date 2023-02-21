@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-02-21 16:58</created_at>
+  <created_at>2023-02-21 18:37</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -59,9 +59,9 @@
   </product>
   <product>
     <id>8266f772-6bfa-9ff7-7d00-c44934299924</id>
-    <name>511™ Slim Fit Men's Jeans 045110563</name>
+    <name>511™ Slim Fit Men's Jeans 04511-0563</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>045110563</mpn>
+    <mpn>04511-0563</mpn>
     <link>https://www.onikshop.gr/product-page/511-slim-fit-men-s-jeans</link>
     <description>100%Cotton 511 Slim Fit</description>
     <featureImage>https://static.wixstatic.com/media/6c7135_a9ac9f896e3e44749ca3f412d908dd94~mv2.jpg</featureImage>
@@ -75,67 +75,131 @@
     <quantity>1</quantity>
   </product>
   <product>
-    <id>648fccfe-022c-ec3b-c0dc-6dc792c6dcb0</id>
-    <name>511™ SLIM JEANS Levi's 045114579</name>
+    <id>c4bf8801-db9c-6b51-7735-2e8b1e076dfb</id>
+    <name>514 Levi's 00514-1267</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>045114579</mpn>
-    <link>https://www.onikshop.gr/product-page/511-slim-jeans</link>
-    <description><![CDATA[Composition & Care<br>99% Cotton, 1% Elastane<br>Denim<br>Stretch<br>Zip fly<br>5-pocket styling<br>Made in Egypt<br>Wash your jeans once every 10 wears at most; this increases their lifespan and saves natural resources. When you eventually launder your jeans<br>wash and dry them inside out with like colors; liquid detergent is recommended.]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_9c3d73a6f796442f8109db0a43c521d3~mv2.png</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_77aaff6b555e445494a0742a4cc51431~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_5e106ef434854b04acab29b1c291da96~mv2.png</additionalImage>
-    <color>Βαθύ σκούρο Μπλε</color>
-    <size>W30 L34</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>90.3</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-  </product>
-  <product>
-    <id>c0280401-b498-f41a-011c-c50163ccdeb8</id>
-    <name>512 SLIM TAPER FIT JEANS 28833-0580</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>28833-0580</mpn>
-    <link>https://www.onikshop.gr/product-page/512-slim-taper-fit-jeans</link>
-    <description><![CDATA[<br>Apparel Type :    Jeans<br>Care label :    <br>Sits below waist<br>Slim through thigh<br>Tapered leg<br>Zip fly<br>92% Cotton, 6% Polyester, 2% Elastane]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_af2945c43d22439fb4f802594ad8632e~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_61f4e56daa8240f097bb5025f3a8c1fb~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_3f6ddaedecd24076a2e64823bb2e3357~mv2.jpg</additionalImage>
+    <mpn>00514-1267</mpn>
+    <link>https://www.onikshop.gr/product-page/levi-s-514</link>
+    <description><![CDATA[Βασικά χαρακτηριστικά:Κανονική εφαρμογή<br>Τρεις τσέπες μπροστά<br>Δύο τσέπες πίσω<br>Θηλάκια για ζώνη στη μέση<br>Δερμάτινο logo patch πίσω<br>Κλείσιμο με κουμπιά<br>Σύνθεση: 99% Cotton, 1% Elastane]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_2abbbf54c8f54ae9a1278423ab919044~mv2.jpeg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_db84f61399be46a998c5acad0a45109b~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_035704812b3a42869aa52df84c91e88b~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_89fb3dad8cd74450b292c52e85036c01~mv2.jpeg</additionalImage>
     <color>Πετροπλυμένο</color>
-    <size>W36 L32,W36 L34,W38 L34</size>
+    <size>W30 L32,W31 L32,W32 L32,W32 L34,W33 L32,W33 L34,W34 L32,W34 L34,W36 L32,W36 L34,W38 L32,W38 L34</size>
     <brand>Levi's</brand>
     <weight>2000</weight>
-    <price>90.3</price>
+    <price>60</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
-        <variationid>c0280401-b498-f41a-011c-c50163ccdeb8-w36-l32</variationid>
+        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w30-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W30 L32</size>
+        <quantity>1</quantity>
+        <price>60</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
+        <mpn>00514-1267</mpn>
+      </variation>
+      <variation>
+        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w31-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W31 L32</size>
+        <quantity>1</quantity>
+        <price>60</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
+        <mpn>00514-1267</mpn>
+      </variation>
+      <variation>
+        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w32-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W32 L32</size>
+        <quantity>0</quantity>
+        <price>60</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
+        <mpn>00514-1267</mpn>
+      </variation>
+      <variation>
+        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w32-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W32 L34</size>
+        <quantity>0</quantity>
+        <price>60</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
+        <mpn>00514-1267</mpn>
+      </variation>
+      <variation>
+        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w33-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L32</size>
+        <quantity>1</quantity>
+        <price>60</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
+        <mpn>00514-1267</mpn>
+      </variation>
+      <variation>
+        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w33-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L34</size>
+        <quantity>0</quantity>
+        <price>60</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
+        <mpn>00514-1267</mpn>
+      </variation>
+      <variation>
+        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w34-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34 L32</size>
+        <quantity>0</quantity>
+        <price>60</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
+        <mpn>00514-1267</mpn>
+      </variation>
+      <variation>
+        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w34-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34 L34</size>
+        <quantity>2</quantity>
+        <price>60</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
+        <mpn>00514-1267</mpn>
+      </variation>
+      <variation>
+        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w36-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L32</size>
         <quantity>0</quantity>
-        <price>90.3</price>
-        <link>https://www.onikshop.gr/product-page/512-slim-taper-fit-jeans</link>
-        <mpn>28833-0580</mpn>
+        <price>60</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
+        <mpn>00514-1267</mpn>
       </variation>
       <variation>
-        <variationid>c0280401-b498-f41a-011c-c50163ccdeb8-w36-l34</variationid>
+        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
         <quantity>0</quantity>
-        <price>90.3</price>
-        <link>https://www.onikshop.gr/product-page/512-slim-taper-fit-jeans</link>
-        <mpn>28833-0580</mpn>
+        <price>60</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
+        <mpn>00514-1267</mpn>
       </variation>
       <variation>
-        <variationid>c0280401-b498-f41a-011c-c50163ccdeb8-w38-l34</variationid>
+        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w38-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W38 L32</size>
+        <quantity>0</quantity>
+        <price>60</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
+        <mpn>00514-1267</mpn>
+      </variation>
+      <variation>
+        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
-        <quantity>1</quantity>
-        <price>90.3</price>
-        <link>https://www.onikshop.gr/product-page/512-slim-taper-fit-jeans</link>
-        <mpn>28833-0580</mpn>
+        <quantity>0</quantity>
+        <price>60</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
+        <mpn>00514-1267</mpn>
       </variation>
     </variations>
   </product>
@@ -152,17 +216,17 @@
     <color>Μαύρο</color>
     <size>W33 L32,W36 L32,W38 L32,W38 L36</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>71.1</price>
+    <weight>500</weight>
+    <price>69</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>285efee5-4cb1-ecd5-e37a-9ed1c44f75c2-w33-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L32</size>
-        <quantity>2</quantity>
-        <price>71.1</price>
+        <quantity>1</quantity>
+        <price>69</price>
         <link>https://www.onikshop.gr/product-page/514-levis-erkek-pantolon</link>
         <mpn>00514-0738</mpn>
       </variation>
@@ -170,8 +234,8 @@
         <variationid>285efee5-4cb1-ecd5-e37a-9ed1c44f75c2-w36-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L32</size>
-        <quantity>1</quantity>
-        <price>71.1</price>
+        <quantity>0</quantity>
+        <price>69</price>
         <link>https://www.onikshop.gr/product-page/514-levis-erkek-pantolon</link>
         <mpn>00514-0738</mpn>
       </variation>
@@ -180,7 +244,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L32</size>
         <quantity>1</quantity>
-        <price>71.1</price>
+        <price>69</price>
         <link>https://www.onikshop.gr/product-page/514-levis-erkek-pantolon</link>
         <mpn>00514-0738</mpn>
       </variation>
@@ -189,7 +253,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L36</size>
         <quantity>2</quantity>
-        <price>71.1</price>
+        <price>69</price>
         <link>https://www.onikshop.gr/product-page/514-levis-erkek-pantolon</link>
         <mpn>00514-0738</mpn>
       </variation>
@@ -209,16 +273,16 @@
     <size>W33 L34,W33 L36,W38 L34,W42 L34</size>
     <brand>Levi's</brand>
     <weight>2000</weight>
-    <price>64.4</price>
+    <price>63.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>e1260b78-dae4-b68f-792d-c5075f29b1d9-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
-        <quantity>3</quantity>
-        <price>64.4</price>
+        <quantity>2</quantity>
+        <price>63.95</price>
         <link>https://www.onikshop.gr/product-page/514-straight-fit-men-s-jeans-levis</link>
         <mpn>00514-0741</mpn>
       </variation>
@@ -227,7 +291,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L36</size>
         <quantity>1</quantity>
-        <price>64.4</price>
+        <price>63.95</price>
         <link>https://www.onikshop.gr/product-page/514-straight-fit-men-s-jeans-levis</link>
         <mpn>00514-0741</mpn>
       </variation>
@@ -236,7 +300,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
         <quantity>1</quantity>
-        <price>64.4</price>
+        <price>63.95</price>
         <link>https://www.onikshop.gr/product-page/514-straight-fit-men-s-jeans-levis</link>
         <mpn>00514-0741</mpn>
       </variation>
@@ -245,66 +309,9 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
         <quantity>2</quantity>
-        <price>64.4</price>
+        <price>63.95</price>
         <link>https://www.onikshop.gr/product-page/514-straight-fit-men-s-jeans-levis</link>
         <mpn>00514-0741</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
-    <id>e770935e-80f8-a9c2-969c-bce802d52a11</id>
-    <name>514 STRAIGHT Levis 05514-0736 LEVIS</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>05514-0736 LEVIS</mpn>
-    <link>https://www.onikshop.gr/product-page/514-straight</link>
-    <description><![CDATA[Τύπος κουμπώματος για ρούχα :<br>   Κλείσιμο με κούμπωμα<br>   Κλείσιμο με φερμουάρ<br>Σύνθεση :<br>   Βαμβάκι : 99%<br>   Spandex : 1%]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_e2cbda55f6844cd5b94160a5f177bad7~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_cb2be1528ca946d6b10a91c0f2865daa~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_7df7748f321445ac93b6b0bb38267295~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_7cabad897f544bf88acfe47678771902~mv2.jpg</additionalImage>
-    <color>Βαθύ σκούρο Μπλε</color>
-    <size>W32 L34,W34 L34,W36 L34,W38 L36</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>89</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
-    <variations>
-      <variation>
-        <variationid>e770935e-80f8-a9c2-969c-bce802d52a11-w32-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W32 L34</size>
-        <quantity>2</quantity>
-        <price>89</price>
-        <link>https://www.onikshop.gr/product-page/514-straight</link>
-        <mpn>05514-0736 LEVIS</mpn>
-      </variation>
-      <variation>
-        <variationid>e770935e-80f8-a9c2-969c-bce802d52a11-w34-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>89</price>
-        <link>https://www.onikshop.gr/product-page/514-straight</link>
-        <mpn>05514-0736 LEVIS</mpn>
-      </variation>
-      <variation>
-        <variationid>e770935e-80f8-a9c2-969c-bce802d52a11-w36-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W36 L34</size>
-        <quantity>3</quantity>
-        <price>89</price>
-        <link>https://www.onikshop.gr/product-page/514-straight</link>
-        <mpn>05514-0736 LEVIS</mpn>
-      </variation>
-      <variation>
-        <variationid>e770935e-80f8-a9c2-969c-bce802d52a11-w38-l36</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W38 L36</size>
-        <quantity>1</quantity>
-        <price>89</price>
-        <link>https://www.onikshop.gr/product-page/514-straight</link>
-        <mpn>05514-0736 LEVIS</mpn>
       </variation>
     </variations>
   </product>
@@ -322,16 +329,16 @@
     <color>Γκρι</color>
     <size>W32 L34,W40 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>92</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>d996c7ef-fabb-8793-28a5-8905ef85991c-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>0</quantity>
+        <quantity>1</quantity>
         <price>92</price>
         <link>https://www.onikshop.gr/product-page/514-straight-fit-jeans</link>
         <mpn>00514-0807</mpn>
@@ -3342,7 +3349,7 @@
     <color>Βαθύ σκούρο Μπλε</color>
     <size>W38 L34,W40 L34,W42 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>52.8</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>4</quantity>
@@ -6530,7 +6537,7 @@
     <weight>2000</weight>
     <price>52.8</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <variations>
       <variation>
         <variationid>9f72cd55-a748-d93f-0cb4-131167cfcc7f-w40-l34</variationid>
@@ -6545,30 +6552,12 @@
         <variationid>9f72cd55-a748-d93f-0cb4-131167cfcc7f-w42-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>52.8</price>
         <link>https://www.onikshop.gr/product-page/levi-s-jean-levis-751</link>
         <mpn>00751-0013</mpn>
       </variation>
     </variations>
-  </product>
-  <product>
-    <id>3689f430-110b-7675-8722-12cf87c39186</id>
-    <name>LEVI'S 045114757 045114757</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>045114757</mpn>
-    <link>https://www.onikshop.gr/product-page/levi-s-045114757</link>
-    <description>Slim Fit79%Cotton 20%Paper 1%Elastane</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_c79da4feaf2c40688b58ff5f2177548b~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_62ae17707cef49b29671d9add4d73887~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_b93a417aef814bc7b392c6cd082b861b~mv2.jpg</additionalImage>
-    <color>Μπλε κλασικό</color>
-    <size>W38 L34</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>87.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
   </product>
   <product>
     <id>ef09cf28-6b39-6d76-f21f-7428c27f32d8</id>
@@ -6583,10 +6572,10 @@
     <color>Βαθύ σκούρο Μπλε</color>
     <size>W31 L32,W31 L34,W32 L32,W33 L34,W36 L34,W38 L32,W40 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>59.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>12</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>ef09cf28-6b39-6d76-f21f-7428c27f32d8-w31-l32</variationid>
@@ -6619,7 +6608,7 @@
         <variationid>ef09cf28-6b39-6d76-f21f-7428c27f32d8-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>59.5</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501</link>
         <mpn>00501-1931</mpn>
@@ -6628,7 +6617,7 @@
         <variationid>ef09cf28-6b39-6d76-f21f-7428c27f32d8-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>59.5</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501</link>
         <mpn>00501-1931</mpn>
@@ -6637,7 +6626,7 @@
         <variationid>ef09cf28-6b39-6d76-f21f-7428c27f32d8-w38-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L32</size>
-        <quantity>3</quantity>
+        <quantity>1</quantity>
         <price>59.5</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501</link>
         <mpn>00501-1931</mpn>
@@ -6646,7 +6635,7 @@
         <variationid>ef09cf28-6b39-6d76-f21f-7428c27f32d8-w40-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
-        <quantity>3</quantity>
+        <quantity>1</quantity>
         <price>59.5</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501</link>
         <mpn>00501-1931</mpn>
@@ -6729,12 +6718,12 @@
     <featureImage>https://static.wixstatic.com/media/6c7135_9dd66613b79f4d21bc8e0600f2883a05~mv2.png</featureImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_dce854f36f224d83b1fdc5cadb0ca80e~mv2.png</additionalImage>
     <color>Μπλε Ανοιχτό</color>
-    <size>W32 L34,W33 L32,W33 L34,W34 L32,W34 L34</size>
+    <size>W32 L34,W33 L32,W33 L34,W34 L32,W34 L34,W36 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>47.6</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>8</quantity>
     <variations>
       <variation>
         <variationid>a75005e3-0f75-4385-dc6d-e51d6c779fcd-w32-l34</variationid>
@@ -6781,6 +6770,15 @@
         <link>https://www.onikshop.gr/product-page/levi-s-501-ct-customized</link>
         <mpn>18173-0021</mpn>
       </variation>
+      <variation>
+        <variationid>a75005e3-0f75-4385-dc6d-e51d6c779fcd-w36-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W36 L34</size>
+        <quantity>1</quantity>
+        <price>47.6</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-501-ct-customized</link>
+        <mpn>18173-0021</mpn>
+      </variation>
     </variations>
   </product>
   <product>
@@ -6796,10 +6794,10 @@
     <color>Βαθύ σκούρο Μπλε</color>
     <size>W32 L34,W34 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>59.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <variations>
       <variation>
         <variationid>128f9435-5807-7247-eee3-1c1e979796ed-w32-l34</variationid>
@@ -6814,7 +6812,7 @@
         <variationid>128f9435-5807-7247-eee3-1c1e979796ed-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>59.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-ct-customized-tapered-celebration</link>
         <mpn>18173-0008</mpn>
@@ -6823,21 +6821,41 @@
   </product>
   <product>
     <id>d47041dc-68ce-fe14-7e03-bc4864c72803</id>
-    <name>Levi's 501 Original 00501-0010 LEVIS</name>
+    <name>Levi's 501 Original 00501-0010</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>00501-0010 LEVIS</mpn>
+    <mpn>00501-0010</mpn>
     <link>https://www.onikshop.gr/product-page/levi-s-501-original-1</link>
     <description><![CDATA[Βασικά χαρακτηριστικά:Regular Fit<br>Κλείσιμο με κουμπί<br>Τσέπες μπροστά και πίσω<br>100% Cotton]]></description>
     <featureImage>https://static.wixstatic.com/media/6c7135_42e48496ceea4771bbc6edc686e67d5d~mv2.jpeg</featureImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_829a739eea9b48fa837913a3b5dc8c02~mv2.jpeg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_410397caf46a4d5996545741a1afc991~mv2.jpeg</additionalImage>
     <color>Βαθύ σκούρο Μπλε</color>
-    <size>W42 L34</size>
+    <size>W33 L34,W40 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>47</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>2</quantity>
+    <variations>
+      <variation>
+        <variationid>d47041dc-68ce-fe14-7e03-bc4864c72803-w33-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L34</size>
+        <quantity>1</quantity>
+        <price>47</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-501-original-1</link>
+        <mpn>00501-0010</mpn>
+      </variation>
+      <variation>
+        <variationid>d47041dc-68ce-fe14-7e03-bc4864c72803-w40-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W40 L34</size>
+        <quantity>1</quantity>
+        <price>47</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-501-original-1</link>
+        <mpn>00501-0010</mpn>
+      </variation>
+    </variations>
   </product>
   <product>
     <id>5a1407b7-ad0d-12b6-ba37-942c844af962</id>
@@ -6869,7 +6887,7 @@
     <color>Γκρι</color>
     <size>W40 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>52.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
@@ -6887,10 +6905,10 @@
     <color>Βαθύ σκούρο Μπλε</color>
     <size>W30 L30,W31 L32,W32 L34,W33 L34,W33 L36,W40 L32,W42 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>78.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>371fc283-0361-3e1a-b378-b58895ea83d9-w30-l30</variationid>
@@ -6914,7 +6932,7 @@
         <variationid>371fc283-0361-3e1a-b378-b58895ea83d9-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-4</link>
         <mpn>00501-0101</mpn>
@@ -6950,7 +6968,7 @@
         <variationid>371fc283-0361-3e1a-b378-b58895ea83d9-w42-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
-        <quantity>1</quantity>
+        <quantity>3</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-4</link>
         <mpn>00501-0101</mpn>
@@ -6970,10 +6988,10 @@
     <color>Μπλε Ανοιχτό</color>
     <size>W30 L32,W30 L34,W31 L32,W32 L34,W33 L32,W33 L34,W33 L36,W38 L34,W38 L36,W40 L34,W42 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>78.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>7</quantity>
     <variations>
       <variation>
         <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w30-l32</variationid>
@@ -7006,7 +7024,7 @@
         <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
         <mpn>00501-0114</mpn>
@@ -7060,7 +7078,7 @@
         <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w40-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
-        <quantity>0</quantity>
+        <quantity>4</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
         <mpn>00501-0114</mpn>
@@ -7069,7 +7087,7 @@
         <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w42-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
-        <quantity>1</quantity>
+        <quantity>2</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
         <mpn>00501-0114</mpn>
@@ -7089,8 +7107,8 @@
     <color>Γκρι</color>
     <size>W33 L34,W38 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>87.2</price>
+    <weight>500</weight>
+    <price>65.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
     <variations>
@@ -7098,8 +7116,8 @@
         <variationid>d9a66bfb-108d-d2be-855b-c3a5550fc289-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
-        <quantity>1</quantity>
-        <price>87.2</price>
+        <quantity>0</quantity>
+        <price>65.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-7</link>
         <mpn>00501-3059</mpn>
       </variation>
@@ -7107,8 +7125,8 @@
         <variationid>d9a66bfb-108d-d2be-855b-c3a5550fc289-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
-        <quantity>0</quantity>
-        <price>87.2</price>
+        <quantity>1</quantity>
+        <price>65.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-7</link>
         <mpn>00501-3059</mpn>
       </variation>
@@ -7127,8 +7145,8 @@
     <color>Πετροπλυμένο</color>
     <size>W33 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>73.5</price>
+    <weight>500</weight>
+    <price>68.25</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>2</quantity>
   </product>
@@ -7145,17 +7163,17 @@
     <color>Μπλε Ανοιχτό</color>
     <size>W32 L32,W32 L34,W33 L34,W34 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>100</price>
+    <weight>500</weight>
+    <price>85</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>e32aafc3-8833-43e0-2572-3fe339b4804f-w32-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L32</size>
         <quantity>1</quantity>
-        <price>100</price>
+        <price>85</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-skinny</link>
         <mpn>34268-0006</mpn>
       </variation>
@@ -7164,7 +7182,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
         <quantity>1</quantity>
-        <price>100</price>
+        <price>85</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-skinny</link>
         <mpn>34268-0006</mpn>
       </variation>
@@ -7173,7 +7191,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
         <quantity>1</quantity>
-        <price>100</price>
+        <price>85</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-skinny</link>
         <mpn>34268-0006</mpn>
       </variation>
@@ -7181,196 +7199,10 @@
         <variationid>e32aafc3-8833-43e0-2572-3fe339b4804f-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>100</price>
+        <quantity>0</quantity>
+        <price>85</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-skinny</link>
         <mpn>34268-0006</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
-    <id>a6d651e9-bcc1-f1d6-3a9e-b2f595478ebf</id>
-    <name>Levi's 511 Ανδρικό Παντελόνι Τζιν 045113718</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>045113718</mpn>
-    <link>https://www.onikshop.gr/product-page/levi-s-511-ανδρικό-παντελόνι-τζιν</link>
-    <description><![CDATA[Βασικά χαρακτηριστικά:Στενή εφαρμογή<br>Τρεις τσέπες μπροστά<br>Δύο τσέπες πίσω<br>Θηλάκια για ζώνη στη μέση<br>Δερμάτινο logo patch πίσω<br>Κλείσιμο με φερμουάρ και κουμπί<br>Σύνθεση: 99% Cotton, 1% Elastane]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_55a5613502aa48e6b2482e511b53544c~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_639b96b34ea6490f8008767a7efe8226~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_f95ea6b28d4f405697051aedd5361e14~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_927bcb50ef3b4207baa9c4937191971d~mv2.jpg</additionalImage>
-    <color>Πετροπλυμένο</color>
-    <size>W38 L34</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>90.3</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-  </product>
-  <product>
-    <id>c4bf8801-db9c-6b51-7735-2e8b1e076dfb</id>
-    <name>Levi's 514 00514-1267</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>00514-1267</mpn>
-    <link>https://www.onikshop.gr/product-page/levi-s-514</link>
-    <description><![CDATA[Βασικά χαρακτηριστικά:Κανονική εφαρμογή<br>Τρεις τσέπες μπροστά<br>Δύο τσέπες πίσω<br>Θηλάκια για ζώνη στη μέση<br>Δερμάτινο logo patch πίσω<br>Κλείσιμο με κουμπιά<br>Σύνθεση: 99% Cotton, 1% Elastane]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_2abbbf54c8f54ae9a1278423ab919044~mv2.jpeg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_db84f61399be46a998c5acad0a45109b~mv2.jpeg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_035704812b3a42869aa52df84c91e88b~mv2.jpeg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_89fb3dad8cd74450b292c52e85036c01~mv2.jpeg</additionalImage>
-    <color>Πετροπλυμένο</color>
-    <size>W30 L32,W31 L32,W32 L32,W32 L34,W33 L32,W33 L34,W34 L32,W34 L34,W36 L32,W36 L34,W38 L32,W38 L34</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>60</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>13</quantity>
-    <variations>
-      <variation>
-        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w30-l32</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W30 L32</size>
-        <quantity>1</quantity>
-        <price>60</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
-        <mpn>00514-1267</mpn>
-      </variation>
-      <variation>
-        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w31-l32</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W31 L32</size>
-        <quantity>1</quantity>
-        <price>60</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
-        <mpn>00514-1267</mpn>
-      </variation>
-      <variation>
-        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w32-l32</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W32 L32</size>
-        <quantity>1</quantity>
-        <price>60</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
-        <mpn>00514-1267</mpn>
-      </variation>
-      <variation>
-        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w32-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W32 L34</size>
-        <quantity>1</quantity>
-        <price>60</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
-        <mpn>00514-1267</mpn>
-      </variation>
-      <variation>
-        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w33-l32</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W33 L32</size>
-        <quantity>0</quantity>
-        <price>60</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
-        <mpn>00514-1267</mpn>
-      </variation>
-      <variation>
-        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w33-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W33 L34</size>
-        <quantity>2</quantity>
-        <price>60</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
-        <mpn>00514-1267</mpn>
-      </variation>
-      <variation>
-        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w34-l32</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W34 L32</size>
-        <quantity>2</quantity>
-        <price>60</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
-        <mpn>00514-1267</mpn>
-      </variation>
-      <variation>
-        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w34-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>60</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
-        <mpn>00514-1267</mpn>
-      </variation>
-      <variation>
-        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w36-l32</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W36 L32</size>
-        <quantity>1</quantity>
-        <price>60</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
-        <mpn>00514-1267</mpn>
-      </variation>
-      <variation>
-        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w36-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W36 L34</size>
-        <quantity>2</quantity>
-        <price>60</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
-        <mpn>00514-1267</mpn>
-      </variation>
-      <variation>
-        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w38-l32</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W38 L32</size>
-        <quantity>0</quantity>
-        <price>60</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
-        <mpn>00514-1267</mpn>
-      </variation>
-      <variation>
-        <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w38-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W38 L34</size>
-        <quantity>1</quantity>
-        <price>60</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-514</link>
-        <mpn>00514-1267</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
-    <id>865b107c-7d6c-e166-82e4-53c0044ece48</id>
-    <name>Levi's 527 05527-0600</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>05527-0600</mpn>
-    <link>https://www.onikshop.gr/product-page/levi-s-527</link>
-    <description><![CDATA[Βασικά χαρακτηριστικά:Κλείσιμο με φερμουάρ και κουμπί<br>Βoot cut τελείωμα<br>Δερμάτινο patch με logo πίσω<br>Σύνθεση: 99% cotton, 1% elastane]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_3e6bba626b1f442991cc6c11b13ba440~mv2.jpeg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_d51f050ca45c42cfb4907830a5567b88~mv2.jpeg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_a850910d1d0346449682196729f189f4~mv2.jpeg</additionalImage>
-    <color>Βαθύ σκούρο Μπλε</color>
-    <size>W31 L32,W32 L34</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>103.2</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
-    <variations>
-      <variation>
-        <variationid>865b107c-7d6c-e166-82e4-53c0044ece48-w31-l32</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W31 L32</size>
-        <quantity>1</quantity>
-        <price>103.2</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-527</link>
-        <mpn>05527-0600</mpn>
-      </variation>
-      <variation>
-        <variationid>865b107c-7d6c-e166-82e4-53c0044ece48-w32-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W32 L34</size>
-        <quantity>1</quantity>
-        <price>103.2</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-527</link>
-        <mpn>05527-0600</mpn>
       </variation>
     </variations>
   </product>
@@ -7386,7 +7218,7 @@
     <color>Πετροπλυμένο</color>
     <size>W38 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>53.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
@@ -7502,27 +7334,10 @@
     </variations>
   </product>
   <product>
-    <id>529d7f4b-bb9f-9340-ba60-bc7193dcaf95</id>
-    <name>Levi's Men's 501 Original Fit Jeans 00501-2931</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>00501-2931</mpn>
-    <link>https://www.onikshop.gr/product-page/levi-s-men-s-501-original-fit-jeans</link>
-    <description>501 Original Fit Jeans</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_0beb8ccd13cb4f4b95ce735733df3929~mv2.png</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_05af6f2a07fb4d8cb72630f50297f220~mv2.png</additionalImage>
-    <color>Μπλε κλασικό</color>
-    <size>W30 L32</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>52.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-  </product>
-  <product>
     <id>cf01f481-94b8-3865-b4d5-302c000b44fe</id>
-    <name>Levi's Men's 527 Slim Boot Cut 05527-0552 LEVIS</name>
+    <name>Levi's Men's 527 Slim Boot Cut 05527-0552</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>05527-0552 LEVIS</mpn>
+    <mpn>05527-0552</mpn>
     <link>https://www.onikshop.gr/product-page/levi-s-men-s-527-slim-boot-cut</link>
     <description><![CDATA[98% Cotton, 2% Elastane<br>Machine Wash<br>Fastening: Button and zip<br>Medium<br>Bootcut<br>05527-0552]]></description>
     <featureImage>https://static.wixstatic.com/media/6c7135_ee9ec86d07fd49e29b9f42493d41cb0e~mv2.jpg</featureImage>
@@ -7531,7 +7346,7 @@
     <color>Πετροπλυμένο</color>
     <size>W32 L32</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>87.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
@@ -7551,13 +7366,13 @@
     <weight>1000</weight>
     <price>38.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>2</quantity>
     <variations>
       <variation>
         <variationid>97758161-7244-517a-af05-2d65ca6da832-w40-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>38.5</price>
         <link>https://www.onikshop.gr/product-page/levi-s-men-s-751-standard-fit-jeans</link>
         <mpn>00751-0021</mpn>
@@ -7566,7 +7381,7 @@
         <variationid>97758161-7244-517a-af05-2d65ca6da832-w42-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>38.5</price>
         <link>https://www.onikshop.gr/product-page/levi-s-men-s-751-standard-fit-jeans</link>
         <mpn>00751-0021</mpn>
@@ -7585,7 +7400,7 @@
     <color>Πετροπλυμένο</color>
     <size>W28 L32</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>48</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
@@ -7638,24 +7453,6 @@
     </variations>
   </product>
   <product>
-    <id>823e3f18-862f-d71f-d0e2-55ef75641518</id>
-    <name>LEVI'S Slim Taper Fit 28833-0749</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>28833-0749</mpn>
-    <link>https://www.onikshop.gr/product-page/levi-s-slim-taper-fit</link>
-    <description>Σύνθεση: 70% βαμβάκι 28% lyocell 2% elastan</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_7cf293e379a34d269962472fd72ce687~mv2.png</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_9131708984f440de9dec02f7b80fec13~mv2.png</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_2eefa456e49c49d0b008314f35842ddb~mv2.png</additionalImage>
-    <color>Πετροπλυμένο</color>
-    <size>W34 L34</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>119</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-  </product>
-  <product>
     <id>edf2b08d-0852-5604-a3a5-9e2bcd102b09</id>
     <name>LEVI'S ® 512 SLIM TAPER FIT 28833-0244</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
@@ -7667,26 +7464,8 @@
     <color>Μπλε κλασικό</color>
     <size>W33 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>77.4</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-  </product>
-  <product>
-    <id>9a2b24af-b06c-bf44-0824-f6d28462f36d</id>
-    <name>Levi's® 512™ Slim Taper Fit Rock Cod 28833-0280</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>28833-0280</mpn>
-    <link>https://www.onikshop.gr/product-page/levi-s-512-slim-taper-fit-rock-cod</link>
-    <description>Σύνθεση: 93% CTN - 4% POLY - 2% PTHL - 1% ELAS</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_492cf4088889480792f5047c18315033~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_3c3b622590f54a4eab766057596a78ea~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_f3aabe097f95412d8ce72fb2900ac601~mv2.jpg</additionalImage>
-    <color>Βαθύ σκούρο Μπλε</color>
-    <size>W30 L34</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>64.5</price>
+    <weight>500</weight>
+    <price>49.85</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
   </product>
@@ -7703,7 +7482,7 @@
     <size>W32 L34,W33 L34,W34 L34</size>
     <brand>Levi's</brand>
     <weight>2000</weight>
-    <price>98.1</price>
+    <price>76.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>3</quantity>
     <variations>
@@ -7712,7 +7491,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
         <quantity>1</quantity>
-        <price>98.1</price>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/levi-s-527-τζιν-bootcut</link>
         <mpn>05527-0588</mpn>
       </variation>
@@ -7721,7 +7500,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
         <quantity>1</quantity>
-        <price>98.1</price>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/levi-s-527-τζιν-bootcut</link>
         <mpn>05527-0588</mpn>
       </variation>
@@ -7730,7 +7509,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
         <quantity>1</quantity>
-        <price>98.1</price>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/levi-s-527-τζιν-bootcut</link>
         <mpn>05527-0588</mpn>
       </variation>
@@ -7838,62 +7617,6 @@
     </variations>
   </product>
   <product>
-    <id>2eff7524-b627-fae8-f1b2-6b94b4ddd34e</id>
-    <name>Levi's® Jean Pantolon | 511 - Slim Fit 84511-0185</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>84511-0185</mpn>
-    <link>https://www.onikshop.gr/product-page/levi-s-jean-pantolon-511-slim-fit</link>
-    <description>98%Cotton 2%ElastaneJean Pantalon</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_a15f9a748c67496894b2c2e43a378a81~mv2.png</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_661561b97e6f482bb3db3642d9ae6f16~mv2.png</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_cfb68a0ed8c9443b8f7995dd29d337f3~mv2.png</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_e34b6f98fe6e4aed8287026df4a3d060~mv2.png</additionalImage>
-    <color>Βαθύ σκούρο Μπλε</color>
-    <size>W38 L34</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>55.8</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-  </product>
-  <product>
-    <id>162d3fb8-dac4-feaf-3b6f-f402b7ae7e55</id>
-    <name>Levi's® Jean Pantolon | 751 00751-0101</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>00751-0101</mpn>
-    <link>https://www.onikshop.gr/product-page/levi-s-jean-pantolon-751</link>
-    <description>99%COTTON 1%ELASTANE</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_caaa26519d024fd5ab6f7f3e18386664~mv2.png</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_637ce3a8098c41c6a87035f0e57bd21e~mv2.png</additionalImage>
-    <color>Πετροπλυμένο</color>
-    <size>W32 L34,W42 L34</size>
-    <brand>Levi's</brand>
-    <weight>500</weight>
-    <price>47</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-    <variations>
-      <variation>
-        <variationid>162d3fb8-dac4-feaf-3b6f-f402b7ae7e55-w32-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W32 L34</size>
-        <quantity>0</quantity>
-        <price>47</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-jean-pantolon-751</link>
-        <mpn>00751-0101</mpn>
-      </variation>
-      <variation>
-        <variationid>162d3fb8-dac4-feaf-3b6f-f402b7ae7e55-w42-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W42 L34</size>
-        <quantity>1</quantity>
-        <price>47</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-jean-pantolon-751</link>
-        <mpn>00751-0101</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
     <id>3edeab35-dadc-2a08-ddb2-0535c21aa3ab</id>
     <name>LEVI'S® ΤΖΙΝ 720™ High Rise Super Skinny 52797-0201</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
@@ -7971,14 +7694,14 @@
     <color>Βαθύ σκούρο Μπλε</color>
     <size>W38 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>59.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>3</quantity>
   </product>
   <product>
     <id>dbe3aba1-b24a-a650-5e89-08cc07d2362a</id>
-    <name>LEVIS 045112213 045112213</name>
+    <name>LEVIS 04511-2213 045112213</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <mpn>045112213</mpn>
     <link>https://www.onikshop.gr/product-page/levis-045112213</link>
@@ -8006,85 +7729,28 @@
     <color>Σκούρο Μπλέ</color>
     <size>W42 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>35.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
   </product>
   <product>
-    <id>3dd56573-d6cd-3c56-92ac-40a1dee9ca41</id>
-    <name>Levis 512 SLIM TAPER ROCK COD 28833-0280</name>
+    <id>98338687-57eb-114b-b07d-1ea2d003c05a</id>
+    <name>Levis 504 Regular Straight Fi 29990-0332</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>28833-0280</mpn>
-    <link>https://www.onikshop.gr/product-page/levis-512-slim-taper-rock-cod</link>
-    <description>Σύνθεση: 93% CTN - 4% POLY - 2% PTHL - 1% ELAS</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_9eed266b7da241e8a67c48ce2a8ab5cb~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_0d81d56540c8459bb9f43b14be25aa36~mv2.jpg</additionalImage>
-    <color>Βαθύ σκούρο Μπλε</color>
-    <size>W29 L32,W33 L34</size>
+    <mpn>29990-0332</mpn>
+    <link>https://www.onikshop.gr/product-page/levis-504-regular-straight-fi</link>
+    <description><![CDATA[99%Cotton %Elastane Regular Straight Fit]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_b2a3e15b21754ed2a56e911b4be69bce~mv2.png</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_446c31dc837841409398d786df4577c9~mv2.png</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_dda5eca5360a40c0925fab1de23dda13~mv2.png</additionalImage>
+    <color>Μπλε κλασικό</color>
+    <size>W29 L32</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>90.3</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
-    <variations>
-      <variation>
-        <variationid>3dd56573-d6cd-3c56-92ac-40a1dee9ca41-w29-l32</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W29 L32</size>
-        <quantity>1</quantity>
-        <price>90.3</price>
-        <link>https://www.onikshop.gr/product-page/levis-512-slim-taper-rock-cod</link>
-        <mpn>28833-0280</mpn>
-      </variation>
-      <variation>
-        <variationid>3dd56573-d6cd-3c56-92ac-40a1dee9ca41-w33-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W33 L34</size>
-        <quantity>1</quantity>
-        <price>90.3</price>
-        <link>https://www.onikshop.gr/product-page/levis-512-slim-taper-rock-cod</link>
-        <mpn>28833-0280</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
-    <id>89b059ce-04ae-7638-f428-1e5fde0facf6</id>
-    <name>Levis 514 straight fit Jeans 00514-0737 LEVIS</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>00514-0737 LEVIS</mpn>
-    <link>https://www.onikshop.gr/product-page/levis-514-straight-fit-jeans</link>
-    <description>100% Cotton</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_7ff88efa0e034ae7a1d1e555742c1b02~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_091e50ed30574c04ae192d096b77a51e~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_56de39939b524a5082e925e21f4ea406~mv2.jpg</additionalImage>
-    <color>Πετροπλυμένο</color>
-    <size>W32 L34,W34 L34</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>66.5</price>
+    <weight>500</weight>
+    <price>57</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
-    <variations>
-      <variation>
-        <variationid>89b059ce-04ae-7638-f428-1e5fde0facf6-w32-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W32 L34</size>
-        <quantity>0</quantity>
-        <price>66.5</price>
-        <link>https://www.onikshop.gr/product-page/levis-514-straight-fit-jeans</link>
-        <mpn>00514-0737 LEVIS</mpn>
-      </variation>
-      <variation>
-        <variationid>89b059ce-04ae-7638-f428-1e5fde0facf6-w34-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>66.5</price>
-        <link>https://www.onikshop.gr/product-page/levis-514-straight-fit-jeans</link>
-        <mpn>00514-0737 LEVIS</mpn>
-      </variation>
-    </variations>
   </product>
   <product>
     <id>bda48270-1951-293d-d8f7-fa30ce174586</id>
@@ -8155,50 +7821,10 @@
     <color>Μπλε κλασικό</color>
     <size>W42 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>47</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
-  </product>
-  <product>
-    <id>8f8fa202-9450-027e-c23e-41224e50894c</id>
-    <name>Levis Line 8 Jeans Men Slim 29923 0003</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>29923 0003</mpn>
-    <link>https://www.onikshop.gr/product-page/levis-line-8-jeans-men-slim</link>
-    <description><![CDATA[Levi's jeans<br>- Model: Slim Straight<br>- Style: Line 8<br>Style: 29923 0003<br>- Colour: Dark Blue<br>- Manufacturer Colour: Blue Authentic<br>- 94% Cotton 5% Polyester 1% Elastane<br>- Slim fit]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_ceab654c50b147e8b90d64c8b5e19ac4~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_6260747c4c614602a9a4169a62d65c0b~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_8db180f08e884c959f34113d8cd85f03~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_55c5a91ec280440799bf9f35a0dc287d~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_e216b18a3547485f8b5d66afcc818b69~mv2.jpg</additionalImage>
-    <color>Μπλε κλασικό</color>
-    <size>W31 L32,W31 L34</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>59.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
-    <variations>
-      <variation>
-        <variationid>8f8fa202-9450-027e-c23e-41224e50894c-w31-l32</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W31 L32</size>
-        <quantity>1</quantity>
-        <price>59.5</price>
-        <link>https://www.onikshop.gr/product-page/levis-line-8-jeans-men-slim</link>
-        <mpn>29923 0003</mpn>
-      </variation>
-      <variation>
-        <variationid>8f8fa202-9450-027e-c23e-41224e50894c-w31-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W31 L34</size>
-        <quantity>1</quantity>
-        <price>59.5</price>
-        <link>https://www.onikshop.gr/product-page/levis-line-8-jeans-men-slim</link>
-        <mpn>29923 0003</mpn>
-      </variation>
-    </variations>
   </product>
   <product>
     <id>608166a5-f113-2d43-d15e-cfb3067d14ee</id>
@@ -8212,16 +7838,16 @@
     <color>Πετροπλυμένο</color>
     <size>W29 L32,W29 L34,W31 L32,W31 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>42.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>1</quantity>
     <variations>
       <variation>
         <variationid>608166a5-f113-2d43-d15e-cfb3067d14ee-w29-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W29 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>42.5</price>
         <link>https://www.onikshop.gr/product-page/levis-line-8-jeans-men-slim-straight</link>
         <mpn>29923-0002</mpn>
@@ -8239,7 +7865,7 @@
         <variationid>608166a5-f113-2d43-d15e-cfb3067d14ee-w31-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>42.5</price>
         <link>https://www.onikshop.gr/product-page/levis-line-8-jeans-men-slim-straight</link>
         <mpn>29923-0002</mpn>
@@ -8248,7 +7874,7 @@
         <variationid>608166a5-f113-2d43-d15e-cfb3067d14ee-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>42.5</price>
         <link>https://www.onikshop.gr/product-page/levis-line-8-jeans-men-slim-straight</link>
         <mpn>29923-0002</mpn>
@@ -8315,16 +7941,16 @@
     <color>Μαύρο</color>
     <size>W30 L32,W30 L34,W31 L34,W32 L32,W32 L34,W32 L36,W33 L32,W33 L34,W33 L36,W34 L34,W34 L36,W36 L34,W36 L36,W38 L34,W38 L36,W40 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>78.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>30</quantity>
+    <quantity>18</quantity>
     <variations>
       <variation>
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w30-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W30 L32</size>
-        <quantity>2</quantity>
+        <quantity>0</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
         <mpn>00501-0065</mpn>
@@ -8333,7 +7959,7 @@
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w30-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W30 L34</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
         <mpn>00501-0065</mpn>
@@ -8342,7 +7968,7 @@
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
-        <quantity>2</quantity>
+        <quantity>0</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
         <mpn>00501-0065</mpn>
@@ -8351,7 +7977,7 @@
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w32-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L32</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
         <mpn>00501-0065</mpn>
@@ -8360,7 +7986,7 @@
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
         <mpn>00501-0065</mpn>
@@ -8378,7 +8004,7 @@
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w33-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
         <mpn>00501-0065</mpn>
@@ -8387,7 +8013,7 @@
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
-        <quantity>4</quantity>
+        <quantity>3</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
         <mpn>00501-0065</mpn>
@@ -8405,7 +8031,7 @@
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
         <mpn>00501-0065</mpn>
@@ -8423,7 +8049,7 @@
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
         <mpn>00501-0065</mpn>
@@ -8432,7 +8058,7 @@
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w36-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L36</size>
-        <quantity>4</quantity>
+        <quantity>3</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
         <mpn>00501-0065</mpn>
@@ -8543,7 +8169,7 @@
     <color>Μπλε κλασικό</color>
     <size>W23 L26,W30 L30,W31 L30</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>77.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
@@ -8574,62 +8200,6 @@
         <price>77.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-crop</link>
         <mpn>36200-0094 501</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
-    <id>ff26e964-d03f-5652-1ee4-2ebb49cfc439</id>
-    <name>Levi’s® 512™ SLIM TAPER SAGE OVERT 28833-0405</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>28833-0405</mpn>
-    <link>https://www.onikshop.gr/product-page/levi-s-512-slim-taper-sage-overt</link>
-    <description><![CDATA[Υλικά• 82% Βαμβάκι, 14% TENCEL™ Lyocell, 3%, Πολυεστέρας, 1% Ελαστίνη<br>• Προχωρημένο τέντωμα<br>• Φερμουάρ<br>• Με 5 τσέπες<br>• Τζην]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_6a6b2d12994441028578c639c71a1bad~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_61b63f51bda94e598ccb5266af9adcfc~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_26702f320a064a7db6d5eac18150003b~mv2.jpg</additionalImage>
-    <color>Βαθύ σκούρο Μπλε</color>
-    <size>W34 L34</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>77.4</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
-  </product>
-  <product>
-    <id>f18da479-84e3-9bc9-ee9b-3e521857010b</id>
-    <name>LEVI’S® 512™ Slim Tapered Fit - Sage Nightshine 28833-0581</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>28833-0581</mpn>
-    <link>https://www.onikshop.gr/product-page/levi-s-512-slim-tapered-fit-sage-nightshine</link>
-    <description><![CDATA[82% βαμβάκι – 14% Tencel  Lyocell - 3% Polyester - 1% elastane<br>Slim fit]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_e27c10cf0f1c4a498da4a67837d4b037~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_546e3d795e384b8a993810eb8848f382~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_c24dda0ff46c40e08149efb1a8797bf3~mv2.jpg</additionalImage>
-    <color>Βαθύ σκούρο Μπλε</color>
-    <size>W33 L34,W34 L34</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>75</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
-    <variations>
-      <variation>
-        <variationid>f18da479-84e3-9bc9-ee9b-3e521857010b-w33-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W33 L34</size>
-        <quantity>1</quantity>
-        <price>75</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-512-slim-tapered-fit-sage-nightshine</link>
-        <mpn>28833-0581</mpn>
-      </variation>
-      <variation>
-        <variationid>f18da479-84e3-9bc9-ee9b-3e521857010b-w34-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>75</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-512-slim-tapered-fit-sage-nightshine</link>
-        <mpn>28833-0581</mpn>
       </variation>
     </variations>
   </product>
@@ -18977,24 +18547,6 @@
         <mpn>Sortil</mpn>
       </variation>
     </variations>
-  </product>
-  <product>
-    <id>01034d79-6b5a-929a-8ed1-c3c4f237913a</id>
-    <name>Τζιν 502™ 29507-0472 Μπλε Taper Fit 29507-0472</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>29507-0472</mpn>
-    <link>https://www.onikshop.gr/product-page/τζιν-502-29507-0472-μπλε-taper-fit</link>
-    <description><![CDATA[Μοτίβο: Εφέ φθαρμένο<br>Κούμπωμα: Με φερμουάρ<br>Μπατζάκι : Ευθεία γραμμή<br>Προσαρμογή: Regular Fit<br>Καβάλος: Κανονικός<br>Μήκος: Μακρύ]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_e5f6f45a3bac425ea384cd40e34500ec~mv2.png</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_961ddf8f6e574810a7c4c3f70e0500eb~mv2.png</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_1ab4a3f0b43f43eb9028a7e2726dd78f~mv2.png</additionalImage>
-    <color>Πετροπλυμένο</color>
-    <size>W31 L32</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>71.4</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
   </product>
   <product>
     <id>be61566d-698d-90b7-a01c-fdd0a7faa00f</id>
