@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-02-21 18:37</created_at>
+  <created_at>2023-02-25 13:00</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -395,7 +395,7 @@
         <variationid>8d743c07-5122-ae52-ec22-c05ada5c8682-w40-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
-        <quantity>2</quantity>
+        <quantity>3</quantity>
         <price>39.5</price>
         <link>https://www.onikshop.gr/product-page/751-standard-fit-jean</link>
         <mpn>00751-0216</mpn>
@@ -404,7 +404,7 @@
         <variationid>8d743c07-5122-ae52-ec22-c05ada5c8682-w42-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>39.5</price>
         <link>https://www.onikshop.gr/product-page/751-standard-fit-jean</link>
         <mpn>00751-0216</mpn>
@@ -1402,6 +1402,135 @@
         <price>36</price>
         <link>https://www.onikshop.gr/product-page/crew-neck-tee</link>
         <mpn>L44BUYUS</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>7a061d29-b4cb-62f4-0139-e1dc28b4ef66</id>
+    <name>Dakar DKR VIP 0123 Mens T-shirt black VIP-0123</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>VIP-0123</mpn>
+    <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-black</link>
+    <description>Men's t-shirt Dakar DKR VIP 0123 blackColor: blackMaterial: 100% cottonRegular fit men's T-shirtBig Dakar logo, characteristic for this lineAdditionally, the T-shirt is decorated with decorative labels dedicated to the lineSeason: Fall/Winter 2022</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_efce25b03eda46d5831b66cad9567769~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_65e51c54f9db46f08f07055930bb56f1~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_20ce2e50cde645eaa2402b634f137315~mv2.jpg</additionalImage>
+    <color>Μαύρο</color>
+    <size>S,M,L,XL,XXL</size>
+    <brand>Diverse</brand>
+    <weight>500</weight>
+    <price>29</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>7a061d29-b4cb-62f4-0139-e1dc28b4ef66-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-black</link>
+        <mpn>VIP-0123</mpn>
+      </variation>
+      <variation>
+        <variationid>7a061d29-b4cb-62f4-0139-e1dc28b4ef66-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-black</link>
+        <mpn>VIP-0123</mpn>
+      </variation>
+      <variation>
+        <variationid>7a061d29-b4cb-62f4-0139-e1dc28b4ef66-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-black</link>
+        <mpn>VIP-0123</mpn>
+      </variation>
+      <variation>
+        <variationid>7a061d29-b4cb-62f4-0139-e1dc28b4ef66-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-black</link>
+        <mpn>VIP-0123</mpn>
+      </variation>
+      <variation>
+        <variationid>7a061d29-b4cb-62f4-0139-e1dc28b4ef66-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-black</link>
+        <mpn>VIP-0123</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>36d24804-045b-d400-db77-0db6b8193908</id>
+    <name>Dakar DKR VIP 0123 Mens T-shirt white DAKAR LOGO 1</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>DAKAR LOGO 1</mpn>
+    <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-white</link>
+    <description><![CDATA[<strong>Men's t-shirt Dakar DKR VIP 0123 white</strong> Color: whiteMaterial: 100% cottonRegular fit men's T-shirtBig Dakar logo, characteristic for this lineAdditionally, the T-shirt is decorated with decorative labels dedicated to the lineSeason: Fall/Winter 2022]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_44c805c5e8704384aaba7ed142ff7550~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_87860d6ea75d4a9592f0ebc48b604120~mv2.jpg</additionalImage>
+    <color>Λευκό</color>
+    <size>S,M,L,XL,XXL</size>
+    <brand>Diverse</brand>
+    <weight>500</weight>
+    <price>29</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>36d24804-045b-d400-db77-0db6b8193908-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-white</link>
+        <mpn>DAKAR LOGO 1</mpn>
+      </variation>
+      <variation>
+        <variationid>36d24804-045b-d400-db77-0db6b8193908-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-white</link>
+        <mpn>DAKAR LOGO 1</mpn>
+      </variation>
+      <variation>
+        <variationid>36d24804-045b-d400-db77-0db6b8193908-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-white</link>
+        <mpn>DAKAR LOGO 1</mpn>
+      </variation>
+      <variation>
+        <variationid>36d24804-045b-d400-db77-0db6b8193908-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-white</link>
+        <mpn>DAKAR LOGO 1</mpn>
+      </variation>
+      <variation>
+        <variationid>36d24804-045b-d400-db77-0db6b8193908-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-white</link>
+        <mpn>DAKAR LOGO 1</mpn>
       </variation>
     </variations>
   </product>
@@ -3007,6 +3136,71 @@
     </variations>
   </product>
   <product>
+    <id>90aea61e-363c-2b99-45d8-e5ce75793152</id>
+    <name>Heavy Tools SNOKER SNOKER</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
+    <mpn>SNOKER</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-snoker</link>
+    <description>Αυτό το ανδρικό φούτερ με κουκούλα είναι μια πραγματική βάση στη φθινοπωρινή/χειμερινή γκαρνταρόμπα μας! Είτε πρόκειται για απλές καθημερινές, είτε για βραδινή έξοδο είτε για σπορ, αυτή είναι η τέλεια επιλογή! Με τις σπορ γραμμές, τις καγκουρό τσέπες, το κάτω μέρος με ραβδώσεις και τις μανσέτες στα μανίκια, είναι εξαιρετικά άνετο. Το διαπνέον ύφασμα υψηλής περιεκτικότητας σε βαμβάκι είναι ιδανικό για χρήση όλη την ημέρα. Το χαρακτηριστικό αλλά διακριτικό branding και τα συναρπαστικά χρώματα θα προσθέσουν μια μοντέρνα εμφάνιση σε κάθε ντύσιμο! Υλικό: 80% βαμβάκι, 20% πολυεστέρας, εσωτερικό βουρτσισμένο φλις. Το μοντέλο έχει ύψος 188 cm και φοράει νούμερο L</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_cb1045c97b3b43718dc3475d487923a5~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_0e7f242a7bdd453b9766d69d2540b500~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_89d0fc8228dd40069b116e65e6b60998~mv2.jpg</additionalImage>
+    <color>Βυσσινί</color>
+    <size>S,M,L,XL,XXL</size>
+    <brand>Heavy Tools</brand>
+    <weight>2000</weight>
+    <price>41.97</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>3</quantity>
+    <variations>
+      <variation>
+        <variationid>90aea61e-363c-2b99-45d8-e5ce75793152-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>41.97</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-snoker</link>
+        <mpn>SNOKER</mpn>
+      </variation>
+      <variation>
+        <variationid>90aea61e-363c-2b99-45d8-e5ce75793152-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>41.97</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-snoker</link>
+        <mpn>SNOKER</mpn>
+      </variation>
+      <variation>
+        <variationid>90aea61e-363c-2b99-45d8-e5ce75793152-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>0</quantity>
+        <price>41.97</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-snoker</link>
+        <mpn>SNOKER</mpn>
+      </variation>
+      <variation>
+        <variationid>90aea61e-363c-2b99-45d8-e5ce75793152-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>0</quantity>
+        <price>41.97</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-snoker</link>
+        <mpn>SNOKER</mpn>
+      </variation>
+      <variation>
+        <variationid>90aea61e-363c-2b99-45d8-e5ce75793152-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>41.97</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-snoker</link>
+        <mpn>SNOKER</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>9e8cbd35-ecc4-8cd7-1257-d78de5981926</id>
     <name>Heavy Tools SOGUN SOGUN NAVY</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Ζακέτες]]></category>
@@ -3183,7 +3377,7 @@
     <weight>2000</weight>
     <price>64.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>77220bd8-bfe3-cf4a-13d1-d0293f86c38b-s</variationid>
@@ -3234,7 +3428,7 @@
         <variationid>77220bd8-bfe3-cf4a-13d1-d0293f86c38b-3xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>3XL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>64.95</price>
         <link>https://www.onikshop.gr/product-page/heavytools-widdy</link>
         <mpn>WIDDY</mpn>
@@ -3352,13 +3546,13 @@
     <weight>500</weight>
     <price>52.8</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>5c46b121-e1ed-19b9-472d-95961b79c7b6-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>52.8</price>
         <link>https://www.onikshop.gr/product-page/jean-pantolon-527-slim-bootcut</link>
         <mpn>05527-0334</mpn>
@@ -5037,7 +5231,7 @@
     <weight>1000</weight>
     <price>81.75</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>cdef1a89-efad-12ad-18b6-1b037d900cd4-w25-l31</variationid>
@@ -5052,7 +5246,7 @@
         <variationid>cdef1a89-efad-12ad-18b6-1b037d900cd4-w26-l31</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W26 L31</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>81.75</price>
         <link>https://www.onikshop.gr/product-page/lee-stella-a-line</link>
         <mpn>L31SBEKK</mpn>
@@ -5320,80 +5514,6 @@
     </variations>
   </product>
   <product>
-    <id>93e14f9d-aa09-7020-b704-908073a3cdee</id>
-    <name>Lee Wobbly Ανδρικό T-shirt Πορτοκαλί με Λογότυπο L65QAIUK</name>
-    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
-    <mpn>L65QAIUK</mpn>
-    <link>https://www.onikshop.gr/product-page/lee-wobbly-ανδρικό-t-shirt-πορτοκαλί-με-λογότυπο</link>
-    <description><![CDATA[Ανδρικό t-shirt της εταιρίας Lee σε πορτοκαλί χρώμα για casual εμφανίσεις.<br>• Εφαρμογή: Regular<br>• Σύνθεση: 100% Βαμβάκι]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_b81898cd66234259888000e4fd8b7276~mv2.jpeg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_83d86d6e410241749c30d9e67a540ac0~mv2.jpeg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_45afcd2ac14848919c6d2d726c3bf5b3~mv2.jpg</additionalImage>
-    <color>Κοραλλί</color>
-    <size>S,M,L,XL,XXL,3XL</size>
-    <brand>Lee</brand>
-    <weight>500</weight>
-    <price>28</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-    <variations>
-      <variation>
-        <variationid>93e14f9d-aa09-7020-b704-908073a3cdee-s</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>S</size>
-        <quantity>0</quantity>
-        <price>28</price>
-        <link>https://www.onikshop.gr/product-page/lee-wobbly-ανδρικό-t-shirt-πορτοκαλί-με-λογότυπο</link>
-        <mpn>L65QAIUK</mpn>
-      </variation>
-      <variation>
-        <variationid>93e14f9d-aa09-7020-b704-908073a3cdee-m</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>M</size>
-        <quantity>0</quantity>
-        <price>28</price>
-        <link>https://www.onikshop.gr/product-page/lee-wobbly-ανδρικό-t-shirt-πορτοκαλί-με-λογότυπο</link>
-        <mpn>L65QAIUK</mpn>
-      </variation>
-      <variation>
-        <variationid>93e14f9d-aa09-7020-b704-908073a3cdee-l</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>L</size>
-        <quantity>1</quantity>
-        <price>28</price>
-        <link>https://www.onikshop.gr/product-page/lee-wobbly-ανδρικό-t-shirt-πορτοκαλί-με-λογότυπο</link>
-        <mpn>L65QAIUK</mpn>
-      </variation>
-      <variation>
-        <variationid>93e14f9d-aa09-7020-b704-908073a3cdee-xl</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XL</size>
-        <quantity>0</quantity>
-        <price>28</price>
-        <link>https://www.onikshop.gr/product-page/lee-wobbly-ανδρικό-t-shirt-πορτοκαλί-με-λογότυπο</link>
-        <mpn>L65QAIUK</mpn>
-      </variation>
-      <variation>
-        <variationid>93e14f9d-aa09-7020-b704-908073a3cdee-xxl</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XXL</size>
-        <quantity>0</quantity>
-        <price>28</price>
-        <link>https://www.onikshop.gr/product-page/lee-wobbly-ανδρικό-t-shirt-πορτοκαλί-με-λογότυπο</link>
-        <mpn>L65QAIUK</mpn>
-      </variation>
-      <variation>
-        <variationid>93e14f9d-aa09-7020-b704-908073a3cdee-3xl</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>3XL</size>
-        <quantity>0</quantity>
-        <price>28</price>
-        <link>https://www.onikshop.gr/product-page/lee-wobbly-ανδρικό-t-shirt-πορτοκαλί-με-λογότυπο</link>
-        <mpn>L65QAIUK</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
     <id>4213087a-12e4-71c6-57a9-27e691101d7d</id>
     <name>Lee Women's Cameron Jeans L3469547</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
@@ -5540,7 +5660,7 @@
     <weight>500</weight>
     <price>31.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>9fdfd6be-255f-e71d-73e2-0756b1156697-s</variationid>
@@ -5555,7 +5675,7 @@
         <variationid>9fdfd6be-255f-e71d-73e2-0756b1156697-m</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>M</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>31.5</price>
         <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-μαύρο-με-στάμπα</link>
         <mpn>L65NFEON</mpn>
@@ -6723,13 +6843,13 @@
     <weight>500</weight>
     <price>47.6</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <variations>
       <variation>
         <variationid>a75005e3-0f75-4385-dc6d-e51d6c779fcd-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>47.6</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-ct-customized</link>
         <mpn>18173-0021</mpn>
@@ -6908,7 +7028,7 @@
     <weight>500</weight>
     <price>78.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>371fc283-0361-3e1a-b378-b58895ea83d9-w30-l30</variationid>
@@ -6959,7 +7079,7 @@
         <variationid>371fc283-0361-3e1a-b378-b58895ea83d9-w40-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-4</link>
         <mpn>00501-0101</mpn>
@@ -7236,16 +7356,16 @@
     <color>Μαύρο</color>
     <size>W24 L28,W25 L28,W25 L32,W26 L28,W26 L32,W27 L28,W27 L30,W28 L30,W30 L30,W31 L32</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>77.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>9</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>849a50e2-498e-ef63-2a53-ef310f832c61-w24-l28</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W24 L28</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>77.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-skinny-fit</link>
         <mpn>18882-0233 LEVIS 721</mpn>
@@ -7281,7 +7401,7 @@
         <variationid>849a50e2-498e-ef63-2a53-ef310f832c61-w26-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W26 L32</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>77.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-skinny-fit</link>
         <mpn>18882-0233 LEVIS 721</mpn>
@@ -7299,7 +7419,7 @@
         <variationid>849a50e2-498e-ef63-2a53-ef310f832c61-w27-l30</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W27 L30</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>77.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-skinny-fit</link>
         <mpn>18882-0233 LEVIS 721</mpn>
@@ -9897,10 +10017,10 @@
     <color>Καφέ</color>
     <size>W28,W29,W30,W31,W32,W33,W34,W36,W38</size>
     <brand>s.Oliver</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>48.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>f5aeae1e-2bb4-5ec0-9f06-909e9bd7a0e4-w28</variationid>
@@ -9933,7 +10053,7 @@
         <variationid>f5aeae1e-2bb4-5ec0-9f06-909e9bd7a0e4-w31</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>48.99</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-stretch-chinos</link>
         <mpn>2122353</mpn>
@@ -10473,10 +10593,10 @@
     <color>Μαύρο</color>
     <size>W24 L32,W25 L30,W25 L32,W26 L30,W26 L32,W27 L30,W27 L32,W29 L34,W30 L32,W30 L34,W32 L32</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>65.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>0b97d7ab-184f-b2c9-ecc6-30063e195236-w24-l32</variationid>
@@ -10518,7 +10638,7 @@
         <variationid>0b97d7ab-184f-b2c9-ecc6-30063e195236-w26-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W26 L32</size>
-        <quantity>0</quantity>
+        <quantity>1</quantity>
         <price>65.4</price>
         <link>https://www.onikshop.gr/product-page/slim-fit-712-levis</link>
         <mpn>18884-0001 LEVIS 712</mpn>
@@ -10563,7 +10683,7 @@
         <variationid>0b97d7ab-184f-b2c9-ecc6-30063e195236-w30-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W30 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>65.4</price>
         <link>https://www.onikshop.gr/product-page/slim-fit-712-levis</link>
         <mpn>18884-0001 LEVIS 712</mpn>
@@ -10572,7 +10692,7 @@
         <variationid>0b97d7ab-184f-b2c9-ecc6-30063e195236-w32-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>65.4</price>
         <link>https://www.onikshop.gr/product-page/slim-fit-712-levis</link>
         <mpn>18884-0001 LEVIS 712</mpn>
@@ -10932,6 +11052,72 @@
         <price>20.3</price>
         <link>https://www.onikshop.gr/product-page/swimwear-losan-muestra</link>
         <mpn>711</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>8c804699-aadb-0f0b-cf5d-008d86e5d260</id>
+    <name>T-SHIRT DIVERSE DAKAR - LOGO 1 226ACTDAKR</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>226ACTDAKR</mpn>
+    <link>https://www.onikshop.gr/product-page/t-shirt-diverse-dakar-logo-1</link>
+    <description><![CDATA[<br>Men's T-shirt Diverse Extreme Team with a regular cut. On the chest - a large Dakar logo, characteristic of this line. In addition, the t-shirt is decorated with decorative labels dedicated to the line.]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_c904bcacb3294ca58cd575899a81331e~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_2b8b4b54d6764216b461c54621e933b9~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_e77e30fdadbd4ee3b4af82f5594a676a~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_393b912c007b417a8f37de872a025951~mv2.jpg</additionalImage>
+    <color>Λευκό</color>
+    <size>S,M,L,XL,XXL</size>
+    <brand>Diverse</brand>
+    <weight>500</weight>
+    <price>29</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>8c804699-aadb-0f0b-cf5d-008d86e5d260-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-diverse-dakar-logo-1</link>
+        <mpn>226ACTDAKR</mpn>
+      </variation>
+      <variation>
+        <variationid>8c804699-aadb-0f0b-cf5d-008d86e5d260-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-diverse-dakar-logo-1</link>
+        <mpn>226ACTDAKR</mpn>
+      </variation>
+      <variation>
+        <variationid>8c804699-aadb-0f0b-cf5d-008d86e5d260-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-diverse-dakar-logo-1</link>
+        <mpn>226ACTDAKR</mpn>
+      </variation>
+      <variation>
+        <variationid>8c804699-aadb-0f0b-cf5d-008d86e5d260-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-diverse-dakar-logo-1</link>
+        <mpn>226ACTDAKR</mpn>
+      </variation>
+      <variation>
+        <variationid>8c804699-aadb-0f0b-cf5d-008d86e5d260-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-diverse-dakar-logo-1</link>
+        <mpn>226ACTDAKR</mpn>
       </variation>
     </variations>
   </product>
@@ -11614,25 +11800,6 @@
     <brand>Levi's</brand>
     <weight>500</weight>
     <price>38.7</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-  </product>
-  <product>
-    <id>9e080f6b-c11a-4b1b-af4f-61731be89d98</id>
-    <name>Vintage LEVIS 525 RED TAB Blue Indigo 2 Slim Fit Bootcut Leg 00525.84.01</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
-    <mpn>00525.84.01</mpn>
-    <link>https://www.onikshop.gr/product-page/levis-525-red-tab-blue-indigo-2-slim-fit-bootcut-leg</link>
-    <description><![CDATA[LEVI'S JEANS LEVIS 525 RED TABMODEL 00525.84.01COLOR INDIGO BLUEORIGINAL 525 VINTAGE FITVINTAGE SLIM FITBOOTCUT LEGSTRETCHREGULAR WAISTZIP FLY5 POCKETS97% COTTON 3% ELASTAN  ]]></description>
-    <featureImage>https://static.wixstatic.com/media/9517a7_661244a67cb94210ad1d948f05edba06~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_d29ea8d0d1d54364a0ee3c1a47bc8a88~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_c543b304cff4456a932abce1dded7e56~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_0f2e214cd8e341a69281c5a70c5ba35a~mv2.jpg</additionalImage>
-    <color>Βαθύ σκούρο Μπλε</color>
-    <size>W27 L32</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>44.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
   </product>
