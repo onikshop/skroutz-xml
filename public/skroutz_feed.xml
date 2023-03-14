@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-03-07 11:17</created_at>
+  <created_at>2023-03-14 10:10</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -91,7 +91,7 @@
     <weight>2000</weight>
     <price>60</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w30-l32</variationid>
@@ -160,7 +160,7 @@
         <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>60</price>
         <link>https://www.onikshop.gr/product-page/levi-s-514</link>
         <mpn>00514-1267</mpn>
@@ -1724,7 +1724,7 @@
     <color>Πετροπλυμένο</color>
     <size>W27,W28,W29,W30,W31,W32,W33,W34,W36,W38,W40,W42,W44,W46</size>
     <brand>Edward</brand>
-    <weight>2000</weight>
+    <weight>200</weight>
     <price>62.93</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>3</quantity>
@@ -3540,83 +3540,6 @@
     </variations>
   </product>
   <product>
-    <id>77220bd8-bfe3-cf4a-13d1-d0293f86c38b</id>
-    <name>HeavyTools WIDDY WIDDY</name>
-    <category><![CDATA[ΠΑΝΩΦΟΡΙΑ > ΠΑΝΩΦΟΡΙΑ > Αμάνικο]]></category>
-    <mpn>WIDDY</mpn>
-    <link>https://www.onikshop.gr/product-page/heavytools-widdy</link>
-    <description>Το γιλέκο είναι πάντα τέλεια επιλογή! Αυτό το ανδρικό γιλέκο με φερμουάρ, καπιτονέ με ίσια, άνετη εφαρμογή, εσωτερικά αντιανεμικό, πρακτικές τσέπες με φερμουάρ και μικρές επωνυμίες παρέχει τη σωστή άνεση για κάθε υπαίθριο πρόγραμμα ακόμα και τις πιο δροσερές μέρες. Είναι μια εξαιρετική επιλογή για υπαίθριες δραστηριότητες, ταξίδια, αλλά μπορεί να είναι και αξεσουάρ για πολυάσχολη καθημερινότητα. Επιλέξτε το αγαπημένο σας τζιν Heavy Tools ή ένα cargo παντελόνι, πουλόβερ από τη νέα μας συλλογή! Υλικό: κέλυφος: 100% πολυεστέρας, επένδυση: 100% πολυεστέρας, επένδυση: 100% πολυεστέρας. Το μοντέλο t έχει ύψος 188 cm και φοράει μέγεθος L</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_abb81f5a7b6d410cb56b504a3e75fdd5~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_b9f72a3e481e4fb282955e7ab1fce44f~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_45b74447949b4d8d863943cce712b89c~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_ef84fec0d6a9431d947bb5c117e2d71b~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_97da4507b56c4d609941643ed6068bc7~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_2cedb5a91d234d19b87a6d796bff1609~mv2.jpg</additionalImage>
-    <color>Βαθύ σκούρο Μπλε</color>
-    <size>S,M,L,XL,XXL,3XL</size>
-    <brand>Heavy Tools</brand>
-    <weight>2000</weight>
-    <price>64.95</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
-    <variations>
-      <variation>
-        <variationid>77220bd8-bfe3-cf4a-13d1-d0293f86c38b-s</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>S</size>
-        <quantity>1</quantity>
-        <price>64.95</price>
-        <link>https://www.onikshop.gr/product-page/heavytools-widdy</link>
-        <mpn>WIDDY</mpn>
-      </variation>
-      <variation>
-        <variationid>77220bd8-bfe3-cf4a-13d1-d0293f86c38b-m</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>M</size>
-        <quantity>1</quantity>
-        <price>64.95</price>
-        <link>https://www.onikshop.gr/product-page/heavytools-widdy</link>
-        <mpn>WIDDY</mpn>
-      </variation>
-      <variation>
-        <variationid>77220bd8-bfe3-cf4a-13d1-d0293f86c38b-l</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>L</size>
-        <quantity>2</quantity>
-        <price>64.95</price>
-        <link>https://www.onikshop.gr/product-page/heavytools-widdy</link>
-        <mpn>WIDDY</mpn>
-      </variation>
-      <variation>
-        <variationid>77220bd8-bfe3-cf4a-13d1-d0293f86c38b-xl</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XL</size>
-        <quantity>0</quantity>
-        <price>64.95</price>
-        <link>https://www.onikshop.gr/product-page/heavytools-widdy</link>
-        <mpn>WIDDY</mpn>
-      </variation>
-      <variation>
-        <variationid>77220bd8-bfe3-cf4a-13d1-d0293f86c38b-xxl</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XXL</size>
-        <quantity>1</quantity>
-        <price>64.95</price>
-        <link>https://www.onikshop.gr/product-page/heavytools-widdy</link>
-        <mpn>WIDDY</mpn>
-      </variation>
-      <variation>
-        <variationid>77220bd8-bfe3-cf4a-13d1-d0293f86c38b-3xl</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>3XL</size>
-        <quantity>0</quantity>
-        <price>64.95</price>
-        <link>https://www.onikshop.gr/product-page/heavytools-widdy</link>
-        <mpn>WIDDY</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
     <id>71b1597c-9db5-5068-c0c4-d4e3d3958a1a</id>
     <name>Ivar-S23 T-Shirt MP-N-TOP-S23-017-NUDE</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
@@ -4579,6 +4502,44 @@
     </variations>
   </product>
   <product>
+    <id>232cbad5-ddea-e967-6cfa-daf0730e2677</id>
+    <name>Lee Knox Regular Straight L713DERG</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>L713DERG</mpn>
+    <link>https://www.onikshop.gr/product-page/lee-knox-regular-straight</link>
+    <description>Lee Knox Regular Straight 100% Cotton</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_6ecbfdc32d1c4504b231cbd43d0534d1~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_e36dd658542c4809979fa5d1641a3040~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_a9a55549c7724dc0b6450466eb932654~mv2.jpg</additionalImage>
+    <color>Μπλε</color>
+    <size>W38 L34,W29 L34</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>62.3</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+    <variations>
+      <variation>
+        <variationid>232cbad5-ddea-e967-6cfa-daf0730e2677-w38-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W38 L34</size>
+        <quantity>1</quantity>
+        <price>62.3</price>
+        <link>https://www.onikshop.gr/product-page/lee-knox-regular-straight</link>
+        <mpn>L713DERG</mpn>
+      </variation>
+      <variation>
+        <variationid>232cbad5-ddea-e967-6cfa-daf0730e2677-w29-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W29 L34</size>
+        <quantity>1</quantity>
+        <price>62.3</price>
+        <link>https://www.onikshop.gr/product-page/lee-knox-regular-straight</link>
+        <mpn>L713DERG</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>658422ef-5440-98b8-b051-b98d0a877cfc</id>
     <name>Lee logo patch Loose Fit "Core" L84WTJ96</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
@@ -5412,7 +5373,7 @@
     <weight>1000</weight>
     <price>81.75</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>cdef1a89-efad-12ad-18b6-1b037d900cd4-w25-l31</variationid>
@@ -5436,7 +5397,7 @@
         <variationid>cdef1a89-efad-12ad-18b6-1b037d900cd4-w27-l31</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W27 L31</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>81.75</price>
         <link>https://www.onikshop.gr/product-page/lee-stella-a-line</link>
         <mpn>L31SBEKK</mpn>
@@ -6876,7 +6837,7 @@
     <weight>500</weight>
     <price>59.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>ef09cf28-6b39-6d76-f21f-7428c27f32d8-w31-l32</variationid>
@@ -6900,7 +6861,7 @@
         <variationid>ef09cf28-6b39-6d76-f21f-7428c27f32d8-w32-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L32</size>
-        <quantity>2</quantity>
+        <quantity>0</quantity>
         <price>59.5</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501</link>
         <mpn>00501-1931</mpn>
@@ -7176,24 +7137,6 @@
     <quantity>2</quantity>
   </product>
   <product>
-    <id>b10731fa-dbe5-20c7-fe53-5200dbd9475b</id>
-    <name>Levi's 501 Original 00501-1819</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>00501-1819</mpn>
-    <link>https://www.onikshop.gr/product-page/levi-s-501-original-3</link>
-    <description>100% COTTON</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_86d98bf077ef45bd8363789bdb18eeea~mv2.png</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_49e1ea7d21a1446ea45d79925e8129ae~mv2.png</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_04ca6d8ccf964ae699efa1afa9193493~mv2.png</additionalImage>
-    <color>Γκρι</color>
-    <size>W40 L34</size>
-    <brand>Levi's</brand>
-    <weight>500</weight>
-    <price>52.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-  </product>
-  <product>
     <id>371fc283-0361-3e1a-b378-b58895ea83d9</id>
     <name>Levi's 501 Original 00501-0101</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
@@ -7292,7 +7235,7 @@
     <weight>500</weight>
     <price>78.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w30-l32</variationid>
@@ -7343,7 +7286,7 @@
         <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
         <mpn>00501-0114</mpn>
@@ -7466,6 +7409,44 @@
         <price>85</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-skinny</link>
         <mpn>34268-0006</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>3d1c4ba8-c946-53c4-2681-405f4518789b</id>
+    <name>Levi's 519 Skinny Fit 70519-0024</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>70519-0024</mpn>
+    <link>https://www.onikshop.gr/product-page/levi-s-519-skinny-fit</link>
+    <description>Levi's 519 Skinny Fit Tapered leg low waist/riseCoupe skinny Tapered Taille basse98% Cotton 2% Elastane70519-0024</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_0e6b683e19f846bf80d3056d26d796bf~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_a3d4561c4530496aa0fb0397f55f5751~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_10e6c5b8be314dcf9437b698c63bc63c~mv2.jpg</additionalImage>
+    <color>Κυπαρισσί</color>
+    <size>W34 L34,W38 L34</size>
+    <brand>Levi's</brand>
+    <weight>200</weight>
+    <price>55</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>3</quantity>
+    <variations>
+      <variation>
+        <variationid>3d1c4ba8-c946-53c4-2681-405f4518789b-w34-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34 L34</size>
+        <quantity>2</quantity>
+        <price>55</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-519-skinny-fit</link>
+        <mpn>70519-0024</mpn>
+      </variation>
+      <variation>
+        <variationid>3d1c4ba8-c946-53c4-2681-405f4518789b-w38-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W38 L34</size>
+        <quantity>1</quantity>
+        <price>55</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-519-skinny-fit</link>
+        <mpn>70519-0024</mpn>
       </variation>
     </variations>
   </product>
@@ -7712,6 +7693,44 @@
         <price>62.3</price>
         <link>https://www.onikshop.gr/product-page/relaxd-graphic-serif-hoodie</link>
         <mpn>384790011</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>09aaa652-d7ed-4eef-0d3f-2898b3be9efa</id>
+    <name>Levi's Standard 506 00506-03-79</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>00506-03-79</mpn>
+    <link>https://www.onikshop.gr/product-page/levi-s-standard-506</link>
+    <description><![CDATA[Levi's Standard 506 00506.03.7998% Cotton 2% Elastine]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_5b798e9dc47b4d948c1ad80812a1bf0a~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_b571b0377a1c4f99b7f03553f50bacdf~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_e406cf8f2f824da499862959ef57adab~mv2.jpg</additionalImage>
+    <color>Γκρι</color>
+    <size>W34 L32,W33 L34</size>
+    <brand>Levi's</brand>
+    <weight>200</weight>
+    <price>49.89</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+    <variations>
+      <variation>
+        <variationid>09aaa652-d7ed-4eef-0d3f-2898b3be9efa-w34-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34 L32</size>
+        <quantity>1</quantity>
+        <price>49.89</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-standard-506</link>
+        <mpn>00506-03-79</mpn>
+      </variation>
+      <variation>
+        <variationid>09aaa652-d7ed-4eef-0d3f-2898b3be9efa-w33-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L34</size>
+        <quantity>1</quantity>
+        <price>49.89</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-standard-506</link>
+        <mpn>00506-03-79</mpn>
       </variation>
     </variations>
   </product>
@@ -8016,6 +8035,24 @@
     <quantity>1</quantity>
   </product>
   <product>
+    <id>9514cdc4-a39a-b284-1e29-734f683c040d</id>
+    <name>Levis 581 06 Jeans vintage Red Tab 00581-06-16</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>00581-06-16</mpn>
+    <link>https://www.onikshop.gr/product-page/levis-581-06-jeans-vintage-red-tab</link>
+    <description><![CDATA[100 % Genuine Levis 581 Regular Straight Leg Jeansbutton/zip fly, red tab. ]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_0e73f07b3a174cc9a483a8fb03f8b98b~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_228a9cfe69994a4ea229eeab8ccede5f~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_03db49f7dfbe4b70871c6457704101e0~mv2.jpg</additionalImage>
+    <color>Μπλε</color>
+    <size>W42 L34</size>
+    <brand>Levi's</brand>
+    <weight>300</weight>
+    <price>52.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
+  </product>
+  <product>
     <id>bda48270-1951-293d-d8f7-fa30ce174586</id>
     <name>Levis Demi Curve 04700-0111</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
@@ -8207,7 +8244,7 @@
     <weight>500</weight>
     <price>78.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>18</quantity>
+    <quantity>17</quantity>
     <variations>
       <variation>
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w30-l32</variationid>
@@ -8222,7 +8259,7 @@
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w30-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W30 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
         <mpn>00501-0065</mpn>
@@ -9353,6 +9390,118 @@
         <price>27.3</price>
         <link>https://www.onikshop.gr/product-page/p-club</link>
         <mpn>p22528</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>e585b1d3-b225-2ed0-a145-f8a14801e521</id>
+    <name>Paco Mood 2332001</name>
+    <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > T-Shirts Γυναικεία]]></category>
+    <mpn>2332001</mpn>
+    <link>https://www.onikshop.gr/product-page/paco-mood</link>
+    <description><![CDATA[Κωδικός προϊόντος: 2332001<br>Κατηγορίες: WOMAN, ΜΠΛΟΥΖΑ]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_da18ce6e401748b0a829a96e4ce02dc3~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_51d287904dc142d9ae3df3664a4c542c~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_099330dca78146e09a128934fed113a9~mv2.jpg</additionalImage>
+    <color>Σκούρο Μπλέ</color>
+    <size>S,M,L,XL</size>
+    <brand>Paco</brand>
+    <weight>200</weight>
+    <price>9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>4</quantity>
+    <variations>
+      <variation>
+        <variationid>e585b1d3-b225-2ed0-a145-f8a14801e521-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>9</price>
+        <link>https://www.onikshop.gr/product-page/paco-mood</link>
+        <mpn>2332001</mpn>
+      </variation>
+      <variation>
+        <variationid>e585b1d3-b225-2ed0-a145-f8a14801e521-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>9</price>
+        <link>https://www.onikshop.gr/product-page/paco-mood</link>
+        <mpn>2332001</mpn>
+      </variation>
+      <variation>
+        <variationid>e585b1d3-b225-2ed0-a145-f8a14801e521-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>9</price>
+        <link>https://www.onikshop.gr/product-page/paco-mood</link>
+        <mpn>2332001</mpn>
+      </variation>
+      <variation>
+        <variationid>e585b1d3-b225-2ed0-a145-f8a14801e521-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>9</price>
+        <link>https://www.onikshop.gr/product-page/paco-mood</link>
+        <mpn>2332001</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>18b3d54d-0ffb-0239-db81-2d8d88ea77a5</id>
+    <name>Paco MOOD 2 2332002</name>
+    <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > T-Shirts Γυναικεία]]></category>
+    <mpn>2332002</mpn>
+    <link>https://www.onikshop.gr/product-page/paco-mood-2</link>
+    <description><![CDATA[Κωδικός προϊόντος: 2332002Κατηγορίες: WOMAN, ΜΠΛΟΥΖΑ]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_9a8b3b1eb8a842d79cb8fa721d6ae1f1~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_325c485e4b6e451caff5a2f53ea3037e~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_dcf4670788ab4a75b99eb3590efca11f~mv2.jpg</additionalImage>
+    <color>Λευκό</color>
+    <size>S,M,L,XL</size>
+    <brand>Paco</brand>
+    <weight>200</weight>
+    <price>9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>4</quantity>
+    <variations>
+      <variation>
+        <variationid>18b3d54d-0ffb-0239-db81-2d8d88ea77a5-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>9</price>
+        <link>https://www.onikshop.gr/product-page/paco-mood-2</link>
+        <mpn>2332002</mpn>
+      </variation>
+      <variation>
+        <variationid>18b3d54d-0ffb-0239-db81-2d8d88ea77a5-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>9</price>
+        <link>https://www.onikshop.gr/product-page/paco-mood-2</link>
+        <mpn>2332002</mpn>
+      </variation>
+      <variation>
+        <variationid>18b3d54d-0ffb-0239-db81-2d8d88ea77a5-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>9</price>
+        <link>https://www.onikshop.gr/product-page/paco-mood-2</link>
+        <mpn>2332002</mpn>
+      </variation>
+      <variation>
+        <variationid>18b3d54d-0ffb-0239-db81-2d8d88ea77a5-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>9</price>
+        <link>https://www.onikshop.gr/product-page/paco-mood-2</link>
+        <mpn>2332002</mpn>
       </variation>
     </variations>
   </product>
@@ -10513,10 +10662,10 @@
     <color>Πετροπλυμένο</color>
     <size>W27,W28,W29,W30,W31,W32,W33,W40,W42,W44</size>
     <brand>Edward</brand>
-    <weight>1000</weight>
+    <weight>200</weight>
     <price>47.45</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <variations>
       <variation>
         <variationid>a8fcf670-d143-b91f-ed09-9b22deb5df8a-w27</variationid>
@@ -10576,7 +10725,7 @@
         <variationid>a8fcf670-d143-b91f-ed09-9b22deb5df8a-w33</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>47.45</price>
         <link>https://www.onikshop.gr/product-page/seath-sds-jeans-edward</link>
         <mpn>Seath-Sds</mpn>
@@ -11780,6 +11929,62 @@
     <quantity>3</quantity>
   </product>
   <product>
+    <id>18a27e2e-d6e6-0e8b-9eec-bbedd2846d9c</id>
+    <name>Vintage Ace Wrangler the regular W14R-YB-14P</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>W14R-YB-14P</mpn>
+    <link>https://www.onikshop.gr/product-page/vintage-ace-wrangler-the-regular</link>
+    <description>Vintage Ace Wrangler the regular W14R-YB-14PSMOKE JUMPER 100% COTTON</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_444df4d390034bdc9c4dd7c82f7a26cc~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_f2a6608229e44845aa0fcc4e3bb0f090~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_5dea37383d2e42489dd0883be05af59f~mv2.jpg</additionalImage>
+    <color>Βαθύ σκούρο Μπλε</color>
+    <size>W32 L32,W33 L32</size>
+    <brand>Wrangler</brand>
+    <weight>200</weight>
+    <price>46</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+    <variations>
+      <variation>
+        <variationid>18a27e2e-d6e6-0e8b-9eec-bbedd2846d9c-w32-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W32 L32</size>
+        <quantity>1</quantity>
+        <price>46</price>
+        <link>https://www.onikshop.gr/product-page/vintage-ace-wrangler-the-regular</link>
+        <mpn>W14R-YB-14P</mpn>
+      </variation>
+      <variation>
+        <variationid>18a27e2e-d6e6-0e8b-9eec-bbedd2846d9c-w33-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L32</size>
+        <quantity>1</quantity>
+        <price>46</price>
+        <link>https://www.onikshop.gr/product-page/vintage-ace-wrangler-the-regular</link>
+        <mpn>W14R-YB-14P</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>c1d21bc9-36f3-97c3-aebe-c6d3c4070e27</id>
+    <name>Vintage Crank Low Straight W10H-EY-17J</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>W10H-EY-17J</mpn>
+    <link>https://www.onikshop.gr/product-page/vintage-crank-low-straight</link>
+    <description>Wrangler Crank The Low Straight W10H-EY-17J100%Cotton</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_c9d95c2d49514d1da5d8de9a1afe6923~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_bd0a833b7c474ffabbd744bfd1f0d32b~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_f47edb3fb73042258f75d1c5a35d86f4~mv2.jpg</additionalImage>
+    <color>Μπλε Ανοιχτό</color>
+    <size>W34 L36</size>
+    <brand>Wrangler</brand>
+    <weight>200</weight>
+    <price>48.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
+  </product>
+  <product>
     <id>b13ec13d-bd15-a9c3-fb0f-3278e239c604</id>
     <name>VINTAGE LEVI'S  534.02.85 BLACK SLIM FIT STRAIGHT LEG HIGH WAIST ORIGINAL 5412456594548</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
@@ -11822,41 +12027,41 @@
     </variations>
   </product>
   <product>
-    <id>78ec1fc1-c33f-8de2-4c8d-def27b085a9d</id>
-    <name>Vintage Levi's 525 Red Tub 5412456926592</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
-    <mpn>5412456926592</mpn>
-    <link>https://www.onikshop.gr/product-page/vintage-levi-s-525-red-tub</link>
-    <description>Vintage Levi's 525 Red Tub Slim Fit Bootcut Girls</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_6f5679989a0c4647a05283f1d3e030d9~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_7c0bb4da561d47d59b6c83ba53a3f091~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_9d647009d06f46b2906a91182636baf5~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_1b89cd2bb29a4f3fbb47e7625b5c422b~mv2.jpg</additionalImage>
-    <color>Βαθύ σκούρο Μπλε</color>
-    <size>W26 L32,W26 L34</size>
-    <brand><![CDATA[Levi's ]]></brand>
-    <weight>500</weight>
-    <price>19.95</price>
+    <id>9457bf7b-9f62-3416-2649-fbc15f0ded69</id>
+    <name>VINTAGE LEVI'S 512 BOOTCUT JEANS 00512-0318</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>00512-0318</mpn>
+    <link>https://www.onikshop.gr/product-page/vintage-levi-s-512-bootcut-jeans</link>
+    <description><![CDATA[ a bootcut leg, riveted pockets and a button fly.]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_1f6cc2e922a74b1bb0cd7a27d87c46db~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_d0cdf5bebcbc4c6a898b06e3623130f5~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_35c0e0cf577b4bb5a8b85a7e19402083~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_8953ef8fe8cd42e593830b917a68695d~mv2.jpg</additionalImage>
+    <color>Μπλέ Indigo</color>
+    <size>W36 L36,W38 L34</size>
+    <brand>Levi's</brand>
+    <weight>200</weight>
+    <price>49.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>2</quantity>
     <variations>
       <variation>
-        <variationid>78ec1fc1-c33f-8de2-4c8d-def27b085a9d-w26-l32</variationid>
+        <variationid>9457bf7b-9f62-3416-2649-fbc15f0ded69-w36-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W26 L32</size>
+        <size>W36 L36</size>
         <quantity>1</quantity>
-        <price>19.95</price>
-        <link>https://www.onikshop.gr/product-page/vintage-levi-s-525-red-tub</link>
-        <mpn>5412456926592</mpn>
+        <price>49.5</price>
+        <link>https://www.onikshop.gr/product-page/vintage-levi-s-512-bootcut-jeans</link>
+        <mpn>00512-0318</mpn>
       </variation>
       <variation>
-        <variationid>78ec1fc1-c33f-8de2-4c8d-def27b085a9d-w26-l34</variationid>
+        <variationid>9457bf7b-9f62-3416-2649-fbc15f0ded69-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W26 L34</size>
+        <size>W38 L34</size>
         <quantity>1</quantity>
-        <price>19.95</price>
-        <link>https://www.onikshop.gr/product-page/vintage-levi-s-525-red-tub</link>
-        <mpn>5412456716452</mpn>
+        <price>49.5</price>
+        <link>https://www.onikshop.gr/product-page/vintage-levi-s-512-bootcut-jeans</link>
+        <mpn>00512-0318</mpn>
       </variation>
     </variations>
   </product>
@@ -11898,6 +12103,24 @@
         <mpn>541213005023</mpn>
       </variation>
     </variations>
+  </product>
+  <product>
+    <id>975367ff-74dc-6371-efad-29aa20809b0b</id>
+    <name>Vintage Levi's 584 Red Tab 00584-87-91</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>00584-87-91</mpn>
+    <link>https://www.onikshop.gr/product-page/vintage-levi-s-584-red-tab</link>
+    <description><![CDATA[Red Tab  584 98% COTTON 2% ELASTANE]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_a032cd5b0c1d47a087a8b2b7d9a3cbed~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_5dcf3bb8971246668d417f16480bdd68~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_94f11b2655c04e17915eaa4171832607~mv2.jpg</additionalImage>
+    <color>Μπλε Ανοιχτό</color>
+    <size>W31 L32</size>
+    <brand>Levi's</brand>
+    <weight>200</weight>
+    <price>44</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
   </product>
   <product>
     <id>e3902c0d-e0f9-9fd3-e438-cac57af2f742</id>
@@ -12025,7 +12248,7 @@
     <weight>500</weight>
     <price>20</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
   </product>
   <product>
     <id>12747f1f-c1b0-56eb-af4d-7886f6e18e1e</id>
@@ -12161,12 +12384,12 @@
     <additionalImage>https://static.wixstatic.com/media/6c7135_12c606542dec4d159293b823d3395c1a~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_e88af150379046a2841a60272917a5b3~mv2.jpg</additionalImage>
     <color>Μπλε</color>
-    <size>W36 L34,W29 L32</size>
+    <size>W36 L34,W29 L32,W38 L34</size>
     <brand>Wrangler</brand>
     <weight>500</weight>
     <price>39.6</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
+    <quantity>2</quantity>
     <variations>
       <variation>
         <variationid>55bb61ab-fd73-d779-0856-b1fcff86d124-w36-l34</variationid>
@@ -12181,6 +12404,15 @@
         <variationid>55bb61ab-fd73-d779-0856-b1fcff86d124-w29-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W29 L32</size>
+        <quantity>1</quantity>
+        <price>39.6</price>
+        <link>https://www.onikshop.gr/product-page/vintage-ace-the-regular-zip-fly-longthorn</link>
+        <mpn>W14Z-C3-21O</mpn>
+      </variation>
+      <variation>
+        <variationid>55bb61ab-fd73-d779-0856-b1fcff86d124-w38-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W38 L34</size>
         <quantity>1</quantity>
         <price>39.6</price>
         <link>https://www.onikshop.gr/product-page/vintage-ace-the-regular-zip-fly-longthorn</link>
@@ -12237,12 +12469,32 @@
     <additionalImage>https://static.wixstatic.com/media/6c7135_0cb519abd4b14849a46b5527e733fb04~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_5e44920df8654c589e991fa9cb07e255~mv2.jpg</additionalImage>
     <color>Μπλε κλασικό</color>
-    <size>W29 L32</size>
+    <size>W29 L32,W38 L34</size>
     <brand>Wrangler</brand>
     <weight>500</weight>
     <price>29.7</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
+    <quantity>2</quantity>
+    <variations>
+      <variation>
+        <variationid>d837f617-9f01-8e3b-1c14-a36e9ce86b77-w29-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W29 L32</size>
+        <quantity>1</quantity>
+        <price>29.7</price>
+        <link>https://www.onikshop.gr/product-page/vintage-wrangler-crank-the-low-straight</link>
+        <mpn>5415147381465</mpn>
+      </variation>
+      <variation>
+        <variationid>d837f617-9f01-8e3b-1c14-a36e9ce86b77-w38-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W38 L34</size>
+        <quantity>1</quantity>
+        <price>29.7</price>
+        <link>https://www.onikshop.gr/product-page/vintage-wrangler-crank-the-low-straight</link>
+        <mpn>W10H-C3-43J</mpn>
+      </variation>
+    </variations>
   </product>
   <product>
     <id>33e0658c-562a-8a7c-ae46-ce3c083078ce</id>
@@ -14121,6 +14373,44 @@
     </variations>
   </product>
   <product>
+    <id>bb126050-39b3-b4e2-65c6-12f75bbeae14</id>
+    <name>Wrangler Spencer Slim Streight Ripped Ashes W16A-MG-97W</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>W16A-MG-97W</mpn>
+    <link>https://www.onikshop.gr/product-page/wrangler-spencer-slim-streight-ripped-ashes</link>
+    <description>Wrangler Spencer Slim Streight Ripped Ashes W16A MG 97W</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_0870af3f3b474d9fb127a4b1eec2cca9~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_1f7741f3b977494b86a55b5bbb0840db~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_68c546668d3d44b08d2db22b26fdbe37~mv2.jpg</additionalImage>
+    <color>Γκρι Πετροπλυμένο</color>
+    <size>W29 L34,W31 L34</size>
+    <brand>Wrangler</brand>
+    <weight>200</weight>
+    <price>64.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+    <variations>
+      <variation>
+        <variationid>bb126050-39b3-b4e2-65c6-12f75bbeae14-w29-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W29 L34</size>
+        <quantity>1</quantity>
+        <price>64.5</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-spencer-slim-streight-ripped-ashes</link>
+        <mpn>W16A-MG-97W</mpn>
+      </variation>
+      <variation>
+        <variationid>bb126050-39b3-b4e2-65c6-12f75bbeae14-w31-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W31 L34</size>
+        <quantity>1</quantity>
+        <price>64.5</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-spencer-slim-streight-ripped-ashes</link>
+        <mpn>W16A-MG-97W</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>b166be86-c913-b273-cd8d-779b1aa44429</id>
     <name>Wrangler Texas 821 Low Stretch in The Mountain W121 U8 28L</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
@@ -14321,7 +14611,7 @@
     <weight>500</weight>
     <price>20.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <variations>
       <variation>
         <variationid>68bae381-deae-be88-e826-a380812b866a-s</variationid>
@@ -14345,7 +14635,7 @@
         <variationid>68bae381-deae-be88-e826-a380812b866a-l</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>20.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-ανδρικό-t-shirt-navy-μπλε-με-λογότυπο</link>
         <mpn>W7H3D3114</mpn>
