@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-03-14 10:10</created_at>
+  <created_at>2023-03-14 11:41</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -4050,16 +4050,16 @@
     <size>W34 L34,W36 L34,W38 L34</size>
     <brand>Lee</brand>
     <weight>1000</weight>
-    <price>105</price>
+    <price>94.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>927ab73c-63fe-7574-725c-a50a16939db4-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>2</quantity>
-        <price>105</price>
+        <quantity>1</quantity>
+        <price>94.5</price>
         <link>https://www.onikshop.gr/product-page/lee-brooklyn-straight-mid-stonewash</link>
         <mpn>L452PXKX</mpn>
       </variation>
@@ -4067,8 +4067,8 @@
         <variationid>927ab73c-63fe-7574-725c-a50a16939db4-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
-        <quantity>2</quantity>
-        <price>105</price>
+        <quantity>1</quantity>
+        <price>94.5</price>
         <link>https://www.onikshop.gr/product-page/lee-brooklyn-straight-mid-stonewash</link>
         <mpn>L452PXKX</mpn>
       </variation>
@@ -4076,8 +4076,8 @@
         <variationid>927ab73c-63fe-7574-725c-a50a16939db4-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
-        <quantity>2</quantity>
-        <price>105</price>
+        <quantity>1</quantity>
+        <price>94.5</price>
         <link>https://www.onikshop.gr/product-page/lee-brooklyn-straight-mid-stonewash</link>
         <mpn>L452PXKX</mpn>
       </variation>
@@ -4097,17 +4097,17 @@
     <color>Κίτρινο/Μουσταρδί</color>
     <size>W31 L34,W33 L34,W34 L34,W36 L34,W38 L34,W40 L34,W42 L34,W44 L34</size>
     <brand>Lee</brand>
-    <weight>1000</weight>
-    <price>109</price>
+    <weight>200</weight>
+    <price>76.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>11</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>4e1e376a-fec0-6d5e-621c-3dcae37c78d1-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
-        <quantity>1</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/lee-daren</link>
         <mpn>L707AW85</mpn>
       </variation>
@@ -4116,7 +4116,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
         <quantity>1</quantity>
-        <price>109</price>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/lee-daren</link>
         <mpn>L707AW85</mpn>
       </variation>
@@ -4124,8 +4124,8 @@
         <variationid>4e1e376a-fec0-6d5e-621c-3dcae37c78d1-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>2</quantity>
-        <price>109</price>
+        <quantity>1</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/lee-daren</link>
         <mpn>L707AW85</mpn>
       </variation>
@@ -4133,8 +4133,8 @@
         <variationid>4e1e376a-fec0-6d5e-621c-3dcae37c78d1-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
-        <quantity>2</quantity>
-        <price>109</price>
+        <quantity>1</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/lee-daren</link>
         <mpn>L707AW85</mpn>
       </variation>
@@ -4142,8 +4142,8 @@
         <variationid>4e1e376a-fec0-6d5e-621c-3dcae37c78d1-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
-        <quantity>2</quantity>
-        <price>109</price>
+        <quantity>1</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/lee-daren</link>
         <mpn>L707AW85</mpn>
       </variation>
@@ -4152,7 +4152,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
         <quantity>1</quantity>
-        <price>109</price>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/lee-daren</link>
         <mpn>L707AW85</mpn>
       </variation>
@@ -4160,8 +4160,8 @@
         <variationid>4e1e376a-fec0-6d5e-621c-3dcae37c78d1-w42-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
-        <quantity>1</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/lee-daren</link>
         <mpn>L707AW85</mpn>
       </variation>
@@ -4170,9 +4170,212 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W44 L34</size>
         <quantity>1</quantity>
-        <price>109</price>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/lee-daren</link>
         <mpn>L707AW85</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>7aea8f2f-1a59-3182-8391-95800ac35010</id>
+    <name>Lee Daren Azure L707MWFW</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>L707MWFW</mpn>
+    <link>https://www.onikshop.gr/product-page/lee-daren-azure</link>
+    <description><![CDATA[Ανδρικό παντελόνι τζιν της εταιρίας Lee σε μπλε χρώμα για όλες τις ώρες.<br>• Εφαρμογή: Regular<br>• Σύνθεση: 99% Βαμβάκι, 1% Ελαστάνη]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_c17b11baabb446c9a9a9e5cc473bb003~mv2.jpeg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_ee79a74da3704578a8a8eca25d5c5725~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_6ed7b079457e469a944dfb13bf437165~mv2.jpeg</additionalImage>
+    <color>Πετροπλυμένο</color>
+    <size>W31 L34,W32 L34,W33 L34,W34 L34,W34 L36,W36 L34,W36 L36,W38 L34,W40 L34</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>83.3</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>3</quantity>
+    <variations>
+      <variation>
+        <variationid>7aea8f2f-1a59-3182-8391-95800ac35010-w31-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W31 L34</size>
+        <quantity>0</quantity>
+        <price>83.3</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-azure</link>
+        <mpn>L707MWFW</mpn>
+      </variation>
+      <variation>
+        <variationid>7aea8f2f-1a59-3182-8391-95800ac35010-w32-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W32 L34</size>
+        <quantity>1</quantity>
+        <price>83.3</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-azure</link>
+        <mpn>L707MWFW</mpn>
+      </variation>
+      <variation>
+        <variationid>7aea8f2f-1a59-3182-8391-95800ac35010-w33-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L34</size>
+        <quantity>0</quantity>
+        <price>83.3</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-azure</link>
+        <mpn>L707MWFW</mpn>
+      </variation>
+      <variation>
+        <variationid>7aea8f2f-1a59-3182-8391-95800ac35010-w34-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34 L34</size>
+        <quantity>0</quantity>
+        <price>83.3</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-azure</link>
+        <mpn>L707MWFW</mpn>
+      </variation>
+      <variation>
+        <variationid>7aea8f2f-1a59-3182-8391-95800ac35010-w34-l36</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34 L36</size>
+        <quantity>0</quantity>
+        <price>83.3</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-azure</link>
+        <mpn>L707MWFW</mpn>
+      </variation>
+      <variation>
+        <variationid>7aea8f2f-1a59-3182-8391-95800ac35010-w36-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W36 L34</size>
+        <quantity>0</quantity>
+        <price>83.3</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-azure</link>
+        <mpn>L707MWFW</mpn>
+      </variation>
+      <variation>
+        <variationid>7aea8f2f-1a59-3182-8391-95800ac35010-w36-l36</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W36 L36</size>
+        <quantity>0</quantity>
+        <price>83.3</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-azure</link>
+        <mpn>L707MWFW</mpn>
+      </variation>
+      <variation>
+        <variationid>7aea8f2f-1a59-3182-8391-95800ac35010-w38-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W38 L34</size>
+        <quantity>1</quantity>
+        <price>83.3</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-azure</link>
+        <mpn>L707MWFW</mpn>
+      </variation>
+      <variation>
+        <variationid>7aea8f2f-1a59-3182-8391-95800ac35010-w40-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W40 L34</size>
+        <quantity>1</quantity>
+        <price>83.3</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-azure</link>
+        <mpn>L707MWFW</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>f2aad3be-8b26-9c96-2dba-5d53f7b93dde</id>
+    <name>Lee Daren Zip Fly L707PXXD</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>L707PXXD</mpn>
+    <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly</link>
+    <description><![CDATA[Ανδρικό παντελόνι τζιν της εταιρίας Lee σε μπλε χρώμα για όλες τις ώρες.<br>• Εφαρμογή: Straight<br>• Σύνθεση: 90% Οργανικό Βαμβάκι, 90% Βαμβάκι, 2% Ελαστάνη<br>• Από βιώσιμα υλικά, οργανικής ή ανακυκλωμένης προέλευσης, φιλικά προς το περιβάλλον]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_81058354e37942dea4ce34b6235a7381~mv2.jpeg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_42e4a3c5781e4d89a5b1c4211f5ffb29~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_cc0556a156194609ab7d0b5e2d0a86ae~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_e0186b8f583b40c8a32b74f785df5ecb~mv2.jpeg</additionalImage>
+    <color>Μπλε κλασικό</color>
+    <size>W31 L34,W32 L34,W33 L34,W34 L34,W34 L36,W36 L34,W36 L36,W38 L34,W40 L34</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>109</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>3</quantity>
+    <variations>
+      <variation>
+        <variationid>f2aad3be-8b26-9c96-2dba-5d53f7b93dde-w31-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W31 L34</size>
+        <quantity>1</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly</link>
+        <mpn>L707PXXD</mpn>
+      </variation>
+      <variation>
+        <variationid>f2aad3be-8b26-9c96-2dba-5d53f7b93dde-w32-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W32 L34</size>
+        <quantity>0</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly</link>
+        <mpn>L707PXXD</mpn>
+      </variation>
+      <variation>
+        <variationid>f2aad3be-8b26-9c96-2dba-5d53f7b93dde-w33-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L34</size>
+        <quantity>0</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly</link>
+        <mpn>L707PXXD</mpn>
+      </variation>
+      <variation>
+        <variationid>f2aad3be-8b26-9c96-2dba-5d53f7b93dde-w34-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34 L34</size>
+        <quantity>0</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly</link>
+        <mpn>L707PXXD</mpn>
+      </variation>
+      <variation>
+        <variationid>f2aad3be-8b26-9c96-2dba-5d53f7b93dde-w34-l36</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34 L36</size>
+        <quantity>0</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly</link>
+        <mpn>L707PXXD</mpn>
+      </variation>
+      <variation>
+        <variationid>f2aad3be-8b26-9c96-2dba-5d53f7b93dde-w36-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W36 L34</size>
+        <quantity>0</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly</link>
+        <mpn>L707PXXD</mpn>
+      </variation>
+      <variation>
+        <variationid>f2aad3be-8b26-9c96-2dba-5d53f7b93dde-w36-l36</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W36 L36</size>
+        <quantity>0</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly</link>
+        <mpn>L707PXXD</mpn>
+      </variation>
+      <variation>
+        <variationid>f2aad3be-8b26-9c96-2dba-5d53f7b93dde-w38-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W38 L34</size>
+        <quantity>1</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly</link>
+        <mpn>L707PXXD</mpn>
+      </variation>
+      <variation>
+        <variationid>f2aad3be-8b26-9c96-2dba-5d53f7b93dde-w40-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W40 L34</size>
+        <quantity>1</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly</link>
+        <mpn>L707PXXD</mpn>
       </variation>
     </variations>
   </product>
@@ -4190,17 +4393,17 @@
     <color>Μαύρο Πετροπλυμένο</color>
     <size>W31 L34,W32 L34,W33 L34,W34 L36,W36 L34,W36 L36,W38 L34,W40 L34</size>
     <brand>Lee</brand>
-    <weight>1000</weight>
-    <price>119</price>
+    <weight>200</weight>
+    <price>95.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>1</quantity>
     <variations>
       <variation>
         <variationid>4deae0c5-eca4-67ef-c419-4900564375b6-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
         <quantity>0</quantity>
-        <price>119</price>
+        <price>95.2</price>
         <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
         <mpn>L707ADER</mpn>
       </variation>
@@ -4209,7 +4412,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
         <quantity>1</quantity>
-        <price>119</price>
+        <price>95.2</price>
         <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
         <mpn>L707ADER</mpn>
       </variation>
@@ -4218,7 +4421,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
         <quantity>0</quantity>
-        <price>119</price>
+        <price>95.2</price>
         <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
         <mpn>L707ADER</mpn>
       </variation>
@@ -4226,8 +4429,8 @@
         <variationid>4deae0c5-eca4-67ef-c419-4900564375b6-w34-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L36</size>
-        <quantity>1</quantity>
-        <price>119</price>
+        <quantity>0</quantity>
+        <price>95.2</price>
         <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
         <mpn>L707ADER</mpn>
       </variation>
@@ -4235,8 +4438,8 @@
         <variationid>4deae0c5-eca4-67ef-c419-4900564375b6-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
-        <quantity>1</quantity>
-        <price>119</price>
+        <quantity>0</quantity>
+        <price>95.2</price>
         <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
         <mpn>L707ADER</mpn>
       </variation>
@@ -4244,8 +4447,8 @@
         <variationid>4deae0c5-eca4-67ef-c419-4900564375b6-w36-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L36</size>
-        <quantity>1</quantity>
-        <price>119</price>
+        <quantity>0</quantity>
+        <price>95.2</price>
         <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
         <mpn>L707ADER</mpn>
       </variation>
@@ -4253,8 +4456,8 @@
         <variationid>4deae0c5-eca4-67ef-c419-4900564375b6-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
-        <quantity>1</quantity>
-        <price>119</price>
+        <quantity>0</quantity>
+        <price>95.2</price>
         <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
         <mpn>L707ADER</mpn>
       </variation>
@@ -4262,8 +4465,8 @@
         <variationid>4deae0c5-eca4-67ef-c419-4900564375b6-w40-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
-        <quantity>1</quantity>
-        <price>119</price>
+        <quantity>0</quantity>
+        <price>95.2</price>
         <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
         <mpn>L707ADER</mpn>
       </variation>
@@ -4281,19 +4484,28 @@
     <additionalImage>https://static.wixstatic.com/media/6c7135_a0a5f2723ad343d98712c2d63050d781~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_28d9740a4dcd4dddb3b4ee1c1c29e2cb~mv2.jpg</additionalImage>
     <color>Μπλε</color>
-    <size>W32 L34,W34 L34,W36 L34,W42 L34,W44 L34</size>
+    <size>W32 L34,W33 L34,W34 L34,W36 L34,W38 L34,W40 L34,W42 L34,W44 L34</size>
     <brand>Lee</brand>
-    <weight>2000</weight>
-    <price>109</price>
+    <weight>200</weight>
+    <price>87.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>8</quantity>
     <variations>
       <variation>
         <variationid>59a85da0-224f-f56f-7f6c-ad70554c14e0-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
         <quantity>1</quantity>
-        <price>109</price>
+        <price>87.2</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-black-iris</link>
+        <mpn>L707AX11</mpn>
+      </variation>
+      <variation>
+        <variationid>59a85da0-224f-f56f-7f6c-ad70554c14e0-w33-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L34</size>
+        <quantity>1</quantity>
+        <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-black-iris</link>
         <mpn>L707AX11</mpn>
       </variation>
@@ -4302,7 +4514,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
         <quantity>1</quantity>
-        <price>109</price>
+        <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-black-iris</link>
         <mpn>L707AX11</mpn>
       </variation>
@@ -4311,7 +4523,25 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
         <quantity>1</quantity>
-        <price>109</price>
+        <price>87.2</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-black-iris</link>
+        <mpn>L707AX11</mpn>
+      </variation>
+      <variation>
+        <variationid>59a85da0-224f-f56f-7f6c-ad70554c14e0-w38-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W38 L34</size>
+        <quantity>1</quantity>
+        <price>87.2</price>
+        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-black-iris</link>
+        <mpn>L707AX11</mpn>
+      </variation>
+      <variation>
+        <variationid>59a85da0-224f-f56f-7f6c-ad70554c14e0-w40-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W40 L34</size>
+        <quantity>1</quantity>
+        <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-black-iris</link>
         <mpn>L707AX11</mpn>
       </variation>
@@ -4320,7 +4550,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
         <quantity>1</quantity>
-        <price>109</price>
+        <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-black-iris</link>
         <mpn>L707AX11</mpn>
       </variation>
@@ -4329,7 +4559,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W44 L34</size>
         <quantity>1</quantity>
-        <price>109</price>
+        <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-black-iris</link>
         <mpn>L707AX11</mpn>
       </variation>
@@ -4589,10 +4819,10 @@
     <color>Μαύρο</color>
     <size>W29 L34,W30 L34,W31 L32,W32 L34,W33 L34,W34 L34,W34 L36,W36 L34,W36 L36,W38 L34,W40 L34,W42 L34</size>
     <brand>Lee</brand>
-    <weight>1000</weight>
+    <weight>200</weight>
     <price>109</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>4998b864-4f92-68b1-c4eb-c162462377a9-w29-l34</variationid>
@@ -4625,7 +4855,7 @@
         <variationid>4998b864-4f92-68b1-c4eb-c162462377a9-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>109</price>
         <link>https://www.onikshop.gr/product-page/lee-luke-slim-fit-jeans-clean-black</link>
         <mpn>L719HFAE</mpn>
@@ -4720,13 +4950,13 @@
     <weight>1000</weight>
     <price>95.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>2</quantity>
     <variations>
       <variation>
         <variationid>4827d4de-50cd-f339-aecb-4a939ab6716a-w29-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W29 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>95.2</price>
         <link>https://www.onikshop.gr/product-page/lee-luke-slim-tapered</link>
         <mpn>L719PLGC</mpn>
@@ -4762,7 +4992,7 @@
         <variationid>4827d4de-50cd-f339-aecb-4a939ab6716a-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>95.2</price>
         <link>https://www.onikshop.gr/product-page/lee-luke-slim-tapered</link>
         <mpn>L719PLGC</mpn>
@@ -5116,7 +5346,7 @@
     <weight>1000</weight>
     <price>90.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>e7ba13dd-afa6-f915-7b7c-a0bceb6afecc-w29-l34</variationid>
@@ -5140,7 +5370,7 @@
         <variationid>e7ba13dd-afa6-f915-7b7c-a0bceb6afecc-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>90.3</price>
         <link>https://www.onikshop.gr/product-page/lee-rider-jeans-slim-sea-salt-worn</link>
         <mpn>L701PXEI</mpn>
@@ -5188,16 +5418,16 @@
     <size>W29 L34,W30 L34,W31 L34,W32 L34,W33 L34,W34 L34,W36 L34,W38 L34</size>
     <brand>Lee</brand>
     <weight>1000</weight>
-    <price>119</price>
+    <price>83.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>d399d7dd-b264-6b22-70e0-e23524b027c8-w29-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W29 L34</size>
         <quantity>1</quantity>
-        <price>119</price>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
         <mpn>L701PZCL</mpn>
       </variation>
@@ -5205,8 +5435,8 @@
         <variationid>d399d7dd-b264-6b22-70e0-e23524b027c8-w30-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W30 L34</size>
-        <quantity>1</quantity>
-        <price>119</price>
+        <quantity>0</quantity>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
         <mpn>L701PZCL</mpn>
       </variation>
@@ -5215,7 +5445,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
         <quantity>1</quantity>
-        <price>119</price>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
         <mpn>L701PZCL</mpn>
       </variation>
@@ -5223,8 +5453,8 @@
         <variationid>d399d7dd-b264-6b22-70e0-e23524b027c8-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>1</quantity>
-        <price>119</price>
+        <quantity>0</quantity>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
         <mpn>L701PZCL</mpn>
       </variation>
@@ -5233,7 +5463,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
         <quantity>0</quantity>
-        <price>119</price>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
         <mpn>L701PZCL</mpn>
       </variation>
@@ -5242,7 +5472,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
         <quantity>1</quantity>
-        <price>119</price>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
         <mpn>L701PZCL</mpn>
       </variation>
@@ -5250,8 +5480,8 @@
         <variationid>d399d7dd-b264-6b22-70e0-e23524b027c8-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
-        <quantity>0</quantity>
-        <price>119</price>
+        <quantity>1</quantity>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
         <mpn>L701PZCL</mpn>
       </variation>
@@ -5260,7 +5490,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
         <quantity>1</quantity>
-        <price>119</price>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
         <mpn>L701PZCL</mpn>
       </variation>
@@ -5419,90 +5649,6 @@
         <price>81.75</price>
         <link>https://www.onikshop.gr/product-page/lee-stella-a-line</link>
         <mpn>L31SBEKK</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
-    <id>7a6eba01-cdc7-b4b1-bcd0-3d57f557524f</id>
-    <name>Lee Tapered Fit "Luke" Denim Deep Water L719PXEE</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>L719PXEE</mpn>
-    <link>https://www.onikshop.gr/product-page/lee-tapered-fit-luke-denim-deep-water</link>
-    <description><![CDATA[Ανδρικό τζην παντελόνι.<br>Πεντάτσεπο.<br>Κλείσιμο με κουμπί και φερμουάρ.<br>Logo patch στο πίσω μέρος.<br>Tapered fit.<br>90% βαμβάκι, 8% elastomultiester, 2% elastane]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_d3ca424519ec46e5a05de1d5adb8c6cb~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_9f0a2a58d7b74165a2d6507be9c7ed51~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_ce02f6c25a2d4f729c9f403492ba43de~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_05067cffc82449eda9c142691ce89828~mv2.jpg</additionalImage>
-    <color>Μπλε</color>
-    <size>W29 L34,W30 L34,W32 L34,W33 L34,W34 L34,W36 L34,W38 L34</size>
-    <brand>Lee</brand>
-    <weight>2000</weight>
-    <price>83.3</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-    <variations>
-      <variation>
-        <variationid>7a6eba01-cdc7-b4b1-bcd0-3d57f557524f-w29-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W29 L34</size>
-        <quantity>0</quantity>
-        <price>83.3</price>
-        <link>https://www.onikshop.gr/product-page/lee-tapered-fit-luke-denim-deep-water</link>
-        <mpn>L719PXEE</mpn>
-      </variation>
-      <variation>
-        <variationid>7a6eba01-cdc7-b4b1-bcd0-3d57f557524f-w30-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W30 L34</size>
-        <quantity>0</quantity>
-        <price>83.3</price>
-        <link>https://www.onikshop.gr/product-page/lee-tapered-fit-luke-denim-deep-water</link>
-        <mpn>L719PXEE</mpn>
-      </variation>
-      <variation>
-        <variationid>7a6eba01-cdc7-b4b1-bcd0-3d57f557524f-w32-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W32 L34</size>
-        <quantity>0</quantity>
-        <price>83.3</price>
-        <link>https://www.onikshop.gr/product-page/lee-tapered-fit-luke-denim-deep-water</link>
-        <mpn>L719PXEE</mpn>
-      </variation>
-      <variation>
-        <variationid>7a6eba01-cdc7-b4b1-bcd0-3d57f557524f-w33-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W33 L34</size>
-        <quantity>0</quantity>
-        <price>83.3</price>
-        <link>https://www.onikshop.gr/product-page/lee-tapered-fit-luke-denim-deep-water</link>
-        <mpn>L719PXEE</mpn>
-      </variation>
-      <variation>
-        <variationid>7a6eba01-cdc7-b4b1-bcd0-3d57f557524f-w34-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>83.3</price>
-        <link>https://www.onikshop.gr/product-page/lee-tapered-fit-luke-denim-deep-water</link>
-        <mpn>L719PXEE</mpn>
-      </variation>
-      <variation>
-        <variationid>7a6eba01-cdc7-b4b1-bcd0-3d57f557524f-w36-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W36 L34</size>
-        <quantity>0</quantity>
-        <price>83.3</price>
-        <link>https://www.onikshop.gr/product-page/lee-tapered-fit-luke-denim-deep-water</link>
-        <mpn>L719PXEE</mpn>
-      </variation>
-      <variation>
-        <variationid>7a6eba01-cdc7-b4b1-bcd0-3d57f557524f-w38-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W38 L34</size>
-        <quantity>0</quantity>
-        <price>83.3</price>
-        <link>https://www.onikshop.gr/product-page/lee-tapered-fit-luke-denim-deep-water</link>
-        <mpn>L719PXEE</mpn>
       </variation>
     </variations>
   </product>
@@ -19337,6 +19483,310 @@
         <price>40.14</price>
         <link>https://www.onikshop.gr/product-page/πουκαμισο-sortil-edward</link>
         <mpn>Sortil</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>30872025-c067-1c06-3f5d-416149624d47</id>
+    <name>ΤΖΙΝ LEE  BROOKLYN STARIGHT - DARK PARK L452DHGB</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>L452DHGB</mpn>
+    <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-dark-park</link>
+    <description>Tζιν παντελόνι από τη συλλογή Lee.</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_526aeb78a5f643b38be0f7f2a86c168d~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_326f23b6893e4e3392b4e0ff10dc5621~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/bbad40_d68fc31394be4e15a3643e68b3a6ba04~mv2.jpg</additionalImage>
+    <color>Σκούρο Μπλέ</color>
+    <size>30,31,32,33,34,36,38,40,42,44</size>
+    <brand>Lee</brand>
+    <weight>500</weight>
+    <price>89.1</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>30872025-c067-1c06-3f5d-416149624d47-30</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>30</size>
+        <quantity>0</quantity>
+        <price>89.1</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-dark-park</link>
+        <mpn>L452DHGB</mpn>
+      </variation>
+      <variation>
+        <variationid>30872025-c067-1c06-3f5d-416149624d47-31</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>31</size>
+        <quantity>1</quantity>
+        <price>89.1</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-dark-park</link>
+        <mpn>L452DHGB</mpn>
+      </variation>
+      <variation>
+        <variationid>30872025-c067-1c06-3f5d-416149624d47-32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>32</size>
+        <quantity>1</quantity>
+        <price>89.1</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-dark-park</link>
+        <mpn>L452DHGB</mpn>
+      </variation>
+      <variation>
+        <variationid>30872025-c067-1c06-3f5d-416149624d47-33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>33</size>
+        <quantity>1</quantity>
+        <price>89.1</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-dark-park</link>
+        <mpn>L452DHGB</mpn>
+      </variation>
+      <variation>
+        <variationid>30872025-c067-1c06-3f5d-416149624d47-34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>34</size>
+        <quantity>1</quantity>
+        <price>89.1</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-dark-park</link>
+        <mpn>L452DHGB</mpn>
+      </variation>
+      <variation>
+        <variationid>30872025-c067-1c06-3f5d-416149624d47-36</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>36</size>
+        <quantity>1</quantity>
+        <price>89.1</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-dark-park</link>
+        <mpn>L452DHGB</mpn>
+      </variation>
+      <variation>
+        <variationid>30872025-c067-1c06-3f5d-416149624d47-38</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>38</size>
+        <quantity>0</quantity>
+        <price>89.1</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-dark-park</link>
+        <mpn>L452DHGB</mpn>
+      </variation>
+      <variation>
+        <variationid>30872025-c067-1c06-3f5d-416149624d47-40</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>40</size>
+        <quantity>0</quantity>
+        <price>89.1</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-dark-park</link>
+        <mpn>L452DHGB</mpn>
+      </variation>
+      <variation>
+        <variationid>30872025-c067-1c06-3f5d-416149624d47-42</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>42</size>
+        <quantity>0</quantity>
+        <price>89.1</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-dark-park</link>
+        <mpn>L452DHGB</mpn>
+      </variation>
+      <variation>
+        <variationid>30872025-c067-1c06-3f5d-416149624d47-44</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>44</size>
+        <quantity>0</quantity>
+        <price>89.1</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-dark-park</link>
+        <mpn>L452DHGB</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>eea77f78-be18-72fe-ec55-c5c6d9352f9c</id>
+    <name>ΤΖΙΝ LEE  BROOKLYN STARIGHT - RINSE L452PX36</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>L452PX36</mpn>
+    <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-rinse</link>
+    <description>Tζιν παντελόνι από τη συλλογή Lee.</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_1ddc9acd34894fa0abba2b282e661283~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_3c3d27d05c8f4fedad58b5a0c39eff89~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_a15e16091ce847ff9cc4ce858e19169d~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/bbad40_54ff2204e8e84e16a52aea6f4c3d6b0e~mv2.jpg</additionalImage>
+    <color>Σκούρο Μπλέ</color>
+    <size>30,31,32,33,34,36,38,40,42,44,46,48</size>
+    <brand>Lee</brand>
+    <weight>500</weight>
+    <price>95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>8</quantity>
+    <variations>
+      <variation>
+        <variationid>eea77f78-be18-72fe-ec55-c5c6d9352f9c-30</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>30</size>
+        <quantity>0</quantity>
+        <price>95</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-rinse</link>
+        <mpn>L452PX36</mpn>
+      </variation>
+      <variation>
+        <variationid>eea77f78-be18-72fe-ec55-c5c6d9352f9c-31</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>31</size>
+        <quantity>1</quantity>
+        <price>95</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-rinse</link>
+        <mpn>L452PX36</mpn>
+      </variation>
+      <variation>
+        <variationid>eea77f78-be18-72fe-ec55-c5c6d9352f9c-32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>32</size>
+        <quantity>1</quantity>
+        <price>95</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-rinse</link>
+        <mpn>L452PX36</mpn>
+      </variation>
+      <variation>
+        <variationid>eea77f78-be18-72fe-ec55-c5c6d9352f9c-33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>33</size>
+        <quantity>0</quantity>
+        <price>95</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-rinse</link>
+        <mpn>L452PX36</mpn>
+      </variation>
+      <variation>
+        <variationid>eea77f78-be18-72fe-ec55-c5c6d9352f9c-34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>34</size>
+        <quantity>0</quantity>
+        <price>95</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-rinse</link>
+        <mpn>L452PX36</mpn>
+      </variation>
+      <variation>
+        <variationid>eea77f78-be18-72fe-ec55-c5c6d9352f9c-36</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>36</size>
+        <quantity>2</quantity>
+        <price>95</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-rinse</link>
+        <mpn>L452PX36</mpn>
+      </variation>
+      <variation>
+        <variationid>eea77f78-be18-72fe-ec55-c5c6d9352f9c-38</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>38</size>
+        <quantity>0</quantity>
+        <price>95</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-rinse</link>
+        <mpn>L452PX36</mpn>
+      </variation>
+      <variation>
+        <variationid>eea77f78-be18-72fe-ec55-c5c6d9352f9c-40</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>40</size>
+        <quantity>1</quantity>
+        <price>95</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-rinse</link>
+        <mpn>L452PX36</mpn>
+      </variation>
+      <variation>
+        <variationid>eea77f78-be18-72fe-ec55-c5c6d9352f9c-42</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>42</size>
+        <quantity>1</quantity>
+        <price>95</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-rinse</link>
+        <mpn>L452PX36</mpn>
+      </variation>
+      <variation>
+        <variationid>eea77f78-be18-72fe-ec55-c5c6d9352f9c-44</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>44</size>
+        <quantity>1</quantity>
+        <price>95</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-rinse</link>
+        <mpn>L452PX36</mpn>
+      </variation>
+      <variation>
+        <variationid>eea77f78-be18-72fe-ec55-c5c6d9352f9c-46</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>46</size>
+        <quantity>1</quantity>
+        <price>95</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-rinse</link>
+        <mpn>L452PX36</mpn>
+      </variation>
+      <variation>
+        <variationid>eea77f78-be18-72fe-ec55-c5c6d9352f9c-48</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>48</size>
+        <quantity>0</quantity>
+        <price>95</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-rinse</link>
+        <mpn>L452PX36</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>f9621133-9473-981b-5e83-fa524db058c6</id>
+    <name>ΤΖΙΝ LEE  DAREN - STRONG HAND L706AADB</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>L706AADB</mpn>
+    <link>https://www.onikshop.gr/product-page/τζιν-lee-daren-strong-hand</link>
+    <description>Tζιν παντελόνι από τη συλλογή Lee.</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_4344536bdada4542a5b9b8e71d2afaa1~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_5919f202f9a54dc6b616156ad4df1df6~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/bbad40_dfed7dfe7bbb420db30a80ab58283bc5~mv2.jpg</additionalImage>
+    <color>Μπλε</color>
+    <size>W29 L32,W31 L34,W38 L34,W40 L34,W42 L34</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>87.2</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>f9621133-9473-981b-5e83-fa524db058c6-w29-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W29 L32</size>
+        <quantity>1</quantity>
+        <price>87.2</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-daren-strong-hand</link>
+        <mpn>L706AADB</mpn>
+      </variation>
+      <variation>
+        <variationid>f9621133-9473-981b-5e83-fa524db058c6-w31-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W31 L34</size>
+        <quantity>1</quantity>
+        <price>87.2</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-daren-strong-hand</link>
+        <mpn>L706AADB</mpn>
+      </variation>
+      <variation>
+        <variationid>f9621133-9473-981b-5e83-fa524db058c6-w38-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W38 L34</size>
+        <quantity>1</quantity>
+        <price>87.2</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-daren-strong-hand</link>
+        <mpn>L706AADB</mpn>
+      </variation>
+      <variation>
+        <variationid>f9621133-9473-981b-5e83-fa524db058c6-w40-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W40 L34</size>
+        <quantity>1</quantity>
+        <price>87.2</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-daren-strong-hand</link>
+        <mpn>L706AADB</mpn>
+      </variation>
+      <variation>
+        <variationid>f9621133-9473-981b-5e83-fa524db058c6-w42-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W42 L34</size>
+        <quantity>1</quantity>
+        <price>87.2</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-lee-daren-strong-hand</link>
+        <mpn>L706AADB</mpn>
       </variation>
     </variations>
   </product>
