@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-03-14 11:41</created_at>
+  <created_at>2023-03-16 11:56</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -1176,55 +1176,6 @@
         <price>34.3</price>
         <link>https://www.onikshop.gr/product-page/celio-men-s-trousers-khaki-vopry1</link>
         <mpn>Vopry1</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
-    <id>41ceec11-cb20-5052-9123-284823a48700</id>
-    <name>Celio* Sokreen15 SOKREEN15 STONE</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans<br>
- ]]></category>
-    <mpn>SOKREEN15 STONE</mpn>
-    <link>https://www.onikshop.gr/product-page/celio-sokreen15</link>
-    <description><![CDATA[Ανδρικό παντελόνι τζιν της εταιρίας Celio σε μπλε χρώμα για όλες τις ώρες.<br>• Εφαρμογή: Slim<br>• Σύνθεση: 81% Βαμβάκι, 18% Πολυεστέρας, 1% Ελαστάνη]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_2d300089dab640b585f4c08f1a9e6b93~mv2.jpeg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_b3c9501240894b749baa4c6e03bdf707~mv2.jpeg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_f6eab2c26b0f4daaad667ae99d73713f~mv2.jpeg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_65f04e98f9b440cfbce9968f54f685de~mv2.jpeg</additionalImage>
-    <color>Μπλε</color>
-    <size>W34,W38,W40</size>
-    <brand>Celio</brand>
-    <weight>2000</weight>
-    <price>35</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-    <variations>
-      <variation>
-        <variationid>41ceec11-cb20-5052-9123-284823a48700-w34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W34</size>
-        <quantity>1</quantity>
-        <price>35</price>
-        <link>https://www.onikshop.gr/product-page/celio-sokreen15</link>
-        <mpn>SOKREEN15 STONE</mpn>
-      </variation>
-      <variation>
-        <variationid>41ceec11-cb20-5052-9123-284823a48700-w38</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W38</size>
-        <quantity>0</quantity>
-        <price>35</price>
-        <link>https://www.onikshop.gr/product-page/celio-sokreen15</link>
-        <mpn>SOKREEN15 STONE</mpn>
-      </variation>
-      <variation>
-        <variationid>41ceec11-cb20-5052-9123-284823a48700-w40</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W40</size>
-        <quantity>0</quantity>
-        <price>35</price>
-        <link>https://www.onikshop.gr/product-page/celio-sokreen15</link>
-        <mpn>SOKREEN15 STONE</mpn>
       </variation>
     </variations>
   </product>
@@ -5817,7 +5768,7 @@
     <weight>2000</weight>
     <price>37.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <variations>
       <variation>
         <variationid>4213087a-12e4-71c6-57a9-27e691101d7d-w32-l33</variationid>
@@ -5832,7 +5783,7 @@
         <variationid>4213087a-12e4-71c6-57a9-27e691101d7d-w33-l33</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L33</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>37.5</price>
         <link>https://www.onikshop.gr/product-page/lee-women-s-cameron-jeans</link>
         <mpn>L3469547</mpn>
@@ -7293,12 +7244,12 @@
     <additionalImage>https://static.wixstatic.com/media/6c7135_8b85ae2d7d084c299a7be4b9e17a2f94~mv2.jpeg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_c9e57f8f532d4b0a96134ef44d97f424~mv2.jpeg</additionalImage>
     <color>Βαθύ σκούρο Μπλε</color>
-    <size>W30 L30,W31 L32,W32 L34,W33 L34,W33 L36,W40 L32,W42 L34</size>
+    <size>W30 L30,W31 L32,W32 L34,W33 L34,W33 L36,W40 L32,W42 L34,W44 L34</size>
     <brand>Levi's</brand>
     <weight>500</weight>
     <price>78.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>371fc283-0361-3e1a-b378-b58895ea83d9-w30-l30</variationid>
@@ -7322,7 +7273,7 @@
         <variationid>371fc283-0361-3e1a-b378-b58895ea83d9-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>0</quantity>
+        <quantity>1</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-4</link>
         <mpn>00501-0101</mpn>
@@ -7363,6 +7314,15 @@
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-4</link>
         <mpn>00501-0101</mpn>
       </variation>
+      <variation>
+        <variationid>371fc283-0361-3e1a-b378-b58895ea83d9-w44-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W44 L34</size>
+        <quantity>1</quantity>
+        <price>78.4</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-501-original-4</link>
+        <mpn>00501-0101</mpn>
+      </variation>
     </variations>
   </product>
   <product>
@@ -7381,7 +7341,7 @@
     <weight>500</weight>
     <price>78.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>7</quantity>
     <variations>
       <variation>
         <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w30-l32</variationid>
@@ -7414,7 +7374,7 @@
         <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>0</quantity>
+        <quantity>1</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
         <mpn>00501-0114</mpn>
@@ -7879,23 +7839,6 @@
         <mpn>00506-03-79</mpn>
       </variation>
     </variations>
-  </product>
-  <product>
-    <id>edf2b08d-0852-5604-a3a5-9e2bcd102b09</id>
-    <name>LEVI'S ® 512 SLIM TAPER FIT 28833-0244</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>28833-0244</mpn>
-    <link>https://www.onikshop.gr/product-page/levi-s-512-slim-taper-fit-1</link>
-    <description><![CDATA[98% COTTON<br>2% ELASTANE]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_24272e5254f345f19e79e0cb203577c8~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_3dd86365ac654a859cc0225ac09abc2c~mv2.jpg</additionalImage>
-    <color>Μπλε κλασικό</color>
-    <size>W33 L34</size>
-    <brand>Levi's</brand>
-    <weight>500</weight>
-    <price>49.85</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
   </product>
   <product>
     <id>d0d1d41e-1804-7bd8-11ef-9a03cb783dca</id>
@@ -8396,7 +8339,7 @@
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w30-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W30 L32</size>
-        <quantity>0</quantity>
+        <quantity>1</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
         <mpn>00501-0065</mpn>
@@ -8405,7 +8348,7 @@
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w30-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W30 L34</size>
-        <quantity>0</quantity>
+        <quantity>1</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
         <mpn>00501-0065</mpn>
@@ -8423,7 +8366,7 @@
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w32-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
         <mpn>00501-0065</mpn>
@@ -8459,7 +8402,7 @@
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
-        <quantity>3</quantity>
+        <quantity>2</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
         <mpn>00501-0065</mpn>
@@ -12954,25 +12897,25 @@
     <mpn>W1MZ UH 10K</mpn>
     <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
     <description><![CDATA[Οριστικά λεπτό τζιν ταιριάζει με χαλαρή, φθαρμένη εμφάνιση.<br>Τα πάντα αξιόπιστα, τζιν κομμένα από καουμπόη.<br>Λεπτό από το ισχίο έως τον αστράγαλο με ένα ελαφρύ πλύσιμο.<br>Αξιόπιστη άνεση και στιλ για να ενισχύσετε οποιονδήποτε συνδυασμό από την ντουλάπα σας.<br>Τα εικονίδια ζουν για πάντα.<br>Χαρακτηριστικά:<br>Μεσαία άνοδος με μύγα φερμουάρ.<br>Iconic Wrangler 'W' βελονιά και έμπλαστρο.<br>Απαλό αποτύπωμα Περιβαλλοντικά υπεύθυνο ύφασμα.]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_9dd4c92796fa42bcbee58abd29c8b01e~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_699e8ae0e6d94b19bc3387bddcad78fb~mv2.jpg</additionalImage>
+    <featureImage>https://static.wixstatic.com/media/6c7135_699e8ae0e6d94b19bc3387bddcad78fb~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_9dd4c92796fa42bcbee58abd29c8b01e~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_a8d8121425b340f18d2cca17308c30ba~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_e88e9fdabd8f4f4585eabdf8632ffcfe~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_cc98de0a637f47aa8d912004cbadc45d~mv2.jpg</additionalImage>
     <color>Πετροπλυμένο</color>
     <size>W31 L34,W32 L34,W33 L34,W34 L34,W36 L34,W38 L34,W40,W42 L34</size>
     <brand>Wrangler</brand>
-    <weight>2000</weight>
-    <price>129</price>
+    <weight>200</weight>
+    <price>89.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>8</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>00fec805-15d2-e4d9-0806-827453a388cc-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
-        <quantity>1</quantity>
-        <price>129</price>
+        <quantity>0</quantity>
+        <price>89.95</price>
         <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
         <mpn>W1MZ UH 10K</mpn>
       </variation>
@@ -12980,8 +12923,8 @@
         <variationid>00fec805-15d2-e4d9-0806-827453a388cc-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>2</quantity>
-        <price>129</price>
+        <quantity>0</quantity>
+        <price>89.95</price>
         <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
         <mpn>W1MZ UH 10K</mpn>
       </variation>
@@ -12990,7 +12933,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
         <quantity>1</quantity>
-        <price>129</price>
+        <price>89.95</price>
         <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
         <mpn>W1MZ UH 10K</mpn>
       </variation>
@@ -12998,8 +12941,8 @@
         <variationid>00fec805-15d2-e4d9-0806-827453a388cc-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>129</price>
+        <quantity>0</quantity>
+        <price>89.95</price>
         <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
         <mpn>W1MZ UH 10K</mpn>
       </variation>
@@ -13007,8 +12950,8 @@
         <variationid>00fec805-15d2-e4d9-0806-827453a388cc-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
-        <quantity>1</quantity>
-        <price>129</price>
+        <quantity>0</quantity>
+        <price>89.95</price>
         <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
         <mpn>W1MZ UH 10K</mpn>
       </variation>
@@ -13017,7 +12960,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
         <quantity>0</quantity>
-        <price>129</price>
+        <price>89.95</price>
         <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
         <mpn>W1MZ UH 10K</mpn>
       </variation>
@@ -13026,7 +12969,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40</size>
         <quantity>1</quantity>
-        <price>129</price>
+        <price>89.95</price>
         <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
         <mpn>W1MZ UH 10K</mpn>
       </variation>
@@ -13035,7 +12978,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
         <quantity>1</quantity>
-        <price>129</price>
+        <price>89.95</price>
         <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
         <mpn>W1MZ UH 10K</mpn>
       </variation>
@@ -13079,9 +13022,9 @@
   </product>
   <product>
     <id>5d180c38-c252-1bdd-4710-273a386431a0</id>
-    <name>Wrangler Greensboro 803 Blue Arcade W15Q YL 31Q</name>
+    <name>Wrangler Greensboro 803 Blue Arcade W15Q-YL-31Q</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>W15Q YL 31Q</mpn>
+    <mpn>W15Q-YL-31Q</mpn>
     <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-blue-arcade</link>
     <description><![CDATA[Μάρκα: Wrangler<br>Χρώμα: Μπλε<br>Χρώμα παραγωγού: Blue Arcade<br>Μοτίβο: Λείο<br>Κούμπωμα: Με φερμουάρ<br>Μπατζάκι : Ευθεία γραμμή<br>ΕΦΑΡΜΟΓΗ ΚΑΙ ΜΕΓΕΘΟΣ<br>Μέγεθος: Το μοντέλο μας έχει 189 cm και έχει πάνω του το μέγεθος 32/32 του κατασκευαστή<br>Προσαρμογή: Regular Fit<br>Καβάλος: Κανονικός<br>Μήκος: Μακρύ]]></description>
     <featureImage>https://static.wixstatic.com/media/6c7135_eba5b19f64cf447ab41a183855b92677~mv2.webp</featureImage>
@@ -13091,117 +13034,117 @@
     <color>Μπλε κλασικό</color>
     <size>W31 L34,W32 L34,W33 L34,W34 L34,W34 L36,W35 L34,W36 L34,W36 L36,W38 L34,W40 L34,W42 L34</size>
     <brand>Wrangler</brand>
-    <weight>2000</weight>
-    <price>109</price>
+    <weight>200</weight>
+    <price>76.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>11</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>5d180c38-c252-1bdd-4710-273a386431a0-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
-        <quantity>1</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-blue-arcade</link>
-        <mpn>W15Q YL 31Q</mpn>
+        <mpn>W15Q-YL-31Q</mpn>
       </variation>
       <variation>
         <variationid>5d180c38-c252-1bdd-4710-273a386431a0-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>1</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-blue-arcade</link>
-        <mpn>W15Q YL 31Q</mpn>
+        <mpn>W15Q-YL-31Q</mpn>
       </variation>
       <variation>
         <variationid>5d180c38-c252-1bdd-4710-273a386431a0-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
-        <quantity>1</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-blue-arcade</link>
-        <mpn>W15Q YL 31Q</mpn>
+        <mpn>W15Q-YL-31Q</mpn>
       </variation>
       <variation>
         <variationid>5d180c38-c252-1bdd-4710-273a386431a0-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-blue-arcade</link>
-        <mpn>W15Q YL 31Q</mpn>
+        <mpn>W15Q-YL-31Q</mpn>
       </variation>
       <variation>
         <variationid>5d180c38-c252-1bdd-4710-273a386431a0-w34-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L36</size>
-        <quantity>1</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-blue-arcade</link>
-        <mpn>W15Q YL 31Q</mpn>
+        <mpn>W15Q-YL-31Q</mpn>
       </variation>
       <variation>
         <variationid>5d180c38-c252-1bdd-4710-273a386431a0-w35-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W35 L34</size>
         <quantity>0</quantity>
-        <price>109</price>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-blue-arcade</link>
-        <mpn>W15Q YL 31Q</mpn>
+        <mpn>W15Q-YL-31Q</mpn>
       </variation>
       <variation>
         <variationid>5d180c38-c252-1bdd-4710-273a386431a0-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
-        <quantity>2</quantity>
-        <price>109</price>
+        <quantity>1</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-blue-arcade</link>
-        <mpn>W15Q YL 31Q</mpn>
+        <mpn>W15Q-YL-31Q</mpn>
       </variation>
       <variation>
         <variationid>5d180c38-c252-1bdd-4710-273a386431a0-w36-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L36</size>
-        <quantity>1</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-blue-arcade</link>
-        <mpn>W15Q YL 31Q</mpn>
+        <mpn>W15Q-YL-31Q</mpn>
       </variation>
       <variation>
         <variationid>5d180c38-c252-1bdd-4710-273a386431a0-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
         <quantity>1</quantity>
-        <price>109</price>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-blue-arcade</link>
-        <mpn>W15Q YL 31Q</mpn>
+        <mpn>W15Q-YL-31Q</mpn>
       </variation>
       <variation>
         <variationid>5d180c38-c252-1bdd-4710-273a386431a0-w40-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
         <quantity>1</quantity>
-        <price>109</price>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-blue-arcade</link>
-        <mpn>W15Q YL 31Q</mpn>
+        <mpn>W15Q-YL-31Q</mpn>
       </variation>
       <variation>
         <variationid>5d180c38-c252-1bdd-4710-273a386431a0-w42-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
-        <quantity>1</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-blue-arcade</link>
-        <mpn>W15Q YL 31Q</mpn>
+        <mpn>W15Q-YL-31Q</mpn>
       </variation>
     </variations>
   </product>
   <product>
     <id>0827b57c-f2df-13f2-917f-3928266fd951</id>
-    <name>Wrangler Greensboro 803 BULLSEYE W15Q YI 39K</name>
+    <name>Wrangler Greensboro 803 BULLSEYE W15Q-YI-39K</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>W15Q YI 39K</mpn>
+    <mpn>W15Q-YI-39K</mpn>
     <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
     <description><![CDATA[Η Wrangler ξέρει τον τρόπο να εντάσσει το κλασικό τζιν στην σύγχρονη καθημερινότητα. Ποιοτικά υφάσματα και εξαιρετικοί τρόποι ραφής, μετατρέπουν το αγαπημένο μας τζιν στον μεγαλύτερο μας σύμμαχο.Κανονική γραμμή<br>Τσέπες στο μπροστινό και στο πίσω μέρος <br>Σύνθεση: 92% βαμβάκι, 2% ελαστίνη, 6% πολυεστέρας]]></description>
     <featureImage>https://static.wixstatic.com/media/6c7135_8aa5bef64060498bb9b38b6fc5e38340~mv2.png</featureImage>
@@ -13211,108 +13154,108 @@
     <color>Μπλε κλασικό</color>
     <size>W31 L34,W32 L34,W34 L34,W34 L36,W35 L34,W36 L34,W36 L36,W38 L34,W40 L34,W42 L34</size>
     <brand>Wrangler</brand>
-    <weight>2000</weight>
-    <price>109</price>
+    <weight>200</weight>
+    <price>76.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>9</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>0827b57c-f2df-13f2-917f-3928266fd951-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
         <quantity>1</quantity>
-        <price>109</price>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
-        <mpn>W15Q YI 39K</mpn>
+        <mpn>W15Q-YI-39K</mpn>
       </variation>
       <variation>
         <variationid>0827b57c-f2df-13f2-917f-3928266fd951-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>1</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
-        <mpn>W15Q YI 39K</mpn>
+        <mpn>W15Q-YI-39K</mpn>
       </variation>
       <variation>
         <variationid>0827b57c-f2df-13f2-917f-3928266fd951-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
-        <mpn>W15Q YI 39K</mpn>
+        <mpn>W15Q-YI-39K</mpn>
       </variation>
       <variation>
         <variationid>0827b57c-f2df-13f2-917f-3928266fd951-w34-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L36</size>
-        <quantity>1</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
-        <mpn>W15Q YI 39K</mpn>
+        <mpn>W15Q-YI-39K</mpn>
       </variation>
       <variation>
         <variationid>0827b57c-f2df-13f2-917f-3928266fd951-w35-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W35 L34</size>
         <quantity>0</quantity>
-        <price>109</price>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
-        <mpn>W15Q YI 39K</mpn>
+        <mpn>W15Q-YI-39K</mpn>
       </variation>
       <variation>
         <variationid>0827b57c-f2df-13f2-917f-3928266fd951-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
-        <quantity>0</quantity>
-        <price>109</price>
+        <quantity>1</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
-        <mpn>W15Q YI 39K</mpn>
+        <mpn>W15Q-YI-39K</mpn>
       </variation>
       <variation>
         <variationid>0827b57c-f2df-13f2-917f-3928266fd951-w36-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L36</size>
-        <quantity>2</quantity>
-        <price>109</price>
+        <quantity>1</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
-        <mpn>W15Q YI 39K</mpn>
+        <mpn>W15Q-YI-39K</mpn>
       </variation>
       <variation>
         <variationid>0827b57c-f2df-13f2-917f-3928266fd951-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
         <quantity>1</quantity>
-        <price>109</price>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
-        <mpn>W15Q YI 39K</mpn>
+        <mpn>W15Q-YI-39K</mpn>
       </variation>
       <variation>
         <variationid>0827b57c-f2df-13f2-917f-3928266fd951-w40-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
         <quantity>1</quantity>
-        <price>109</price>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
-        <mpn>W15Q YI 39K</mpn>
+        <mpn>W15Q-YI-39K</mpn>
       </variation>
       <variation>
         <variationid>0827b57c-f2df-13f2-917f-3928266fd951-w42-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
-        <quantity>1</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
-        <mpn>W15Q YI 39K</mpn>
+        <mpn>W15Q-YI-39K</mpn>
       </variation>
     </variations>
   </product>
   <product>
     <id>badbc59e-53c3-ba30-4e2f-0d290dcffd37</id>
-    <name>Wrangler Greensboro 803 Corduroy in Biscuit W15Q A2 012</name>
+    <name>Wrangler Greensboro 803 Corduroy in Biscuit W15Q-A2-012</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Κοτλέ]]></category>
-    <mpn>W15Q A2 012</mpn>
+    <mpn>W15Q-A2-012</mpn>
     <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-biscuit</link>
     <description>Our Original Greensboro jeans feature a waist-high waistband, zipper fly, regular fit over the thigh and straight leg.It's not for nothing that they're a beloved classic. Our Greensboro jeans have been refreshed for this season in soft Bordeaux corduroy. The ideal smart-casual style for work and play.Low-stretch material for just the right amount of freedom of movement.Made from cotton supported by the Better Cotton Initiative (BCI), the world's largest cotton sustainability program.Authentic Wrangler patch on the back pocket.</description>
     <featureImage>https://static.wixstatic.com/media/6c7135_e64c8b10d1734123818b1223b3cc8339~mv2.webp</featureImage>
@@ -13322,126 +13265,126 @@
     <color>Μπεζ</color>
     <size>W31 L34,W32 L34,W33 L34,W34 L34,W35 L34,W36 L34,W36 L36,W38 L34,W38 L36,W42 L34,W44 L34,W46 L34</size>
     <brand>Wrangler</brand>
-    <weight>2000</weight>
-    <price>99</price>
+    <weight>200</weight>
+    <price>69.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>12</quantity>
+    <quantity>7</quantity>
     <variations>
       <variation>
         <variationid>badbc59e-53c3-ba30-4e2f-0d290dcffd37-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-biscuit</link>
-        <mpn>W15Q A2 012</mpn>
+        <mpn>W15Q-A2-012</mpn>
       </variation>
       <variation>
         <variationid>badbc59e-53c3-ba30-4e2f-0d290dcffd37-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-biscuit</link>
-        <mpn>W15Q A2 012</mpn>
+        <mpn>W15Q-A2-012</mpn>
       </variation>
       <variation>
         <variationid>badbc59e-53c3-ba30-4e2f-0d290dcffd37-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-biscuit</link>
-        <mpn>W15Q A2 012</mpn>
+        <mpn>W15Q-A2-012</mpn>
       </variation>
       <variation>
         <variationid>badbc59e-53c3-ba30-4e2f-0d290dcffd37-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-biscuit</link>
-        <mpn>W15Q A2 012</mpn>
+        <mpn>W15Q-A2-012</mpn>
       </variation>
       <variation>
         <variationid>badbc59e-53c3-ba30-4e2f-0d290dcffd37-w35-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W35 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-biscuit</link>
-        <mpn>W15Q A2 012</mpn>
+        <mpn>W15Q-A2-012</mpn>
       </variation>
       <variation>
         <variationid>badbc59e-53c3-ba30-4e2f-0d290dcffd37-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-biscuit</link>
-        <mpn>W15Q A2 012</mpn>
+        <mpn>W15Q-A2-012</mpn>
       </variation>
       <variation>
         <variationid>badbc59e-53c3-ba30-4e2f-0d290dcffd37-w36-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L36</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-biscuit</link>
-        <mpn>W15Q A2 012</mpn>
+        <mpn>W15Q-A2-012</mpn>
       </variation>
       <variation>
         <variationid>badbc59e-53c3-ba30-4e2f-0d290dcffd37-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-biscuit</link>
-        <mpn>W15Q A2 012</mpn>
+        <mpn>W15Q-A2-012</mpn>
       </variation>
       <variation>
         <variationid>badbc59e-53c3-ba30-4e2f-0d290dcffd37-w38-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L36</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-biscuit</link>
-        <mpn>W15Q A2 012</mpn>
+        <mpn>W15Q-A2-012</mpn>
       </variation>
       <variation>
         <variationid>badbc59e-53c3-ba30-4e2f-0d290dcffd37-w42-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-biscuit</link>
-        <mpn>W15Q A2 012</mpn>
+        <mpn>W15Q-A2-012</mpn>
       </variation>
       <variation>
         <variationid>badbc59e-53c3-ba30-4e2f-0d290dcffd37-w44-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W44 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-biscuit</link>
-        <mpn>W15Q A2 012</mpn>
+        <mpn>W15Q-A2-012</mpn>
       </variation>
       <variation>
         <variationid>badbc59e-53c3-ba30-4e2f-0d290dcffd37-w46-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W46 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-biscuit</link>
-        <mpn>W15Q A2 012</mpn>
+        <mpn>W15Q-A2-012</mpn>
       </variation>
     </variations>
   </product>
   <product>
     <id>5bc67a77-6d7f-5ba2-00c8-55c0827068ed</id>
-    <name>Wrangler Greensboro 803 Corduroy in Fudge W15Q A2 H29</name>
+    <name>Wrangler Greensboro 803 Corduroy in Fudge W15Q-A2-H29</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Κοτλέ]]></category>
-    <mpn>W15Q A2 H29</mpn>
+    <mpn>W15Q-A2-H29</mpn>
     <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-fudge</link>
     <description>Our Original Greensboro jeans feature a waist-high waistband, zipper fly, regular fit over the thigh and straight leg.It's not for nothing that they're a beloved classic. Our Greensboro jeans have been refreshed for this season in soft Bordeaux corduroy. The ideal smart-casual style for work and play.Low-stretch material for just the right amount of freedom of movement.Made from cotton supported by the Better Cotton Initiative (BCI), the world's largest cotton sustainability program.Authentic Wrangler patch on the back pocket.</description>
     <featureImage>https://static.wixstatic.com/media/6c7135_8bce289b4aa74de695e6e41f75a38306~mv2.webp</featureImage>
@@ -13452,91 +13395,91 @@
     <color>Μελιτζανί</color>
     <size>W31 L34,W32 L34,W33 L34,W34 L34,W36 L34,W38 L34,W40 L34,W44 L34,W46 L34</size>
     <brand>Wrangler</brand>
-    <weight>2000</weight>
-    <price>99</price>
+    <weight>200</weight>
+    <price>69.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>9</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>5bc67a77-6d7f-5ba2-00c8-55c0827068ed-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-fudge</link>
-        <mpn>W15Q A2 H29</mpn>
+        <mpn>W15Q-A2-H29</mpn>
       </variation>
       <variation>
         <variationid>5bc67a77-6d7f-5ba2-00c8-55c0827068ed-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-fudge</link>
-        <mpn>W15Q A2 H29</mpn>
+        <mpn>W15Q-A2-H29</mpn>
       </variation>
       <variation>
         <variationid>5bc67a77-6d7f-5ba2-00c8-55c0827068ed-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-fudge</link>
-        <mpn>W15Q A2 H29</mpn>
+        <mpn>W15Q-A2-H29</mpn>
       </variation>
       <variation>
         <variationid>5bc67a77-6d7f-5ba2-00c8-55c0827068ed-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-fudge</link>
-        <mpn>W15Q A2 H29</mpn>
+        <mpn>W15Q-A2-H29</mpn>
       </variation>
       <variation>
         <variationid>5bc67a77-6d7f-5ba2-00c8-55c0827068ed-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-fudge</link>
-        <mpn>W15Q A2 H29</mpn>
+        <mpn>W15Q-A2-H29</mpn>
       </variation>
       <variation>
         <variationid>5bc67a77-6d7f-5ba2-00c8-55c0827068ed-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-fudge</link>
-        <mpn>W15Q A2 H29</mpn>
+        <mpn>W15Q-A2-H29</mpn>
       </variation>
       <variation>
         <variationid>5bc67a77-6d7f-5ba2-00c8-55c0827068ed-w40-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-fudge</link>
-        <mpn>W15Q A2 H29</mpn>
+        <mpn>W15Q-A2-H29</mpn>
       </variation>
       <variation>
         <variationid>5bc67a77-6d7f-5ba2-00c8-55c0827068ed-w44-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W44 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-fudge</link>
-        <mpn>W15Q A2 H29</mpn>
+        <mpn>W15Q-A2-H29</mpn>
       </variation>
       <variation>
         <variationid>5bc67a77-6d7f-5ba2-00c8-55c0827068ed-w46-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W46 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-fudge</link>
-        <mpn>W15Q A2 H29</mpn>
+        <mpn>W15Q-A2-H29</mpn>
       </variation>
     </variations>
   </product>
@@ -13555,17 +13498,17 @@
     <color>Σκούρο Μπλέ</color>
     <size>W31 L34,W32 L34,W33 L34,W34 L34,W34 L36,W35 L34,W36 L34,W36 L36,W38 L34,W38 L36,W40 L34,W42 L34,W44 L34,W46 L34</size>
     <brand>Wrangler</brand>
-    <weight>2000</weight>
-    <price>99</price>
+    <weight>200</weight>
+    <price>69.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>13</quantity>
+    <quantity>7</quantity>
     <variations>
       <variation>
         <variationid>7a1ef34f-1e10-4e61-253b-7b1c30dfa8dd-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-navy</link>
         <mpn>W15Q A2 114</mpn>
       </variation>
@@ -13574,7 +13517,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-navy</link>
         <mpn>W15Q A2 114</mpn>
       </variation>
@@ -13583,7 +13526,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-navy</link>
         <mpn>W15Q A2 114</mpn>
       </variation>
@@ -13591,8 +13534,8 @@
         <variationid>7a1ef34f-1e10-4e61-253b-7b1c30dfa8dd-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-navy</link>
         <mpn>W15Q A2 114</mpn>
       </variation>
@@ -13600,8 +13543,8 @@
         <variationid>7a1ef34f-1e10-4e61-253b-7b1c30dfa8dd-w34-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L36</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-navy</link>
         <mpn>W15Q A2 114</mpn>
       </variation>
@@ -13609,8 +13552,8 @@
         <variationid>7a1ef34f-1e10-4e61-253b-7b1c30dfa8dd-w35-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W35 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-navy</link>
         <mpn>W15Q A2 114</mpn>
       </variation>
@@ -13619,7 +13562,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-navy</link>
         <mpn>W15Q A2 114</mpn>
       </variation>
@@ -13627,8 +13570,8 @@
         <variationid>7a1ef34f-1e10-4e61-253b-7b1c30dfa8dd-w36-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L36</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-navy</link>
         <mpn>W15Q A2 114</mpn>
       </variation>
@@ -13636,8 +13579,8 @@
         <variationid>7a1ef34f-1e10-4e61-253b-7b1c30dfa8dd-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-navy</link>
         <mpn>W15Q A2 114</mpn>
       </variation>
@@ -13645,8 +13588,8 @@
         <variationid>7a1ef34f-1e10-4e61-253b-7b1c30dfa8dd-w38-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L36</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-navy</link>
         <mpn>W15Q A2 114</mpn>
       </variation>
@@ -13655,7 +13598,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-navy</link>
         <mpn>W15Q A2 114</mpn>
       </variation>
@@ -13664,7 +13607,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
         <quantity>0</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-navy</link>
         <mpn>W15Q A2 114</mpn>
       </variation>
@@ -13673,7 +13616,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W44 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-navy</link>
         <mpn>W15Q A2 114</mpn>
       </variation>
@@ -13682,7 +13625,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W46 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>69.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-navy</link>
         <mpn>W15Q A2 114</mpn>
       </variation>
@@ -13690,9 +13633,9 @@
   </product>
   <product>
     <id>a76d654e-de22-913f-1f32-a072f6df337a</id>
-    <name>Wrangler Grensboro 803 Day Drifter W15Q Q8 21U</name>
+    <name>Wrangler Grensboro 803 Day Drifter W15Q-Q8-21U</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>W15Q Q8 21U</mpn>
+    <mpn>W15Q-Q8-21U</mpn>
     <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
     <description><![CDATA[Product Code: W15QQ821U<br>Brand: WRANGLER<br>Material: 91% COTTON 7% POLYESTER 2% ELASTANE<br>Closure: Zip<br>Waist Height: Mid Rise<br>Fit: Regular<br>Style: Straight<br>Colour: Dark blue<br>Name: GREENSBORO]]></description>
     <featureImage>https://static.wixstatic.com/media/6c7135_9b6e7a0237d14e3ab7360d6119b6a5ae~mv2.jpg</featureImage>
@@ -13702,144 +13645,144 @@
     <color>Σκούρο Μπλέ</color>
     <size>W31 L34,W32 L34,W33 L34,W34 L34,W35 L34,W36 L34,W36 L36,W38 L34,W40 L34,W42 L34,W44 L34,W46 L34,W48 L34,W50 L34</size>
     <brand>Wrangler</brand>
-    <weight>2000</weight>
-    <price>99</price>
+    <weight>500</weight>
+    <price>79.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>14</quantity>
+    <quantity>7</quantity>
     <variations>
       <variation>
         <variationid>a76d654e-de22-913f-1f32-a072f6df337a-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
-        <mpn>W15Q Q8 21U</mpn>
+        <mpn>W15Q-Q8-21U</mpn>
       </variation>
       <variation>
         <variationid>a76d654e-de22-913f-1f32-a072f6df337a-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
-        <mpn>W15Q Q8 21U</mpn>
+        <mpn>W15Q-Q8-21U</mpn>
       </variation>
       <variation>
         <variationid>a76d654e-de22-913f-1f32-a072f6df337a-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
-        <mpn>W15Q Q8 21U</mpn>
+        <mpn>W15Q-Q8-21U</mpn>
       </variation>
       <variation>
         <variationid>a76d654e-de22-913f-1f32-a072f6df337a-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
-        <mpn>W15Q Q8 21U</mpn>
+        <mpn>W15Q-Q8-21U</mpn>
       </variation>
       <variation>
         <variationid>a76d654e-de22-913f-1f32-a072f6df337a-w35-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W35 L34</size>
         <quantity>0</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
-        <mpn>W15Q Q8 21U</mpn>
+        <mpn>W15Q-Q8-21U</mpn>
       </variation>
       <variation>
         <variationid>a76d654e-de22-913f-1f32-a072f6df337a-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
-        <quantity>2</quantity>
-        <price>99</price>
+        <quantity>1</quantity>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
-        <mpn>W15Q Q8 21U</mpn>
+        <mpn>W15Q-Q8-21U</mpn>
       </variation>
       <variation>
         <variationid>a76d654e-de22-913f-1f32-a072f6df337a-w36-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L36</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
-        <mpn>W15Q Q8 21U</mpn>
+        <mpn>W15Q-Q8-21U</mpn>
       </variation>
       <variation>
         <variationid>a76d654e-de22-913f-1f32-a072f6df337a-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
-        <mpn>W15Q Q8 21U</mpn>
+        <mpn>W15Q-Q8-21U</mpn>
       </variation>
       <variation>
         <variationid>a76d654e-de22-913f-1f32-a072f6df337a-w40-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
-        <mpn>W15Q Q8 21U</mpn>
+        <mpn>W15Q-Q8-21U</mpn>
       </variation>
       <variation>
         <variationid>a76d654e-de22-913f-1f32-a072f6df337a-w42-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
-        <mpn>W15Q Q8 21U</mpn>
+        <mpn>W15Q-Q8-21U</mpn>
       </variation>
       <variation>
         <variationid>a76d654e-de22-913f-1f32-a072f6df337a-w44-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W44 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
-        <mpn>W15Q Q8 21U</mpn>
+        <mpn>W15Q-Q8-21U</mpn>
       </variation>
       <variation>
         <variationid>a76d654e-de22-913f-1f32-a072f6df337a-w46-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W46 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
-        <mpn>W15Q Q8 21U</mpn>
+        <mpn>W15Q-Q8-21U</mpn>
       </variation>
       <variation>
         <variationid>a76d654e-de22-913f-1f32-a072f6df337a-w48-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W48 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
-        <mpn>W15Q Q8 21U</mpn>
+        <mpn>W15Q-Q8-21U</mpn>
       </variation>
       <variation>
         <variationid>a76d654e-de22-913f-1f32-a072f6df337a-w50-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W50 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
-        <mpn>W15Q Q8 21U</mpn>
+        <mpn>W15Q-Q8-21U</mpn>
       </variation>
     </variations>
   </product>
   <product>
     <id>1247ada9-f899-2650-4122-0aaf9297549e</id>
-    <name>Wrangler Grensboro 803 High Stretch in Black Valley W15Q HP 19A</name>
+    <name>Wrangler Grensboro 803 High Stretch in Black Valley W15Q-HP-19A</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>W15Q HP 19A</mpn>
+    <mpn>W15Q-HP-19A</mpn>
     <link>https://www.onikshop.gr/product-page/grensboro-803-high-stretch-in-black-valley</link>
     <description><![CDATA[Βασικά χαρακτηριστικά:Κλείσιμο με φερμουάρ και κουμπί<br>Τρεις τσέπες μπροστά<br>Δύο τσέπες πίσω<br>Θηλάκια για ζώνη στη μέση<br>Δερμάτινο logo patch πίσω<br>Σύνθεση: 98% Cotton, 2% Elastane]]></description>
     <featureImage>https://static.wixstatic.com/media/6c7135_4873e13d051c4c52ba29131244f8b6d2~mv2.webp</featureImage>
@@ -13849,109 +13792,109 @@
     <color>Μαύρο</color>
     <size>W31 L34,W32 L34,W33 L34,W34 L34,W34 L36,W35 L34,W36 L34,W36 L36,W38 L34,W40 L34,W42 L34</size>
     <brand>Wrangler</brand>
-    <weight>2000</weight>
-    <price>99</price>
+    <weight>200</weight>
+    <price>79.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>10</quantity>
+    <quantity>8</quantity>
     <variations>
       <variation>
         <variationid>1247ada9-f899-2650-4122-0aaf9297549e-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/grensboro-803-high-stretch-in-black-valley</link>
-        <mpn>W15Q HP 19A</mpn>
+        <mpn>W15Q-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>1247ada9-f899-2650-4122-0aaf9297549e-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/grensboro-803-high-stretch-in-black-valley</link>
-        <mpn>W15Q HP 19A</mpn>
+        <mpn>W15Q-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>1247ada9-f899-2650-4122-0aaf9297549e-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/grensboro-803-high-stretch-in-black-valley</link>
-        <mpn>W15Q HP 19A</mpn>
+        <mpn>W15Q-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>1247ada9-f899-2650-4122-0aaf9297549e-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/grensboro-803-high-stretch-in-black-valley</link>
-        <mpn>W15Q HP 19A</mpn>
+        <mpn>W15Q-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>1247ada9-f899-2650-4122-0aaf9297549e-w34-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L36</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/grensboro-803-high-stretch-in-black-valley</link>
-        <mpn>W15Q HP 19A</mpn>
+        <mpn>W15Q-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>1247ada9-f899-2650-4122-0aaf9297549e-w35-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W35 L34</size>
         <quantity>0</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/grensboro-803-high-stretch-in-black-valley</link>
-        <mpn>W15Q HP 19A</mpn>
+        <mpn>W15Q-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>1247ada9-f899-2650-4122-0aaf9297549e-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/grensboro-803-high-stretch-in-black-valley</link>
-        <mpn>W15Q HP 19A</mpn>
+        <mpn>W15Q-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>1247ada9-f899-2650-4122-0aaf9297549e-w36-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L36</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/grensboro-803-high-stretch-in-black-valley</link>
-        <mpn>W15Q HP 19A</mpn>
+        <mpn>W15Q-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>1247ada9-f899-2650-4122-0aaf9297549e-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/grensboro-803-high-stretch-in-black-valley</link>
-        <mpn>W15Q HP 19A</mpn>
+        <mpn>W15Q-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>1247ada9-f899-2650-4122-0aaf9297549e-w40-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/grensboro-803-high-stretch-in-black-valley</link>
-        <mpn>W15Q HP 19A</mpn>
+        <mpn>W15Q-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>1247ada9-f899-2650-4122-0aaf9297549e-w42-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/grensboro-803-high-stretch-in-black-valley</link>
-        <mpn>W15Q HP 19A</mpn>
+        <mpn>W15Q-HP-19A</mpn>
       </variation>
     </variations>
   </product>
@@ -14051,10 +13994,10 @@
     <color>Γκρι</color>
     <size>W30 L32,W31 L32,W36 L34,W38 L34,W40 L34,W42 L34</size>
     <brand>Wrangler</brand>
-    <weight>2000</weight>
+    <weight>200</weight>
     <price>62.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>8</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>535adcc8-5cac-1623-df81-bdd2b0348ccf-w30-l32</variationid>
@@ -14078,7 +14021,7 @@
         <variationid>535adcc8-5cac-1623-df81-bdd2b0348ccf-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
-        <quantity>2</quantity>
+        <quantity>0</quantity>
         <price>62.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-jeans-texas-stretch-w121y6xre-smoke</link>
         <mpn>W121Y6XRE</mpn>
@@ -14087,7 +14030,7 @@
         <variationid>535adcc8-5cac-1623-df81-bdd2b0348ccf-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
-        <quantity>2</quantity>
+        <quantity>0</quantity>
         <price>62.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-jeans-texas-stretch-w121y6xre-smoke</link>
         <mpn>W121Y6XRE</mpn>
@@ -14105,7 +14048,7 @@
         <variationid>535adcc8-5cac-1623-df81-bdd2b0348ccf-w42-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>62.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-jeans-texas-stretch-w121y6xre-smoke</link>
         <mpn>W121Y6XRE</mpn>
@@ -14114,9 +14057,9 @@
   </product>
   <product>
     <id>527d2abd-3f6a-7343-afd4-501bc20d4754</id>
-    <name>Wrangler Larston 812 Black Valley W18S HP 19A</name>
+    <name>Wrangler Larston 812 Black Valley W18S-HP-19A</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>W18S HP 19A</mpn>
+    <mpn>W18S-HP-19A</mpn>
     <link>https://www.onikshop.gr/product-page/wrangler-larston-812-black-valley</link>
     <description><![CDATA[Ανδρικό παντελόνι τζιν Wrangler σε μαύρο χρώμα.<br>Slim fit και tapered πόδι, χαμηλή μέση και πέντε τσέπες<br>Δερμάτινο λογότυπο Wrangler στο πίσω μέρος<br>Κλείσιμο με κουμπί και φερμουάρ.<br>Σύνθεση: 98% Βαμβάκι 2% Ελαστάν<br>Η Wrangler είναι κατασκευαστής τζιν και άλλων ειδών ένδυσης, ειδικά ενδυμάτων εργασίας. Το εμπορικό σήμα ανήκει στην εταιρία Kontoor Brands Inc., η οποία κατέχει επίσης το Lee. Η έδρα της βρίσκεται στο κέντρο του Greensboro, στη Βόρεια Καρολίνα στις Ηνωμένες Πολιτείες, με εργοστάσια παραγωγής σε διάφορες τοποθεσίες σε όλο τον κόσμο.]]></description>
     <featureImage>https://static.wixstatic.com/media/6c7135_2321eb4ec5234430b123929eebb10a95~mv2.jpg</featureImage>
@@ -14126,91 +14069,91 @@
     <color>Μαύρο</color>
     <size>W29 L32,W30 L32,W31 L34,W32 L34,W33 L34,W34 L34,W36 L34,W38 L34,W40 L34</size>
     <brand>Wrangler</brand>
-    <weight>2000</weight>
-    <price>99</price>
+    <weight>200</weight>
+    <price>79.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>11</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>527d2abd-3f6a-7343-afd4-501bc20d4754-w29-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W29 L32</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-812-black-valley</link>
-        <mpn>W18S HP 19A</mpn>
+        <mpn>W18S-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>527d2abd-3f6a-7343-afd4-501bc20d4754-w30-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W30 L32</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>2</quantity>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-812-black-valley</link>
-        <mpn>W18S HP 19A</mpn>
+        <mpn>W18S-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>527d2abd-3f6a-7343-afd4-501bc20d4754-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-812-black-valley</link>
-        <mpn>W18S HP 19A</mpn>
+        <mpn>W18S-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>527d2abd-3f6a-7343-afd4-501bc20d4754-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>2</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-812-black-valley</link>
-        <mpn>W18S HP 19A</mpn>
+        <mpn>W18S-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>527d2abd-3f6a-7343-afd4-501bc20d4754-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
-        <quantity>2</quantity>
-        <price>99</price>
+        <quantity>1</quantity>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-812-black-valley</link>
-        <mpn>W18S HP 19A</mpn>
+        <mpn>W18S-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>527d2abd-3f6a-7343-afd4-501bc20d4754-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
         <quantity>1</quantity>
-        <price>99</price>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-812-black-valley</link>
-        <mpn>W18S HP 19A</mpn>
+        <mpn>W18S-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>527d2abd-3f6a-7343-afd4-501bc20d4754-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-812-black-valley</link>
-        <mpn>W18S HP 19A</mpn>
+        <mpn>W18S-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>527d2abd-3f6a-7343-afd4-501bc20d4754-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-812-black-valley</link>
-        <mpn>W18S HP 19A</mpn>
+        <mpn>W18S-HP-19A</mpn>
       </variation>
       <variation>
         <variationid>527d2abd-3f6a-7343-afd4-501bc20d4754-w40-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
-        <quantity>1</quantity>
-        <price>99</price>
+        <quantity>0</quantity>
+        <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-812-black-valley</link>
-        <mpn>W18S HP 19A</mpn>
+        <mpn>W18S-HP-19A</mpn>
       </variation>
     </variations>
   </product>
@@ -14227,17 +14170,17 @@
     <color>Μπλε κλασικό</color>
     <size>W29 L32,W30 L32,W31 L34,W32 L34,W33 L34,W34 L34,W36 L34,W38 L34,W40 L34</size>
     <brand>Wrangler</brand>
-    <weight>2000</weight>
-    <price>109</price>
+    <weight>500</weight>
+    <price>87.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>12</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>c3cdadd4-6b41-12c9-90dd-0dec08c9eb41-w29-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W29 L32</size>
         <quantity>1</quantity>
-        <price>109</price>
+        <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-country-boy</link>
         <mpn>W18S 84 23M</mpn>
       </variation>
@@ -14246,7 +14189,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W30 L32</size>
         <quantity>1</quantity>
-        <price>109</price>
+        <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-country-boy</link>
         <mpn>W18S 84 23M</mpn>
       </variation>
@@ -14254,8 +14197,8 @@
         <variationid>c3cdadd4-6b41-12c9-90dd-0dec08c9eb41-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
-        <quantity>2</quantity>
-        <price>109</price>
+        <quantity>1</quantity>
+        <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-country-boy</link>
         <mpn>W18S 84 23M</mpn>
       </variation>
@@ -14263,8 +14206,8 @@
         <variationid>c3cdadd4-6b41-12c9-90dd-0dec08c9eb41-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>2</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-country-boy</link>
         <mpn>W18S 84 23M</mpn>
       </variation>
@@ -14273,7 +14216,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
         <quantity>2</quantity>
-        <price>109</price>
+        <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-country-boy</link>
         <mpn>W18S 84 23M</mpn>
       </variation>
@@ -14281,8 +14224,8 @@
         <variationid>c3cdadd4-6b41-12c9-90dd-0dec08c9eb41-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-country-boy</link>
         <mpn>W18S 84 23M</mpn>
       </variation>
@@ -14290,8 +14233,8 @@
         <variationid>c3cdadd4-6b41-12c9-90dd-0dec08c9eb41-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
-        <quantity>1</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-country-boy</link>
         <mpn>W18S 84 23M</mpn>
       </variation>
@@ -14299,8 +14242,8 @@
         <variationid>c3cdadd4-6b41-12c9-90dd-0dec08c9eb41-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
-        <quantity>1</quantity>
-        <price>109</price>
+        <quantity>0</quantity>
+        <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-country-boy</link>
         <mpn>W18S 84 23M</mpn>
       </variation>
@@ -14309,7 +14252,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
         <quantity>1</quantity>
-        <price>109</price>
+        <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-country-boy</link>
         <mpn>W18S 84 23M</mpn>
       </variation>
@@ -14519,6 +14462,73 @@
     </variations>
   </product>
   <product>
+    <id>180c1aaf-114f-2b82-29fe-e11026d4f7ca</id>
+    <name>Wrangler Spencer Blue W16AGW15S</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>W16AGW15S</mpn>
+    <link>https://www.onikshop.gr/product-page/wrangler-spencer-blue</link>
+    <description>Παντελόνι με casual λεπτή γραμμή και χαμηλή μέση. Το χαρακτηριστικό του είναι τα σκισίματα. W16AGW15S Σύνθεση: 100% COTTON.</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_8e7192474be34bdda0fa35d50dcfeb3f~mv2.jpeg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_983682cba7d44cfc83f4eabe66fafb30~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_934c632a230b401698e3793ff45add07~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_b1fa53d8183e47b98d61a48dd9d83f6c~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_b89675751f054da5aa08d06ab8038e6c~mv2.jpeg</additionalImage>
+    <color>Πετροπλυμένο</color>
+    <size>W30 L34,W31 L34,W32 L34,W33 L34,W34 L34</size>
+    <brand>Wrangler</brand>
+    <weight>200</weight>
+    <price>59.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>180c1aaf-114f-2b82-29fe-e11026d4f7ca-w30-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W30 L34</size>
+        <quantity>1</quantity>
+        <price>59.5</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-spencer-blue</link>
+        <mpn>W16AGW15S</mpn>
+      </variation>
+      <variation>
+        <variationid>180c1aaf-114f-2b82-29fe-e11026d4f7ca-w31-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W31 L34</size>
+        <quantity>1</quantity>
+        <price>59.5</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-spencer-blue</link>
+        <mpn>W16AGW15S</mpn>
+      </variation>
+      <variation>
+        <variationid>180c1aaf-114f-2b82-29fe-e11026d4f7ca-w32-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W32 L34</size>
+        <quantity>1</quantity>
+        <price>59.5</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-spencer-blue</link>
+        <mpn>W16AGW15S</mpn>
+      </variation>
+      <variation>
+        <variationid>180c1aaf-114f-2b82-29fe-e11026d4f7ca-w33-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L34</size>
+        <quantity>2</quantity>
+        <price>59.5</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-spencer-blue</link>
+        <mpn>W16AGW15S</mpn>
+      </variation>
+      <variation>
+        <variationid>180c1aaf-114f-2b82-29fe-e11026d4f7ca-w34-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34 L34</size>
+        <quantity>1</quantity>
+        <price>59.5</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-spencer-blue</link>
+        <mpn>W16AGW15S</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>bb126050-39b3-b4e2-65c6-12f75bbeae14</id>
     <name>Wrangler Spencer Slim Streight Ripped Ashes W16A-MG-97W</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
@@ -14558,9 +14568,9 @@
   </product>
   <product>
     <id>b166be86-c913-b273-cd8d-779b1aa44429</id>
-    <name>Wrangler Texas 821 Low Stretch in The Mountain W121 U8 28L</name>
+    <name>Wrangler Texas 821 Low Stretch in The Mountain W121-U8-28L</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>W121 U8 28L</mpn>
+    <mpn>W121-U8-28L</mpn>
     <link>https://www.onikshop.gr/product-page/texas-low-stretch-in-the-mountain</link>
     <description><![CDATA[Σχετικά με το προϊόν<br>Tζιν παντελόνι από τη συλλογή Wrangler σε στυλ straight κανονική μέση. Μοντέλο από λείο τζιν.<br>- Το Earth Wash είναι ένας βιώσιμος τρόπος πλύσης του υλικού. Σε αυτή τη διαδικασία, χρησιμοποιούνται οικολογικές μέθοδοι για την εξοικονόμηση νερού, ενέργειας και τη μείωση της χρήσης χημικών.<br>- Κόψιμο straight.<br>- Κλείσιμο με κουμπί και φερμουάρ.<br>- Τσέπες.<br>- Πλάτος μέσης: 38 cm.<br>- Πλάτος γοφών: 52 cm.<br>- Ύψος μέσης: 27 cm.<br>- Κάτω πλάτος μπατζακιού: 19,5 cm.<br>- Πλάτος μπατζακιού: 27 cm.<br>- Μήκος: 108 cm.<br>- Διαστάσεις αναφερόμενες για το μέγεθος: 32/32.<br>Υλικό:<br>78% Βαμβάκι, 21% Πολυεστέρας, 1% Σπαντέξ<br>ID προϊόντος: 9BYY-SJM0CJ_59X<br>Κωδικός κατασκευαστή: W121U828L]]></description>
     <featureImage>https://static.wixstatic.com/media/6c7135_6410f12ab936476ab1885d71ce7a3ef7~mv2.webp</featureImage>
@@ -14570,175 +14580,175 @@
     <color>Μπλε κλασικό</color>
     <size>W33 L34,W34 L34,W35 L34,W36 L34,W36 L36,W38 L34,W38 L36,W40 L34</size>
     <brand>Wrangler</brand>
-    <weight>2000</weight>
-    <price>119</price>
+    <weight>500</weight>
+    <price>83.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>9</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>b166be86-c913-b273-cd8d-779b1aa44429-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
         <quantity>1</quantity>
-        <price>119</price>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/texas-low-stretch-in-the-mountain</link>
-        <mpn>W121 U8 28L</mpn>
+        <mpn>W121-U8-28L</mpn>
       </variation>
       <variation>
         <variationid>b166be86-c913-b273-cd8d-779b1aa44429-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>119</price>
+        <quantity>0</quantity>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/texas-low-stretch-in-the-mountain</link>
-        <mpn>W121 U8 28L</mpn>
+        <mpn>W121-U8-28L</mpn>
       </variation>
       <variation>
         <variationid>b166be86-c913-b273-cd8d-779b1aa44429-w35-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W35 L34</size>
         <quantity>1</quantity>
-        <price>119</price>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/texas-low-stretch-in-the-mountain</link>
-        <mpn>W121 U8 28L</mpn>
+        <mpn>W121-U8-28L</mpn>
       </variation>
       <variation>
         <variationid>b166be86-c913-b273-cd8d-779b1aa44429-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
-        <quantity>1</quantity>
-        <price>119</price>
+        <quantity>0</quantity>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/texas-low-stretch-in-the-mountain</link>
-        <mpn>W121 U8 28L</mpn>
+        <mpn>W121-U8-28L</mpn>
       </variation>
       <variation>
         <variationid>b166be86-c913-b273-cd8d-779b1aa44429-w36-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L36</size>
         <quantity>2</quantity>
-        <price>119</price>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/texas-low-stretch-in-the-mountain</link>
-        <mpn>W121 U8 28L</mpn>
+        <mpn>W121-U8-28L</mpn>
       </variation>
       <variation>
         <variationid>b166be86-c913-b273-cd8d-779b1aa44429-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
-        <quantity>1</quantity>
-        <price>119</price>
+        <quantity>0</quantity>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/texas-low-stretch-in-the-mountain</link>
-        <mpn>W121 U8 28L</mpn>
+        <mpn>W121-U8-28L</mpn>
       </variation>
       <variation>
         <variationid>b166be86-c913-b273-cd8d-779b1aa44429-w38-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L36</size>
-        <quantity>1</quantity>
-        <price>119</price>
+        <quantity>0</quantity>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/texas-low-stretch-in-the-mountain</link>
-        <mpn>W121 U8 28L</mpn>
+        <mpn>W121-U8-28L</mpn>
       </variation>
       <variation>
         <variationid>b166be86-c913-b273-cd8d-779b1aa44429-w40-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
         <quantity>1</quantity>
-        <price>119</price>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/texas-low-stretch-in-the-mountain</link>
-        <mpn>W121 U8 28L</mpn>
+        <mpn>W121-U8-28L</mpn>
       </variation>
     </variations>
   </product>
   <product>
     <id>db6d9f63-cf68-cbbb-7bb8-be8e22b4d2af</id>
-    <name>Wrangler Texas Electric Rodeo W121 35 21J</name>
+    <name>Wrangler Texas Electric Rodeo W121-35-21J</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>W121 35 21J</mpn>
+    <mpn>W121-35-21J</mpn>
     <link>https://www.onikshop.gr/product-page/wrangler-texas-electric-rodeo</link>
     <description><![CDATA[Ανδρικό παντελόνι τζιν Wrangler.<br>Με κανονική εφαρμογή και ίσιο πόδι, χαμηλή μέση και πέντε τσέπες<br>Δερμάτινο λογότυπο Wrangler στο πίσω μέρος<br>Κλείσιμο με κουμπί και φερμουάρ.<br>Σύνθεση: 77% Βαμβάκι 22% Πολυεστέρας 1% Ελαστάνη<br>Η Wrangler είναι κατασκευαστής τζιν και άλλων ειδών ένδυσης, ειδικά ενδυμάτων εργασίας. Το εμπορικό σήμα ανήκει στην εταιρία Kontoor Brands Inc., η οποία κατέχει επίσης το Lee. Η έδρα της βρίσκεται στο κέντρο του Greensboro, στη Βόρεια Καρολίνα στις Ηνωμένες Πολιτείες, με εργοστάσια παραγωγής σε διάφορες τοποθεσίες σε όλο τον κόσμο.]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_76bbf6e956a64c679e38a28a2fa3e534~mv2.jpg</featureImage>
+    <featureImage>https://static.wixstatic.com/media/6c7135_1d8a93b911c24ef8bb96e11dde8016e6~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_76bbf6e956a64c679e38a28a2fa3e534~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_6fa78c857926421081b7785c465732c6~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_1d8a93b911c24ef8bb96e11dde8016e6~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_5e8683dfb0e34bd48b2f156e415863ee~mv2.jpg</additionalImage>
     <color>Πετροπλυμένο</color>
     <size>W33 L34,W34 L34,W35 L34,W36 L34,W36 L36,W38 L34,W38 L36,W40 L34</size>
     <brand>Wrangler</brand>
-    <weight>2000</weight>
-    <price>119</price>
+    <weight>200</weight>
+    <price>83.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>db6d9f63-cf68-cbbb-7bb8-be8e22b4d2af-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
         <quantity>1</quantity>
-        <price>119</price>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-texas-electric-rodeo</link>
-        <mpn>W121 35 21J</mpn>
+        <mpn>W121-35-21J</mpn>
       </variation>
       <variation>
         <variationid>db6d9f63-cf68-cbbb-7bb8-be8e22b4d2af-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>119</price>
+        <quantity>0</quantity>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-texas-electric-rodeo</link>
-        <mpn>W121 35 21J</mpn>
+        <mpn>W121-35-21J</mpn>
       </variation>
       <variation>
         <variationid>db6d9f63-cf68-cbbb-7bb8-be8e22b4d2af-w35-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W35 L34</size>
-        <quantity>1</quantity>
-        <price>119</price>
+        <quantity>0</quantity>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-texas-electric-rodeo</link>
-        <mpn>W121 35 21J</mpn>
+        <mpn>W121-35-21J</mpn>
       </variation>
       <variation>
         <variationid>db6d9f63-cf68-cbbb-7bb8-be8e22b4d2af-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
         <quantity>0</quantity>
-        <price>119</price>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-texas-electric-rodeo</link>
-        <mpn>W121 35 21J</mpn>
+        <mpn>W121-35-21J</mpn>
       </variation>
       <variation>
         <variationid>db6d9f63-cf68-cbbb-7bb8-be8e22b4d2af-w36-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L36</size>
-        <quantity>1</quantity>
-        <price>119</price>
+        <quantity>0</quantity>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-texas-electric-rodeo</link>
-        <mpn>W121 35 21J</mpn>
+        <mpn>W121-35-21J</mpn>
       </variation>
       <variation>
         <variationid>db6d9f63-cf68-cbbb-7bb8-be8e22b4d2af-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
-        <quantity>1</quantity>
-        <price>119</price>
+        <quantity>0</quantity>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-texas-electric-rodeo</link>
-        <mpn>W121 35 21J</mpn>
+        <mpn>W121-35-21J</mpn>
       </variation>
       <variation>
         <variationid>db6d9f63-cf68-cbbb-7bb8-be8e22b4d2af-w38-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L36</size>
         <quantity>1</quantity>
-        <price>119</price>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-texas-electric-rodeo</link>
-        <mpn>W121 35 21J</mpn>
+        <mpn>W121-35-21J</mpn>
       </variation>
       <variation>
         <variationid>db6d9f63-cf68-cbbb-7bb8-be8e22b4d2af-w40-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
         <quantity>1</quantity>
-        <price>119</price>
+        <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-texas-electric-rodeo</link>
-        <mpn>W121 35 21J</mpn>
+        <mpn>W121-35-21J</mpn>
       </variation>
     </variations>
   </product>
@@ -15239,13 +15249,22 @@
     <additionalImage>https://static.wixstatic.com/media/6c7135_190782957d574e2bb4ce7d84fdf7b102~mv2.png</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_474f4109d8e8445fbe9d47312e6419dd~mv2.png</additionalImage>
     <color>Βαθύ σκούρο Μπλε</color>
-    <size>W31 L34,W40 L34,W42 L34,W44 L34,W46 L34,W30 L34</size>
+    <size>W30 L34,W31 L34,W40 L34,W42 L34,W44 L34,W46 L34</size>
     <brand>Wrangler</brand>
-    <weight>2000</weight>
+    <weight>200</weight>
     <price>62.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>2</quantity>
     <variations>
+      <variation>
+        <variationid>a919ba56-81d7-11b5-d928-e7d0b1f5487a-w30-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W30 L34</size>
+        <quantity>0</quantity>
+        <price>62.3</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-man-s-trousers-navy-blue</link>
+        <mpn>W15QY6114</mpn>
+      </variation>
       <variation>
         <variationid>a919ba56-81d7-11b5-d928-e7d0b1f5487a-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -15277,7 +15296,7 @@
         <variationid>a919ba56-81d7-11b5-d928-e7d0b1f5487a-w44-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W44 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>62.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-man-s-trousers-navy-blue</link>
         <mpn>W15QY6114</mpn>
@@ -15286,16 +15305,7 @@
         <variationid>a919ba56-81d7-11b5-d928-e7d0b1f5487a-w46-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W46 L34</size>
-        <quantity>1</quantity>
-        <price>62.3</price>
-        <link>https://www.onikshop.gr/product-page/wrangler-man-s-trousers-navy-blue</link>
-        <mpn>W15QY6114</mpn>
-      </variation>
-      <variation>
-        <variationid>a919ba56-81d7-11b5-d928-e7d0b1f5487a-w30-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W30 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>62.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-man-s-trousers-navy-blue</link>
         <mpn>W15QY6114</mpn>
@@ -18988,79 +18998,6 @@
         <price>62.99</price>
         <link>https://www.onikshop.gr/product-page/μπουφαν-s-oliver-9130</link>
         <mpn>9130</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
-    <id>2daddca0-02e8-a1f9-cbf9-f98d407bdb50</id>
-    <name>ΠΑΝΤΕΛΟΝΙ GREENSBORO WRANGLER W15QY6C06</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Υφασμάτινα]]></category>
-    <mpn>W15QY6C06</mpn>
-    <link>https://www.onikshop.gr/product-page/παντελονι-greensboro-wrangler</link>
-    <description><![CDATA[Κωδικός προϊόντος: W15QY6C06-BEIGE<br>Κατηγορία: Παντελόνια<br>Ετικέτες: ΑΝΟΙΞΗ/ΚΑΛΟΚΑΙΡΙ, S/S 2022]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_6c98b6fcf0ad478ab79488979684702a~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_f9dcf74b86964573a687be67e05a5a66~mv2.jpg</additionalImage>
-    <color>Μπεζ</color>
-    <size>W31 L34,W34 L36,W36 L36,W38 L34,W40 L34,W42 L34</size>
-    <brand>Wrangler</brand>
-    <weight>2000</weight>
-    <price>62.3</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
-    <variations>
-      <variation>
-        <variationid>2daddca0-02e8-a1f9-cbf9-f98d407bdb50-w31-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W31 L34</size>
-        <quantity>1</quantity>
-        <price>62.3</price>
-        <link>https://www.onikshop.gr/product-page/παντελονι-greensboro-wrangler</link>
-        <mpn>W15QY6C06</mpn>
-      </variation>
-      <variation>
-        <variationid>2daddca0-02e8-a1f9-cbf9-f98d407bdb50-w34-l36</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W34 L36</size>
-        <quantity>1</quantity>
-        <price>62.3</price>
-        <link>https://www.onikshop.gr/product-page/παντελονι-greensboro-wrangler</link>
-        <mpn>W15QY6C06</mpn>
-      </variation>
-      <variation>
-        <variationid>2daddca0-02e8-a1f9-cbf9-f98d407bdb50-w36-l36</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W36 L36</size>
-        <quantity>1</quantity>
-        <price>62.3</price>
-        <link>https://www.onikshop.gr/product-page/παντελονι-greensboro-wrangler</link>
-        <mpn>W15QY6C06</mpn>
-      </variation>
-      <variation>
-        <variationid>2daddca0-02e8-a1f9-cbf9-f98d407bdb50-w38-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W38 L34</size>
-        <quantity>1</quantity>
-        <price>62.3</price>
-        <link>https://www.onikshop.gr/product-page/παντελονι-greensboro-wrangler</link>
-        <mpn>W15QY6C06</mpn>
-      </variation>
-      <variation>
-        <variationid>2daddca0-02e8-a1f9-cbf9-f98d407bdb50-w40-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W40 L34</size>
-        <quantity>0</quantity>
-        <price>62.3</price>
-        <link>https://www.onikshop.gr/product-page/παντελονι-greensboro-wrangler</link>
-        <mpn>W15QY6C06</mpn>
-      </variation>
-      <variation>
-        <variationid>2daddca0-02e8-a1f9-cbf9-f98d407bdb50-w42-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W42 L34</size>
-        <quantity>1</quantity>
-        <price>62.3</price>
-        <link>https://www.onikshop.gr/product-page/παντελονι-greensboro-wrangler</link>
-        <mpn>W15QY6C06</mpn>
       </variation>
     </variations>
   </product>
