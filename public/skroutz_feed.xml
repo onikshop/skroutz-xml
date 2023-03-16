@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-03-16 11:56</created_at>
+  <created_at>2023-03-16 18:48</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -2478,13 +2478,16 @@
     <mpn>M3519</mpn>
     <link>https://www.onikshop.gr/product-page/fred-perry-ringer-t-shirt-m3519-426</link>
     <description><![CDATA[100% jersey cotton<br>Ribbed crew neck and cuffs<br>Embroidered Laurel Wreath<br>M3519 426<br>Machine wash]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_abbe0a9a4b6f44d69632766c909d20f9~mv2.jpg</featureImage>
+    <featureImage>https://static.wixstatic.com/media/9517a7_c823f28bc5c447baa04e73df1f02bc89~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_74f5b94c60b547e197868e1a1187080d~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_3bfe68ab9f9c4d168ca2bffb22b793ef~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_16880a0680014016b74811cb5ffa1fb3~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_abbe0a9a4b6f44d69632766c909d20f9~mv2.jpg</additionalImage>
     <color>Λαδί</color>
     <size>S</size>
     <brand>Fred Perry</brand>
     <weight>500</weight>
-    <price>41.4</price>
+    <price>44.85</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
   </product>
@@ -2495,9 +2498,9 @@
     <mpn>m1588</mpn>
     <link>https://www.onikshop.gr/product-page/fred-perry-twin-tipped</link>
     <description>Ένα μπλουζάκι με λαιμόκοψη στο πλήρωμα με το χαρακτηριστικό δίδυμο άκρο στο λαιμό και τη μανσέτα. Φτιαγμένο σε ελαφρύ βαμβακερό ζέρσεϊ, στην κανονική μας εφαρμογή. Ελαφρύ βαμβακερό ζέρσεϊ / Κανονική εφαρμογή / Λαιμός και μανσέτα με διπλή μύτη</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_a2c4abba1cc24fa4ad92868f4535b931~mv2.jpg</featureImage>
+    <featureImage>https://static.wixstatic.com/media/6c7135_bdedab1a286648a6b02dd0b2edaf8bd1~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_a2c4abba1cc24fa4ad92868f4535b931~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_1a4d7efd704246728dc5c5c435ebded5~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_bdedab1a286648a6b02dd0b2edaf8bd1~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_c95d788ff2c94047b99f5934c9727b11~mv2.jpg</additionalImage>
     <color>Κόκκινο</color>
     <size>S</size>
@@ -4525,6 +4528,7 @@
     <description><![CDATA[Μπλούζα με κουκούλα από τη συλλογή Lee. Μοντέλο από λεπτό, ελαφρώς ελαστικό πλεκτό.<br>- Χαλαρή εφαρμογή.<br>- Χαμηλή γραμμή ώμου.<br>- Κουκούλα με κορδόνια περίσφιξης.<br>- Μια πρακτική, ολισθηρή τσέπη καγκουρό στο μπροστινό μέρος.<br>- Μοντέλο με απλικέ.<br>- Φινίρισμα από μέσο σύσφιξης.<br>- Μήκος μανικιού (μετρούμενο από την κουκούλα): 83 cm.<br>- Μήκος: 71 cm.<br>- Πλάτος μασχάλης: 63 cm.<br>- Διαστάσεις αναφερόμενες για το μέγεθος: L.<br>Υλικό:<br>75% Βαμβάκι, 25% Πολυεστέρας]]></description>
     <featureImage>https://static.wixstatic.com/media/6c7135_ba118086c162406bb8ee727b6aa9700c~mv2.webp</featureImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_69a9cd9c39f44ab0a7bce4c90355937e~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_b173bed3609043e4b92835fb044e6585~mv2.webp</additionalImage>
     <color>Μώβ</color>
     <size>S,M,L,XL</size>
     <brand>Lee</brand>
@@ -7218,13 +7222,14 @@
   </product>
   <product>
     <id>5a1407b7-ad0d-12b6-ba37-942c844af962</id>
-    <name>Levi's 501 Original 00501-1723 LEVIS</name>
+    <name>Levi's 501 Original 00501-1723</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>00501-1723 LEVIS</mpn>
+    <mpn>00501-1723</mpn>
     <link>https://www.onikshop.gr/product-page/levi-s-501-original-2</link>
     <description/>
     <featureImage>https://static.wixstatic.com/media/6c7135_fea2186e1fec4a47a3de5ceb1f0345da~mv2.jpeg</featureImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_99e1e26c694f4f3db0f1fc78d015d0a1~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_9df795d834fb454b9abf72e735f72ade~mv2.jpg</additionalImage>
     <color>Πετροπλυμένο</color>
     <size>W42 L34</size>
     <brand>Levi's</brand>
@@ -7565,6 +7570,7 @@
     <description><![CDATA[527 Slim Fit Boot Cut]]></description>
     <featureImage>https://static.wixstatic.com/media/6c7135_82e91aa52565415b87ff273848b380f8~mv2.jpg</featureImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_2f43f4a915fc44918732a26cf6c3469c~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_09074639d5c1494e87b9f121db1f0e61~mv2.jpg</additionalImage>
     <color>Πετροπλυμένο</color>
     <size>W38 L34</size>
     <brand>Levi's</brand>
@@ -7710,6 +7716,8 @@
     <description>99%COTTON 1%ELASTANE</description>
     <featureImage>https://static.wixstatic.com/media/6c7135_8be9a330dc384ce6885617bbdf242688~mv2.jpg</featureImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_a28140961ec5422d927e1e0f6e091aa2~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_62e64a0796e7428bacc8cb494d7b440c~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_4a3184a5468d4fb98d4696e75c81bb40~mv2.jpg</additionalImage>
     <color>Πετροπλυμένο</color>
     <size>W40 L34,W42 L34</size>
     <brand>Levi's</brand>
@@ -8062,6 +8070,7 @@
     <description>Regular Straight Fit100%Cotton</description>
     <featureImage>https://static.wixstatic.com/media/6c7135_0c6cebc1d8124dd49e22a302afa7d54b~mv2.jpg</featureImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_ba331fd2eed5472e93afcf4a700fbf2a~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_a84168c7c086406cb71fabf9cf7e7739~mv2.jpg</additionalImage>
     <color>Βαθύ σκούρο Μπλε</color>
     <size>W38 L34</size>
     <brand>Levi's</brand>
@@ -8222,12 +8231,13 @@
     <mpn>29923-0002</mpn>
     <link>https://www.onikshop.gr/product-page/levis-line-8-jeans-men-slim-straight</link>
     <description>99%Cotton 1%Elastane</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_a8a1916b621448c3b9d92d1b9160b40e~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_a7d9604cb7a84593bb90fd799284ac45~mv2.jpg</additionalImage>
+    <featureImage>https://static.wixstatic.com/media/6c7135_a7d9604cb7a84593bb90fd799284ac45~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_5745b60b665e406685d6029455d01b7b~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_a8a1916b621448c3b9d92d1b9160b40e~mv2.jpg</additionalImage>
     <color>Πετροπλυμένο</color>
     <size>W29 L32,W29 L34,W31 L32,W31 L34</size>
     <brand>Levi's</brand>
-    <weight>500</weight>
+    <weight>200</weight>
     <price>42.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
@@ -8938,75 +8948,6 @@
     </variations>
   </product>
   <product>
-    <id>fc97ffaf-20f6-b157-3a20-a5fd606273a2</id>
-    <name>Mrt Martini 10972 10972</name>
-    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
-    <mpn>10972</mpn>
-    <link>https://www.onikshop.gr/product-page/mrt-martini-10972</link>
-    <description><![CDATA[Η ανδρική μπλούζα φούτερ της εταιρίας Mrt Martini, είναι κατάλληλη για τις κρύες μέρες του χρόνου.Βασικά χαρακτηριστικά:<br>• Στενή εφαρμογή που αγκαλιάζει το σώμα<br>• Με κουκούλα<br>• Μεγάλη τσέπη μπροστά τύπου καγκουρό]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_0535a101afbf495685090356864fa6f3~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_cc276623102b4476ad4676e78b5aca8e~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_c0622495594349d69637fa3db9712a0d~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_ece5ccb57c25468788f9d45e7a30071f~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_e56f4541fef9492eb0006eeda2daea16~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_0325a587266d4c349a0fea4160cb9ff4~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_bdf0dc8463b048a7a1f98f23f6be0680~mv2.jpg</additionalImage>
-    <color>Χακί</color>
-    <size>S,M,L,XL,XXL</size>
-    <brand>Martini</brand>
-    <weight>2000</weight>
-    <price>30.75</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-    <variations>
-      <variation>
-        <variationid>fc97ffaf-20f6-b157-3a20-a5fd606273a2-s</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>S</size>
-        <quantity>0</quantity>
-        <price>30.75</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-10972</link>
-        <mpn>10972</mpn>
-      </variation>
-      <variation>
-        <variationid>fc97ffaf-20f6-b157-3a20-a5fd606273a2-m</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>M</size>
-        <quantity>0</quantity>
-        <price>30.75</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-10972</link>
-        <mpn>10972</mpn>
-      </variation>
-      <variation>
-        <variationid>fc97ffaf-20f6-b157-3a20-a5fd606273a2-l</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>L</size>
-        <quantity>1</quantity>
-        <price>30.75</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-10972</link>
-        <mpn>10972</mpn>
-      </variation>
-      <variation>
-        <variationid>fc97ffaf-20f6-b157-3a20-a5fd606273a2-xl</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XL</size>
-        <quantity>0</quantity>
-        <price>30.75</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-10972</link>
-        <mpn>10972</mpn>
-      </variation>
-      <variation>
-        <variationid>fc97ffaf-20f6-b157-3a20-a5fd606273a2-xxl</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XXL</size>
-        <quantity>0</quantity>
-        <price>30.75</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-10972</link>
-        <mpn>10972</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
     <id>4ab1910e-d549-11ad-aa60-cf9e739a4170</id>
     <name>Mrt Martini 10975 10975</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
@@ -9279,6 +9220,305 @@
         <price>28.7</price>
         <link>https://www.onikshop.gr/product-page/mrt-martini-11056</link>
         <mpn>11056</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>f09e7f0d-f764-ddba-dc1b-2f20d1b19c47</id>
+    <name>MRT Martini T-Shirt κολλεγίου με αλυσίδα εμπρός – Μαύρο 70908-2-S</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>70908-2-S</mpn>
+    <link>https://www.onikshop.gr/product-page/t-shirt-κολλεγίου-με-αλυσίδα-εμπρός-μαύρο</link>
+    <description><![CDATA[T-Shirt κοντομάνικο κολλεγίου με αλυσίδα εμπρός.Κανονική γραμμή<br>100% Βαμβάκι<br>Made In Greece]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_468b375233c64f49ab5698867da56ff7~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_941a07715c68410f8ee3c43d65f1b8b6~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_ca5d458acd404a3887e3fd034ef5512a~mv2.jpg</additionalImage>
+    <color>Μαύρο</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Martini</brand>
+    <weight>200</weight>
+    <price>26</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>8</quantity>
+    <variations>
+      <variation>
+        <variationid>f09e7f0d-f764-ddba-dc1b-2f20d1b19c47-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-κολλεγίου-με-αλυσίδα-εμπρός-μαύρο</link>
+        <mpn>70908-2-S</mpn>
+      </variation>
+      <variation>
+        <variationid>f09e7f0d-f764-ddba-dc1b-2f20d1b19c47-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-κολλεγίου-με-αλυσίδα-εμπρός-μαύρο</link>
+        <mpn>70908-2-S</mpn>
+      </variation>
+      <variation>
+        <variationid>f09e7f0d-f764-ddba-dc1b-2f20d1b19c47-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-κολλεγίου-με-αλυσίδα-εμπρός-μαύρο</link>
+        <mpn>70908-2-S</mpn>
+      </variation>
+      <variation>
+        <variationid>f09e7f0d-f764-ddba-dc1b-2f20d1b19c47-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>2</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-κολλεγίου-με-αλυσίδα-εμπρός-μαύρο</link>
+        <mpn>70908-2-S</mpn>
+      </variation>
+      <variation>
+        <variationid>f09e7f0d-f764-ddba-dc1b-2f20d1b19c47-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-κολλεγίου-με-αλυσίδα-εμπρός-μαύρο</link>
+        <mpn>70908-2-S</mpn>
+      </variation>
+      <variation>
+        <variationid>f09e7f0d-f764-ddba-dc1b-2f20d1b19c47-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-κολλεγίου-με-αλυσίδα-εμπρός-μαύρο</link>
+        <mpn>70908-2-S</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>9309c53a-4560-2d9e-60e3-cdd248264efb</id>
+    <name>MRT Martini T-Shirt με τύπωμα inspire mrtn – Μαύρο 70869-2</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
+ ]]></category>
+    <mpn>70869-2</mpn>
+    <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-inspire-mrtn-μαύρο</link>
+    <description><![CDATA[T-Shirt κοντομάνικο με τύπωμα inspire mrtn εμπρός.<ul>	<li>Κανονική γραμμή</li>	<li>100% Βαμβάκι</li>	<li>Made In Greece</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_8333085531cb41e39016faaa1ecf8471~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_2d46ef89f5974b4fb70d31686f74c603~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_7cd2d793acac4a7a826ed18475c92a41~mv2.jpg</additionalImage>
+    <color>Μαύρο</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Martini</brand>
+    <weight>100</weight>
+    <price>26</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>8</quantity>
+    <variations>
+      <variation>
+        <variationid>9309c53a-4560-2d9e-60e3-cdd248264efb-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-inspire-mrtn-μαύρο</link>
+        <mpn>70869-2</mpn>
+      </variation>
+      <variation>
+        <variationid>9309c53a-4560-2d9e-60e3-cdd248264efb-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-inspire-mrtn-μαύρο</link>
+        <mpn>70869-2</mpn>
+      </variation>
+      <variation>
+        <variationid>9309c53a-4560-2d9e-60e3-cdd248264efb-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-inspire-mrtn-μαύρο</link>
+        <mpn>70869-2</mpn>
+      </variation>
+      <variation>
+        <variationid>9309c53a-4560-2d9e-60e3-cdd248264efb-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>2</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-inspire-mrtn-μαύρο</link>
+        <mpn>70869-2</mpn>
+      </variation>
+      <variation>
+        <variationid>9309c53a-4560-2d9e-60e3-cdd248264efb-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-inspire-mrtn-μαύρο</link>
+        <mpn>70869-2</mpn>
+      </variation>
+      <variation>
+        <variationid>9309c53a-4560-2d9e-60e3-cdd248264efb-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-inspire-mrtn-μαύρο</link>
+        <mpn>70869-2</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>06e1faeb-e42b-74e8-46d3-e586387c6736</id>
+    <name>MRT Martini T-Shirt με τύπωμα Logo MRT MARTINI – Navy Blue 70830-4</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
+ ]]></category>
+    <mpn>70830-4</mpn>
+    <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-logo-mrt-martini-navy-blue</link>
+    <description><![CDATA[T-Shirt κοντομάνικο με τύπωμα logo MRT MARTINI εμπρός και τρέσα κάτω.Κανονική γραμμή<br>100% Βαμβάκι<br>Made In Greece]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_276e67ff2ad64f64808a34fa995a9fc0~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_5a163b1d31864a31a7e043565c08a9fa~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_1ec8e494b3c24db992f4ffd838008ccf~mv2.jpg</additionalImage>
+    <color>Μπλέ Indigo</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Martini</brand>
+    <weight>100</weight>
+    <price>26</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>8</quantity>
+    <variations>
+      <variation>
+        <variationid>06e1faeb-e42b-74e8-46d3-e586387c6736-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-logo-mrt-martini-navy-blue</link>
+        <mpn>70830-4</mpn>
+      </variation>
+      <variation>
+        <variationid>06e1faeb-e42b-74e8-46d3-e586387c6736-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-logo-mrt-martini-navy-blue</link>
+        <mpn>70830-4</mpn>
+      </variation>
+      <variation>
+        <variationid>06e1faeb-e42b-74e8-46d3-e586387c6736-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-logo-mrt-martini-navy-blue</link>
+        <mpn>70830-4</mpn>
+      </variation>
+      <variation>
+        <variationid>06e1faeb-e42b-74e8-46d3-e586387c6736-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>2</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-logo-mrt-martini-navy-blue</link>
+        <mpn>70830-4</mpn>
+      </variation>
+      <variation>
+        <variationid>06e1faeb-e42b-74e8-46d3-e586387c6736-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-logo-mrt-martini-navy-blue</link>
+        <mpn>70830-4</mpn>
+      </variation>
+      <variation>
+        <variationid>06e1faeb-e42b-74e8-46d3-e586387c6736-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>26</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-logo-mrt-martini-navy-blue</link>
+        <mpn>70830-4</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>e12035a2-12de-5b41-e720-ed9ac383cf80</id>
+    <name>MRT Martini T-Shirt τύπωμα SEARCH – RESCUE – Μαύρο 70664-2</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
+ ]]></category>
+    <mpn>70664-2</mpn>
+    <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-τύπωμα-search-rescue-μαύρο</link>
+    <description><![CDATA[T-Shirt κοντομάνικο με τύπωμα SEARCH – RESCUE εμπρός και μεταλλάκι πίσω.<ul>	<li>Κανονική γραμμή</li>	<li>100% Βαμβάκι</li>	<li>Made In Greece</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_1f662b78026f49e8909c09867ebe595f~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_651d52cddbbc4ebcb5396a1ab678a1c9~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_a58d5e123b2340c3ab1325534e8f7b82~mv2.jpg</additionalImage>
+    <color>Μαύρο</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Martini</brand>
+    <weight>100</weight>
+    <price>27.3</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>8</quantity>
+    <variations>
+      <variation>
+        <variationid>e12035a2-12de-5b41-e720-ed9ac383cf80-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>27.3</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-τύπωμα-search-rescue-μαύρο</link>
+        <mpn>70664-2</mpn>
+      </variation>
+      <variation>
+        <variationid>e12035a2-12de-5b41-e720-ed9ac383cf80-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>27.3</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-τύπωμα-search-rescue-μαύρο</link>
+        <mpn>70664-2</mpn>
+      </variation>
+      <variation>
+        <variationid>e12035a2-12de-5b41-e720-ed9ac383cf80-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>27.3</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-τύπωμα-search-rescue-μαύρο</link>
+        <mpn>70664-2</mpn>
+      </variation>
+      <variation>
+        <variationid>e12035a2-12de-5b41-e720-ed9ac383cf80-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>2</quantity>
+        <price>27.3</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-τύπωμα-search-rescue-μαύρο</link>
+        <mpn>70664-2</mpn>
+      </variation>
+      <variation>
+        <variationid>e12035a2-12de-5b41-e720-ed9ac383cf80-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>27.3</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-τύπωμα-search-rescue-μαύρο</link>
+        <mpn>70664-2</mpn>
+      </variation>
+      <variation>
+        <variationid>e12035a2-12de-5b41-e720-ed9ac383cf80-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>27.3</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-τύπωμα-search-rescue-μαύρο</link>
+        <mpn>70664-2</mpn>
       </variation>
     </variations>
   </product>
