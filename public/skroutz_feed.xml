@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-03-16 18:48</created_at>
+  <created_at>2023-03-17 18:49</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -66,6 +66,7 @@
     <description>100%Cotton 511 Slim Fit</description>
     <featureImage>https://static.wixstatic.com/media/6c7135_a9ac9f896e3e44749ca3f412d908dd94~mv2.jpg</featureImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_2aa6f401efc64eaca8705a01b9fe1cad~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_73bbbb72fe6243569895db4a34ffb90d~mv2.jpg</additionalImage>
     <color>Βαθύ σκούρο Μπλε</color>
     <size>W28 L32</size>
     <brand>Levi's</brand>
@@ -412,6 +413,25 @@
     </variations>
   </product>
   <product>
+    <id>3f4900de-b0c0-8810-e20a-6ecee2d4e0fe</id>
+    <name>AIRY DAKAR BASEBALL CAP 226ACTDAKAR-DKR NYLO</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Καπέλα - Σκουφιά]]></category>
+    <mpn>226ACTDAKAR-DKR NYLO</mpn>
+    <link>https://www.onikshop.gr/product-page/airy-dakar-baseball-cap</link>
+    <description>ONE SIZE</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_3efa7ba75abd4a6eabc3b52ab92bee01~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_ca942fb9202347a6a667a03a290c3331~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_a042a3649cb347cdb08e2e7a6e218c22~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_1a784af716cd41a8ab24612d2378a2a1~mv2.jpg</additionalImage>
+    <color>Μαύρο</color>
+    <size>ONE SIZE</size>
+    <brand>Diverse</brand>
+    <weight>100</weight>
+    <price>19.99</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
+  </product>
+  <product>
     <id>b86be3a9-61f9-c151-1a74-673d72c2ca2f</id>
     <name>Apolo-43 Jeans Edward Apolo-43</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
@@ -497,6 +517,25 @@
         <mpn>19.1.2.84.124-DENIM</mpn>
       </variation>
     </variations>
+  </product>
+  <product>
+    <id>27508fd8-31b5-a450-788e-339e2045d906</id>
+    <name>BLACK-GOLD BASEBALL CAP FROM DAKAR VIP LINE 226ACTDAKAR-NAVI VIP III</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Καπέλα - Σκουφιά]]></category>
+    <mpn>226ACTDAKAR-NAVI VIP III</mpn>
+    <link>https://www.onikshop.gr/product-page/black-gold-baseball-cap-from-dakar-vip-line</link>
+    <description>one size</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_f20b5c385d19400cbd56179ab023a22c~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_8b82e7da07704cebaba307166a87ec09~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_58eae3aa9d314bfa9f4a74585865fdd1~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_65245ab7ea20439db26927e7f89da281~mv2.jpg</additionalImage>
+    <color>Μαύρο</color>
+    <size>ONE SIZE</size>
+    <brand>Diverse</brand>
+    <weight>200</weight>
+    <price>19.99</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
   </product>
   <product>
     <id>47112a6d-71e3-4495-eec2-85f7fea80507</id>
@@ -1499,7 +1538,7 @@
     <color>Πετροπλυμένο</color>
     <size>W28,W29,W40,W42</size>
     <brand>Edward</brand>
-    <weight>1000</weight>
+    <weight>200</weight>
     <price>38.94</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>3</quantity>
@@ -1660,6 +1699,135 @@
         <price>47.6</price>
         <link>https://www.onikshop.gr/product-page/demi-curve-levis-703-1</link>
         <mpn>05703-0642 levis</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>402d1e14-26f8-73d7-0cf0-ecb599910aff</id>
+    <name>Edward Balint-Jap Jeans MP-D-JNS-S23-020</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>MP-D-JNS-S23-020</mpn>
+    <link>https://www.onikshop.gr/product-page/edward-balint-jap-jeans</link>
+    <description><![CDATA[98%cot-2%el Πλύσιμο στο πλυντήριο σε μέγιστη θερμοκρασία 30ºc. Χαμηλό πρόγραμμα στυψίματος. Απαγορεύεται η χρήση χλωρίνης. Μέγιστη θερμοκρασία σιδερώματος 110 º. Μη σιδερώνετε πάνω σε τυπώματα/κεντήματα. Στεγνό καθάρισμα με τετραχλωροαιθυλένιο. Απαγορεύεται η χρήση στεγνωτηρίου. Πλύσιμο από την ανάποδη.]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_623565d0fb21410f8856988d07267013~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_c49482a73dca4ce887f45c2c148f1c5c~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_648b443838574a1aaa280a0b3c4c9149~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_1f93c5211f3f46b5af67628fec8559a2~mv2.jpg</additionalImage>
+    <color>Πετροπλυμένο</color>
+    <size>W27,W28,W29,W30,W31,W32,W33,W34,W36,W38,W40,W42</size>
+    <brand>Edward</brand>
+    <weight>200</weight>
+    <price>89.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>12</quantity>
+    <variations>
+      <variation>
+        <variationid>402d1e14-26f8-73d7-0cf0-ecb599910aff-w27</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W27</size>
+        <quantity>1</quantity>
+        <price>89.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-balint-jap-jeans</link>
+        <mpn>MP-D-JNS-S23-020</mpn>
+      </variation>
+      <variation>
+        <variationid>402d1e14-26f8-73d7-0cf0-ecb599910aff-w28</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W28</size>
+        <quantity>1</quantity>
+        <price>89.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-balint-jap-jeans</link>
+        <mpn>MP-D-JNS-S23-020</mpn>
+      </variation>
+      <variation>
+        <variationid>402d1e14-26f8-73d7-0cf0-ecb599910aff-w29</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W29</size>
+        <quantity>1</quantity>
+        <price>89.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-balint-jap-jeans</link>
+        <mpn>MP-D-JNS-S23-020</mpn>
+      </variation>
+      <variation>
+        <variationid>402d1e14-26f8-73d7-0cf0-ecb599910aff-w30</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W30</size>
+        <quantity>1</quantity>
+        <price>89.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-balint-jap-jeans</link>
+        <mpn>MP-D-JNS-S23-020</mpn>
+      </variation>
+      <variation>
+        <variationid>402d1e14-26f8-73d7-0cf0-ecb599910aff-w31</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W31</size>
+        <quantity>1</quantity>
+        <price>89.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-balint-jap-jeans</link>
+        <mpn>MP-D-JNS-S23-020</mpn>
+      </variation>
+      <variation>
+        <variationid>402d1e14-26f8-73d7-0cf0-ecb599910aff-w32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W32</size>
+        <quantity>1</quantity>
+        <price>89.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-balint-jap-jeans</link>
+        <mpn>MP-D-JNS-S23-020</mpn>
+      </variation>
+      <variation>
+        <variationid>402d1e14-26f8-73d7-0cf0-ecb599910aff-w33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33</size>
+        <quantity>1</quantity>
+        <price>89.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-balint-jap-jeans</link>
+        <mpn>MP-D-JNS-S23-020</mpn>
+      </variation>
+      <variation>
+        <variationid>402d1e14-26f8-73d7-0cf0-ecb599910aff-w34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34</size>
+        <quantity>1</quantity>
+        <price>89.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-balint-jap-jeans</link>
+        <mpn>MP-D-JNS-S23-020</mpn>
+      </variation>
+      <variation>
+        <variationid>402d1e14-26f8-73d7-0cf0-ecb599910aff-w36</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W36</size>
+        <quantity>1</quantity>
+        <price>89.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-balint-jap-jeans</link>
+        <mpn>MP-D-JNS-S23-020</mpn>
+      </variation>
+      <variation>
+        <variationid>402d1e14-26f8-73d7-0cf0-ecb599910aff-w38</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W38</size>
+        <quantity>1</quantity>
+        <price>89.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-balint-jap-jeans</link>
+        <mpn>MP-D-JNS-S23-020</mpn>
+      </variation>
+      <variation>
+        <variationid>402d1e14-26f8-73d7-0cf0-ecb599910aff-w40</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W40</size>
+        <quantity>1</quantity>
+        <price>89.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-balint-jap-jeans</link>
+        <mpn>MP-D-JNS-S23-020</mpn>
+      </variation>
+      <variation>
+        <variationid>402d1e14-26f8-73d7-0cf0-ecb599910aff-w42</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W42</size>
+        <quantity>1</quantity>
+        <price>89.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-balint-jap-jeans</link>
+        <mpn>MP-D-JNS-S23-020</mpn>
       </variation>
     </variations>
   </product>
@@ -1963,6 +2131,126 @@
     </variations>
   </product>
   <product>
+    <id>41f71d5b-62f4-7360-9801-eb6750b7f40f</id>
+    <name>Edward Fadey-Jt Jeans Fadey-Jt</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>Fadey-Jt</mpn>
+    <link>https://www.onikshop.gr/product-page/edward-fadey-jt-jeans</link>
+    <description>98%cot-2%elWash Πλύσιμο στο πλυντήριο σε μέγιστη θερμοκρασία 30ºc. Χαμηλό πρόγραμμα στυψίματος.No chlorine Απαγορεύεται η χρήση χλωρίνης.Iron Μέγιστη θερμοκρασία σιδερώματος 110 º. Μη σιδερώνετε πάνω σε τυπώματα/κεντήματα.Chem Στεγνό καθάρισμα με τετραχλωροαιθυλένιο.Dryer Απαγορεύεται η χρήση στεγνωτηρίου.Cloth Πλύσιμο από την ανάποδη</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_384aae45d509483ab7e927b85667b28c~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_a3f0ca598cc44319a96abe19e2b677e6~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_3be91cedd5e34b27b679ea71057bd559~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_92dbaa46befe4f4c9ae07f578a9c01b6~mv2.jpg</additionalImage>
+    <color>Πετροπλυμένο</color>
+    <size>W27,W28,W29,W30,W31,W32,W33,W34,W36,W38,W40</size>
+    <brand>Edward</brand>
+    <weight>200</weight>
+    <price>104.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>12</quantity>
+    <variations>
+      <variation>
+        <variationid>41f71d5b-62f4-7360-9801-eb6750b7f40f-w27</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W27</size>
+        <quantity>1</quantity>
+        <price>104.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-fadey-jt-jeans</link>
+        <mpn>Fadey-Jt</mpn>
+      </variation>
+      <variation>
+        <variationid>41f71d5b-62f4-7360-9801-eb6750b7f40f-w28</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W28</size>
+        <quantity>1</quantity>
+        <price>104.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-fadey-jt-jeans</link>
+        <mpn>Fadey-Jt</mpn>
+      </variation>
+      <variation>
+        <variationid>41f71d5b-62f4-7360-9801-eb6750b7f40f-w29</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W29</size>
+        <quantity>1</quantity>
+        <price>104.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-fadey-jt-jeans</link>
+        <mpn>Fadey-Jt</mpn>
+      </variation>
+      <variation>
+        <variationid>41f71d5b-62f4-7360-9801-eb6750b7f40f-w30</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W30</size>
+        <quantity>1</quantity>
+        <price>104.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-fadey-jt-jeans</link>
+        <mpn>Fadey-Jt</mpn>
+      </variation>
+      <variation>
+        <variationid>41f71d5b-62f4-7360-9801-eb6750b7f40f-w31</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W31</size>
+        <quantity>1</quantity>
+        <price>104.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-fadey-jt-jeans</link>
+        <mpn>Fadey-Jt</mpn>
+      </variation>
+      <variation>
+        <variationid>41f71d5b-62f4-7360-9801-eb6750b7f40f-w32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W32</size>
+        <quantity>2</quantity>
+        <price>104.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-fadey-jt-jeans</link>
+        <mpn>Fadey-Jt</mpn>
+      </variation>
+      <variation>
+        <variationid>41f71d5b-62f4-7360-9801-eb6750b7f40f-w33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33</size>
+        <quantity>1</quantity>
+        <price>104.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-fadey-jt-jeans</link>
+        <mpn>Fadey-Jt</mpn>
+      </variation>
+      <variation>
+        <variationid>41f71d5b-62f4-7360-9801-eb6750b7f40f-w34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34</size>
+        <quantity>1</quantity>
+        <price>104.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-fadey-jt-jeans</link>
+        <mpn>Fadey-Jt</mpn>
+      </variation>
+      <variation>
+        <variationid>41f71d5b-62f4-7360-9801-eb6750b7f40f-w36</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W36</size>
+        <quantity>1</quantity>
+        <price>104.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-fadey-jt-jeans</link>
+        <mpn>Fadey-Jt</mpn>
+      </variation>
+      <variation>
+        <variationid>41f71d5b-62f4-7360-9801-eb6750b7f40f-w38</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W38</size>
+        <quantity>1</quantity>
+        <price>104.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-fadey-jt-jeans</link>
+        <mpn>Fadey-Jt</mpn>
+      </variation>
+      <variation>
+        <variationid>41f71d5b-62f4-7360-9801-eb6750b7f40f-w40</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W40</size>
+        <quantity>1</quantity>
+        <price>104.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-fadey-jt-jeans</link>
+        <mpn>Fadey-Jt</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>d9446355-93e5-1e99-ccb6-f8c3a05ff9be</id>
     <name>EDWARD Ivar-S23 T-Shirt MP-N-TOP-S23-017-BLACK</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
@@ -2034,6 +2322,158 @@
         <price>29.9</price>
         <link>https://www.onikshop.gr/product-page/edward-ivar-s23-t-shirt</link>
         <mpn>MP-N-TOP-S23-017-BLACK</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>01531add-6c41-23ec-4502-e8befe11ee0e</id>
+    <name>EDWARD Izod TShirt MP-N-TOP-S23-001-BLACK</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
+ ]]></category>
+    <mpn>MP-N-TOP-S23-001-BLACK</mpn>
+    <link>https://www.onikshop.gr/product-page/edward-izod-tshirt</link>
+    <description><![CDATA[ΚΩΔΙΚΟΣ: MP-N-TOP-S23-001-BLACK100% cot Πλύσιμο στο πλυντήριο σε μέγιστη θερμοκρασία 30ºc. Χαμηλό πρόγραμμα στυψίματος. Απαγορεύεται η χρήση χλωρίνης. Μέγιστη θερμοκρασία σιδερώματος 110 º. Μη σιδερώνετε πάνω σε τυπώματα/κεντήματα. Στεγνό καθάρισμα με τετραχλωροαιθυλένιο. Απαγορεύεται η χρήση στεγνωτηρίου. Πλύσιμο από την ανάποδη.]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_deebcae281cc4b16949ece8042133b93~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_aaecfece872d4f619eefcec34b42a222~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_e81f23d1dec741f0a5be32b589033f7b~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_c25d3cc002444dba8f5fd336f9672e58~mv2.jpg</additionalImage>
+    <color>Μαύρο</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Edward</brand>
+    <weight>100</weight>
+    <price>36.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>01531add-6c41-23ec-4502-e8befe11ee0e-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>36.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-izod-tshirt</link>
+        <mpn>MP-N-TOP-S23-001-BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>01531add-6c41-23ec-4502-e8befe11ee0e-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>36.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-izod-tshirt</link>
+        <mpn>MP-N-TOP-S23-001-BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>01531add-6c41-23ec-4502-e8befe11ee0e-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>36.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-izod-tshirt</link>
+        <mpn>MP-N-TOP-S23-001-BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>01531add-6c41-23ec-4502-e8befe11ee0e-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>36.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-izod-tshirt</link>
+        <mpn>MP-N-TOP-S23-001-BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>01531add-6c41-23ec-4502-e8befe11ee0e-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>36.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-izod-tshirt</link>
+        <mpn>MP-N-TOP-S23-001-BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>01531add-6c41-23ec-4502-e8befe11ee0e-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>36.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-izod-tshirt</link>
+        <mpn>MP-N-TOP-S23-001-BLACK</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>6fc2842e-2d88-4daf-3f5c-215b59d72119</id>
+    <name>Edward Izod TShirt Elephant MP-N-TOP-S23-001-ELEPHANT</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
+ ]]></category>
+    <mpn>MP-N-TOP-S23-001-ELEPHANT</mpn>
+    <link>https://www.onikshop.gr/product-page/edward-izod-tshirt-elephant</link>
+    <description>ΚΩΔΙΚΟΣ: MP-N-TOP-S23-001-ELEPHANT</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_3afa3a3f8b91438a9f90ac928a03cab9~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_2088f9a1752541aa98a70aac08a6eb54~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_d88aff3bb19e47dba4e11acbdfe2d854~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_1da369c2698b4c88b09d9c2560a225b9~mv2.jpg</additionalImage>
+    <color>Γκρι</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Edward</brand>
+    <weight>200</weight>
+    <price>36.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>6fc2842e-2d88-4daf-3f5c-215b59d72119-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>36.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-izod-tshirt-elephant</link>
+        <mpn>MP-N-TOP-S23-001-ELEPHANT</mpn>
+      </variation>
+      <variation>
+        <variationid>6fc2842e-2d88-4daf-3f5c-215b59d72119-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>36.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-izod-tshirt-elephant</link>
+        <mpn>MP-N-TOP-S23-001-ELEPHANT</mpn>
+      </variation>
+      <variation>
+        <variationid>6fc2842e-2d88-4daf-3f5c-215b59d72119-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>36.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-izod-tshirt-elephant</link>
+        <mpn>MP-N-TOP-S23-001-ELEPHANT</mpn>
+      </variation>
+      <variation>
+        <variationid>6fc2842e-2d88-4daf-3f5c-215b59d72119-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>36.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-izod-tshirt-elephant</link>
+        <mpn>MP-N-TOP-S23-001-ELEPHANT</mpn>
+      </variation>
+      <variation>
+        <variationid>6fc2842e-2d88-4daf-3f5c-215b59d72119-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>36.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-izod-tshirt-elephant</link>
+        <mpn>MP-N-TOP-S23-001-ELEPHANT</mpn>
+      </variation>
+      <variation>
+        <variationid>6fc2842e-2d88-4daf-3f5c-215b59d72119-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>36.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-izod-tshirt-elephant</link>
+        <mpn>MP-N-TOP-S23-001-ELEPHANT</mpn>
       </variation>
     </variations>
   </product>
@@ -3192,6 +3632,176 @@
         <price>32.2</price>
         <link>https://www.onikshop.gr/product-page/heavy-tools-russel-sky</link>
         <mpn>RUSSEL SKY</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>fb5c58ad-2c83-cffd-82aa-6bd3235e7dfc</id>
+    <name>Heavy Tools MAJESTY C3S23100YE</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>C3S23100YE</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-majesty</link>
+    <description>This men's short sleeve T-shirt is a great choice for casual weekday outfits, but also perfect for weekend activities! Made from soft, pure cotton fabric with a comfortable crew neckline. The exciting printed branding and trendy colors will brighten up your most casual look. Mix and match with your favorite pair of Heavy Tools jeans or bermudas from our new collection! Material: 100% cotton, single jersey. The model height is 188 cm and wears size L</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_61491015cfb843c593489c5fc290e425~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_04df7a988e69489fa1cafb47522b0257~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_63f31744d09541ecbc29c7d3074f5a87~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_106c6ffa951748e0b7d9f624ddb38ebe~mv2.jpg</additionalImage>
+    <color>Κίτρινο</color>
+    <size>S,M,L,XL,XXL,3XL,4XL</size>
+    <brand>Heavy Tools</brand>
+    <weight>200</weight>
+    <price>24.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>7</quantity>
+    <variations>
+      <variation>
+        <variationid>fb5c58ad-2c83-cffd-82aa-6bd3235e7dfc-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>24.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-majesty</link>
+        <mpn>C3S23100YE</mpn>
+      </variation>
+      <variation>
+        <variationid>fb5c58ad-2c83-cffd-82aa-6bd3235e7dfc-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>24.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-majesty</link>
+        <mpn>C3S23100YE</mpn>
+      </variation>
+      <variation>
+        <variationid>fb5c58ad-2c83-cffd-82aa-6bd3235e7dfc-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>24.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-majesty</link>
+        <mpn>C3S23100YE</mpn>
+      </variation>
+      <variation>
+        <variationid>fb5c58ad-2c83-cffd-82aa-6bd3235e7dfc-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>24.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-majesty</link>
+        <mpn>C3S23100YE</mpn>
+      </variation>
+      <variation>
+        <variationid>fb5c58ad-2c83-cffd-82aa-6bd3235e7dfc-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>24.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-majesty</link>
+        <mpn>C3S23100YE</mpn>
+      </variation>
+      <variation>
+        <variationid>fb5c58ad-2c83-cffd-82aa-6bd3235e7dfc-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>24.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-majesty</link>
+        <mpn>C3S23100YE</mpn>
+      </variation>
+      <variation>
+        <variationid>fb5c58ad-2c83-cffd-82aa-6bd3235e7dfc-4xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>4XL</size>
+        <quantity>1</quantity>
+        <price>24.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-majesty</link>
+        <mpn>C3S23100YE</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>d69471f7-c81e-d218-63be-d1475a20fd5f</id>
+    <name>Heavy Tools MAJESTY ivy C3S23100IY</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
+ ]]></category>
+    <mpn>C3S23100IY</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-majesty-ivy</link>
+    <description>This men's short sleeve T-shirt is a great choice for casual weekday outfits, but also perfect for weekend activities! Made from soft, pure cotton fabric with a comfortable crew neckline. The exciting printed branding and trendy colors will brighten up your most casual look. Mix and match with your favorite pair of Heavy Tools jeans or bermudas from our new collection! Material: 100% cotton, single jersey. The model height is 188 cm and wears size L.</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_9588e87cd3a748708bc5265e95ec8b93~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_c6abbf292c0b4f60ab8dd039dc641e72~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_32150e70ac1c490ab3b75685815d7a45~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_0bb5a43c90af4832b65925825eaa998e~mv2.jpg</additionalImage>
+    <color>Κυπαρισσί</color>
+    <size>S,M,L,XL,XXL,3XL,4XL</size>
+    <brand><![CDATA[Heavy Tools<br>
+ ]]></brand>
+    <weight>200</weight>
+    <price>24.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>7</quantity>
+    <variations>
+      <variation>
+        <variationid>d69471f7-c81e-d218-63be-d1475a20fd5f-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>24.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-majesty-ivy</link>
+        <mpn>C3S23100IY</mpn>
+      </variation>
+      <variation>
+        <variationid>d69471f7-c81e-d218-63be-d1475a20fd5f-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>24.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-majesty-ivy</link>
+        <mpn>C3S23100IY</mpn>
+      </variation>
+      <variation>
+        <variationid>d69471f7-c81e-d218-63be-d1475a20fd5f-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>24.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-majesty-ivy</link>
+        <mpn>C3S23100IY</mpn>
+      </variation>
+      <variation>
+        <variationid>d69471f7-c81e-d218-63be-d1475a20fd5f-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>24.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-majesty-ivy</link>
+        <mpn>C3S23100IY</mpn>
+      </variation>
+      <variation>
+        <variationid>d69471f7-c81e-d218-63be-d1475a20fd5f-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>24.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-majesty-ivy</link>
+        <mpn>C3S23100IY</mpn>
+      </variation>
+      <variation>
+        <variationid>d69471f7-c81e-d218-63be-d1475a20fd5f-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>24.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-majesty-ivy</link>
+        <mpn>C3S23100IY</mpn>
+      </variation>
+      <variation>
+        <variationid>d69471f7-c81e-d218-63be-d1475a20fd5f-4xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>4XL</size>
+        <quantity>1</quantity>
+        <price>24.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-majesty-ivy</link>
+        <mpn>C3S23100IY</mpn>
       </variation>
     </variations>
   </product>
@@ -6786,9 +7396,9 @@
   </product>
   <product>
     <id>77989206-0855-69f3-8416-cf967d07be99</id>
-    <name>LEVI'S  721 High Rise levis 188820331 721</name>
+    <name>LEVI'S  721 High Rise 18882-0331</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
-    <mpn>levis 188820331 721</mpn>
+    <mpn>18882-0331</mpn>
     <link>https://www.onikshop.gr/product-page/levi-s-721-high-rise</link>
     <description><![CDATA[Εφαρμογή: Skinny<br>Ύψος μέσης: High Waist<br><br>Υλικό: 98%Βαμβάκι, 2%Ελαστάνη<br>Ελαστικότητα: Ελαφρά ελαστικό]]></description>
     <featureImage>https://static.wixstatic.com/media/6c7135_646ca2730eae460cbe5b844f595059f0~mv2.jpg</featureImage>
@@ -6797,19 +7407,19 @@
     <color>Μπλε Ανοιχτό</color>
     <size>W24 L32,W25 L28,W26 L32,W28 L30,W28 L32,W29 L32,W30 L32,W31 L30,W31 L32</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>200</weight>
     <price>90.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>9</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>77989206-0855-69f3-8416-cf967d07be99-w24-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W24 L32</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>90.3</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-high-rise</link>
-        <mpn>levis 188820331 721</mpn>
+        <mpn>18882-0331</mpn>
       </variation>
       <variation>
         <variationid>77989206-0855-69f3-8416-cf967d07be99-w25-l28</variationid>
@@ -6818,7 +7428,7 @@
         <quantity>0</quantity>
         <price>90.3</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-high-rise</link>
-        <mpn>levis 188820331 721</mpn>
+        <mpn>18882-0331</mpn>
       </variation>
       <variation>
         <variationid>77989206-0855-69f3-8416-cf967d07be99-w26-l32</variationid>
@@ -6827,7 +7437,7 @@
         <quantity>0</quantity>
         <price>90.3</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-high-rise</link>
-        <mpn>levis 188820331 721</mpn>
+        <mpn>18882-0331</mpn>
       </variation>
       <variation>
         <variationid>77989206-0855-69f3-8416-cf967d07be99-w28-l30</variationid>
@@ -6836,16 +7446,16 @@
         <quantity>1</quantity>
         <price>90.3</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-high-rise</link>
-        <mpn>levis 188820331 721</mpn>
+        <mpn>18882-0331</mpn>
       </variation>
       <variation>
         <variationid>77989206-0855-69f3-8416-cf967d07be99-w28-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W28 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>90.3</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-high-rise</link>
-        <mpn>levis 188820331 721</mpn>
+        <mpn>18882-0331</mpn>
       </variation>
       <variation>
         <variationid>77989206-0855-69f3-8416-cf967d07be99-w29-l32</variationid>
@@ -6854,34 +7464,34 @@
         <quantity>1</quantity>
         <price>90.3</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-high-rise</link>
-        <mpn>levis 188820331 721</mpn>
+        <mpn>18882-0331</mpn>
       </variation>
       <variation>
         <variationid>77989206-0855-69f3-8416-cf967d07be99-w30-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W30 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>90.3</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-high-rise</link>
-        <mpn>levis 188820331 721</mpn>
+        <mpn>18882-0331</mpn>
       </variation>
       <variation>
         <variationid>77989206-0855-69f3-8416-cf967d07be99-w31-l30</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L30</size>
-        <quantity>2</quantity>
+        <quantity>0</quantity>
         <price>90.3</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-high-rise</link>
-        <mpn>levis 188820331 721</mpn>
+        <mpn>18882-0331</mpn>
       </variation>
       <variation>
         <variationid>77989206-0855-69f3-8416-cf967d07be99-w31-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>90.3</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-high-rise</link>
-        <mpn>levis 188820331 721</mpn>
+        <mpn>18882-0331</mpn>
       </variation>
     </variations>
   </product>
@@ -7078,15 +7688,16 @@
     <mpn>18173-0021</mpn>
     <link>https://www.onikshop.gr/product-page/levi-s-501-ct-customized</link>
     <description><![CDATA[Levi's 501 CT Customized & Tapered 18173-0021]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_9dd66613b79f4d21bc8e0600f2883a05~mv2.png</featureImage>
+    <featureImage>https://static.wixstatic.com/media/9517a7_9e6320d7b5fb48e3a1102c7b466ca19e~mv2.webp</featureImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_dce854f36f224d83b1fdc5cadb0ca80e~mv2.png</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_9dd66613b79f4d21bc8e0600f2883a05~mv2.png</additionalImage>
     <color>Μπλε Ανοιχτό</color>
     <size>W32 L34,W33 L32,W33 L34,W34 L32,W34 L34,W36 L34</size>
     <brand>Levi's</brand>
     <weight>500</weight>
     <price>65.45</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>1</quantity>
     <variations>
       <variation>
         <variationid>a75005e3-0f75-4385-dc6d-e51d6c779fcd-w32-l34</variationid>
@@ -7101,7 +7712,7 @@
         <variationid>a75005e3-0f75-4385-dc6d-e51d6c779fcd-w33-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>65.45</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-ct-customized</link>
         <mpn>18173-0021</mpn>
@@ -7110,7 +7721,7 @@
         <variationid>a75005e3-0f75-4385-dc6d-e51d6c779fcd-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>65.45</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-ct-customized</link>
         <mpn>18173-0021</mpn>
@@ -7128,7 +7739,7 @@
         <variationid>a75005e3-0f75-4385-dc6d-e51d6c779fcd-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>2</quantity>
+        <quantity>0</quantity>
         <price>65.45</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-ct-customized</link>
         <mpn>18173-0021</mpn>
@@ -7581,9 +8192,9 @@
   </product>
   <product>
     <id>849a50e2-498e-ef63-2a53-ef310f832c61</id>
-    <name>Levi's 721 Skinny Fit 18882-0233 LEVIS 721</name>
+    <name>Levi's 721 Skinny Fit 18882-0233</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
-    <mpn>18882-0233 LEVIS 721</mpn>
+    <mpn>18882-0233</mpn>
     <link>https://www.onikshop.gr/product-page/levi-s-721-skinny-fit</link>
     <description><![CDATA[Βασικά χαρακτηριστικά:Μήκος 7/8<br>Skinny fit<br>Πεντάτσεπο<br>Κλείσιμο με φερμουάρ και κουμπί<br>Θυλάκια για ζώνη<br>Σύνθεση: 74% Cotton, 22% Polyester, 4% Elastan]]></description>
     <featureImage>https://static.wixstatic.com/media/6c7135_9df7e56196744f5ca31f6a845524258c~mv2.jpeg</featureImage>
@@ -7595,7 +8206,7 @@
     <weight>500</weight>
     <price>77.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>7</quantity>
     <variations>
       <variation>
         <variationid>849a50e2-498e-ef63-2a53-ef310f832c61-w24-l28</variationid>
@@ -7604,7 +8215,7 @@
         <quantity>1</quantity>
         <price>77.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-skinny-fit</link>
-        <mpn>18882-0233 LEVIS 721</mpn>
+        <mpn>18882-0233</mpn>
       </variation>
       <variation>
         <variationid>849a50e2-498e-ef63-2a53-ef310f832c61-w25-l28</variationid>
@@ -7613,7 +8224,7 @@
         <quantity>2</quantity>
         <price>77.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-skinny-fit</link>
-        <mpn>18882-0233 LEVIS 721</mpn>
+        <mpn>18882-0233</mpn>
       </variation>
       <variation>
         <variationid>849a50e2-498e-ef63-2a53-ef310f832c61-w25-l32</variationid>
@@ -7622,7 +8233,7 @@
         <quantity>1</quantity>
         <price>77.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-skinny-fit</link>
-        <mpn>18882-0233 LEVIS 721</mpn>
+        <mpn>18882-0233</mpn>
       </variation>
       <variation>
         <variationid>849a50e2-498e-ef63-2a53-ef310f832c61-w26-l28</variationid>
@@ -7631,16 +8242,16 @@
         <quantity>0</quantity>
         <price>77.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-skinny-fit</link>
-        <mpn>18882-0233 LEVIS 721</mpn>
+        <mpn>18882-0233</mpn>
       </variation>
       <variation>
         <variationid>849a50e2-498e-ef63-2a53-ef310f832c61-w26-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W26 L32</size>
-        <quantity>1</quantity>
+        <quantity>2</quantity>
         <price>77.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-skinny-fit</link>
-        <mpn>18882-0233 LEVIS 721</mpn>
+        <mpn>18882-0233</mpn>
       </variation>
       <variation>
         <variationid>849a50e2-498e-ef63-2a53-ef310f832c61-w27-l28</variationid>
@@ -7649,7 +8260,7 @@
         <quantity>0</quantity>
         <price>77.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-skinny-fit</link>
-        <mpn>18882-0233 LEVIS 721</mpn>
+        <mpn>18882-0233</mpn>
       </variation>
       <variation>
         <variationid>849a50e2-498e-ef63-2a53-ef310f832c61-w27-l30</variationid>
@@ -7658,7 +8269,7 @@
         <quantity>0</quantity>
         <price>77.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-skinny-fit</link>
-        <mpn>18882-0233 LEVIS 721</mpn>
+        <mpn>18882-0233</mpn>
       </variation>
       <variation>
         <variationid>849a50e2-498e-ef63-2a53-ef310f832c61-w28-l30</variationid>
@@ -7667,7 +8278,7 @@
         <quantity>0</quantity>
         <price>77.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-skinny-fit</link>
-        <mpn>18882-0233 LEVIS 721</mpn>
+        <mpn>18882-0233</mpn>
       </variation>
       <variation>
         <variationid>849a50e2-498e-ef63-2a53-ef310f832c61-w30-l30</variationid>
@@ -7676,7 +8287,7 @@
         <quantity>1</quantity>
         <price>77.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-skinny-fit</link>
-        <mpn>18882-0233 LEVIS 721</mpn>
+        <mpn>18882-0233</mpn>
       </variation>
       <variation>
         <variationid>849a50e2-498e-ef63-2a53-ef310f832c61-w31-l32</variationid>
@@ -7685,7 +8296,7 @@
         <quantity>0</quantity>
         <price>77.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-721-skinny-fit</link>
-        <mpn>18882-0233 LEVIS 721</mpn>
+        <mpn>18882-0233</mpn>
       </variation>
     </variations>
   </product>
@@ -7755,6 +8366,7 @@
     <description>71%Cotton 29%PoliesterNormal / Regular</description>
     <featureImage>https://static.wixstatic.com/media/6c7135_7667b1ee5b49406ea254d2b981686e96~mv2.png</featureImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_bd2b7202d9664cb0a08d48d92db00cb7~mv2.png</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_a32c3dbd1d1848e4a3dc9ec2bab49848~mv2.png</additionalImage>
     <color>Πετροπλυμένο</color>
     <size>W28 L32</size>
     <brand>Levi's</brand>
@@ -7907,7 +8519,7 @@
     <color>Μαύρο Πετροπλυμένο</color>
     <size>W25 L32,W26 L32,W27 L30,W27 L32,W29 L32,W30 L30,W31 L30,W31 L32,W32 L32</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>200</weight>
     <price>89.25</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>4</quantity>
@@ -7943,7 +8555,7 @@
         <variationid>8c37b284-bac9-7fb0-b0d2-8dff50096c68-w27-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W27 L32</size>
-        <quantity>0</quantity>
+        <quantity>1</quantity>
         <price>89.25</price>
         <link>https://www.onikshop.gr/product-page/levi-s-724-high-rise-straight-hypersoft</link>
         <mpn>18883-0103</mpn>
@@ -7979,7 +8591,7 @@
         <variationid>8c37b284-bac9-7fb0-b0d2-8dff50096c68-w31-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>89.25</price>
         <link>https://www.onikshop.gr/product-page/levi-s-724-high-rise-straight-hypersoft</link>
         <mpn>18883-0103</mpn>
@@ -8898,6 +9510,26 @@
         <mpn>MARICO</mpn>
       </variation>
     </variations>
+  </product>
+  <product>
+    <id>6b595158-33bd-0372-ab3b-9b286269e043</id>
+    <name>MEN'S DAKAR BASEBALL CAP 226ACTDAKAR-NAVI V</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Καπέλα - Σκουφιά]]></category>
+    <mpn>226ACTDAKAR-NAVI V</mpn>
+    <link>https://www.onikshop.gr/product-page/men-s-dakar-baseball-cap</link>
+    <description>ONE SIZE</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_1ec12dbb5fac496aa260450f8421113b~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_61ae8cf0777d4e5dba9377e8e5b56627~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_70c5f5b205c2466ba8010f8a84939019~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_bdf472b32e064110bb76464a317872b3~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_3a49827c686d468db38f1aa718a4c635~mv2.jpg</additionalImage>
+    <color>Μαύρο</color>
+    <size>ONE SIZE</size>
+    <brand>Diverse</brand>
+    <weight>200</weight>
+    <price>19.99</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
   </product>
   <product>
     <id>16d6d97c-9cc9-5b85-ce5f-dae06064804a</id>
@@ -10740,10 +11372,10 @@
     <color>Μπλε Ανοιχτό</color>
     <size>W31 L34,W32 L34,W33 L34,W34 L34,W36 L34,W38 L34</size>
     <brand>s.Oliver</brand>
-    <weight>2000</weight>
+    <weight>200</weight>
     <price>41.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>f4da2aae-ea7f-9287-aece-f3b4999ec6b5-w31-l34</variationid>
@@ -10794,7 +11426,7 @@
         <variationid>f4da2aae-ea7f-9287-aece-f3b4999ec6b5-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>41.99</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-slim-jeans-mit-waschung</link>
         <mpn>Keith 55z4</mpn>
@@ -11203,13 +11835,13 @@
   </product>
   <product>
     <id>0b97d7ab-184f-b2c9-ecc6-30063e195236</id>
-    <name>Slim Fit 712 Levis 18884-0001 LEVIS 712</name>
+    <name>Slim Fit 712 Levis 18884-0001</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
-    <mpn>18884-0001 LEVIS 712</mpn>
+    <mpn>18884-0001</mpn>
     <link>https://www.onikshop.gr/product-page/slim-fit-712-levis</link>
     <description><![CDATA[SLIM FIT LEVI'S®<br>SLIM FIT - ΜΑΥΡΟΣύνθεση: 62% βαμβάκι 28% βισκόζη 8% πολυεστέρας 2% ελαστάνη]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_236094d6698d418e917506b3bb3f5321~mv2.png</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_d9d22fb3cd3c42869039487d6ee33184~mv2.png</additionalImage>
+    <featureImage>https://static.wixstatic.com/media/6c7135_d9d22fb3cd3c42869039487d6ee33184~mv2.png</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_236094d6698d418e917506b3bb3f5321~mv2.png</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_8c24d177f4d54e4182d689c441372ed9~mv2.png</additionalImage>
     <color>Μαύρο</color>
     <size>W24 L32,W25 L30,W25 L32,W26 L30,W26 L32,W27 L30,W27 L32,W29 L34,W30 L32,W30 L34,W32 L32</size>
@@ -11226,7 +11858,7 @@
         <quantity>1</quantity>
         <price>65.4</price>
         <link>https://www.onikshop.gr/product-page/slim-fit-712-levis</link>
-        <mpn>18884-0001 LEVIS 712</mpn>
+        <mpn>18884-0001</mpn>
       </variation>
       <variation>
         <variationid>0b97d7ab-184f-b2c9-ecc6-30063e195236-w25-l30</variationid>
@@ -11235,7 +11867,7 @@
         <quantity>1</quantity>
         <price>65.4</price>
         <link>https://www.onikshop.gr/product-page/slim-fit-712-levis</link>
-        <mpn>18884-0001 LEVIS 712</mpn>
+        <mpn>18884-0001</mpn>
       </variation>
       <variation>
         <variationid>0b97d7ab-184f-b2c9-ecc6-30063e195236-w25-l32</variationid>
@@ -11244,7 +11876,7 @@
         <quantity>1</quantity>
         <price>65.4</price>
         <link>https://www.onikshop.gr/product-page/slim-fit-712-levis</link>
-        <mpn>18884-0001 LEVIS 712</mpn>
+        <mpn>18884-0001</mpn>
       </variation>
       <variation>
         <variationid>0b97d7ab-184f-b2c9-ecc6-30063e195236-w26-l30</variationid>
@@ -11253,7 +11885,7 @@
         <quantity>1</quantity>
         <price>65.4</price>
         <link>https://www.onikshop.gr/product-page/slim-fit-712-levis</link>
-        <mpn>18884-0001 LEVIS 712</mpn>
+        <mpn>18884-0001</mpn>
       </variation>
       <variation>
         <variationid>0b97d7ab-184f-b2c9-ecc6-30063e195236-w26-l32</variationid>
@@ -11262,7 +11894,7 @@
         <quantity>1</quantity>
         <price>65.4</price>
         <link>https://www.onikshop.gr/product-page/slim-fit-712-levis</link>
-        <mpn>18884-0001 LEVIS 712</mpn>
+        <mpn>18884-0001</mpn>
       </variation>
       <variation>
         <variationid>0b97d7ab-184f-b2c9-ecc6-30063e195236-w27-l30</variationid>
@@ -11271,7 +11903,7 @@
         <quantity>1</quantity>
         <price>65.4</price>
         <link>https://www.onikshop.gr/product-page/slim-fit-712-levis</link>
-        <mpn>18884-0001 LEVIS 712</mpn>
+        <mpn>18884-0001</mpn>
       </variation>
       <variation>
         <variationid>0b97d7ab-184f-b2c9-ecc6-30063e195236-w27-l32</variationid>
@@ -11280,7 +11912,7 @@
         <quantity>0</quantity>
         <price>65.4</price>
         <link>https://www.onikshop.gr/product-page/slim-fit-712-levis</link>
-        <mpn>18884-0001 LEVIS 712</mpn>
+        <mpn>18884-0001</mpn>
       </variation>
       <variation>
         <variationid>0b97d7ab-184f-b2c9-ecc6-30063e195236-w29-l34</variationid>
@@ -11289,7 +11921,7 @@
         <quantity>0</quantity>
         <price>65.4</price>
         <link>https://www.onikshop.gr/product-page/slim-fit-712-levis</link>
-        <mpn>18884-0001 LEVIS 712</mpn>
+        <mpn>18884-0001</mpn>
       </variation>
       <variation>
         <variationid>0b97d7ab-184f-b2c9-ecc6-30063e195236-w30-l32</variationid>
@@ -11298,7 +11930,7 @@
         <quantity>0</quantity>
         <price>65.4</price>
         <link>https://www.onikshop.gr/product-page/slim-fit-712-levis</link>
-        <mpn>18884-0001 LEVIS 712</mpn>
+        <mpn>18884-0001</mpn>
       </variation>
       <variation>
         <variationid>0b97d7ab-184f-b2c9-ecc6-30063e195236-w30-l34</variationid>
@@ -11307,7 +11939,7 @@
         <quantity>0</quantity>
         <price>65.4</price>
         <link>https://www.onikshop.gr/product-page/slim-fit-712-levis</link>
-        <mpn>18884-0001 LEVIS 712</mpn>
+        <mpn>18884-0001</mpn>
       </variation>
       <variation>
         <variationid>0b97d7ab-184f-b2c9-ecc6-30063e195236-w32-l32</variationid>
@@ -11316,7 +11948,7 @@
         <quantity>0</quantity>
         <price>65.4</price>
         <link>https://www.onikshop.gr/product-page/slim-fit-712-levis</link>
-        <mpn>18884-0001 LEVIS 712</mpn>
+        <mpn>18884-0001</mpn>
       </variation>
     </variations>
   </product>
@@ -14507,11 +15139,12 @@
     <description>The original, effortlessly stylish Wrangler tee. Regular fit and crew neck with sharp chest logo.</description>
     <featureImage>https://static.wixstatic.com/media/6c7135_56d864b1d99443fcbbb99508bd21325a~mv2.jpg</featureImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_fd3e8676610b4a2fa8d8c78a7874c683~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_e4bdac3663b04f3f882d7e9870717c73~mv2.webp</additionalImage>
     <color>Μαύρο</color>
     <size>M,L,XXL</size>
     <brand>Wrangler</brand>
     <weight>500</weight>
-    <price>28</price>
+    <price>22.75</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
     <variations>
@@ -14520,7 +15153,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>M</size>
         <quantity>1</quantity>
-        <price>28</price>
+        <price>22.75</price>
         <link>https://www.onikshop.gr/product-page/wrangler-sign-off-tee</link>
         <mpn>W7C07D301-1</mpn>
       </variation>
@@ -14529,7 +15162,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
         <quantity>0</quantity>
-        <price>28</price>
+        <price>22.75</price>
         <link>https://www.onikshop.gr/product-page/wrangler-sign-off-tee</link>
         <mpn>W7C07D301-1</mpn>
       </variation>
@@ -14538,7 +15171,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
         <quantity>0</quantity>
-        <price>28</price>
+        <price>22.75</price>
         <link>https://www.onikshop.gr/product-page/wrangler-sign-off-tee</link>
         <mpn>W7C07D301-1</mpn>
       </variation>
@@ -16252,18 +16885,18 @@
     <additionalImage>https://static.wixstatic.com/media/bbad40_8956ce8ad3614a1da81ae026619fb8c1~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/bbad40_4f37a3d2e0b849d993143b61485616ee~mv2.jpg</additionalImage>
     <color>Κίτρινο/Μουσταρδί</color>
-    <size>41,42,43,44,45</size>
+    <size>41,42,43,44,45,46</size>
     <brand>Heavy Tools</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>79.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>dda32883-b518-491c-4d3a-342c07c15adf-41</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>41</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>79.95</price>
         <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
         <mpn>Ukangee21</mpn>
@@ -16299,6 +16932,15 @@
         <variationid>dda32883-b518-491c-4d3a-342c07c15adf-45</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>45</size>
+        <quantity>0</quantity>
+        <price>79.95</price>
+        <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
+        <mpn>Ukangee21</mpn>
+      </variation>
+      <variation>
+        <variationid>dda32883-b518-491c-4d3a-342c07c15adf-46</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>46</size>
         <quantity>1</quantity>
         <price>79.95</price>
         <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
@@ -16321,16 +16963,16 @@
     <color>Κίτρινο/Μουσταρδί</color>
     <size>41,42,43</size>
     <brand>Heavy Tools</brand>
-    <weight>2000</weight>
+    <weight>500</weight>
     <price>59.96</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>1</quantity>
     <variations>
       <variation>
         <variationid>72b3f4cb-a357-95e2-b519-9e7c2b5a5401-41</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>41</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>59.96</price>
         <link>https://www.onikshop.gr/product-page/ανδρικό-μποτάκι-usgan21-tan-heavy-tools</link>
         <mpn>00002</mpn>
@@ -16339,7 +16981,7 @@
         <variationid>72b3f4cb-a357-95e2-b519-9e7c2b5a5401-42</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>42</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>59.96</price>
         <link>https://www.onikshop.gr/product-page/ανδρικό-μποτάκι-usgan21-tan-heavy-tools</link>
         <mpn>00002</mpn>
@@ -18021,12 +18663,15 @@
     <mpn>W6F4MAXV6</mpn>
     <link>https://www.onikshop.gr/product-page/ζακετα-faded-black-wrangler</link>
     <description>Ζακέτα από τη συλλογή Wrangler.</description>
-    <featureImage>https://static.wixstatic.com/media/bbad40_81724717c31f47d39c98af4d6ad3fe52~mv2.jpg</featureImage>
+    <featureImage>https://static.wixstatic.com/media/9517a7_572f4dbf9dc8440b8fe524b5340fc078~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/bbad40_81724717c31f47d39c98af4d6ad3fe52~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_85d61dff81954312be4ed30d3ee7fb79~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_cb545b160f58486d8edf869cfd899679~mv2.jpg</additionalImage>
     <color>Μαύρο</color>
     <size>M,L,XL,XXL</size>
     <brand>Wrangler</brand>
     <weight>1000</weight>
-    <price>71.2</price>
+    <price>53.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>3</quantity>
     <variations>
@@ -18035,7 +18680,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>M</size>
         <quantity>1</quantity>
-        <price>71.2</price>
+        <price>53.4</price>
         <link>https://www.onikshop.gr/product-page/ζακετα-faded-black-wrangler</link>
         <mpn>W6F4MAXV6</mpn>
       </variation>
@@ -18044,7 +18689,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
         <quantity>1</quantity>
-        <price>71.2</price>
+        <price>53.4</price>
         <link>https://www.onikshop.gr/product-page/ζακετα-faded-black-wrangler</link>
         <mpn>W6F4MAXV6</mpn>
       </variation>
@@ -18053,7 +18698,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XL</size>
         <quantity>1</quantity>
-        <price>71.2</price>
+        <price>53.4</price>
         <link>https://www.onikshop.gr/product-page/ζακετα-faded-black-wrangler</link>
         <mpn>W6F4MAXV6</mpn>
       </variation>
@@ -18062,7 +18707,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
         <quantity>0</quantity>
-        <price>71.2</price>
+        <price>53.4</price>
         <link>https://www.onikshop.gr/product-page/ζακετα-faded-black-wrangler</link>
         <mpn>W6F4MAXV6</mpn>
       </variation>
