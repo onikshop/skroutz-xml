@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-03-17 18:49</created_at>
+  <created_at>2023-03-18 12:16</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -2791,6 +2791,155 @@
     </variations>
   </product>
   <product>
+    <id>d15da59a-674f-b01d-03e8-122ec781092b</id>
+    <name>FRED PERRY  B3058-738 SHOE  B3058-738</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
+    <mpn>B3058-738</mpn>
+    <link>https://www.onikshop.gr/product-page/fred-perry-b3058-738-shoe</link>
+    <description><![CDATA[Leather shoe in an impressive blue color and color contrasting sole.It has logo on the side and it is relaxed, ideal for an every day look.<br>B3058<br>Composition: 100% LEATHER]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_b1fe118344e042c88344157d142e069c~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_1462f8b4289c4efd9a1019b591939327~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_28213f0ca1044637ae16af7fa0e51b31~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_e4959a5e3d3e487abfa0b1fba6d1eda7~mv2.jpg</additionalImage>
+    <color>Σκούρο Μπλέ</color>
+    <size>46</size>
+    <brand>Fred Perry</brand>
+    <weight>500</weight>
+    <price>55</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
+  </product>
+  <product>
+    <id>b84943f6-538e-4bba-c6e3-87721fdcbd1b</id>
+    <name>FRED PERRY B4318-325 SHOE B4318-325</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
+    <mpn>B4318-325</mpn>
+    <link>https://www.onikshop.gr/product-page/fred-perry-b4318-325-shoe</link>
+    <description><![CDATA[Classic leather shoe with strong stitching, suitable for all appearances.<br>B4318<br>Composition: 100% LEATHER]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_f0df377927fc4e418ee9b1fb8fd5c74c~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_1091df5914644d3ca11f4eb5e47ab58d~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_e827a31d46d84148978d0dd4fc444f74~mv2.jpg</additionalImage>
+    <color>Κάμελ</color>
+    <size>41,42,43,44</size>
+    <brand>Fred Perry</brand>
+    <weight>500</weight>
+    <price>60</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>b84943f6-538e-4bba-c6e3-87721fdcbd1b-41</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>41</size>
+        <quantity>1</quantity>
+        <price>60</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-b4318-325-shoe</link>
+        <mpn>B4318-325</mpn>
+      </variation>
+      <variation>
+        <variationid>b84943f6-538e-4bba-c6e3-87721fdcbd1b-42</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>42</size>
+        <quantity>1</quantity>
+        <price>60</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-b4318-325-shoe</link>
+        <mpn>B4318-325</mpn>
+      </variation>
+      <variation>
+        <variationid>b84943f6-538e-4bba-c6e3-87721fdcbd1b-43</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>43</size>
+        <quantity>2</quantity>
+        <price>60</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-b4318-325-shoe</link>
+        <mpn>B4318-325</mpn>
+      </variation>
+      <variation>
+        <variationid>b84943f6-538e-4bba-c6e3-87721fdcbd1b-44</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>44</size>
+        <quantity>1</quantity>
+        <price>60</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-b4318-325-shoe</link>
+        <mpn>B4318-325</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>a1b0500a-3bd1-fa2c-7627-3b903ba45a27</id>
+    <name>FRED PERRY B6237U-102 ΠΑΠΟΥΤΣΙ ΑΝΔΡΙΚΑ B6237U-102</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
+    <mpn>B6237U-102</mpn>
+    <link>https://www.onikshop.gr/product-page/fred-perry-b6237u-102-παπουτσι-ανδρικα</link>
+    <description><![CDATA[Τα παπούτσια Fred Perry αποτελούν ένα από τα all time classics στην  υπόδηση. Μπορούν να φορεθούν για σπορ αλλά και για πιο κομψές εμφανίσεις μιας και το σχέδιό τους είναι κλασικό και η δερμάτινη υφή τους δίνει μία αίσθηση πολυτέλειας.]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_7bcae0e74b9947bea529fba2c7687199~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_52b0204894354d9f90ddc7908b91e343~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_d0c22a3dc5644281add8d55bedfe7019~mv2.jpg</additionalImage>
+    <color>Μαύρο</color>
+    <size>40,41,43,44</size>
+    <brand>Fred Perry</brand>
+    <weight>500</weight>
+    <price>66</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>4</quantity>
+    <variations>
+      <variation>
+        <variationid>a1b0500a-3bd1-fa2c-7627-3b903ba45a27-40</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>40</size>
+        <quantity>1</quantity>
+        <price>66</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-b6237u-102-παπουτσι-ανδρικα</link>
+        <mpn>B6237U-102</mpn>
+      </variation>
+      <variation>
+        <variationid>a1b0500a-3bd1-fa2c-7627-3b903ba45a27-41</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>41</size>
+        <quantity>1</quantity>
+        <price>66</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-b6237u-102-παπουτσι-ανδρικα</link>
+        <mpn>B6237U-102</mpn>
+      </variation>
+      <variation>
+        <variationid>a1b0500a-3bd1-fa2c-7627-3b903ba45a27-43</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>43</size>
+        <quantity>1</quantity>
+        <price>66</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-b6237u-102-παπουτσι-ανδρικα</link>
+        <mpn>B6237U-102</mpn>
+      </variation>
+      <variation>
+        <variationid>a1b0500a-3bd1-fa2c-7627-3b903ba45a27-44</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>44</size>
+        <quantity>1</quantity>
+        <price>66</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-b6237u-102-παπουτσι-ανδρικα</link>
+        <mpn>B6237U-102</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>26463616-f558-ef3e-e326-91b93f4ef86f</id>
+    <name>FRED PERRY B7114 ΠΑΠΟΥΤΣΙ ΑΝΔΡΙΚΟ B7114</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
+    <mpn>B7114</mpn>
+    <link>https://www.onikshop.gr/product-page/fred-perry-b7114-παπουτσι-ανδρικο</link>
+    <description><![CDATA[Ανδρικό δερμάτινο sneaker από την εταιρεία FRED PERRY . Κατασκευασμένο από δέρμα εξαιρετικής ποιότητας, με αντιολισθητική σόλα και μαλακό πάτο. Το παπούτσι που συνδυάζει πολυτέλεια και άνεση. ]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_0a43a44a490d4f8e96d0219ad93fac9c~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_6dd2d257d9f54e729bf35f35b69e21c9~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_5bc94f1c57d6456689579ceaedca75d8~mv2.jpg</additionalImage>
+    <color>Μπλε</color>
+    <size>41</size>
+    <brand>Fred Perry</brand>
+    <weight>500</weight>
+    <price>72</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+  </product>
+  <product>
     <id>4998f9b7-c9ec-c73a-74eb-6923c43b0629</id>
     <name>Fred Perry Black Graphic T-shirt M5631</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
@@ -2805,7 +2954,7 @@
     <weight>100</weight>
     <price>88</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>4998f9b7-c9ec-c73a-74eb-6923c43b0629-s</variationid>
@@ -2847,7 +2996,7 @@
         <variationid>4998f9b7-c9ec-c73a-74eb-6923c43b0629-xxl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>88</price>
         <link>https://www.onikshop.gr/product-page/fred-perry-black-graphic-t-shirt</link>
         <mpn>M5631</mpn>
@@ -2949,6 +3098,44 @@
     <price>41.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
+  </product>
+  <product>
+    <id>b9fdb2c5-f50a-9a14-80e8-1aa41e35132a</id>
+    <name>FRED PERRY ΠΑΠΟΥΤΣΙ SNEAKER ΑΝΔΡΙΚΟ B7163-102</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
+    <mpn>B7163-102</mpn>
+    <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι-sneaker-ανδρικο</link>
+    <description><![CDATA[Ανδρικό δερμάτινο sneaker από την εταιρεία FRED PERRY . Κατασκευασμένο από δέρμα εξαιρετικής ποιότητας, με αντιολισθητική σόλα και μαλακό πάτο. Το παπούτσι που συνδυάζει πολυτέλεια και άνεση. ]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_89744dc9d33b4aaba510fa659a37f4ec~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_325fbf03b3d64a47ad7b2b5d98bae545~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_5917eff3ccde470a9428fa079be587fe~mv2.jpg</additionalImage>
+    <color>Μαύρο</color>
+    <size>44,45</size>
+    <brand>Fred Perry</brand>
+    <weight>500</weight>
+    <price>69</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+    <variations>
+      <variation>
+        <variationid>b9fdb2c5-f50a-9a14-80e8-1aa41e35132a-44</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>44</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι-sneaker-ανδρικο</link>
+        <mpn>B7163-102</mpn>
+      </variation>
+      <variation>
+        <variationid>b9fdb2c5-f50a-9a14-80e8-1aa41e35132a-45</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>45</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι-sneaker-ανδρικο</link>
+        <mpn>B7163-102</mpn>
+      </variation>
+    </variations>
   </product>
   <product>
     <id>afbd7757-03be-db4f-1133-943489a01343</id>
@@ -4036,7 +4223,7 @@
     <weight>400</weight>
     <price>59.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <variations>
       <variation>
         <variationid>020e6ffd-9186-0136-23b9-aebd4cd82cdf-s</variationid>
@@ -4051,7 +4238,7 @@
         <variationid>020e6ffd-9186-0136-23b9-aebd4cd82cdf-m</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>M</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>59.95</price>
         <link>https://www.onikshop.gr/product-page/heavy-tools-sweet</link>
         <mpn>SWEET WHITE</mpn>
@@ -7865,7 +8052,7 @@
     <weight>500</weight>
     <price>78.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>371fc283-0361-3e1a-b378-b58895ea83d9-w30-l30</variationid>
@@ -7925,7 +8112,7 @@
         <variationid>371fc283-0361-3e1a-b378-b58895ea83d9-w42-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
-        <quantity>3</quantity>
+        <quantity>2</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-4</link>
         <mpn>00501-0101</mpn>
@@ -10021,7 +10208,7 @@
     <weight>100</weight>
     <price>26</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <variations>
       <variation>
         <variationid>06e1faeb-e42b-74e8-46d3-e586387c6736-s</variationid>
@@ -10072,7 +10259,7 @@
         <variationid>06e1faeb-e42b-74e8-46d3-e586387c6736-3xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>3XL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>26</price>
         <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-logo-mrt-martini-navy-blue</link>
         <mpn>70830-4</mpn>
@@ -14786,7 +14973,7 @@
     <weight>2000</weight>
     <price>57.85</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <variations>
       <variation>
         <variationid>a845d784-6dbf-2c8e-f7e4-fbaf440872d4-s</variationid>
@@ -14810,7 +14997,7 @@
         <variationid>a845d784-6dbf-2c8e-f7e4-fbaf440872d4-l</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>57.85</price>
         <link>https://www.onikshop.gr/product-page/wrangler-hoodie-deep-lichen-green</link>
         <mpn>W666ILX1X</mpn>
@@ -15045,7 +15232,7 @@
     <weight>500</weight>
     <price>87.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>c3cdadd4-6b41-12c9-90dd-0dec08c9eb41-w29-l32</variationid>
@@ -15087,7 +15274,7 @@
         <variationid>c3cdadd4-6b41-12c9-90dd-0dec08c9eb41-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-country-boy</link>
         <mpn>W18S 84 23M</mpn>
@@ -16869,131 +17056,6 @@
         <price>93.49</price>
         <link>https://www.onikshop.gr/product-page/ανδρικό-ημίπαλτο-s-oliver</link>
         <mpn>2102959</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
-    <id>dda32883-b518-491c-4d3a-342c07c15adf</id>
-    <name>Ανδρικό Μποτάκι Ukangee21 Tan Heavy Tools Ukangee21</name>
-    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια<br>
- ]]></category>
-    <mpn>Ukangee21</mpn>
-    <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
-    <description><![CDATA[Αυτές οι ανδρικές μπότες είναι ιδανικές για βόλτες στην πόλη τις πιο δροσερές μέρες, αλλά μπορείτε να τις φορέσετε και σε ένα εύκολο ταξίδι. Διαθέτει υπερυψωμένο άξονα για να κρατά τον αστράγαλο στη θέση του, ανθεκτική δαντέλα, γλώσσα και αστράγαλο με επένδυση για μέγιστη άνεση και διακριτικά το λογότυπο στο εξωτερικό.]]></description>
-    <featureImage>https://static.wixstatic.com/media/bbad40_5792458493c7478cb618323517b9bdc9~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/bbad40_b59ffcb5a617481d91ab01682a26ff3d~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/bbad40_8956ce8ad3614a1da81ae026619fb8c1~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/bbad40_4f37a3d2e0b849d993143b61485616ee~mv2.jpg</additionalImage>
-    <color>Κίτρινο/Μουσταρδί</color>
-    <size>41,42,43,44,45,46</size>
-    <brand>Heavy Tools</brand>
-    <weight>500</weight>
-    <price>79.95</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
-    <variations>
-      <variation>
-        <variationid>dda32883-b518-491c-4d3a-342c07c15adf-41</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>41</size>
-        <quantity>0</quantity>
-        <price>79.95</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
-        <mpn>Ukangee21</mpn>
-      </variation>
-      <variation>
-        <variationid>dda32883-b518-491c-4d3a-342c07c15adf-42</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>42</size>
-        <quantity>1</quantity>
-        <price>79.95</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
-        <mpn>Ukangee21</mpn>
-      </variation>
-      <variation>
-        <variationid>dda32883-b518-491c-4d3a-342c07c15adf-43</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>43</size>
-        <quantity>1</quantity>
-        <price>79.95</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
-        <mpn>Ukangee21</mpn>
-      </variation>
-      <variation>
-        <variationid>dda32883-b518-491c-4d3a-342c07c15adf-44</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>44</size>
-        <quantity>1</quantity>
-        <price>79.95</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
-        <mpn>Ukangee21</mpn>
-      </variation>
-      <variation>
-        <variationid>dda32883-b518-491c-4d3a-342c07c15adf-45</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>45</size>
-        <quantity>0</quantity>
-        <price>79.95</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
-        <mpn>Ukangee21</mpn>
-      </variation>
-      <variation>
-        <variationid>dda32883-b518-491c-4d3a-342c07c15adf-46</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>46</size>
-        <quantity>1</quantity>
-        <price>79.95</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
-        <mpn>Ukangee21</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
-    <id>72b3f4cb-a357-95e2-b519-9e7c2b5a5401</id>
-    <name>Ανδρικό Μποτάκι Usgan21 Tan Heavy Tools 00002</name>
-    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια<br>
- ]]></category>
-    <mpn>00002</mpn>
-    <link>https://www.onikshop.gr/product-page/ανδρικό-μποτάκι-usgan21-tan-heavy-tools</link>
-    <description><![CDATA[Αυτές οι ανδρικές μπότες είναι ιδανικές για βόλτες στην πόλη τις πιο δροσερές μέρες, αλλά μπορείτε να τις φορέσετε και σε ένα εύκολο ταξίδι. Διαθέτει υπερυψωμένο άξονα για να κρατά τον αστράγαλο στη θέση του, ανθεκτική δαντέλα, γλώσσα και αστράγαλο με επένδυση για μέγιστη άνεση και διακριτικά το λογότυπο στο εξωτερικό.]]></description>
-    <featureImage>https://static.wixstatic.com/media/bbad40_e655f210541646faa7cf1daccea86f61~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/bbad40_16320cca256a4fc68a2391858898a303~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/bbad40_14a2b1756e8541238e24319f23a13918~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/bbad40_ec2769c4b92248a3b22a41313dfb87ef~mv2.jpg</additionalImage>
-    <color>Κίτρινο/Μουσταρδί</color>
-    <size>41,42,43</size>
-    <brand>Heavy Tools</brand>
-    <weight>500</weight>
-    <price>59.96</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-    <variations>
-      <variation>
-        <variationid>72b3f4cb-a357-95e2-b519-9e7c2b5a5401-41</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>41</size>
-        <quantity>0</quantity>
-        <price>59.96</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-μποτάκι-usgan21-tan-heavy-tools</link>
-        <mpn>00002</mpn>
-      </variation>
-      <variation>
-        <variationid>72b3f4cb-a357-95e2-b519-9e7c2b5a5401-42</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>42</size>
-        <quantity>0</quantity>
-        <price>59.96</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-μποτάκι-usgan21-tan-heavy-tools</link>
-        <mpn>00002</mpn>
-      </variation>
-      <variation>
-        <variationid>72b3f4cb-a357-95e2-b519-9e7c2b5a5401-43</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>43</size>
-        <quantity>1</quantity>
-        <price>59.96</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-μποτάκι-usgan21-tan-heavy-tools</link>
-        <mpn>00002</mpn>
       </variation>
     </variations>
   </product>
