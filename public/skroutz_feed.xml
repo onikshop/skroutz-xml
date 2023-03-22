@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-03-20 10:31</created_at>
+  <created_at>2023-03-22 11:47</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -517,25 +517,6 @@
         <mpn>19.1.2.84.124-DENIM</mpn>
       </variation>
     </variations>
-  </product>
-  <product>
-    <id>27508fd8-31b5-a450-788e-339e2045d906</id>
-    <name>BLACK-GOLD BASEBALL CAP FROM DAKAR VIP LINE 226ACTDAKAR-NAVI VIP III</name>
-    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Καπέλα - Σκουφιά]]></category>
-    <mpn>226ACTDAKAR-NAVI VIP III</mpn>
-    <link>https://www.onikshop.gr/product-page/black-gold-baseball-cap-from-dakar-vip-line</link>
-    <description>one size</description>
-    <featureImage>https://static.wixstatic.com/media/9517a7_f20b5c385d19400cbd56179ab023a22c~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_8b82e7da07704cebaba307166a87ec09~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_58eae3aa9d314bfa9f4a74585865fdd1~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_65245ab7ea20439db26927e7f89da281~mv2.jpg</additionalImage>
-    <color>Μαύρο</color>
-    <size>ONE SIZE</size>
-    <brand>Diverse</brand>
-    <weight>200</weight>
-    <price>19.99</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
   </product>
   <product>
     <id>47112a6d-71e3-4495-eec2-85f7fea80507</id>
@@ -1411,7 +1392,7 @@
     <weight>500</weight>
     <price>29</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>7a061d29-b4cb-62f4-0139-e1dc28b4ef66-s</variationid>
@@ -1453,7 +1434,7 @@
         <variationid>7a061d29-b4cb-62f4-0139-e1dc28b4ef66-xxl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29</price>
         <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-black</link>
         <mpn>VIP-0123</mpn>
@@ -2791,25 +2772,6 @@
     </variations>
   </product>
   <product>
-    <id>d15da59a-674f-b01d-03e8-122ec781092b</id>
-    <name>FRED PERRY  B3058-738 SHOE  B3058-738</name>
-    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
-    <mpn>B3058-738</mpn>
-    <link>https://www.onikshop.gr/product-page/fred-perry-b3058-738-shoe</link>
-    <description><![CDATA[Leather shoe in an impressive blue color and color contrasting sole.It has logo on the side and it is relaxed, ideal for an every day look.<br>B3058<br>Composition: 100% LEATHER]]></description>
-    <featureImage>https://static.wixstatic.com/media/9517a7_b1fe118344e042c88344157d142e069c~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_1462f8b4289c4efd9a1019b591939327~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_28213f0ca1044637ae16af7fa0e51b31~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_e4959a5e3d3e487abfa0b1fba6d1eda7~mv2.jpg</additionalImage>
-    <color>Σκούρο Μπλέ</color>
-    <size>46</size>
-    <brand>Fred Perry</brand>
-    <weight>500</weight>
-    <price>55</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-  </product>
-  <product>
     <id>b84943f6-538e-4bba-c6e3-87721fdcbd1b</id>
     <name>FRED PERRY B4318-325 SHOE B4318-325</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
@@ -3080,6 +3042,92 @@
     <price>41.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
+  </product>
+  <product>
+    <id>ae3767e5-3f5e-f881-d85b-1460df28838b</id>
+    <name>FRED PERRY ΠΑΠΟΥΤΣΙ B4132-G59</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
+    <mpn>B4132-G59</mpn>
+    <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι</link>
+    <description><![CDATA[Κλασσικό μποτάκι με χοντρή ελαστική σόλα και έντονη ραφή στα πλαϊνά.Κατάλληλο και για πιο επίσημες εμφανίσεις.<br>B4132<br>Σύνθεση: 100% SYNTHETIC]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_1a8975d3a74c4a408ecad2301da8cfd0~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_0025983f89e2422782fd2fe8cab9b088~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_adc19e4c291d4342b05fd5a527865ee9~mv2.jpg</additionalImage>
+    <color>Λαδί Σκούρο</color>
+    <size>41,44</size>
+    <brand>Fred Perry</brand>
+    <weight>500</weight>
+    <price>77.4</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+    <variations>
+      <variation>
+        <variationid>ae3767e5-3f5e-f881-d85b-1460df28838b-41</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>41</size>
+        <quantity>1</quantity>
+        <price>77.4</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι</link>
+        <mpn>B4132-G59</mpn>
+      </variation>
+      <variation>
+        <variationid>ae3767e5-3f5e-f881-d85b-1460df28838b-44</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>44</size>
+        <quantity>1</quantity>
+        <price>77.4</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι</link>
+        <mpn>B4132-G59</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>2e7b9f43-688e-2c0b-ac0d-b183beec4ef2</id>
+    <name>FRED PERRY ΠΑΠΟΥΤΣΙ KINGSTON B7163-608</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
+    <mpn>B7163-608</mpn>
+    <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι-kingston</link>
+    <description><![CDATA[FRED PERRY ΠΑΠΟΥΤΣΙ KINGSTON<br>B7163<br>Σύνθεση: LEATHER]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_146af07d22d24aecb3be91f8d8b613f4~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_641b55cb89b54952886cc49fff824bc0~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_93b6633040784ef384f771fa73228705~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_cf367d6ef11f4eea84a8a4ebaa93c612~mv2.jpg</additionalImage>
+    <color>Μπλε</color>
+    <size>45,46,47</size>
+    <brand>Fred Perry</brand>
+    <weight>500</weight>
+    <price>69.85</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>3</quantity>
+    <variations>
+      <variation>
+        <variationid>2e7b9f43-688e-2c0b-ac0d-b183beec4ef2-45</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>45</size>
+        <quantity>1</quantity>
+        <price>69.85</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι-kingston</link>
+        <mpn>B7163-608</mpn>
+      </variation>
+      <variation>
+        <variationid>2e7b9f43-688e-2c0b-ac0d-b183beec4ef2-46</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>46</size>
+        <quantity>1</quantity>
+        <price>69.85</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι-kingston</link>
+        <mpn>B7163-608</mpn>
+      </variation>
+      <variation>
+        <variationid>2e7b9f43-688e-2c0b-ac0d-b183beec4ef2-47</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>47</size>
+        <quantity>1</quantity>
+        <price>69.85</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι-kingston</link>
+        <mpn>B7163-608</mpn>
+      </variation>
+    </variations>
   </product>
   <product>
     <id>b9fdb2c5-f50a-9a14-80e8-1aa41e35132a</id>
@@ -9698,7 +9746,7 @@
     <weight>200</weight>
     <price>19.99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
   </product>
   <product>
     <id>16d6d97c-9cc9-5b85-ce5f-dae06064804a</id>
@@ -10387,6 +10435,24 @@
         <mpn>NEPAL</mpn>
       </variation>
     </variations>
+  </product>
+  <product>
+    <id>fdc2c9cd-2e14-25f3-da36-aeae8dfc12da</id>
+    <name>NEW GRAPHIC CREWNECK SWEATSHIRT 852830000</name>
+    <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Φούτερ Γυναικεία]]></category>
+    <mpn>852830000</mpn>
+    <link>https://www.onikshop.gr/product-page/new-graphic-crewneck-sweatshirt</link>
+    <description><![CDATA[A crewneck sweater with a vintage fit<br>Dropped sleeves<br>Features a bold '90s-inspired logo<br>Best paired with high-waisted black jeans, collared shirt layered underneath, and white sneakers<br>We paired it with our Ribcage Wide Leg Jeans and Dad Shirt]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_7f597ab863ff4213a1eb61855d7365b3~mv2.png</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_2820edfee50140c0927e26144bb7250a~mv2.png</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_683d4b1a275b47069b6a1526f79a90ab~mv2.png</additionalImage>
+    <color>Λευκό</color>
+    <size>XL</size>
+    <brand>Levi's</brand>
+    <weight>100</weight>
+    <price>48.85</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
   </product>
   <product>
     <id>4443d29d-5a77-7100-ea3e-efb509f8798a</id>
@@ -11603,6 +11669,328 @@
     </variations>
   </product>
   <product>
+    <id>4f50571a-c897-a0a6-ada5-68ec896671cb</id>
+    <name>s.Oliver T-shirt with a front print Blue 2128330-55D1</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>2128330-55D1</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-blue</link>
+    <description><![CDATA[Product details<br>Print: front printNeckline: crew neckSleeve: short sleevesStyle: in a casual lookOccasion: Casual]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_4791748c304546d991b406be0792a207~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_ef94e76332d84375b70d3005a54d8e6e~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_3337db59792245689ebed8ac8ef41437~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_0a3e4d28e1bc4f24900dd2944c149b05~mv2.webp</additionalImage>
+    <color>Μπλε</color>
+    <size>3XL,4XL,5XL</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>35</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>4f50571a-c897-a0a6-ada5-68ec896671cb-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>2</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-blue</link>
+        <mpn>2128330-55D1</mpn>
+      </variation>
+      <variation>
+        <variationid>4f50571a-c897-a0a6-ada5-68ec896671cb-4xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>4XL</size>
+        <quantity>2</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-blue</link>
+        <mpn>2128330-55D1</mpn>
+      </variation>
+      <variation>
+        <variationid>4f50571a-c897-a0a6-ada5-68ec896671cb-5xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>5XL</size>
+        <quantity>2</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-blue</link>
+        <mpn>2128330-55D1</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>2b6f5ec7-12c3-d98a-7d91-10e99e84a65c</id>
+    <name>s.Oliver T-shirt with a front print cranberry 2128330.30D1</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>2128330.30D1</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-cranberry</link>
+    <description><![CDATA[<ul>	<li>	Print: front print	</li>	<li>	Neckline: crew neck	</li>	<li>	Sleeve: short sleeves	</li>	<li>	Style: in a casual look	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_f1abe07f7b5c4e68b10f1e1e67f446f0~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_45f184bad2074b12bf7afe36a7f2ff74~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_6777cace7d8142fa9647541d9cd186dd~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_f12a0286631a41a89c1079e721dc02bf~mv2.jpg</additionalImage>
+    <color>Πορτοκαλί</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>25</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>9</quantity>
+    <variations>
+      <variation>
+        <variationid>2b6f5ec7-12c3-d98a-7d91-10e99e84a65c-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-cranberry</link>
+        <mpn>2128330.30D1</mpn>
+      </variation>
+      <variation>
+        <variationid>2b6f5ec7-12c3-d98a-7d91-10e99e84a65c-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-cranberry</link>
+        <mpn>2128330.30D1</mpn>
+      </variation>
+      <variation>
+        <variationid>2b6f5ec7-12c3-d98a-7d91-10e99e84a65c-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-cranberry</link>
+        <mpn>2128330.30D1</mpn>
+      </variation>
+      <variation>
+        <variationid>2b6f5ec7-12c3-d98a-7d91-10e99e84a65c-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-cranberry</link>
+        <mpn>2128330.30D1</mpn>
+      </variation>
+      <variation>
+        <variationid>2b6f5ec7-12c3-d98a-7d91-10e99e84a65c-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-cranberry</link>
+        <mpn>2128330.30D1</mpn>
+      </variation>
+      <variation>
+        <variationid>2b6f5ec7-12c3-d98a-7d91-10e99e84a65c-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-cranberry</link>
+        <mpn>2128330.30D1</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>c449a182-3386-1f87-0422-69c47fa76000</id>
+    <name>s.Oliver T-shirt with a front print Lavender 2128330-47D1</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>2128330-47D1</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print</link>
+    <description><![CDATA[Product details<br>Print: front printNeckline: crew neckSleeve: short sleevesStyle: in a casual lookOccasion: Casual]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_b1574e24e3b04c60ac2d95777783513a~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_4e0fff4ff48d42c9a834855107d55714~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_55ceb2320dd445fb9dbc04e27803a177~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_c9e8c80c62c844bea7c97d0f5062916e~mv2.jpg</additionalImage>
+    <color>Μωβ</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>25</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>9</quantity>
+    <variations>
+      <variation>
+        <variationid>c449a182-3386-1f87-0422-69c47fa76000-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print</link>
+        <mpn>2128330-47D1</mpn>
+      </variation>
+      <variation>
+        <variationid>c449a182-3386-1f87-0422-69c47fa76000-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print</link>
+        <mpn>2128330-47D1</mpn>
+      </variation>
+      <variation>
+        <variationid>c449a182-3386-1f87-0422-69c47fa76000-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print</link>
+        <mpn>2128330-47D1</mpn>
+      </variation>
+      <variation>
+        <variationid>c449a182-3386-1f87-0422-69c47fa76000-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print</link>
+        <mpn>2128330-47D1</mpn>
+      </variation>
+      <variation>
+        <variationid>c449a182-3386-1f87-0422-69c47fa76000-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print</link>
+        <mpn>2128330-47D1</mpn>
+      </variation>
+      <variation>
+        <variationid>c449a182-3386-1f87-0422-69c47fa76000-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print</link>
+        <mpn>2128330-47D1</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>1ffb2e10-6879-64a2-c84e-3b3540fbcd73</id>
+    <name>s.Oliver T-shirt with a front print pale green 2128330-73D1</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>2128330-73D1</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pale-green</link>
+    <description><![CDATA[Product details<br>Print: front printNeckline: crew neckSleeve: short sleevesStyle: in a casual lookOccasion: Casual]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_fbff270ca7824c5c910d4021858f131d~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_4af20f80532d43d286a2b1906ace76f2~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_3fccb28941cb4e18a610acb21522a224~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_932c1e7be3654ec3bc79a243ab68c324~mv2.jpg</additionalImage>
+    <color>Φιστικί</color>
+    <size>3XL,4XL,5XL</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>35</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>1ffb2e10-6879-64a2-c84e-3b3540fbcd73-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>2</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pale-green</link>
+        <mpn>2128330-73D1</mpn>
+      </variation>
+      <variation>
+        <variationid>1ffb2e10-6879-64a2-c84e-3b3540fbcd73-4xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>4XL</size>
+        <quantity>2</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pale-green</link>
+        <mpn>2128330-73D1</mpn>
+      </variation>
+      <variation>
+        <variationid>1ffb2e10-6879-64a2-c84e-3b3540fbcd73-5xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>5XL</size>
+        <quantity>2</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pale-green</link>
+        <mpn>2128330-73D1</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>38c39ff2-e991-523f-9e08-eed3fd48e06a</id>
+    <name>s.Oliver T-shirt with a front print Pink 2128330-44D1</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>2128330-44D1</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
+    <description><![CDATA[<ul>	<li>	Print: front print	</li>	<li>	Neckline: crew neck	</li>	<li>	Sleeve: short sleeves	</li>	<li>	Style: in a casual look	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_14e4b165608540d3b596f8f6ef9d2670~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_b48ee4b9523042c1a6260ef2677e4516~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_039fcc6cd1604c2fb4c5c7a46179fb39~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_ec2294b03ae545309d8386d71030ad3a~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_4d801a392e634f1ba0e2cba64bf192de~mv2.webp</additionalImage>
+    <color>Ρόζ</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>25</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>9</quantity>
+    <variations>
+      <variation>
+        <variationid>38c39ff2-e991-523f-9e08-eed3fd48e06a-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
+        <mpn>2128330-44D1</mpn>
+      </variation>
+      <variation>
+        <variationid>38c39ff2-e991-523f-9e08-eed3fd48e06a-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
+        <mpn>2128330-44D1</mpn>
+      </variation>
+      <variation>
+        <variationid>38c39ff2-e991-523f-9e08-eed3fd48e06a-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
+        <mpn>2128330-44D1</mpn>
+      </variation>
+      <variation>
+        <variationid>38c39ff2-e991-523f-9e08-eed3fd48e06a-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
+        <mpn>2128330-44D1</mpn>
+      </variation>
+      <variation>
+        <variationid>38c39ff2-e991-523f-9e08-eed3fd48e06a-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
+        <mpn>2128330-44D1</mpn>
+      </variation>
+      <variation>
+        <variationid>38c39ff2-e991-523f-9e08-eed3fd48e06a-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
+        <mpn>2128330-44D1</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>4a1149c7-8e50-f1c0-7031-5fc5ff9eac9e</id>
     <name>S.Oliver Ανδρικό Παντελόνι Τζιν σε Ίσια Γραμμή Γκρι RICK 95Z4</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
@@ -11745,10 +12133,10 @@
     <color>Μαύρο</color>
     <size>W26 L31,W29 L31,W30 L31</size>
     <brand>Lee</brand>
-    <weight>2000</weight>
+    <weight>200</weight>
     <price>72.1</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>1</quantity>
     <variations>
       <variation>
         <variationid>ce8656f2-5442-b97a-dcff-297af4fcc56c-w26-l31</variationid>
@@ -11763,7 +12151,7 @@
         <variationid>ce8656f2-5442-b97a-dcff-297af4fcc56c-w29-l31</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W29 L31</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>72.1</price>
         <link>https://www.onikshop.gr/product-page/scarlett-in-black-rinse</link>
         <mpn>L526FS47</mpn>
@@ -11772,7 +12160,7 @@
         <variationid>ce8656f2-5442-b97a-dcff-297af4fcc56c-w30-l31</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W30 L31</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>72.1</price>
         <link>https://www.onikshop.gr/product-page/scarlett-in-black-rinse</link>
         <mpn>L526FS47</mpn>
@@ -11952,53 +12340,6 @@
         <price>59.5</price>
         <link>https://www.onikshop.gr/product-page/shirt-man-white-levis-866250002</link>
         <mpn>866250002</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
-    <id>f01e7d7f-41b7-854e-46c8-4e8e9ed4dd4f</id>
-    <name>Skinny Fit 501 Levis LEVIS - 29502-0033</name>
-    <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
-    <mpn>LEVIS - 29502-0033</mpn>
-    <link>https://www.onikshop.gr/product-page/skinny-fit-501-levis</link>
-    <description><![CDATA[Βασικά χαρακτηριστικά:<ul>	<li>Στενή εφαρμογή</li>	<li>Πεντάτσεπο σχέδιο</li>	<li>Θηλάκια στην μέση</li>	<li>Κλείσιμο με κουμπί</li>	<li>Σύνθεση: Cotton 100%</li></ul>]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_cbc684b7e667453ea97797727c5b5b40~mv2.jpeg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_3483ef30168f4a5c8910c63e8bed8de6~mv2.jpeg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_eb6321c42a0140d9af9f14f89115676b~mv2.jpeg</additionalImage>
-    <color>Μπλε κλασικό</color>
-    <size>W25 L32,W28 L32,W30 L32</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>62.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
-    <variations>
-      <variation>
-        <variationid>f01e7d7f-41b7-854e-46c8-4e8e9ed4dd4f-w25-l32</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W25 L32</size>
-        <quantity>1</quantity>
-        <price>62.5</price>
-        <link>https://www.onikshop.gr/product-page/skinny-fit-501-levis</link>
-        <mpn>LEVIS - 29502-0033</mpn>
-      </variation>
-      <variation>
-        <variationid>f01e7d7f-41b7-854e-46c8-4e8e9ed4dd4f-w28-l32</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W28 L32</size>
-        <quantity>1</quantity>
-        <price>62.5</price>
-        <link>https://www.onikshop.gr/product-page/skinny-fit-501-levis</link>
-        <mpn>LEVIS - 29502-0033</mpn>
-      </variation>
-      <variation>
-        <variationid>f01e7d7f-41b7-854e-46c8-4e8e9ed4dd4f-w30-l32</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W30 L32</size>
-        <quantity>0</quantity>
-        <price>62.5</price>
-        <link>https://www.onikshop.gr/product-page/skinny-fit-501-levis</link>
-        <mpn>LEVIS - 29502-0033</mpn>
       </variation>
     </variations>
   </product>
@@ -17038,6 +17379,131 @@
         <price>93.49</price>
         <link>https://www.onikshop.gr/product-page/ανδρικό-ημίπαλτο-s-oliver</link>
         <mpn>2102959</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>dda32883-b518-491c-4d3a-342c07c15adf</id>
+    <name>Ανδρικό Μποτάκι Ukangee21 Tan Heavy Tools Ukangee21</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια<br>
+ ]]></category>
+    <mpn>Ukangee21</mpn>
+    <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
+    <description><![CDATA[Αυτές οι ανδρικές μπότες είναι ιδανικές για βόλτες στην πόλη τις πιο δροσερές μέρες, αλλά μπορείτε να τις φορέσετε και σε ένα εύκολο ταξίδι. Διαθέτει υπερυψωμένο άξονα για να κρατά τον αστράγαλο στη θέση του, ανθεκτική δαντέλα, γλώσσα και αστράγαλο με επένδυση για μέγιστη άνεση και διακριτικά το λογότυπο στο εξωτερικό.]]></description>
+    <featureImage>https://static.wixstatic.com/media/bbad40_5792458493c7478cb618323517b9bdc9~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/bbad40_b59ffcb5a617481d91ab01682a26ff3d~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/bbad40_8956ce8ad3614a1da81ae026619fb8c1~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/bbad40_4f37a3d2e0b849d993143b61485616ee~mv2.jpg</additionalImage>
+    <color>Κίτρινο/Μουσταρδί</color>
+    <size>41,42,43,44,45,46</size>
+    <brand>Heavy Tools</brand>
+    <weight>500</weight>
+    <price>55.97</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>4</quantity>
+    <variations>
+      <variation>
+        <variationid>dda32883-b518-491c-4d3a-342c07c15adf-41</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>41</size>
+        <quantity>0</quantity>
+        <price>55.97</price>
+        <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
+        <mpn>Ukangee21</mpn>
+      </variation>
+      <variation>
+        <variationid>dda32883-b518-491c-4d3a-342c07c15adf-42</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>42</size>
+        <quantity>1</quantity>
+        <price>55.97</price>
+        <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
+        <mpn>Ukangee21</mpn>
+      </variation>
+      <variation>
+        <variationid>dda32883-b518-491c-4d3a-342c07c15adf-43</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>43</size>
+        <quantity>1</quantity>
+        <price>55.97</price>
+        <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
+        <mpn>Ukangee21</mpn>
+      </variation>
+      <variation>
+        <variationid>dda32883-b518-491c-4d3a-342c07c15adf-44</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>44</size>
+        <quantity>1</quantity>
+        <price>55.97</price>
+        <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
+        <mpn>Ukangee21</mpn>
+      </variation>
+      <variation>
+        <variationid>dda32883-b518-491c-4d3a-342c07c15adf-45</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>45</size>
+        <quantity>0</quantity>
+        <price>55.97</price>
+        <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
+        <mpn>Ukangee21</mpn>
+      </variation>
+      <variation>
+        <variationid>dda32883-b518-491c-4d3a-342c07c15adf-46</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>46</size>
+        <quantity>1</quantity>
+        <price>55.97</price>
+        <link>https://www.onikshop.gr/product-page/ανδρικό-παπούτσι-ukangee21-tan-heavy-tools</link>
+        <mpn>Ukangee21</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>72b3f4cb-a357-95e2-b519-9e7c2b5a5401</id>
+    <name>Ανδρικό Μποτάκι Usgan21 Tan Heavy Tools Usgan21</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια<br>
+ ]]></category>
+    <mpn>Usgan21</mpn>
+    <link>https://www.onikshop.gr/product-page/ανδρικό-μποτάκι-usgan21-tan-heavy-tools</link>
+    <description><![CDATA[Αυτές οι ανδρικές μπότες είναι ιδανικές για βόλτες στην πόλη τις πιο δροσερές μέρες, αλλά μπορείτε να τις φορέσετε και σε ένα εύκολο ταξίδι. Διαθέτει υπερυψωμένο άξονα για να κρατά τον αστράγαλο στη θέση του, ανθεκτική δαντέλα, γλώσσα και αστράγαλο με επένδυση για μέγιστη άνεση και διακριτικά το λογότυπο στο εξωτερικό.]]></description>
+    <featureImage>https://static.wixstatic.com/media/bbad40_e655f210541646faa7cf1daccea86f61~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/bbad40_16320cca256a4fc68a2391858898a303~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/bbad40_14a2b1756e8541238e24319f23a13918~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/bbad40_ec2769c4b92248a3b22a41313dfb87ef~mv2.jpg</additionalImage>
+    <color>Κίτρινο/Μουσταρδί</color>
+    <size>41,42,43</size>
+    <brand>Heavy Tools</brand>
+    <weight>500</weight>
+    <price>59.96</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
+    <variations>
+      <variation>
+        <variationid>72b3f4cb-a357-95e2-b519-9e7c2b5a5401-41</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>41</size>
+        <quantity>0</quantity>
+        <price>59.96</price>
+        <link>https://www.onikshop.gr/product-page/ανδρικό-μποτάκι-usgan21-tan-heavy-tools</link>
+        <mpn>Usgan21</mpn>
+      </variation>
+      <variation>
+        <variationid>72b3f4cb-a357-95e2-b519-9e7c2b5a5401-42</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>42</size>
+        <quantity>0</quantity>
+        <price>59.96</price>
+        <link>https://www.onikshop.gr/product-page/ανδρικό-μποτάκι-usgan21-tan-heavy-tools</link>
+        <mpn>Usgan21</mpn>
+      </variation>
+      <variation>
+        <variationid>72b3f4cb-a357-95e2-b519-9e7c2b5a5401-43</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>43</size>
+        <quantity>1</quantity>
+        <price>59.96</price>
+        <link>https://www.onikshop.gr/product-page/ανδρικό-μποτάκι-usgan21-tan-heavy-tools</link>
+        <mpn>Usgan21</mpn>
       </variation>
     </variations>
   </product>
