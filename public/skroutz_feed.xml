@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-03-22 11:47</created_at>
+  <created_at>2023-03-24 12:18</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -6020,6 +6020,90 @@
     </variations>
   </product>
   <product>
+    <id>6d1e42ef-b090-2cbc-e729-e0b2765f80f9</id>
+    <name>Lee Men’s Patch Logo Tee Ανδρικό t-shirt L60UFQ12</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>L60UFQ12</mpn>
+    <link>https://www.onikshop.gr/product-page/lee-men-s-patch-logo-tee-ανδρικό-t-shirt</link>
+    <description><![CDATA[Ανδρικό t-shirt της εταιρίας Lee σε λευκό χρώμα για casual εμφανίσεις.<br>• Εφαρμογή: Regular<br>• Σύνθεση: 100% Οργανικό Βαμβάκι<br>• Από βιώσιμα υλικά, οργανικής ή ανακυκλωμένης προέλευσης, φιλικά προς το περιβάλλον]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_e46c1a0f54cc4b8d999d627550ee7390~mv2.jpeg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_2082ecf1417e4f96817543f1244da1a5~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_8f8ee7eeeb2d40c28fbe1ad23735ad86~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_0d9b0f2136d2425ca5297358c3b5372f~mv2.jpeg</additionalImage>
+    <color>Λευκό</color>
+    <size>S,M,L,XL,XXL,3XL,4XL</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>29</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>7</quantity>
+    <variations>
+      <variation>
+        <variationid>6d1e42ef-b090-2cbc-e729-e0b2765f80f9-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-patch-logo-tee-ανδρικό-t-shirt</link>
+        <mpn>L60UFQ12</mpn>
+      </variation>
+      <variation>
+        <variationid>6d1e42ef-b090-2cbc-e729-e0b2765f80f9-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-patch-logo-tee-ανδρικό-t-shirt</link>
+        <mpn>L60UFQ12</mpn>
+      </variation>
+      <variation>
+        <variationid>6d1e42ef-b090-2cbc-e729-e0b2765f80f9-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-patch-logo-tee-ανδρικό-t-shirt</link>
+        <mpn>L60UFQ12</mpn>
+      </variation>
+      <variation>
+        <variationid>6d1e42ef-b090-2cbc-e729-e0b2765f80f9-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-patch-logo-tee-ανδρικό-t-shirt</link>
+        <mpn>L60UFQ12</mpn>
+      </variation>
+      <variation>
+        <variationid>6d1e42ef-b090-2cbc-e729-e0b2765f80f9-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-patch-logo-tee-ανδρικό-t-shirt</link>
+        <mpn>L60UFQ12</mpn>
+      </variation>
+      <variation>
+        <variationid>6d1e42ef-b090-2cbc-e729-e0b2765f80f9-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-patch-logo-tee-ανδρικό-t-shirt</link>
+        <mpn>L60UFQ12</mpn>
+      </variation>
+      <variation>
+        <variationid>6d1e42ef-b090-2cbc-e729-e0b2765f80f9-4xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>4XL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-patch-logo-tee-ανδρικό-t-shirt</link>
+        <mpn>L60UFQ12</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>b3794c26-006d-23fe-7cf7-ee19030d0369</id>
     <name>LEE PLAIN HOODIE L80YRY74</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
@@ -6771,6 +6855,164 @@
     </variations>
   </product>
   <product>
+    <id>09420501-7d07-431d-eacd-18ca672604ad</id>
+    <name>Lee Ανδρικό T-shirt με Λογότυπο L60UFQON</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>L60UFQON</mpn>
+    <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-με-λογότυπο</link>
+    <description><![CDATA[Lee Ανδρικό T-shirt Μαύρο με ΛογότυποΚωδικός: <em>L60UFQON</em> · Κανονική εφαρμογή · Στρογγυλή λαιμόκοψη · Σύνθεση: 100% Cotton]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_9fcf01d819e94d05ab4f98e7906f743c~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_0b4bda16161446fc8ae400e04e98ede2~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_5341e92ab518448ba0ed1ce76737d11c~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_e5900f9304f24eaea1defbd1d6d62937~mv2.webp</additionalImage>
+    <color>Μαύρο Πετροπλυμένο</color>
+    <size>S,M,L,XL,XXL,3XL,4XL,5XL</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>29</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>8</quantity>
+    <variations>
+      <variation>
+        <variationid>09420501-7d07-431d-eacd-18ca672604ad-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-με-λογότυπο</link>
+        <mpn>L60UFQON</mpn>
+      </variation>
+      <variation>
+        <variationid>09420501-7d07-431d-eacd-18ca672604ad-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-με-λογότυπο</link>
+        <mpn>L60UFQON</mpn>
+      </variation>
+      <variation>
+        <variationid>09420501-7d07-431d-eacd-18ca672604ad-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-με-λογότυπο</link>
+        <mpn>L60UFQON</mpn>
+      </variation>
+      <variation>
+        <variationid>09420501-7d07-431d-eacd-18ca672604ad-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-με-λογότυπο</link>
+        <mpn>L60UFQON</mpn>
+      </variation>
+      <variation>
+        <variationid>09420501-7d07-431d-eacd-18ca672604ad-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-με-λογότυπο</link>
+        <mpn>L60UFQON</mpn>
+      </variation>
+      <variation>
+        <variationid>09420501-7d07-431d-eacd-18ca672604ad-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-με-λογότυπο</link>
+        <mpn>L60UFQON</mpn>
+      </variation>
+      <variation>
+        <variationid>09420501-7d07-431d-eacd-18ca672604ad-4xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>4XL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-με-λογότυπο</link>
+        <mpn>L60UFQON</mpn>
+      </variation>
+      <variation>
+        <variationid>09420501-7d07-431d-eacd-18ca672604ad-5xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>5XL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-με-λογότυπο</link>
+        <mpn>L60UFQON</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>1660f5ea-f018-ba72-bafc-9e960511f258</id>
+    <name>Lee Ανδρικό T-shirt Πράσινο με Στάμπα L60UFQA12</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>L60UFQA12</mpn>
+    <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-πράσινο-με-στάμπα</link>
+    <description>Ανδρικό t-shirt της εταιρίας Lee σε πράσινο χρώμα για casual εμφανίσεις.</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_79e17cedb14048e8a97f6299901d1867~mv2.jpeg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_697750e092e240a58e8d433e34776b12~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_774fda7617f342f5a6b0b960cdeafc2d~mv2.jpeg</additionalImage>
+    <color>Κυπαρισσί</color>
+    <size>S,M,L,XL,XXL</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>29</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>1660f5ea-f018-ba72-bafc-9e960511f258-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-πράσινο-με-στάμπα</link>
+        <mpn>L60UFQA12</mpn>
+      </variation>
+      <variation>
+        <variationid>1660f5ea-f018-ba72-bafc-9e960511f258-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-πράσινο-με-στάμπα</link>
+        <mpn>L60UFQA12</mpn>
+      </variation>
+      <variation>
+        <variationid>1660f5ea-f018-ba72-bafc-9e960511f258-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-πράσινο-με-στάμπα</link>
+        <mpn>L60UFQA12</mpn>
+      </variation>
+      <variation>
+        <variationid>1660f5ea-f018-ba72-bafc-9e960511f258-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-πράσινο-με-στάμπα</link>
+        <mpn>L60UFQA12</mpn>
+      </variation>
+      <variation>
+        <variationid>1660f5ea-f018-ba72-bafc-9e960511f258-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>29</price>
+        <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-πράσινο-με-στάμπα</link>
+        <mpn>L60UFQA12</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>d4683e44-a7ad-3569-4a69-bf6bb96746d9</id>
     <name>Lee Ανδρικό Πουκάμισο L66WNS35</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
@@ -6823,6 +7065,63 @@
         <price>68</price>
         <link>https://www.onikshop.gr/product-page/lee</link>
         <mpn>L66WNS35</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>8b3e93f2-cd70-3f58-7689-883b06f3bfe5</id>
+    <name>LEE ΤΖΙΝ 70S Bootcut In Union City Worn In L72HICB90</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>L72HICB90</mpn>
+    <link>https://www.onikshop.gr/product-page/lee-τζιν-70s-bootcut-in-union-city-worn-in</link>
+    <description><![CDATA[Ανδρικό τζιν Lee 70’s Bootcut L72HICB90 in Union City Worn In<br>Light Blue Denim<br>Με φερμουάρ<br>Μεσαίο καβάλο<br>Regular Fit Bootcut99% Cotton Recycled  1% Elastane<br>Colour: Union City Worn In (112332713)]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_cd7b3eab5bef43e09ab0bb1a44b6dca8~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_93cc33a7937840be91bc11897e5d6ac5~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_1786226ea2794fd081da2d56e3bc1b01~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_4a8d2b324c9c40ed8936e036536ca357~mv2.jpg</additionalImage>
+    <color>Μπλε Ανοιχτό</color>
+    <size>W30 L34,W31 L34,W32 L34,W33 L34</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>119</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>4</quantity>
+    <variations>
+      <variation>
+        <variationid>8b3e93f2-cd70-3f58-7689-883b06f3bfe5-w30-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W30 L34</size>
+        <quantity>1</quantity>
+        <price>119</price>
+        <link>https://www.onikshop.gr/product-page/lee-τζιν-70s-bootcut-in-union-city-worn-in</link>
+        <mpn>L72HICB90</mpn>
+      </variation>
+      <variation>
+        <variationid>8b3e93f2-cd70-3f58-7689-883b06f3bfe5-w31-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W31 L34</size>
+        <quantity>1</quantity>
+        <price>119</price>
+        <link>https://www.onikshop.gr/product-page/lee-τζιν-70s-bootcut-in-union-city-worn-in</link>
+        <mpn>L72HICB90</mpn>
+      </variation>
+      <variation>
+        <variationid>8b3e93f2-cd70-3f58-7689-883b06f3bfe5-w32-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W32 L34</size>
+        <quantity>1</quantity>
+        <price>119</price>
+        <link>https://www.onikshop.gr/product-page/lee-τζιν-70s-bootcut-in-union-city-worn-in</link>
+        <mpn>L72HICB90</mpn>
+      </variation>
+      <variation>
+        <variationid>8b3e93f2-cd70-3f58-7689-883b06f3bfe5-w33-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L34</size>
+        <quantity>1</quantity>
+        <price>119</price>
+        <link>https://www.onikshop.gr/product-page/lee-τζιν-70s-bootcut-in-union-city-worn-in</link>
+        <mpn>L72HICB90</mpn>
       </variation>
     </variations>
   </product>
@@ -8552,13 +8851,13 @@
     <weight>1000</weight>
     <price>46.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <variations>
       <variation>
         <variationid>97758161-7244-517a-af05-2d65ca6da832-w40-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>46.2</price>
         <link>https://www.onikshop.gr/product-page/levi-s-men-s-751-standard-fit-jeans</link>
         <mpn>00751-0021</mpn>
@@ -8689,16 +8988,16 @@
     <color>Μαύρο</color>
     <size>W32 L34,W33 L34,W34 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>200</weight>
     <price>76.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <variations>
       <variation>
         <variationid>d0d1d41e-1804-7bd8-11ef-9a03cb783dca-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/levi-s-527-τζιν-bootcut</link>
         <mpn>05527-0588</mpn>
@@ -11669,6 +11968,82 @@
     </variations>
   </product>
   <product>
+    <id>f0d4bccd-406e-ba28-9cfb-d4f65548c63a</id>
+    <name>s.Oliver T-shirt with a front print  lemon 2057432-13D1</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>2057432-13D1</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-lemon</link>
+    <description><![CDATA[<ul>	<li>	Print: logo print	</li>	<li>	Neckline: round neckline	</li>	<li>	Sleeve: short sleeves	</li>	<li>	Details: logo	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_ea54223b2c544c168b0bc33fa140edf3~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_969410ff7a174a7f9ca5d372bff21d2e~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_dd08e6eaffa54cca913c2d3d9adc5e86~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_1b2727b9c9974e92a8e51aeb1f0f91c1~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_805adb6b7ac94e6fb8f5beb7fd893396~mv2.webp</additionalImage>
+    <color>Κίτρινο</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>25</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>9</quantity>
+    <variations>
+      <variation>
+        <variationid>f0d4bccd-406e-ba28-9cfb-d4f65548c63a-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-lemon</link>
+        <mpn>2057432-13D1</mpn>
+      </variation>
+      <variation>
+        <variationid>f0d4bccd-406e-ba28-9cfb-d4f65548c63a-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-lemon</link>
+        <mpn>2057432-13D1</mpn>
+      </variation>
+      <variation>
+        <variationid>f0d4bccd-406e-ba28-9cfb-d4f65548c63a-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-lemon</link>
+        <mpn>2057432-13D1</mpn>
+      </variation>
+      <variation>
+        <variationid>f0d4bccd-406e-ba28-9cfb-d4f65548c63a-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-lemon</link>
+        <mpn>2057432-13D1</mpn>
+      </variation>
+      <variation>
+        <variationid>f0d4bccd-406e-ba28-9cfb-d4f65548c63a-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-lemon</link>
+        <mpn>2057432-13D1</mpn>
+      </variation>
+      <variation>
+        <variationid>f0d4bccd-406e-ba28-9cfb-d4f65548c63a-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-lemon</link>
+        <mpn>2057432-13D1</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>4f50571a-c897-a0a6-ada5-68ec896671cb</id>
     <name>s.Oliver T-shirt with a front print Blue 2128330-55D1</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
@@ -11718,9 +12093,9 @@
   </product>
   <product>
     <id>2b6f5ec7-12c3-d98a-7d91-10e99e84a65c</id>
-    <name>s.Oliver T-shirt with a front print cranberry 2128330.30D1</name>
+    <name>s.Oliver T-shirt with a front print cranberry 2128330-30D1</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
-    <mpn>2128330.30D1</mpn>
+    <mpn>2128330-30D1</mpn>
     <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-cranberry</link>
     <description><![CDATA[<ul>	<li>	Print: front print	</li>	<li>	Neckline: crew neck	</li>	<li>	Sleeve: short sleeves	</li>	<li>	Style: in a casual look	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
     <featureImage>https://static.wixstatic.com/media/6c7135_f1abe07f7b5c4e68b10f1e1e67f446f0~mv2.webp</featureImage>
@@ -11742,7 +12117,7 @@
         <quantity>1</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-cranberry</link>
-        <mpn>2128330.30D1</mpn>
+        <mpn>2128330-30D1</mpn>
       </variation>
       <variation>
         <variationid>2b6f5ec7-12c3-d98a-7d91-10e99e84a65c-m</variationid>
@@ -11751,7 +12126,7 @@
         <quantity>2</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-cranberry</link>
-        <mpn>2128330.30D1</mpn>
+        <mpn>2128330-30D1</mpn>
       </variation>
       <variation>
         <variationid>2b6f5ec7-12c3-d98a-7d91-10e99e84a65c-l</variationid>
@@ -11760,7 +12135,7 @@
         <quantity>2</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-cranberry</link>
-        <mpn>2128330.30D1</mpn>
+        <mpn>2128330-30D1</mpn>
       </variation>
       <variation>
         <variationid>2b6f5ec7-12c3-d98a-7d91-10e99e84a65c-xl</variationid>
@@ -11769,7 +12144,7 @@
         <quantity>2</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-cranberry</link>
-        <mpn>2128330.30D1</mpn>
+        <mpn>2128330-30D1</mpn>
       </variation>
       <variation>
         <variationid>2b6f5ec7-12c3-d98a-7d91-10e99e84a65c-xxl</variationid>
@@ -11778,7 +12153,7 @@
         <quantity>1</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-cranberry</link>
-        <mpn>2128330.30D1</mpn>
+        <mpn>2128330-30D1</mpn>
       </variation>
       <variation>
         <variationid>2b6f5ec7-12c3-d98a-7d91-10e99e84a65c-3xl</variationid>
@@ -11787,7 +12162,7 @@
         <quantity>1</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-cranberry</link>
-        <mpn>2128330.30D1</mpn>
+        <mpn>2128330-30D1</mpn>
       </variation>
     </variations>
   </product>
@@ -11915,18 +12290,18 @@
     </variations>
   </product>
   <product>
-    <id>38c39ff2-e991-523f-9e08-eed3fd48e06a</id>
-    <name>s.Oliver T-shirt with a front print Pink 2128330-44D1</name>
+    <id>1f2c78f9-f9b3-b4f4-626d-d6f06847ffe3</id>
+    <name>s.Oliver T-shirt with a front print pastel turquoise 2057432-60D1</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
-    <mpn>2128330-44D1</mpn>
-    <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
-    <description><![CDATA[<ul>	<li>	Print: front print	</li>	<li>	Neckline: crew neck	</li>	<li>	Sleeve: short sleeves	</li>	<li>	Style: in a casual look	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_14e4b165608540d3b596f8f6ef9d2670~mv2.webp</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_b48ee4b9523042c1a6260ef2677e4516~mv2.webp</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_039fcc6cd1604c2fb4c5c7a46179fb39~mv2.webp</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_ec2294b03ae545309d8386d71030ad3a~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_4d801a392e634f1ba0e2cba64bf192de~mv2.webp</additionalImage>
-    <color>Ρόζ</color>
+    <mpn>2057432-60D1</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pastel-turquoise</link>
+    <description><![CDATA[<ul>	<li>	Print: logo print	</li>	<li>	Neckline: round neckline	</li>	<li>	Sleeve: short sleeves	</li>	<li>	Details: logo	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_fc1044ce6f494c57a87f674b8d9d7e60~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_34e5aa63a4d14f78a0f5a75f218d7767~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_376a53104f7347879f61cbebce49a8aa~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_7828a54adc694bab8a96775f49105833~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_615deb8b6c194fbe90d7f95133b79406~mv2.jpg</additionalImage>
+    <color>Σιέλ</color>
     <size>S,M,L,XL,XXL,3XL</size>
     <brand>s.Oliver</brand>
     <weight>100</weight>
@@ -11935,13 +12310,88 @@
     <quantity>9</quantity>
     <variations>
       <variation>
+        <variationid>1f2c78f9-f9b3-b4f4-626d-d6f06847ffe3-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pastel-turquoise</link>
+        <mpn>2057432-60D1</mpn>
+      </variation>
+      <variation>
+        <variationid>1f2c78f9-f9b3-b4f4-626d-d6f06847ffe3-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pastel-turquoise</link>
+        <mpn>2057432-60D1</mpn>
+      </variation>
+      <variation>
+        <variationid>1f2c78f9-f9b3-b4f4-626d-d6f06847ffe3-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pastel-turquoise</link>
+        <mpn>2057432-60D1</mpn>
+      </variation>
+      <variation>
+        <variationid>1f2c78f9-f9b3-b4f4-626d-d6f06847ffe3-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pastel-turquoise</link>
+        <mpn>2057432-60D1</mpn>
+      </variation>
+      <variation>
+        <variationid>1f2c78f9-f9b3-b4f4-626d-d6f06847ffe3-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pastel-turquoise</link>
+        <mpn>2057432-60D1</mpn>
+      </variation>
+      <variation>
+        <variationid>1f2c78f9-f9b3-b4f4-626d-d6f06847ffe3-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pastel-turquoise</link>
+        <mpn>2057432-60D1</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>38c39ff2-e991-523f-9e08-eed3fd48e06a</id>
+    <name>s.Oliver T-shirt with a front print Pink 2057432-41D1</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>2057432-41D1</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
+    <description><![CDATA[<ul>	<li>	Print: front print	</li>	<li>	Neckline: crew neck	</li>	<li>	Sleeve: short sleeves	</li>	<li>	Style: in a casual look	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_d6312c1e76054f73a438c29f898b53ec~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_e568512f56ee4d4286daa84c33edb2c8~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_2e4b28e6c2e74fad80f7f91b86629b97~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_c3e6889bb4424cd887397a809d50c347~mv2.webp</additionalImage>
+    <color>Ρόζ</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>25</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>8</quantity>
+    <variations>
+      <variation>
         <variationid>38c39ff2-e991-523f-9e08-eed3fd48e06a-s</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>S</size>
         <quantity>1</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
-        <mpn>2128330-44D1</mpn>
+        <mpn>2057432-41D1</mpn>
       </variation>
       <variation>
         <variationid>38c39ff2-e991-523f-9e08-eed3fd48e06a-m</variationid>
@@ -11950,7 +12400,7 @@
         <quantity>2</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
-        <mpn>2128330-44D1</mpn>
+        <mpn>2057432-41D1</mpn>
       </variation>
       <variation>
         <variationid>38c39ff2-e991-523f-9e08-eed3fd48e06a-l</variationid>
@@ -11959,16 +12409,16 @@
         <quantity>2</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
-        <mpn>2128330-44D1</mpn>
+        <mpn>2057432-41D1</mpn>
       </variation>
       <variation>
         <variationid>38c39ff2-e991-523f-9e08-eed3fd48e06a-xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XL</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
-        <mpn>2128330-44D1</mpn>
+        <mpn>2057432-41D1</mpn>
       </variation>
       <variation>
         <variationid>38c39ff2-e991-523f-9e08-eed3fd48e06a-xxl</variationid>
@@ -11977,7 +12427,7 @@
         <quantity>1</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
-        <mpn>2128330-44D1</mpn>
+        <mpn>2057432-41D1</mpn>
       </variation>
       <variation>
         <variationid>38c39ff2-e991-523f-9e08-eed3fd48e06a-3xl</variationid>
@@ -11986,7 +12436,7 @@
         <quantity>1</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
-        <mpn>2128330-44D1</mpn>
+        <mpn>2057432-41D1</mpn>
       </variation>
     </variations>
   </product>
@@ -12885,6 +13335,233 @@
     </variations>
   </product>
   <product>
+    <id>b56ce980-66a2-1d98-1827-e13a599a8734</id>
+    <name>T-shirt with a logo print  jersey 2057432-99D1</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>2057432-99D1</mpn>
+    <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-jersey</link>
+    <description><![CDATA[<ul>	<li>	Print: logo print	</li>	<li>	Neckline: round neckline	</li>	<li>	Sleeve: short sleeves	</li>	<li>	Details: logo	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_ac059062945942368e9debb2c5e4919c~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_df29218b757942c6a22a9294a933077e~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_90fa23372f1846a4b4aed0e28210005d~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_09619548922440b68bb303018b8ed324~mv2.jpg</additionalImage>
+    <color>Μαύρο</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>s.Oliver</brand>
+    <weight>200</weight>
+    <price>25</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>9</quantity>
+    <variations>
+      <variation>
+        <variationid>b56ce980-66a2-1d98-1827-e13a599a8734-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-jersey</link>
+        <mpn>2057432-99D1</mpn>
+      </variation>
+      <variation>
+        <variationid>b56ce980-66a2-1d98-1827-e13a599a8734-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-jersey</link>
+        <mpn>2057432-99D1</mpn>
+      </variation>
+      <variation>
+        <variationid>b56ce980-66a2-1d98-1827-e13a599a8734-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-jersey</link>
+        <mpn>2057432-99D1</mpn>
+      </variation>
+      <variation>
+        <variationid>b56ce980-66a2-1d98-1827-e13a599a8734-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-jersey</link>
+        <mpn>2057432-99D1</mpn>
+      </variation>
+      <variation>
+        <variationid>b56ce980-66a2-1d98-1827-e13a599a8734-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-jersey</link>
+        <mpn>2057432-99D1</mpn>
+      </variation>
+      <variation>
+        <variationid>b56ce980-66a2-1d98-1827-e13a599a8734-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-jersey</link>
+        <mpn>2057432-99D1</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>8957ee46-0d79-f16c-104a-543d9bcae527</id>
+    <name>T-shirt with a logo print turquoise blue 2057432-63D1</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>2057432-63D1</mpn>
+    <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-blue</link>
+    <description><![CDATA[<ul>	<li>	Print: logo print	</li>	<li>	Neckline: round neckline	</li>	<li>	Sleeve: short sleeves	</li>	<li>	Details: logo	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_4ef366c18d904aa6a12e6015295e3dba~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_0c1d74d567424248859aca81e0d5e896~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_f38ac1de094d45a4923ec3125e05eeb5~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_907d0ed9122343108b516b26e9dc8d22~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_12c0aa1b49234aeba7d5476f31056372~mv2.jpg</additionalImage>
+    <color>Τιρκουάζ</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>s.Oliver</brand>
+    <weight>200</weight>
+    <price>25</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>9</quantity>
+    <variations>
+      <variation>
+        <variationid>8957ee46-0d79-f16c-104a-543d9bcae527-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-blue</link>
+        <mpn>2057432-63D1</mpn>
+      </variation>
+      <variation>
+        <variationid>8957ee46-0d79-f16c-104a-543d9bcae527-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-blue</link>
+        <mpn>2057432-63D1</mpn>
+      </variation>
+      <variation>
+        <variationid>8957ee46-0d79-f16c-104a-543d9bcae527-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-blue</link>
+        <mpn>2057432-63D1</mpn>
+      </variation>
+      <variation>
+        <variationid>8957ee46-0d79-f16c-104a-543d9bcae527-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-blue</link>
+        <mpn>2057432-63D1</mpn>
+      </variation>
+      <variation>
+        <variationid>8957ee46-0d79-f16c-104a-543d9bcae527-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-blue</link>
+        <mpn>2057432-63D1</mpn>
+      </variation>
+      <variation>
+        <variationid>8957ee46-0d79-f16c-104a-543d9bcae527-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-blue</link>
+        <mpn>2057432-63D1</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>6c2c94e1-5119-bd64-a814-360714dfd8a9</id>
+    <name>T-shirt with a logo print White 2057432-01D1</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>2057432-01D1</mpn>
+    <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-white</link>
+    <description><![CDATA[<ul>	<li>	Print: logo print	</li>	<li>	Neckline: round neckline, neckline with a ribbed trim	</li>	<li>	Sleeve: short sleeves	</li>	<li>	Style: in a casual look	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_53a6204daae349ebab18e2e6331d50ca~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_4b310be254cc40cfa4c0b8a726391d29~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_a573c5e376244390a5c2899c58aea83d~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_e73ed53e07834073a6707ecbc0997077~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_dba1cf365ec4464eb8fdee4220a9f133~mv2.jpg</additionalImage>
+    <color>Λευκό</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>25</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>9</quantity>
+    <variations>
+      <variation>
+        <variationid>6c2c94e1-5119-bd64-a814-360714dfd8a9-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-white</link>
+        <mpn>2057432-01D1</mpn>
+      </variation>
+      <variation>
+        <variationid>6c2c94e1-5119-bd64-a814-360714dfd8a9-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-white</link>
+        <mpn>2057432-01D1</mpn>
+      </variation>
+      <variation>
+        <variationid>6c2c94e1-5119-bd64-a814-360714dfd8a9-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-white</link>
+        <mpn>2057432-01D1</mpn>
+      </variation>
+      <variation>
+        <variationid>6c2c94e1-5119-bd64-a814-360714dfd8a9-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>2</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-white</link>
+        <mpn>2057432-01D1</mpn>
+      </variation>
+      <variation>
+        <variationid>6c2c94e1-5119-bd64-a814-360714dfd8a9-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-white</link>
+        <mpn>2057432-01D1</mpn>
+      </variation>
+      <variation>
+        <variationid>6c2c94e1-5119-bd64-a814-360714dfd8a9-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>25</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-white</link>
+        <mpn>2057432-01D1</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>a2bc0404-823c-69fa-3387-8f0075b47c5c</id>
     <name>T-shirt with a round neckline s.Oliver 4066279655101</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
@@ -13400,6 +14077,45 @@
     <quantity>3</quantity>
   </product>
   <product>
+    <id>cd223eab-39f3-56fb-fddf-748ac39cec05</id>
+    <name>Vintage 534 Levi's 5412130050223</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>5412130050223</mpn>
+    <link>https://www.onikshop.gr/product-page/vintage-levi-s-534-04-01</link>
+    <description><![CDATA[Δ<strong>ιαστάσεις</strong>W26- Μέση 68W27- Μέση 72Americas Original Jeans 534 Zipper Fly 100% cottonSlim Fit Women lot 534.04.01 ]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_7266d5b809e94645b17b2459b9e35579~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_e3922c0a9a8e478ca8403f8a85dc0daa~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_14fdec48f14f4b5e8fc8d8ffdc241765~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_27be2361f040495caa8552e7bb516407~mv2.jpg</additionalImage>
+    <color>Βαθύ σκούρο Μπλε</color>
+    <size>W26 L30,W27 L30</size>
+    <brand>Levi's</brand>
+    <weight>200</weight>
+    <price>39.85</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>3</quantity>
+    <variations>
+      <variation>
+        <variationid>cd223eab-39f3-56fb-fddf-748ac39cec05-w26-l30</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W26 L30</size>
+        <quantity>2</quantity>
+        <price>39.85</price>
+        <link>https://www.onikshop.gr/product-page/vintage-levi-s-534-04-01</link>
+        <mpn>5412130050223</mpn>
+      </variation>
+      <variation>
+        <variationid>cd223eab-39f3-56fb-fddf-748ac39cec05-w27-l30</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W27 L30</size>
+        <quantity>1</quantity>
+        <price>39.85</price>
+        <link>https://www.onikshop.gr/product-page/vintage-levi-s-534-04-01</link>
+        <mpn>541213005023</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>18a27e2e-d6e6-0e8b-9eec-bbedd2846d9c</id>
     <name>Vintage Ace Wrangler the regular W14R-YB-14P</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
@@ -13457,9 +14173,9 @@
   </product>
   <product>
     <id>ccc0a208-141e-7ee6-f442-cc898536d0cd</id>
-    <name>Vintage Levi's  529 Red Tab 5414589035905</name>
+    <name>Vintage Levi's  529 Red Tab 00529-17-03</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > Jeans]]></category>
-    <mpn>5414589035905</mpn>
+    <mpn>00529-17-03</mpn>
     <link>https://www.onikshop.gr/product-page/vintage-levi-s-red-tab-529</link>
     <description><![CDATA[Δ<strong>ιαστάσεις</strong>W28- Μέση 80 Vintage Levi's Red Tab 529 Girls Boot Jeans00529.17.03]]></description>
     <featureImage>https://static.wixstatic.com/media/6c7135_b0af0ccdbcdb4dfaaa24bee03e94e5e9~mv2.jpg</featureImage>
@@ -13551,45 +14267,6 @@
         <price>49.5</price>
         <link>https://www.onikshop.gr/product-page/vintage-levi-s-512-bootcut-jeans</link>
         <mpn>00512-0318</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
-    <id>cd223eab-39f3-56fb-fddf-748ac39cec05</id>
-    <name>Vintage Levi's 534.04.01 5412130050223</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>5412130050223</mpn>
-    <link>https://www.onikshop.gr/product-page/vintage-levi-s-534-04-01</link>
-    <description><![CDATA[Δ<strong>ιαστάσεις</strong>W26- Μέση 68W27- Μέση 72Americas Original Jeans 534 Zipper Fly 100% cottonSlim Fit Women lot 534.04.01 ]]></description>
-    <featureImage>https://static.wixstatic.com/media/9517a7_7266d5b809e94645b17b2459b9e35579~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_e3922c0a9a8e478ca8403f8a85dc0daa~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_14fdec48f14f4b5e8fc8d8ffdc241765~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_27be2361f040495caa8552e7bb516407~mv2.jpg</additionalImage>
-    <color>Βαθύ σκούρο Μπλε</color>
-    <size>W26 L30,W27 L30</size>
-    <brand>Levi's</brand>
-    <weight>200</weight>
-    <price>39.85</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
-    <variations>
-      <variation>
-        <variationid>cd223eab-39f3-56fb-fddf-748ac39cec05-w26-l30</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W26 L30</size>
-        <quantity>2</quantity>
-        <price>39.85</price>
-        <link>https://www.onikshop.gr/product-page/vintage-levi-s-534-04-01</link>
-        <mpn>5412130050223</mpn>
-      </variation>
-      <variation>
-        <variationid>cd223eab-39f3-56fb-fddf-748ac39cec05-w27-l30</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W27 L30</size>
-        <quantity>1</quantity>
-        <price>39.85</price>
-        <link>https://www.onikshop.gr/product-page/vintage-levi-s-534-04-01</link>
-        <mpn>541213005023</mpn>
       </variation>
     </variations>
   </product>
