@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-03-24 12:18</created_at>
+  <created_at>2023-03-28 09:45</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -8817,24 +8817,6 @@
     </variations>
   </product>
   <product>
-    <id>cf01f481-94b8-3865-b4d5-302c000b44fe</id>
-    <name>Levi's Men's 527 Slim Boot Cut 05527-0552</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>05527-0552</mpn>
-    <link>https://www.onikshop.gr/product-page/levi-s-men-s-527-slim-boot-cut</link>
-    <description><![CDATA[98% Cotton, 2% Elastane<br>Machine Wash<br>Fastening: Button and zip<br>Medium<br>Bootcut<br>05527-0552]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_ee9ec86d07fd49e29b9f42493d41cb0e~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_b9c942a3d8504ff7816afa40ef69a3e2~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_3cd8a85a746649ca9566cf0241e2edad~mv2.jpg</additionalImage>
-    <color>Πετροπλυμένο</color>
-    <size>W32 L32</size>
-    <brand>Levi's</brand>
-    <weight>500</weight>
-    <price>87.2</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-  </product>
-  <product>
     <id>97758161-7244-517a-af05-2d65ca6da832</id>
     <name>Levi's Men's 751 Standard Fit Jeans 00751-0021</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
@@ -11427,6 +11409,81 @@
     </variations>
   </product>
   <product>
+    <id>42e2c878-dbb0-c848-4916-ad62e6920329</id>
+    <name>s.Oliver Cotton piqué polo shirt 2024581</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
+    <mpn>2024581</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-cotton-piqué-polo-shirt</link>
+    <description><![CDATA[<ul>	<li>	Pattern: plain	</li>	<li>	Collar: polo collar	</li>	<li>	Sleeve: short sleeves, ribbed cuffs	</li>	<li>	Details: logo, embroidery	</li>	<li>	Hem: hem slit at the side	</li>	<li>	Style: In a casual look	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_d2fb12ce229047089de87dadf8e1a669~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_c320f41c0ea84166a10da213ae46c357~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_a4b9dd02cdce4ef580e8584c18f1fe06~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_94241738829542e2818ac22a3874b9ed~mv2.jpg</additionalImage>
+    <color>Λευκό</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>29.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>42e2c878-dbb0-c848-4916-ad62e6920329-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-cotton-piqué-polo-shirt</link>
+        <mpn>2024581</mpn>
+      </variation>
+      <variation>
+        <variationid>42e2c878-dbb0-c848-4916-ad62e6920329-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-cotton-piqué-polo-shirt</link>
+        <mpn>2024581</mpn>
+      </variation>
+      <variation>
+        <variationid>42e2c878-dbb0-c848-4916-ad62e6920329-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-cotton-piqué-polo-shirt</link>
+        <mpn>2024581</mpn>
+      </variation>
+      <variation>
+        <variationid>42e2c878-dbb0-c848-4916-ad62e6920329-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-cotton-piqué-polo-shirt</link>
+        <mpn>2024581</mpn>
+      </variation>
+      <variation>
+        <variationid>42e2c878-dbb0-c848-4916-ad62e6920329-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-cotton-piqué-polo-shirt</link>
+        <mpn>2024581</mpn>
+      </variation>
+      <variation>
+        <variationid>42e2c878-dbb0-c848-4916-ad62e6920329-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-cotton-piqué-polo-shirt</link>
+        <mpn>2024581</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>78ae508b-bf17-986c-454a-f51ff833979b</id>
     <name>s.Oliver Fine knit jumper with a V-neckline 2040666</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πλεκτά]]></category>
@@ -11672,6 +11729,384 @@
         <price>48.99</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-jeans-mit-cargotaschen</link>
         <mpn>2120111</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>21118d2c-694c-6c05-0679-24c4f8c29be7</id>
+    <name>s.Oliver Polo shirt with logo embroidery 2129148-4734</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
+    <mpn>2129148-4734</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery</link>
+    <description><![CDATA[<ul>	<li>	Collar: polo collar	</li>	<li>	Sleeve: short sleeves, ribbed cuffs	</li>	<li>	Details: embroidery	</li>	<li>	Hem: hem slit at the side	</li>	<li>	Style: classic look	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_a5157f94bede4ad3a3be81f6bd76b5de~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_6e4d8996bf3e427db841ad170f04bbd6~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_22411653250f4206b983bc917dcc11c5~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_717563ab27aa45549b3caccc344e9009~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_50d18aa92a7d496e8ea0dd55c898e46c~mv2.jpg</additionalImage>
+    <color>Μώβ</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>29.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>21118d2c-694c-6c05-0679-24c4f8c29be7-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery</link>
+        <mpn>2129148-4734</mpn>
+      </variation>
+      <variation>
+        <variationid>21118d2c-694c-6c05-0679-24c4f8c29be7-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery</link>
+        <mpn>2129148-4734</mpn>
+      </variation>
+      <variation>
+        <variationid>21118d2c-694c-6c05-0679-24c4f8c29be7-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery</link>
+        <mpn>2129148-4734</mpn>
+      </variation>
+      <variation>
+        <variationid>21118d2c-694c-6c05-0679-24c4f8c29be7-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery</link>
+        <mpn>2129148-4734</mpn>
+      </variation>
+      <variation>
+        <variationid>21118d2c-694c-6c05-0679-24c4f8c29be7-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery</link>
+        <mpn>2129148-4734</mpn>
+      </variation>
+      <variation>
+        <variationid>21118d2c-694c-6c05-0679-24c4f8c29be7-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery</link>
+        <mpn>2129148-4734</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>7c174d1f-9aa0-980b-317a-fbd004f262f0</id>
+    <name>s.Oliver Polo shirt with logo embroidery 2129148-3000</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
+    <mpn>2129148-3000</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-1</link>
+    <description><![CDATA[<ul>	<li>	Collar: polo collar	</li>	<li>	Sleeve: short sleeves, ribbed cuffs	</li>	<li>	Details: embroidery	</li>	<li>	Hem: hem slit at the side	</li>	<li>	Style: classic look	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_1ad0901ed7b94a9fb280d770beaa88b5~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_604bdaf8b5fb45978c2d8ffbf07f521e~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_cade41274b9349d6bd7bf859f3503923~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_fcfef1336265494a8f86ed2d3bfbc723~mv2.webp</additionalImage>
+    <color>Κεραμιδί</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>29.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>7c174d1f-9aa0-980b-317a-fbd004f262f0-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-1</link>
+        <mpn>2129148-3000</mpn>
+      </variation>
+      <variation>
+        <variationid>7c174d1f-9aa0-980b-317a-fbd004f262f0-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-1</link>
+        <mpn>2129148-3000</mpn>
+      </variation>
+      <variation>
+        <variationid>7c174d1f-9aa0-980b-317a-fbd004f262f0-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-1</link>
+        <mpn>2129148-3000</mpn>
+      </variation>
+      <variation>
+        <variationid>7c174d1f-9aa0-980b-317a-fbd004f262f0-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-1</link>
+        <mpn>2129148-3000</mpn>
+      </variation>
+      <variation>
+        <variationid>7c174d1f-9aa0-980b-317a-fbd004f262f0-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-1</link>
+        <mpn>2129148-3000</mpn>
+      </variation>
+      <variation>
+        <variationid>7c174d1f-9aa0-980b-317a-fbd004f262f0-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-1</link>
+        <mpn>2129148-3000</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>d8e1eb11-4b3e-a777-fbd0-4a60297ef0f2</id>
+    <name>s.Oliver Polo shirt with logo embroidery 2129148-7955</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
+    <mpn>2129148-7955</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-2</link>
+    <description><![CDATA[<ul>	<li>	Collar: polo collar	</li>	<li>	Sleeve: short sleeves, ribbed cuffs	</li>	<li>	Details: embroidery	</li>	<li>	Hem: hem slit at the side	</li>	<li>	Style: classic look	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_490674ed08fb437498e3209d6bcc2231~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_e9ff18bf5902451cb8afff3e9b821f3f~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_5cb744484b0b45e18a05e15a48e8b932~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_af3da6e54df14c04ae02418246d763cd~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_9ac66533c93b4a508a57d8f48c9ff11a~mv2.webp</additionalImage>
+    <color>Κυπαρισσί</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>29.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>d8e1eb11-4b3e-a777-fbd0-4a60297ef0f2-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-2</link>
+        <mpn>2129148-7955</mpn>
+      </variation>
+      <variation>
+        <variationid>d8e1eb11-4b3e-a777-fbd0-4a60297ef0f2-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-2</link>
+        <mpn>2129148-7955</mpn>
+      </variation>
+      <variation>
+        <variationid>d8e1eb11-4b3e-a777-fbd0-4a60297ef0f2-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-2</link>
+        <mpn>2129148-7955</mpn>
+      </variation>
+      <variation>
+        <variationid>d8e1eb11-4b3e-a777-fbd0-4a60297ef0f2-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-2</link>
+        <mpn>2129148-7955</mpn>
+      </variation>
+      <variation>
+        <variationid>d8e1eb11-4b3e-a777-fbd0-4a60297ef0f2-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-2</link>
+        <mpn>2129148-7955</mpn>
+      </variation>
+      <variation>
+        <variationid>d8e1eb11-4b3e-a777-fbd0-4a60297ef0f2-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-2</link>
+        <mpn>2129148-7955</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>e7922419-26ce-1aca-25e9-444ca905b3d5</id>
+    <name>s.Oliver Polo shirt with logo embroidery 2129148-5864</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
+    <mpn>2129148-5864</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-3</link>
+    <description><![CDATA[<ul>	<li>	Collar: polo collar	</li>	<li>	Sleeve: short sleeves, ribbed cuffs	</li>	<li>	Details: embroidery	</li>	<li>	Hem: hem slit at the side	</li>	<li>	Style: classic look	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_a0a00d48d8fe40e994f8d4baa3fe321a~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_efb15bc139cd4eeba15a4c139f418579~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_48df4b35925c43beb92aeb389003d091~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_b57c2c3e9709488abc7aa1be3799a1ff~mv2.webp</additionalImage>
+    <color>Βαθύ σκούρο Μπλε</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>29.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>e7922419-26ce-1aca-25e9-444ca905b3d5-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-3</link>
+        <mpn>2129148-5864</mpn>
+      </variation>
+      <variation>
+        <variationid>e7922419-26ce-1aca-25e9-444ca905b3d5-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-3</link>
+        <mpn>2129148-5864</mpn>
+      </variation>
+      <variation>
+        <variationid>e7922419-26ce-1aca-25e9-444ca905b3d5-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-3</link>
+        <mpn>2129148-5864</mpn>
+      </variation>
+      <variation>
+        <variationid>e7922419-26ce-1aca-25e9-444ca905b3d5-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-3</link>
+        <mpn>2129148-5864</mpn>
+      </variation>
+      <variation>
+        <variationid>e7922419-26ce-1aca-25e9-444ca905b3d5-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-3</link>
+        <mpn>2129148-5864</mpn>
+      </variation>
+      <variation>
+        <variationid>e7922419-26ce-1aca-25e9-444ca905b3d5-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-3</link>
+        <mpn>2129148-5864</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>706e7b95-6c87-8dd5-8849-ea5ce4996894</id>
+    <name>s.Oliver Polo shirt with logo embroidery 2129148-7351</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
+    <mpn>2129148-7351</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-4</link>
+    <description><![CDATA[<ul>	<li>	Collar: polo collar	</li>	<li>	Sleeve: short sleeves, ribbed cuffs	</li>	<li>	Details: embroidery	</li>	<li>	Hem: hem slit at the side	</li>	<li>	Style: classic look	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_6e89641e91564e51a7a842d39e36e03e~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_00e54dacb821495aa8fe35ae0c959209~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_8b69ab11b5e441748205a7469443900e~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_449f203c5cd24ef584b2852b39c47392~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_cad3728bc9d441cab6bbd6bd2816fd44~mv2.jpg</additionalImage>
+    <color>Φιστικί</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>29.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>706e7b95-6c87-8dd5-8849-ea5ce4996894-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-4</link>
+        <mpn>2129148-7351</mpn>
+      </variation>
+      <variation>
+        <variationid>706e7b95-6c87-8dd5-8849-ea5ce4996894-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-4</link>
+        <mpn>2129148-7351</mpn>
+      </variation>
+      <variation>
+        <variationid>706e7b95-6c87-8dd5-8849-ea5ce4996894-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-4</link>
+        <mpn>2129148-7351</mpn>
+      </variation>
+      <variation>
+        <variationid>706e7b95-6c87-8dd5-8849-ea5ce4996894-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-4</link>
+        <mpn>2129148-7351</mpn>
+      </variation>
+      <variation>
+        <variationid>706e7b95-6c87-8dd5-8849-ea5ce4996894-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-4</link>
+        <mpn>2129148-7351</mpn>
+      </variation>
+      <variation>
+        <variationid>706e7b95-6c87-8dd5-8849-ea5ce4996894-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>29.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-4</link>
+        <mpn>2129148-7351</mpn>
       </variation>
     </variations>
   </product>
