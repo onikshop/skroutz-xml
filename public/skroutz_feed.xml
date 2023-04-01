@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-03-28 17:36</created_at>
+  <created_at>2023-04-01 08:17</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -532,7 +532,7 @@
     <size>S,M,L,XL,XXL</size>
     <brand>Celio</brand>
     <weight>200</weight>
-    <price>47.2</price>
+    <price>53.1</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>8</quantity>
     <variations>
@@ -541,7 +541,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>S</size>
         <quantity>2</quantity>
-        <price>47.2</price>
+        <price>53.1</price>
         <link>https://www.onikshop.gr/product-page/celio-denim-jacket-budens</link>
         <mpn>BUDEN</mpn>
       </variation>
@@ -550,7 +550,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>M</size>
         <quantity>2</quantity>
-        <price>47.2</price>
+        <price>53.1</price>
         <link>https://www.onikshop.gr/product-page/celio-denim-jacket-budens</link>
         <mpn>BUDEN</mpn>
       </variation>
@@ -559,7 +559,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
         <quantity>0</quantity>
-        <price>47.2</price>
+        <price>53.1</price>
         <link>https://www.onikshop.gr/product-page/celio-denim-jacket-budens</link>
         <mpn>BUDEN</mpn>
       </variation>
@@ -568,7 +568,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XL</size>
         <quantity>2</quantity>
-        <price>47.2</price>
+        <price>53.1</price>
         <link>https://www.onikshop.gr/product-page/celio-denim-jacket-budens</link>
         <mpn>BUDEN</mpn>
       </variation>
@@ -577,7 +577,7 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
         <quantity>2</quantity>
-        <price>47.2</price>
+        <price>53.1</price>
         <link>https://www.onikshop.gr/product-page/celio-denim-jacket-budens</link>
         <mpn>BUDEN</mpn>
       </variation>
@@ -1215,10 +1215,10 @@
     <color>Πετροπλυμένο</color>
     <size>W30,W32,W33,W34,W36,W38,W40,W42</size>
     <brand>Celio</brand>
-    <weight>1000</weight>
+    <weight>100</weight>
     <price>41.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>3dbb09bf-73a0-b47d-efa3-bceca37cabde-w30</variationid>
@@ -1242,7 +1242,7 @@
         <variationid>3dbb09bf-73a0-b47d-efa3-bceca37cabde-w33</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>41.3</price>
         <link>https://www.onikshop.gr/product-page/jean-celio-voslight25-bleached-μπλε-ανοιχτό</link>
         <mpn>Voslight25 Bleached</mpn>
@@ -1407,7 +1407,7 @@
         <variationid>7a061d29-b4cb-62f4-0139-e1dc28b4ef66-m</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>M</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29</price>
         <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-black</link>
         <mpn>VIP-0123</mpn>
@@ -1416,7 +1416,7 @@
         <variationid>7a061d29-b4cb-62f4-0139-e1dc28b4ef66-l</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
-        <quantity>1</quantity>
+        <quantity>2</quantity>
         <price>29</price>
         <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-black</link>
         <mpn>VIP-0123</mpn>
@@ -1700,7 +1700,7 @@
     <weight>200</weight>
     <price>89.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>12</quantity>
+    <quantity>11</quantity>
     <variations>
       <variation>
         <variationid>402d1e14-26f8-73d7-0cf0-ecb599910aff-w27</variationid>
@@ -1751,7 +1751,7 @@
         <variationid>402d1e14-26f8-73d7-0cf0-ecb599910aff-w32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>89.9</price>
         <link>https://www.onikshop.gr/product-page/edward-balint-jap-jeans</link>
         <mpn>MP-D-JNS-S23-020</mpn>
@@ -2128,7 +2128,7 @@
     <weight>200</weight>
     <price>104.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>12</quantity>
+    <quantity>11</quantity>
     <variations>
       <variation>
         <variationid>41f71d5b-62f4-7360-9801-eb6750b7f40f-w27</variationid>
@@ -2188,7 +2188,7 @@
         <variationid>41f71d5b-62f4-7360-9801-eb6750b7f40f-w33</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>104.9</price>
         <link>https://www.onikshop.gr/product-page/edward-fadey-jt-jeans</link>
         <mpn>Fadey-Jt</mpn>
@@ -4178,13 +4178,13 @@
     <weight>500</weight>
     <price>69.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>9e8cbd35-ecc4-8cd7-1257-d78de5981926-s</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>S</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>69.95</price>
         <link>https://www.onikshop.gr/product-page/heavy-tools-sogun</link>
         <mpn>SOGUN NAVY</mpn>
@@ -4431,13 +4431,13 @@
     <weight>500</weight>
     <price>52.8</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <variations>
       <variation>
         <variationid>5c46b121-e1ed-19b9-472d-95961b79c7b6-w38-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W38 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>52.8</price>
         <link>https://www.onikshop.gr/product-page/jean-pantolon-527-slim-bootcut</link>
         <mpn>05527-0334</mpn>
@@ -6363,6 +6363,126 @@
     </variations>
   </product>
   <product>
+    <id>74b2bb61-2514-8222-f8a4-58beb323b74f</id>
+    <name>Lee Scarlett High Γυναικείο Μπλε Τζιν Παντελόν L626GUB43</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ<br>
+ > Jean Γυναικεία]]></category>
+    <mpn>L626GUB43</mpn>
+    <link>https://www.onikshop.gr/product-page/lee-scarlett-high-γυναικείο-μπλε-τζιν-παντελόν</link>
+    <description><![CDATA[Lee Skinny High Waist 79% Cotton 5% Lyocell4% Elastane]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_214fc0d6a6d7438e982b3f99c9723dea~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_f6d013d49c60431fb11a1f6f9f7eed66~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_3f6bbe2aac7a45a580dc7078026a43fb~mv2.webp</additionalImage>
+    <color>Μπλε Ανοιχτό</color>
+    <size>W24 L31,W25 L33,W27 L31,W27 L33,W28 L33,W29 L33,W30 L33,W31 L33,W32 L33,W33 L33,W34 L33</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>119</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>11</quantity>
+    <variations>
+      <variation>
+        <variationid>74b2bb61-2514-8222-f8a4-58beb323b74f-w24-l31</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W24 L31</size>
+        <quantity>1</quantity>
+        <price>119</price>
+        <link>https://www.onikshop.gr/product-page/lee-scarlett-high-γυναικείο-μπλε-τζιν-παντελόν</link>
+        <mpn>L626GUB43</mpn>
+      </variation>
+      <variation>
+        <variationid>74b2bb61-2514-8222-f8a4-58beb323b74f-w25-l33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W25 L33</size>
+        <quantity>1</quantity>
+        <price>119</price>
+        <link>https://www.onikshop.gr/product-page/lee-scarlett-high-γυναικείο-μπλε-τζιν-παντελόν</link>
+        <mpn>L626GUB43</mpn>
+      </variation>
+      <variation>
+        <variationid>74b2bb61-2514-8222-f8a4-58beb323b74f-w27-l31</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W27 L31</size>
+        <quantity>1</quantity>
+        <price>119</price>
+        <link>https://www.onikshop.gr/product-page/lee-scarlett-high-γυναικείο-μπλε-τζιν-παντελόν</link>
+        <mpn>L626GUB43</mpn>
+      </variation>
+      <variation>
+        <variationid>74b2bb61-2514-8222-f8a4-58beb323b74f-w27-l33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W27 L33</size>
+        <quantity>1</quantity>
+        <price>119</price>
+        <link>https://www.onikshop.gr/product-page/lee-scarlett-high-γυναικείο-μπλε-τζιν-παντελόν</link>
+        <mpn>L626GUB43</mpn>
+      </variation>
+      <variation>
+        <variationid>74b2bb61-2514-8222-f8a4-58beb323b74f-w28-l33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W28 L33</size>
+        <quantity>1</quantity>
+        <price>119</price>
+        <link>https://www.onikshop.gr/product-page/lee-scarlett-high-γυναικείο-μπλε-τζιν-παντελόν</link>
+        <mpn>L626GUB43</mpn>
+      </variation>
+      <variation>
+        <variationid>74b2bb61-2514-8222-f8a4-58beb323b74f-w29-l33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W29 L33</size>
+        <quantity>1</quantity>
+        <price>119</price>
+        <link>https://www.onikshop.gr/product-page/lee-scarlett-high-γυναικείο-μπλε-τζιν-παντελόν</link>
+        <mpn>L626GUB43</mpn>
+      </variation>
+      <variation>
+        <variationid>74b2bb61-2514-8222-f8a4-58beb323b74f-w30-l33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W30 L33</size>
+        <quantity>1</quantity>
+        <price>119</price>
+        <link>https://www.onikshop.gr/product-page/lee-scarlett-high-γυναικείο-μπλε-τζιν-παντελόν</link>
+        <mpn>L626GUB43</mpn>
+      </variation>
+      <variation>
+        <variationid>74b2bb61-2514-8222-f8a4-58beb323b74f-w31-l33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W31 L33</size>
+        <quantity>1</quantity>
+        <price>119</price>
+        <link>https://www.onikshop.gr/product-page/lee-scarlett-high-γυναικείο-μπλε-τζιν-παντελόν</link>
+        <mpn>L626GUB43</mpn>
+      </variation>
+      <variation>
+        <variationid>74b2bb61-2514-8222-f8a4-58beb323b74f-w32-l33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W32 L33</size>
+        <quantity>1</quantity>
+        <price>119</price>
+        <link>https://www.onikshop.gr/product-page/lee-scarlett-high-γυναικείο-μπλε-τζιν-παντελόν</link>
+        <mpn>L626GUB43</mpn>
+      </variation>
+      <variation>
+        <variationid>74b2bb61-2514-8222-f8a4-58beb323b74f-w33-l33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L33</size>
+        <quantity>1</quantity>
+        <price>119</price>
+        <link>https://www.onikshop.gr/product-page/lee-scarlett-high-γυναικείο-μπλε-τζιν-παντελόν</link>
+        <mpn>L626GUB43</mpn>
+      </variation>
+      <variation>
+        <variationid>74b2bb61-2514-8222-f8a4-58beb323b74f-w34-l33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34 L33</size>
+        <quantity>1</quantity>
+        <price>119</price>
+        <link>https://www.onikshop.gr/product-page/lee-scarlett-high-γυναικείο-μπλε-τζιν-παντελόν</link>
+        <mpn>L626GUB43</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>1ad4dd01-9538-6410-f247-e54be12648da</id>
     <name>Lee Scarlett Skinny Pitch Royal L526WQSO L526WQSO</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
@@ -6515,6 +6635,90 @@
         <price>81.75</price>
         <link>https://www.onikshop.gr/product-page/lee-stella-a-line</link>
         <mpn>L31SBEKK</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>c3870249-90e7-dd5e-65d9-7beca3f5b3dc</id>
+    <name>LEE Stella Short in Mid Wash L37EHGC05</name>
+    <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Σορτς Γυναικεία]]></category>
+    <mpn>L37EHGC05</mpn>
+    <link>https://www.onikshop.gr/product-page/lee-stella-short-in-mid-wash</link>
+    <description>Κλείσιμο με φερμουάρ και κουμπί Ψηλόμεσο Άνετη εφαρμογή Vintage Look Χρώμα: Μπλε Σύνθεση: 67% Organic Cotton - 32% Lyocell - 1% Elastane Προιόν που έχει κατασκευαστεί με διαδικασία βιώσιμης παραγωγής, μειώνοντας το περιβαλλοντικό απoτύπωμα.</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_ba94eff596014a96b50f2c9e156c9fd2~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_1c7c042ce41d4bc0b19f48bc8c78c6e1~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_57870cbb2868471bb65ce6a5d798255e~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_3fa5a3782b5d4b879622554d19fce91c~mv2.jpg</additionalImage>
+    <color>Μπλε Ανοιχτό</color>
+    <size>26,27,28,29,30,31,32</size>
+    <brand>LEE</brand>
+    <weight>100</weight>
+    <price>75</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>7</quantity>
+    <variations>
+      <variation>
+        <variationid>c3870249-90e7-dd5e-65d9-7beca3f5b3dc-26</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>26</size>
+        <quantity>1</quantity>
+        <price>75</price>
+        <link>https://www.onikshop.gr/product-page/lee-stella-short-in-mid-wash</link>
+        <mpn>L37EHGC05</mpn>
+      </variation>
+      <variation>
+        <variationid>c3870249-90e7-dd5e-65d9-7beca3f5b3dc-27</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>27</size>
+        <quantity>1</quantity>
+        <price>75</price>
+        <link>https://www.onikshop.gr/product-page/lee-stella-short-in-mid-wash</link>
+        <mpn>L37EHGC05</mpn>
+      </variation>
+      <variation>
+        <variationid>c3870249-90e7-dd5e-65d9-7beca3f5b3dc-28</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>28</size>
+        <quantity>1</quantity>
+        <price>75</price>
+        <link>https://www.onikshop.gr/product-page/lee-stella-short-in-mid-wash</link>
+        <mpn>L37EHGC05</mpn>
+      </variation>
+      <variation>
+        <variationid>c3870249-90e7-dd5e-65d9-7beca3f5b3dc-29</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>29</size>
+        <quantity>1</quantity>
+        <price>75</price>
+        <link>https://www.onikshop.gr/product-page/lee-stella-short-in-mid-wash</link>
+        <mpn>L37EHGC05</mpn>
+      </variation>
+      <variation>
+        <variationid>c3870249-90e7-dd5e-65d9-7beca3f5b3dc-30</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>30</size>
+        <quantity>1</quantity>
+        <price>75</price>
+        <link>https://www.onikshop.gr/product-page/lee-stella-short-in-mid-wash</link>
+        <mpn>L37EHGC05</mpn>
+      </variation>
+      <variation>
+        <variationid>c3870249-90e7-dd5e-65d9-7beca3f5b3dc-31</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>31</size>
+        <quantity>1</quantity>
+        <price>75</price>
+        <link>https://www.onikshop.gr/product-page/lee-stella-short-in-mid-wash</link>
+        <mpn>L37EHGC05</mpn>
+      </variation>
+      <variation>
+        <variationid>c3870249-90e7-dd5e-65d9-7beca3f5b3dc-32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>32</size>
+        <quantity>1</quantity>
+        <price>75</price>
+        <link>https://www.onikshop.gr/product-page/lee-stella-short-in-mid-wash</link>
+        <mpn>L37EHGC05</mpn>
       </variation>
     </variations>
   </product>
@@ -10594,13 +10798,13 @@
     <weight>100</weight>
     <price>27.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <variations>
       <variation>
         <variationid>e12035a2-12de-5b41-e720-ed9ac383cf80-s</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>S</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>27.3</price>
         <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-τύπωμα-search-rescue-μαύρο</link>
         <mpn>70664-2</mpn>
@@ -11733,6 +11937,110 @@
     </variations>
   </product>
   <product>
+    <id>34facf2c-3fa4-c693-5e01-809330d7fa6c</id>
+    <name>s.Oliver Loose fit: jeans in a five-pocket design 2127758</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>2127758</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-loose-fit-jeans-in-a-five-pocket-design</link>
+    <description><![CDATA[<ul>	<li>	Fastener: button placket	</li>	<li>	Pockets: five-pocket design	</li>	<li>	Details: garment wash	</li>	<li>	waistband: with belt loops	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_7f17767e76474d1d970d65b94cfc26dc~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_7d3f43283613402eade251973ae8ee09~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_894b9e7d82e04877ae10613016ae83ae~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_f941c98e98b34b61b65494b14183492e~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_d5689d2de2df41529636138985ee19b1~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_e6295e98b5a44bbc8c7f6d9909400d08~mv2.webp</additionalImage>
+    <color>Μπλε Ανοιχτό</color>
+    <size>W28 L32,W29 L32,W30 L32,W31 L32,W32 L34,W33 L34,W34 L34,W36 L34,W38 L34</size>
+    <brand>s.Oliver</brand>
+    <weight>200</weight>
+    <price>69.99</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>11</quantity>
+    <variations>
+      <variation>
+        <variationid>34facf2c-3fa4-c693-5e01-809330d7fa6c-w28-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W28 L32</size>
+        <quantity>1</quantity>
+        <price>69.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-loose-fit-jeans-in-a-five-pocket-design</link>
+        <mpn>2127758</mpn>
+      </variation>
+      <variation>
+        <variationid>34facf2c-3fa4-c693-5e01-809330d7fa6c-w29-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W29 L32</size>
+        <quantity>1</quantity>
+        <price>69.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-loose-fit-jeans-in-a-five-pocket-design</link>
+        <mpn>2127758</mpn>
+      </variation>
+      <variation>
+        <variationid>34facf2c-3fa4-c693-5e01-809330d7fa6c-w30-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W30 L32</size>
+        <quantity>1</quantity>
+        <price>69.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-loose-fit-jeans-in-a-five-pocket-design</link>
+        <mpn>2127758</mpn>
+      </variation>
+      <variation>
+        <variationid>34facf2c-3fa4-c693-5e01-809330d7fa6c-w31-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W31 L32</size>
+        <quantity>1</quantity>
+        <price>69.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-loose-fit-jeans-in-a-five-pocket-design</link>
+        <mpn>2127758</mpn>
+      </variation>
+      <variation>
+        <variationid>34facf2c-3fa4-c693-5e01-809330d7fa6c-w32-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W32 L34</size>
+        <quantity>2</quantity>
+        <price>69.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-loose-fit-jeans-in-a-five-pocket-design</link>
+        <mpn>2127758</mpn>
+      </variation>
+      <variation>
+        <variationid>34facf2c-3fa4-c693-5e01-809330d7fa6c-w33-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L34</size>
+        <quantity>2</quantity>
+        <price>69.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-loose-fit-jeans-in-a-five-pocket-design</link>
+        <mpn>2127758</mpn>
+      </variation>
+      <variation>
+        <variationid>34facf2c-3fa4-c693-5e01-809330d7fa6c-w34-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34 L34</size>
+        <quantity>1</quantity>
+        <price>69.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-loose-fit-jeans-in-a-five-pocket-design</link>
+        <mpn>2127758</mpn>
+      </variation>
+      <variation>
+        <variationid>34facf2c-3fa4-c693-5e01-809330d7fa6c-w36-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W36 L34</size>
+        <quantity>1</quantity>
+        <price>69.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-loose-fit-jeans-in-a-five-pocket-design</link>
+        <mpn>2127758</mpn>
+      </variation>
+      <variation>
+        <variationid>34facf2c-3fa4-c693-5e01-809330d7fa6c-w38-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W38 L34</size>
+        <quantity>1</quantity>
+        <price>69.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-loose-fit-jeans-in-a-five-pocket-design</link>
+        <mpn>2127758</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>21118d2c-694c-6c05-0679-24c4f8c29be7</id>
     <name>s.Oliver Polo shirt with logo embroidery 2129148-4734</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
@@ -11750,7 +12058,7 @@
     <weight>100</weight>
     <price>29.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>21118d2c-694c-6c05-0679-24c4f8c29be7-s</variationid>
@@ -11765,7 +12073,7 @@
         <variationid>21118d2c-694c-6c05-0679-24c4f8c29be7-m</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>M</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29.9</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery</link>
         <mpn>2129148-4734</mpn>
@@ -11901,7 +12209,7 @@
     <weight>100</weight>
     <price>29.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>d8e1eb11-4b3e-a777-fbd0-4a60297ef0f2-s</variationid>
@@ -11925,7 +12233,7 @@
         <variationid>d8e1eb11-4b3e-a777-fbd0-4a60297ef0f2-l</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29.9</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-2</link>
         <mpn>2129148-7955</mpn>
@@ -12112,7 +12420,7 @@
   </product>
   <product>
     <id>0589e483-4ebe-bd85-41a9-717a312678d8</id>
-    <name>s.oliver Regular fit: trousers made of stretch cotton 2128942-58K3</name>
+    <name>s.Oliver Regular fit: trousers made of stretch cotton 2128942-58K3</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Τσίνος]]></category>
     <mpn>2128942-58K3</mpn>
     <link>https://www.onikshop.gr/product-page/s-oliver-regular-fit-trousers-made-of-stretch-cotton</link>
@@ -15666,6 +15974,24 @@
     </variations>
   </product>
   <product>
+    <id>ec855edf-7ed0-8a76-36bb-b54233efa451</id>
+    <name>Wrangler Franklin Vintage W196-39-061</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>W196-39-061</mpn>
+    <link>https://www.onikshop.gr/product-page/wrangler-franklin-vintage</link>
+    <description><![CDATA[Vintage Franklin straight relaxed button fly100% cotton W31 L36 / 79CM 91CM]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_0dbb7c15c4004aa0869d1f759831157f~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_cf2afa5d33af4e72a3d0740017816da7~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_f010c87b8d824bc2bb1fbce7a4dc7002~mv2.jpg</additionalImage>
+    <color>Μπλε κλασικό</color>
+    <size>W31 L36</size>
+    <brand>Wrangler</brand>
+    <weight>200</weight>
+    <price>31.6</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
+  </product>
+  <product>
     <id>5d180c38-c252-1bdd-4710-273a386431a0</id>
     <name>Wrangler Greensboro 803 Blue Arcade W15Q-YL-31Q</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
@@ -16904,6 +17230,24 @@
     </variations>
   </product>
   <product>
+    <id>72f5f54f-83c7-b57f-a5e6-ce0824f1276b</id>
+    <name>Wrangler Low Straight Crank W10H-F8-27U</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>W10H-F8-27U</mpn>
+    <link>https://www.onikshop.gr/product-page/wrangler-low-straight-crank</link>
+    <description>Wrangler Low Straight Crank Smokin Blue</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_79df4d4cfb05468da3034ee9beb76dfa~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_5f344fe92d264629bef0353d96ccdc55~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_3a31f483919a4d12ac8a8400f5eec92c~mv2.jpg</additionalImage>
+    <color>Μπλε Ανοιχτό</color>
+    <size>W29 L34</size>
+    <brand>Wrangler</brand>
+    <weight>200</weight>
+    <price>44</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
+  </product>
+  <product>
     <id>e74905e0-cad9-da86-0eff-7b0b7f6e5108</id>
     <name>Wrangler SIGN OFF TEE W7C07D301-1</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
@@ -17397,6 +17741,24 @@
         <mpn>W121-35-21J</mpn>
       </variation>
     </variations>
+  </product>
+  <product>
+    <id>65fb0cfb-5d12-4e3d-bfff-7265c143a691</id>
+    <name>Wrangler TheBroken Twill Spencer Vintage W184-XG-38X</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>W184-XG-38X</mpn>
+    <link>https://www.onikshop.gr/product-page/wrangler-thebroken-twill-spencer-vintage</link>
+    <description><![CDATA[spencer jeans wrangler the slim line  ]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_7e1d6e32363f42dc9229d82153504867~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_33b7104c962f40fd8b91ca4514962d1c~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_ed131b6ef81e4f5ebb63ff7a755aa1d6~mv2.jpg</additionalImage>
+    <color>Σκούρο Μπλέ</color>
+    <size>W34 L34</size>
+    <brand>Wrangler</brand>
+    <weight>200</weight>
+    <price>51.6</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
   </product>
   <product>
     <id>68bae381-deae-be88-e826-a380812b866a</id>
@@ -22382,6 +22744,91 @@
         <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/τζιν-lee-daren-strong-hand</link>
         <mpn>L706AADB</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>b699eb2d-8843-dfa2-cbfb-282b2bb5b1cb</id>
+    <name>Τζιν παντελόνι Lee Carol L30UHJB57</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ<br>
+ > Jean Γυναικεία]]></category>
+    <mpn>L30UHJB57</mpn>
+    <link>https://www.onikshop.gr/product-page/τζιν-παντελόνι-lee-carol</link>
+    <description><![CDATA[Tζιν παντελόνι από τη συλλογή Lee σε στυλ regular straight υψηλή μέση. Μοντέλο από λείο τζιν.- Ένα μοντέλο από τη σειρά Lee®: For a World That Works ™, που δημιουργήθηκε στο πνεύμα της βιώσιμης ανάπτυξης. Το προϊόν περιέχει τουλάχιστον 20% εναλλακτικές ίνες, η χρήση των οποίων εξοικονομεί νερό και ηλεκτρική ενέργεια.<br>- Κόψιμο regular straight.<br>- Υψηλή μέση.<br>- Τσέπες.<br>- Κλείσιμο με κουμπί και φερμουάρ.<br>- Πλάτος μέσης: 35 cm.<br>- Πλάτος γοφών: 46 cm.<br>- Ύψος μέσης: 27 cm.<br>- Πλάτος μπατζακιού: 25 cm.<br>- Κάτω πλάτος μπατζακιού: 18 cm.<br>- Μήκος: 95 cm.<br>- Διαστάσεις αναφερόμενες για το μέγεθος: 28/31.Υλικό:<br>95% Βαμβάκι, 3% Ελαστομυλίστερ, 2% Σπαντέξ]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_f5afbfd6271149bc9245018287bbdb36~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_b5d5332b6dcc4ab7a8a21d2d1443c879~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_8da1d8361da34a98ac07c942c3470dc0~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_a8fce776c05942b695e4e11800db1641~mv2.webp</additionalImage>
+    <color>Πετροπλυμένο</color>
+    <size>W25 L33,W26 L31,W26 L33,W27 L33,W28 L33,W29 L33,W30 L33</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>129</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>7</quantity>
+    <variations>
+      <variation>
+        <variationid>b699eb2d-8843-dfa2-cbfb-282b2bb5b1cb-w25-l33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W25 L33</size>
+        <quantity>1</quantity>
+        <price>129</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-παντελόνι-lee-carol</link>
+        <mpn>L30UHJB57</mpn>
+      </variation>
+      <variation>
+        <variationid>b699eb2d-8843-dfa2-cbfb-282b2bb5b1cb-w26-l31</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W26 L31</size>
+        <quantity>1</quantity>
+        <price>129</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-παντελόνι-lee-carol</link>
+        <mpn>L30UHJB57</mpn>
+      </variation>
+      <variation>
+        <variationid>b699eb2d-8843-dfa2-cbfb-282b2bb5b1cb-w26-l33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W26 L33</size>
+        <quantity>1</quantity>
+        <price>129</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-παντελόνι-lee-carol</link>
+        <mpn>L30UHJB57</mpn>
+      </variation>
+      <variation>
+        <variationid>b699eb2d-8843-dfa2-cbfb-282b2bb5b1cb-w27-l33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W27 L33</size>
+        <quantity>1</quantity>
+        <price>129</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-παντελόνι-lee-carol</link>
+        <mpn>L30UHJB57</mpn>
+      </variation>
+      <variation>
+        <variationid>b699eb2d-8843-dfa2-cbfb-282b2bb5b1cb-w28-l33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W28 L33</size>
+        <quantity>1</quantity>
+        <price>129</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-παντελόνι-lee-carol</link>
+        <mpn>L30UHJB57</mpn>
+      </variation>
+      <variation>
+        <variationid>b699eb2d-8843-dfa2-cbfb-282b2bb5b1cb-w29-l33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W29 L33</size>
+        <quantity>1</quantity>
+        <price>129</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-παντελόνι-lee-carol</link>
+        <mpn>L30UHJB57</mpn>
+      </variation>
+      <variation>
+        <variationid>b699eb2d-8843-dfa2-cbfb-282b2bb5b1cb-w30-l33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W30 L33</size>
+        <quantity>1</quantity>
+        <price>129</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-παντελόνι-lee-carol</link>
+        <mpn>L30UHJB57</mpn>
       </variation>
     </variations>
   </product>
