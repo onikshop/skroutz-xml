@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-01 08:17</created_at>
+  <created_at>2023-04-03 07:38</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -7289,7 +7289,7 @@
     <weight>200</weight>
     <price>119</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>8b3e93f2-cd70-3f58-7689-883b06f3bfe5-w30-l34</variationid>
@@ -7313,7 +7313,7 @@
         <variationid>8b3e93f2-cd70-3f58-7689-883b06f3bfe5-w32-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W32 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>119</price>
         <link>https://www.onikshop.gr/product-page/lee-τζιν-70s-bootcut-in-union-city-worn-in</link>
         <mpn>L72HICB90</mpn>
@@ -7391,6 +7391,328 @@
         <price>45.95</price>
         <link>https://www.onikshop.gr/product-page/leonard-jeans-edward</link>
         <mpn>Leonard-511</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>70be4ba4-40e7-7e34-1ee6-490cc3f6c635</id>
+    <name>Leonardo Uomo Ανδρικό Κοστούμι Navy Μπλε W22LU1590426-17</name>
+    <category><![CDATA[ΚΛΑΣΙΚΑ > Κοστούμια]]></category>
+    <mpn>W22LU1590426-17</mpn>
+    <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-navy-μπλε</link>
+    <description><![CDATA[Ανδρικό κοστούμι σε κανονική γραμμή, με σακάκι με τσέπες στο πλάι, κλείσιμο με κουμπιά και παντελόνι σε κανονική γραμμή, με κλείσιμο με φερμουάρ και κουμπί. ( Σύνθεση: 40% Ύφασμα, 20% Μαλλί, 28% Βισκόζη, 2% Σπάντεξ )Style: ΜΟΝΤΕΡΝΟ<br>Υλικό: ΜΕ ΕΛΑΣΤΑΝ, ΣΥΝΘΕΤΙΚΟ, ΥΦΑΣΜΑ<br>Κωδικός Κατασκευαστή: W22LU1590426-17]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_f9fd007c9ff24211abe6275159e63ddf~mv2.jpeg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_e144fac7841d427b98e1ee9ecb7d2c0a~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_15617eebf6f44b7ab94bb6712212b9a3~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_37e7690c46f64a6e859947412cc46d41~mv2.jpeg</additionalImage>
+    <color>Βαθύ σκούρο Μπλε</color>
+    <size>46,48,50,52,54,56,60,62,64</size>
+    <brand>Leonardo Uomo</brand>
+    <weight>200</weight>
+    <price>153.93</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>9</quantity>
+    <variations>
+      <variation>
+        <variationid>70be4ba4-40e7-7e34-1ee6-490cc3f6c635-46</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>46</size>
+        <quantity>1</quantity>
+        <price>153.93</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-navy-μπλε</link>
+        <mpn>W22LU1590426-17</mpn>
+      </variation>
+      <variation>
+        <variationid>70be4ba4-40e7-7e34-1ee6-490cc3f6c635-48</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>48</size>
+        <quantity>1</quantity>
+        <price>153.93</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-navy-μπλε</link>
+        <mpn>W22LU1590426-17</mpn>
+      </variation>
+      <variation>
+        <variationid>70be4ba4-40e7-7e34-1ee6-490cc3f6c635-50</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>50</size>
+        <quantity>1</quantity>
+        <price>153.93</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-navy-μπλε</link>
+        <mpn>W22LU1590426-17</mpn>
+      </variation>
+      <variation>
+        <variationid>70be4ba4-40e7-7e34-1ee6-490cc3f6c635-52</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>52</size>
+        <quantity>1</quantity>
+        <price>153.93</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-navy-μπλε</link>
+        <mpn>W22LU1590426-17</mpn>
+      </variation>
+      <variation>
+        <variationid>70be4ba4-40e7-7e34-1ee6-490cc3f6c635-54</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>54</size>
+        <quantity>1</quantity>
+        <price>153.93</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-navy-μπλε</link>
+        <mpn>W22LU1590426-17</mpn>
+      </variation>
+      <variation>
+        <variationid>70be4ba4-40e7-7e34-1ee6-490cc3f6c635-56</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>56</size>
+        <quantity>1</quantity>
+        <price>153.93</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-navy-μπλε</link>
+        <mpn>W22LU1590426-17</mpn>
+      </variation>
+      <variation>
+        <variationid>70be4ba4-40e7-7e34-1ee6-490cc3f6c635-60</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>60</size>
+        <quantity>1</quantity>
+        <price>153.93</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-navy-μπλε</link>
+        <mpn>W22LU1590426-17</mpn>
+      </variation>
+      <variation>
+        <variationid>70be4ba4-40e7-7e34-1ee6-490cc3f6c635-62</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>62</size>
+        <quantity>1</quantity>
+        <price>153.93</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-navy-μπλε</link>
+        <mpn>W22LU1590426-17</mpn>
+      </variation>
+      <variation>
+        <variationid>70be4ba4-40e7-7e34-1ee6-490cc3f6c635-64</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>64</size>
+        <quantity>1</quantity>
+        <price>153.93</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-navy-μπλε</link>
+        <mpn>W22LU1590426-17</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>400aa48a-1f02-f8e4-4035-9faac9ac35ad</id>
+    <name>Leonardo Uomo Ανδρικό Κοστούμι Μαύρο W22LU1590932-15</name>
+    <category><![CDATA[ΚΛΑΣΙΚΑ > Κοστούμια]]></category>
+    <mpn>W22LU1590932-15</mpn>
+    <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-μαύρο</link>
+    <description><![CDATA[Κωδικός Καταστήματος: 3520ALEON4000035-BlackΑνδρικό κοστούμι από υφασμάτινο μείγμα]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_64f96234e03440f090d67492396a26c3~mv2.jpeg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_b71623143a1f4cb8bb1a0cc059b0ec40~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_dccf06fcfeaa4618af49079bb35dd176~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_fe122f78c845470c81aa418d9c835dff~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_cb8d49c9f34b4fe4b38e92bcd6efd6e8~mv2.jpeg</additionalImage>
+    <color>Μαύρο</color>
+    <size>46,48,50,54,56,58,60,62,64,66,68</size>
+    <brand>Leonardo Uomo</brand>
+    <weight>200</weight>
+    <price>149</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>11</quantity>
+    <variations>
+      <variation>
+        <variationid>400aa48a-1f02-f8e4-4035-9faac9ac35ad-46</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>46</size>
+        <quantity>1</quantity>
+        <price>149</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-μαύρο</link>
+        <mpn>W22LU1590932-15</mpn>
+      </variation>
+      <variation>
+        <variationid>400aa48a-1f02-f8e4-4035-9faac9ac35ad-48</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>48</size>
+        <quantity>1</quantity>
+        <price>149</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-μαύρο</link>
+        <mpn>W22LU1590932-15</mpn>
+      </variation>
+      <variation>
+        <variationid>400aa48a-1f02-f8e4-4035-9faac9ac35ad-50</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>50</size>
+        <quantity>1</quantity>
+        <price>149</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-μαύρο</link>
+        <mpn>W22LU1590932-15</mpn>
+      </variation>
+      <variation>
+        <variationid>400aa48a-1f02-f8e4-4035-9faac9ac35ad-54</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>54</size>
+        <quantity>1</quantity>
+        <price>149</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-μαύρο</link>
+        <mpn>W22LU1590932-15</mpn>
+      </variation>
+      <variation>
+        <variationid>400aa48a-1f02-f8e4-4035-9faac9ac35ad-56</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>56</size>
+        <quantity>1</quantity>
+        <price>149</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-μαύρο</link>
+        <mpn>W22LU1590932-15</mpn>
+      </variation>
+      <variation>
+        <variationid>400aa48a-1f02-f8e4-4035-9faac9ac35ad-58</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>58</size>
+        <quantity>1</quantity>
+        <price>149</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-μαύρο</link>
+        <mpn>W22LU1590932-15</mpn>
+      </variation>
+      <variation>
+        <variationid>400aa48a-1f02-f8e4-4035-9faac9ac35ad-60</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>60</size>
+        <quantity>1</quantity>
+        <price>149</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-μαύρο</link>
+        <mpn>W22LU1590932-15</mpn>
+      </variation>
+      <variation>
+        <variationid>400aa48a-1f02-f8e4-4035-9faac9ac35ad-62</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>62</size>
+        <quantity>1</quantity>
+        <price>149</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-μαύρο</link>
+        <mpn>W22LU1590932-15</mpn>
+      </variation>
+      <variation>
+        <variationid>400aa48a-1f02-f8e4-4035-9faac9ac35ad-64</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>64</size>
+        <quantity>1</quantity>
+        <price>149</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-μαύρο</link>
+        <mpn>W22LU1590932-15</mpn>
+      </variation>
+      <variation>
+        <variationid>400aa48a-1f02-f8e4-4035-9faac9ac35ad-66</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>66</size>
+        <quantity>1</quantity>
+        <price>149</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-μαύρο</link>
+        <mpn>W22LU1590932-15</mpn>
+      </variation>
+      <variation>
+        <variationid>400aa48a-1f02-f8e4-4035-9faac9ac35ad-68</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>68</size>
+        <quantity>1</quantity>
+        <price>149</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-μαύρο</link>
+        <mpn>W22LU1590932-15</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>850edf6c-fbc0-be50-9e0b-8ffec39a6b4a</id>
+    <name>Leonardo Uomo Ανδρικό Κοστούμι με Στενή Εφαρμογή Γαλάζιο S22LU01530094</name>
+    <category><![CDATA[ΚΛΑΣΙΚΑ > Κοστούμια]]></category>
+    <mpn>S22LU01530094</mpn>
+    <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
+    <description><![CDATA[Κοστούμι ανδρικό μονόχρωμο,σε κανονική γραμμή, με διπλό κούμπωμα στο μπροστινό μέρος αλλά και κουμπί στο πέτο του γιακά. (Σύνθεση: 40% Trevira 40% Μαλλί 20% Βισκόζη)<ul>	<li><strong>Style:</strong> ΚΛΑΣΙΚΟ</li>	<li><strong>Υλικό:</strong> ΒΙΣΚΟΖ, ΜΑΛΛΙ, ΣΥΝΘΕΤΙΚΟ</li>	<li><strong>Κωδικός Κατασκευαστή: </strong>S22LU01530094</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_7eca9dd40fe84ba8a036719792b7dc2a~mv2.jpeg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_a71abbdd50414903b74d0beae257621f~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_600a2a0e1de84b12bae784b545032d0c~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_3fe1bc6a4c8f4aea9d0c1644801cadba~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_c556a023c5734dcf997f62050cede2dc~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_8523ea895c7c4e18a02d17b118e4fc6e~mv2.jpeg</additionalImage>
+    <color>Μπλε Ανοιχτό</color>
+    <size>58,64,66,68</size>
+    <brand>Leonardo Uomo</brand>
+    <weight>200</weight>
+    <price>146.93</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>4</quantity>
+    <variations>
+      <variation>
+        <variationid>850edf6c-fbc0-be50-9e0b-8ffec39a6b4a-58</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>58</size>
+        <quantity>1</quantity>
+        <price>146.93</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
+        <mpn>S22LU01530094</mpn>
+      </variation>
+      <variation>
+        <variationid>850edf6c-fbc0-be50-9e0b-8ffec39a6b4a-64</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>64</size>
+        <quantity>1</quantity>
+        <price>146.93</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
+        <mpn>S22LU01530094</mpn>
+      </variation>
+      <variation>
+        <variationid>850edf6c-fbc0-be50-9e0b-8ffec39a6b4a-66</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>66</size>
+        <quantity>1</quantity>
+        <price>146.93</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
+        <mpn>S22LU01530094</mpn>
+      </variation>
+      <variation>
+        <variationid>850edf6c-fbc0-be50-9e0b-8ffec39a6b4a-68</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>68</size>
+        <quantity>1</quantity>
+        <price>146.93</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
+        <mpn>S22LU01530094</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>5f0cecdc-470b-6d12-8f36-70eff5344a9f</id>
+    <name>Leonardo Uomo Καλοκαιρινό Ανδρικό Κοστούμι Μπεζ S22LU01590782-28</name>
+    <category><![CDATA[ΚΛΑΣΙΚΑ > Κοστούμια]]></category>
+    <mpn>S22LU01590782-28</mpn>
+    <link>https://www.onikshop.gr/product-page/leonardo-uomo-καλοκαιρινό-ανδρικό-κοστούμι-μπεζ</link>
+    <description><![CDATA[Κοστούμι ανδρικό μονόχρωμο,σε κανονική γραμμή, με διπλό κούμπωμα στο μπροστινό μέρος αλλά και κούμπωμα στο πέτο του γιακά. (Σύνθεση: 38% Λινό 60% Trevira 2% Λύκρα)Style: ΚΛΑΣΙΚΟ<br>Υλικό: ΛΙΝΟ, ΛΥΚΡΑ, ΣΥΝΘΕΤΙΚΟ<br>Κωδικός Κατασκευαστή: S22LU01590782-28]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_8f8282250d0b4a2baf49faa2b096cf2d~mv2.jpeg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_ebfdc7d589714fad8f049b40c628c28e~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_bf534b047c654ead887131a6f1b30e7a~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_bfcae4aad58c406a956e995e0673c89d~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_d99fc66bc2f84ba2823d196f55497ec3~mv2.jpeg</additionalImage>
+    <color>Μπεζ</color>
+    <size>54,56</size>
+    <brand>Leonardo Uomo</brand>
+    <weight>200</weight>
+    <price>107.5</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>3</quantity>
+    <variations>
+      <variation>
+        <variationid>5f0cecdc-470b-6d12-8f36-70eff5344a9f-54</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>54</size>
+        <quantity>2</quantity>
+        <price>107.5</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-καλοκαιρινό-ανδρικό-κοστούμι-μπεζ</link>
+        <mpn>S22LU01590782-28</mpn>
+      </variation>
+      <variation>
+        <variationid>5f0cecdc-470b-6d12-8f36-70eff5344a9f-56</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>56</size>
+        <quantity>1</quantity>
+        <price>107.5</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-καλοκαιρινό-ανδρικό-κοστούμι-μπεζ</link>
+        <mpn>S22LU01590782-28</mpn>
       </variation>
     </variations>
   </product>
@@ -8677,7 +8999,7 @@
     <weight>500</weight>
     <price>78.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w30-l32</variationid>
@@ -8773,7 +9095,7 @@
         <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w42-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
         <mpn>00501-0114</mpn>
@@ -12209,7 +12531,7 @@
     <weight>100</weight>
     <price>29.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>d8e1eb11-4b3e-a777-fbd0-4a60297ef0f2-s</variationid>
@@ -12242,7 +12564,7 @@
         <variationid>d8e1eb11-4b3e-a777-fbd0-4a60297ef0f2-xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29.9</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-2</link>
         <mpn>2129148-7955</mpn>
@@ -15891,6 +16213,82 @@
     </variations>
   </product>
   <product>
+    <id>e48a6a8a-9bad-725a-64a0-08e8380e0c70</id>
+    <name>WRANGLER 603 Women's Wild West W2H2-73-191</name>
+    <category><![CDATA[ ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
+    <mpn>W2H2-73-191</mpn>
+    <link>https://www.onikshop.gr/product-page/wrangler-603-women-s-wild-west</link>
+    <description><![CDATA[WILD WEST LOST CONTROL High Rise Straight]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_613e14af8aa442e1b0351dc883f521bd~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_221bf34d782d438cb90a9315b0a5b64b~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_bfff12bea5814e56bbb096e453b75d5a~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_8c50fb68b2bb4aa8b8d2086bb893c7e8~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_3156608c08934e608189ca40f58c62ed~mv2.jpg</additionalImage>
+    <color>Μπλε Ανοιχτό</color>
+    <size>W25 L32,W26 L34,W27 L34,W28 L34,W29 L34,W30 L34</size>
+    <brand>Wrangler</brand>
+    <weight>200</weight>
+    <price>109</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>e48a6a8a-9bad-725a-64a0-08e8380e0c70-w25-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W25 L32</size>
+        <quantity>1</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-603-women-s-wild-west</link>
+        <mpn>W2H2-73-191</mpn>
+      </variation>
+      <variation>
+        <variationid>e48a6a8a-9bad-725a-64a0-08e8380e0c70-w26-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W26 L34</size>
+        <quantity>1</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-603-women-s-wild-west</link>
+        <mpn>W2H2-73-191</mpn>
+      </variation>
+      <variation>
+        <variationid>e48a6a8a-9bad-725a-64a0-08e8380e0c70-w27-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W27 L34</size>
+        <quantity>1</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-603-women-s-wild-west</link>
+        <mpn>W2H2-73-191</mpn>
+      </variation>
+      <variation>
+        <variationid>e48a6a8a-9bad-725a-64a0-08e8380e0c70-w28-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W28 L34</size>
+        <quantity>1</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-603-women-s-wild-west</link>
+        <mpn>W2H2-73-191</mpn>
+      </variation>
+      <variation>
+        <variationid>e48a6a8a-9bad-725a-64a0-08e8380e0c70-w29-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W29 L34</size>
+        <quantity>1</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-603-women-s-wild-west</link>
+        <mpn>W2H2-73-191</mpn>
+      </variation>
+      <variation>
+        <variationid>e48a6a8a-9bad-725a-64a0-08e8380e0c70-w30-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W30 L34</size>
+        <quantity>1</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-603-women-s-wild-west</link>
+        <mpn>W2H2-73-191</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>2bb0969f-0224-8c92-144e-96b50d970460</id>
     <name>Wrangler Ace Warm Indigo W14R-C3-33B</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
@@ -16619,7 +17017,7 @@
     <weight>500</weight>
     <price>79.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>a76d654e-de22-913f-1f32-a072f6df337a-w31-l34</variationid>
@@ -16715,7 +17113,7 @@
         <variationid>a76d654e-de22-913f-1f32-a072f6df337a-w44-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W44 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
         <mpn>W15Q-Q8-21U</mpn>
