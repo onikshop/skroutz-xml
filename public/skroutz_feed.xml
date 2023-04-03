@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-03 07:38</created_at>
+  <created_at>2023-04-03 11:39</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -387,10 +387,10 @@
     <color>Βαθύ σκούρο Μπλε</color>
     <size>W40 L34,W42 L34</size>
     <brand>Levi's</brand>
-    <weight>2000</weight>
+    <weight>200</weight>
     <price>55.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <variations>
       <variation>
         <variationid>8d743c07-5122-ae52-ec22-c05ada5c8682-w40-l34</variationid>
@@ -405,7 +405,7 @@
         <variationid>8d743c07-5122-ae52-ec22-c05ada5c8682-w42-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>55.3</price>
         <link>https://www.onikshop.gr/product-page/751-standard-fit-jean</link>
         <mpn>00751-0216</mpn>
@@ -5345,6 +5345,24 @@
         <mpn>L707AX11</mpn>
       </variation>
     </variations>
+  </product>
+  <product>
+    <id>247ec1dd-412f-e076-7266-66761177b274</id>
+    <name>Lee Fits em all KNOX L737JABB</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>L737JABB</mpn>
+    <link>https://www.onikshop.gr/product-page/lee-fits-em-all-knox</link>
+    <description><![CDATA[Knox The clothes you need for the life you lead63%COTTON37%POLYESTER]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_d4769ba6fa7f409d906e5bfd07ae454c~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_7527d9ae27994472ba26e794b2e43e4c~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_7172c62033554f51b460c5d155a7d2cb~mv2.jpg</additionalImage>
+    <color>Πετροπλυμένο</color>
+    <size>W38 L36</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>57</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
   </product>
   <product>
     <id>891f86da-7835-6af8-b4c9-35191099b2d4</id>
@@ -17644,6 +17662,83 @@
     <price>44</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
+  </product>
+  <product>
+    <id>cc4b090e-1a6d-0c39-556e-5dda343b214b</id>
+    <name>Wrangler Regular Tee Wornwhite W7N4D3W03</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ<br>
+ > T-Shirts Γυναικεία]]></category>
+    <mpn>W7N4D3W03</mpn>
+    <link>https://www.onikshop.gr/product-page/wrangler-regular-tee-wornwhite</link>
+    <description>REGULAR TEE WORNWHITE</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_22795ad579b246a2ba997466510e8467~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_0640982133e54a08b1bfae70f464108c~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_c0eac4bd72334ad79620a957d96c046c~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_19a6c9569b704971920dd324e70e864e~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_e95e5953ae874ca083a6bb5675cc74c2~mv2.jpg</additionalImage>
+    <color>Λευκό</color>
+    <size>XS,S,M,L,XL,XXL</size>
+    <brand>Wrangler</brand>
+    <weight>200</weight>
+    <price>35</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>cc4b090e-1a6d-0c39-556e-5dda343b214b-xs</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XS</size>
+        <quantity>1</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-regular-tee-wornwhite</link>
+        <mpn>W7N4D3W03</mpn>
+      </variation>
+      <variation>
+        <variationid>cc4b090e-1a6d-0c39-556e-5dda343b214b-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-regular-tee-wornwhite</link>
+        <mpn>W7N4D3W03</mpn>
+      </variation>
+      <variation>
+        <variationid>cc4b090e-1a6d-0c39-556e-5dda343b214b-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-regular-tee-wornwhite</link>
+        <mpn>W7N4D3W03</mpn>
+      </variation>
+      <variation>
+        <variationid>cc4b090e-1a6d-0c39-556e-5dda343b214b-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-regular-tee-wornwhite</link>
+        <mpn>W7N4D3W03</mpn>
+      </variation>
+      <variation>
+        <variationid>cc4b090e-1a6d-0c39-556e-5dda343b214b-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-regular-tee-wornwhite</link>
+        <mpn>W7N4D3W03</mpn>
+      </variation>
+      <variation>
+        <variationid>cc4b090e-1a6d-0c39-556e-5dda343b214b-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-regular-tee-wornwhite</link>
+        <mpn>W7N4D3W03</mpn>
+      </variation>
+    </variations>
   </product>
   <product>
     <id>e74905e0-cad9-da86-0eff-7b0b7f6e5108</id>
