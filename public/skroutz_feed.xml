@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-04 09:12</created_at>
+  <created_at>2023-04-04 10:42</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -6594,6 +6594,42 @@
     </variations>
   </product>
   <product>
+    <id>38e10d04-6cfd-dfb2-5173-867653c0181c</id>
+    <name>LEE Seattle L7104244</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>L7104244</mpn>
+    <link>https://www.onikshop.gr/product-page/lee-seattle</link>
+    <description>Seattle Lee Regular Fit Straight low waist Fly Button</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_67c4db412ebd439fa69fd84b39325898~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_0dfabf0f215c4af0af6964efde3d2526~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_d14734312c5144b9bc28441c2b2309e9~mv2.jpg</additionalImage>
+    <color>Μπλέ Ράφ</color>
+    <size>W40 L36</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>49</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
+  </product>
+  <product>
+    <id>48b67962-a628-b959-03bd-6d1d67ace4b0</id>
+    <name>Lee Seattle Ανδρικό Μπλε Vintage Τζιν Παντελόνι L71042RO</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>L71042RO</mpn>
+    <link>https://www.onikshop.gr/product-page/lee-seattle-ανδρικό-μπλε-vintage-τζιν-παντελόνι</link>
+    <description>Lee Seattle Ανδρικό Μπλε Vintage Τζιν Παντελόνι L71042ROREGULAR STRAIGHT</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_d1f37cd7874a46909b544a2a0b7d6f35~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_3749d8020f7948bf9572f2a691b3b40b~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_39320ac0ee424b06805244294d656730~mv2.jpg</additionalImage>
+    <color>Βαθύ σκούρο Μπλε</color>
+    <size>W40 L36</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>44</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
+  </product>
+  <product>
     <id>cdef1a89-efad-12ad-18b6-1b037d900cd4</id>
     <name>Lee Stella A Line L31SBEKK</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
@@ -9247,6 +9283,24 @@
     <brand>Levi's</brand>
     <weight>500</weight>
     <price>53.4</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
+  </product>
+  <product>
+    <id>f847e614-bf34-d3f7-dfbe-4358ecc9d3b1</id>
+    <name>Levi's 581 Red Tab Standard Fit 00581-06-02</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>00581-06-02</mpn>
+    <link>https://www.onikshop.gr/product-page/levi-s-581-red-tab-standard-fit</link>
+    <description><![CDATA[Levi's 581 Red Tab Standard Fit ]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_9e0c167ffef948e291f801c0e7b89764~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_f68f836c2ee4439e9c8fc64d28f704cc~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_3f1c32e4ffeb44b1b1b172f8f414e8fd~mv2.jpg</additionalImage>
+    <color>Βαθύ σκούρο Μπλε</color>
+    <size>W42 L34</size>
+    <brand>Levi's</brand>
+    <weight>200</weight>
+    <price>55.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
   </product>
