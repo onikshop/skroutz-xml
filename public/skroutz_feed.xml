@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-04 10:42</created_at>
+  <created_at>2023-04-05 11:49</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -857,13 +857,13 @@
     <weight>500</weight>
     <price>15.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>60a5f8e7-c3b1-054a-dacc-ddb331dfdae3-s</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>S</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>15.2</price>
         <link>https://www.onikshop.gr/product-page/celio-tee-shirt-mc-bework</link>
         <mpn>Bework Rosewood 01</mpn>
@@ -4178,7 +4178,7 @@
     <weight>500</weight>
     <price>69.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>9e8cbd35-ecc4-8cd7-1257-d78de5981926-s</variationid>
@@ -4211,7 +4211,7 @@
         <variationid>9e8cbd35-ecc4-8cd7-1257-d78de5981926-xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>69.95</price>
         <link>https://www.onikshop.gr/product-page/heavy-tools-sogun</link>
         <mpn>SOGUN NAVY</mpn>
@@ -5157,99 +5157,6 @@
         <price>109</price>
         <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly</link>
         <mpn>L707PXXD</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
-    <id>4deae0c5-eca4-67ef-c419-4900564375b6</id>
-    <name>Lee Daren Zip Fly Asphalt Rocket L707ADER</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>L707ADER</mpn>
-    <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
-    <description><![CDATA[Κλείσιμο με φερμουάρ και κουμπί<br>Πεντάτσεπο<br>Logo Patch Lee Στο πίσω μέρος<br>Regular Straight Fit<br>Χρώμα: Μαύρο<br>Σύνθεση: 99% Cotton - 1% Elastane]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_6498f52f8d704ab78d7a6bf3c20a6141~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_260cf6630d4b4fffbab3c3786a2bbe75~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_b2740fa3ed9040afb3a6846b25f3b387~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_d03b10c7216b485385b8a9168bcebaae~mv2.jpg</additionalImage>
-    <color>Μαύρο Πετροπλυμένο</color>
-    <size>W31 L34,W32 L34,W33 L34,W34 L36,W36 L34,W36 L36,W38 L34,W40 L34</size>
-    <brand>Lee</brand>
-    <weight>200</weight>
-    <price>95.2</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-    <variations>
-      <variation>
-        <variationid>4deae0c5-eca4-67ef-c419-4900564375b6-w31-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W31 L34</size>
-        <quantity>0</quantity>
-        <price>95.2</price>
-        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
-        <mpn>L707ADER</mpn>
-      </variation>
-      <variation>
-        <variationid>4deae0c5-eca4-67ef-c419-4900564375b6-w32-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W32 L34</size>
-        <quantity>1</quantity>
-        <price>95.2</price>
-        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
-        <mpn>L707ADER</mpn>
-      </variation>
-      <variation>
-        <variationid>4deae0c5-eca4-67ef-c419-4900564375b6-w33-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W33 L34</size>
-        <quantity>0</quantity>
-        <price>95.2</price>
-        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
-        <mpn>L707ADER</mpn>
-      </variation>
-      <variation>
-        <variationid>4deae0c5-eca4-67ef-c419-4900564375b6-w34-l36</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W34 L36</size>
-        <quantity>0</quantity>
-        <price>95.2</price>
-        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
-        <mpn>L707ADER</mpn>
-      </variation>
-      <variation>
-        <variationid>4deae0c5-eca4-67ef-c419-4900564375b6-w36-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W36 L34</size>
-        <quantity>0</quantity>
-        <price>95.2</price>
-        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
-        <mpn>L707ADER</mpn>
-      </variation>
-      <variation>
-        <variationid>4deae0c5-eca4-67ef-c419-4900564375b6-w36-l36</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W36 L36</size>
-        <quantity>0</quantity>
-        <price>95.2</price>
-        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
-        <mpn>L707ADER</mpn>
-      </variation>
-      <variation>
-        <variationid>4deae0c5-eca4-67ef-c419-4900564375b6-w38-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W38 L34</size>
-        <quantity>0</quantity>
-        <price>95.2</price>
-        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
-        <mpn>L707ADER</mpn>
-      </variation>
-      <variation>
-        <variationid>4deae0c5-eca4-67ef-c419-4900564375b6-w40-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W40 L34</size>
-        <quantity>0</quantity>
-        <price>95.2</price>
-        <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-asphalt-rocket</link>
-        <mpn>L707ADER</mpn>
       </variation>
     </variations>
   </product>
@@ -14592,7 +14499,7 @@
     <weight>200</weight>
     <price>25</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <variations>
       <variation>
         <variationid>b56ce980-66a2-1d98-1827-e13a599a8734-s</variationid>
@@ -14643,7 +14550,7 @@
         <variationid>b56ce980-66a2-1d98-1827-e13a599a8734-3xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>3XL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-jersey</link>
         <mpn>2057432-99D1</mpn>
@@ -17236,7 +17143,7 @@
     <weight>200</weight>
     <price>79.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <variations>
       <variation>
         <variationid>1247ada9-f899-2650-4122-0aaf9297549e-w31-l34</variationid>
@@ -17269,7 +17176,7 @@
         <variationid>1247ada9-f899-2650-4122-0aaf9297549e-w34-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/grensboro-803-high-stretch-in-black-valley</link>
         <mpn>W15Q-HP-19A</mpn>
