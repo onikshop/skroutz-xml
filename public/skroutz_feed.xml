@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-06 10:44</created_at>
+  <created_at>2023-04-06 17:02</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -9138,6 +9138,24 @@
     </variations>
   </product>
   <product>
+    <id>86d8154d-b567-604c-c72f-e165196c87dc</id>
+    <name>Levi's 506 Regular Fit 74506-0021</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>74506-0021</mpn>
+    <link>https://www.onikshop.gr/product-page/levi-s-506-regular-fit</link>
+    <description><![CDATA[Levi's506 Regular waist/rise: Straight legCoupe Regular ]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_71cff3a591244915b355f6c6b607b291~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_bdddd25011de4f0f97876237815e5cdb~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_07690b9706754dd2937bd1c9c3c068b8~mv2.jpg</additionalImage>
+    <color>Σκούρο Μπλέ</color>
+    <size>W38 L34</size>
+    <brand>levi's</brand>
+    <weight>200</weight>
+    <price>64.3</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+  </product>
+  <product>
     <id>3d1c4ba8-c946-53c4-2681-405f4518789b</id>
     <name>Levi's 519 Skinny Fit 70519-0024</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
@@ -10121,13 +10139,13 @@
     <weight>2000</weight>
     <price>95.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>2</quantity>
     <variations>
       <variation>
         <variationid>d2888bb6-2a71-1030-98d9-e8fa1cf42d35-w30-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W30 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>95.2</price>
         <link>https://www.onikshop.gr/product-page/levi-s-045114216</link>
         <mpn>045114216</mpn>
@@ -10136,7 +10154,7 @@
         <variationid>d2888bb6-2a71-1030-98d9-e8fa1cf42d35-w30-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W30 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>95.2</price>
         <link>https://www.onikshop.gr/product-page/levi-s-045114216</link>
         <mpn>045114216</mpn>
@@ -14779,6 +14797,90 @@
         <price>17.99</price>
         <link>https://www.onikshop.gr/product-page/t-shirt-with-a-round-neckline</link>
         <mpn>4066279655101</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>017a60e3-8e16-262c-ace3-1e01a028d60d</id>
+    <name>T-SHIRT WRANGLER VARSITY TEE TURTLEDOVE W7BLEEC23</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
+ ]]></category>
+    <mpn>W7BLEEC23</mpn>
+    <link>https://www.onikshop.gr/product-page/t-shirt-wrangler-varsity-tee-turtledove</link>
+    <description>T-SHIRT WRANGLER VARSITY TEE W7BLEEC23 TURTLEDOVE</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_69661d7f427a42b09300c417b1a1ada2~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_fa75527f3a274e4d9ff62b825f40f225~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_597f048b880d4fbbaf377e5e112d2feb~mv2.jpg</additionalImage>
+    <color>Εκρού</color>
+    <size>S,M,L,XL,XXL,3XL,4XL</size>
+    <brand>Wrangler</brand>
+    <weight>100</weight>
+    <price>45</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>7</quantity>
+    <variations>
+      <variation>
+        <variationid>017a60e3-8e16-262c-ace3-1e01a028d60d-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>45</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-wrangler-varsity-tee-turtledove</link>
+        <mpn>W7BLEEC23</mpn>
+      </variation>
+      <variation>
+        <variationid>017a60e3-8e16-262c-ace3-1e01a028d60d-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>45</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-wrangler-varsity-tee-turtledove</link>
+        <mpn>W7BLEEC23</mpn>
+      </variation>
+      <variation>
+        <variationid>017a60e3-8e16-262c-ace3-1e01a028d60d-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>45</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-wrangler-varsity-tee-turtledove</link>
+        <mpn>W7BLEEC23</mpn>
+      </variation>
+      <variation>
+        <variationid>017a60e3-8e16-262c-ace3-1e01a028d60d-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>45</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-wrangler-varsity-tee-turtledove</link>
+        <mpn>W7BLEEC23</mpn>
+      </variation>
+      <variation>
+        <variationid>017a60e3-8e16-262c-ace3-1e01a028d60d-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>45</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-wrangler-varsity-tee-turtledove</link>
+        <mpn>W7BLEEC23</mpn>
+      </variation>
+      <variation>
+        <variationid>017a60e3-8e16-262c-ace3-1e01a028d60d-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>45</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-wrangler-varsity-tee-turtledove</link>
+        <mpn>W7BLEEC23</mpn>
+      </variation>
+      <variation>
+        <variationid>017a60e3-8e16-262c-ace3-1e01a028d60d-4xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>4XL</size>
+        <quantity>1</quantity>
+        <price>45</price>
+        <link>https://www.onikshop.gr/product-page/t-shirt-wrangler-varsity-tee-turtledove</link>
+        <mpn>W7BLEEC23</mpn>
       </variation>
     </variations>
   </product>
