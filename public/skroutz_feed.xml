@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-06 17:02</created_at>
+  <created_at>2023-04-07 16:54</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -5477,6 +5477,24 @@
     </variations>
   </product>
   <product>
+    <id>ea60bb7b-66a4-393e-f7f1-418783de8579</id>
+    <name>Lee Knox Regular Straight Vintage L7132CM</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>L7132CM</mpn>
+    <link>https://www.onikshop.gr/product-page/lee-knox-regular-straight-vintage</link>
+    <description><![CDATA[Lee Knox Regular Straight  ]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_1ef3e3d8e93849dab5b7e686278eb16e~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_eddf74afffeb4ce2a46638b21247c6f8~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_ed6c436826ec48e4887626e7bdd51018~mv2.jpg</additionalImage>
+    <color>Σκούρο Μπλέ Πετροπλυμένο</color>
+    <size>W32 L36</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>45</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
+  </product>
+  <product>
     <id>658422ef-5440-98b8-b051-b98d0a877cfc</id>
     <name>Lee logo patch Loose Fit "Core" L84WTJ96</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
@@ -9744,24 +9762,6 @@
     <brand>Levi's</brand>
     <weight>500</weight>
     <price>35.2</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-  </product>
-  <product>
-    <id>98338687-57eb-114b-b07d-1ea2d003c05a</id>
-    <name>Levis 504 Regular Straight Fi 29990-0332</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>29990-0332</mpn>
-    <link>https://www.onikshop.gr/product-page/levis-504-regular-straight-fi</link>
-    <description><![CDATA[99%Cotton %Elastane Regular Straight Fit]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_b2a3e15b21754ed2a56e911b4be69bce~mv2.png</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_446c31dc837841409398d786df4577c9~mv2.png</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_dda5eca5360a40c0925fab1de23dda13~mv2.png</additionalImage>
-    <color>Μπλε κλασικό</color>
-    <size>W29 L32</size>
-    <brand>Levi's</brand>
-    <weight>500</weight>
-    <price>57</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
   </product>
@@ -16449,6 +16449,81 @@
         <price>27.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-boxy</link>
         <mpn>W7S2D3P43</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>2d056c51-2603-c2ca-9886-743308842f40</id>
+    <name>Wrangler Cotton T-Shirt W7N4D3XVD</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
+ ]]></category>
+    <mpn>W7N4D3XVD</mpn>
+    <link>https://www.onikshop.gr/product-page/wrangler-cotton-t-shirt</link>
+    <description>WranglerCotton T-Shirt</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_51d986124a184a9e9b03ece57ba7d846~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_ace32961be8c40e7b42e0d93b54480bd~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_0e178202825c41d5a715a601f87ad012~mv2.webp</additionalImage>
+    <color>Μαύρο</color>
+    <size>XS,S,M,L,XL,XXL</size>
+    <brand>Wrangler</brand>
+    <weight>200</weight>
+    <price>35</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>2d056c51-2603-c2ca-9886-743308842f40-xs</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XS</size>
+        <quantity>1</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-cotton-t-shirt</link>
+        <mpn>W7N4D3XVD</mpn>
+      </variation>
+      <variation>
+        <variationid>2d056c51-2603-c2ca-9886-743308842f40-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-cotton-t-shirt</link>
+        <mpn>W7N4D3XVD</mpn>
+      </variation>
+      <variation>
+        <variationid>2d056c51-2603-c2ca-9886-743308842f40-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-cotton-t-shirt</link>
+        <mpn>W7N4D3XVD</mpn>
+      </variation>
+      <variation>
+        <variationid>2d056c51-2603-c2ca-9886-743308842f40-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-cotton-t-shirt</link>
+        <mpn>W7N4D3XVD</mpn>
+      </variation>
+      <variation>
+        <variationid>2d056c51-2603-c2ca-9886-743308842f40-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-cotton-t-shirt</link>
+        <mpn>W7N4D3XVD</mpn>
+      </variation>
+      <variation>
+        <variationid>2d056c51-2603-c2ca-9886-743308842f40-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>35</price>
+        <link>https://www.onikshop.gr/product-page/wrangler-cotton-t-shirt</link>
+        <mpn>W7N4D3XVD</mpn>
       </variation>
     </variations>
   </product>
