@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-09 11:22</created_at>
+  <created_at>2023-04-11 15:31</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -92,7 +92,7 @@
     <weight>200</weight>
     <price>60</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <variations>
       <variation>
         <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w30-l32</variationid>
@@ -107,7 +107,7 @@
         <variationid>c4bf8801-db9c-6b51-7735-2e8b1e076dfb-w31-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>60</price>
         <link>https://www.onikshop.gr/product-page/levi-s-514</link>
         <mpn>00514-1267</mpn>
@@ -445,16 +445,16 @@
     <color>Πετροπλυμένο</color>
     <size>W33,W38</size>
     <brand>Edward</brand>
-    <weight>1000</weight>
+    <weight>100</weight>
     <price>52.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <variations>
       <variation>
         <variationid>b86be3a9-61f9-c151-1a74-673d72c2ca2f-w33</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>52.95</price>
         <link>https://www.onikshop.gr/product-page/apolo-43-jeans</link>
         <mpn>Apolo-43</mpn>
@@ -3005,24 +3005,225 @@
     </variations>
   </product>
   <product>
-    <id>de950095-3ec0-9d0f-a9dc-e58975bf25e4</id>
-    <name>FRED PERRY Ringer T-Shirt M3519 426 M3519</name>
-    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
-    <mpn>M3519</mpn>
-    <link>https://www.onikshop.gr/product-page/fred-perry-ringer-t-shirt-m3519-426</link>
-    <description><![CDATA[100% jersey cotton<br>Ribbed crew neck and cuffs<br>Embroidered Laurel Wreath<br>M3519 426<br>Machine wash]]></description>
-    <featureImage>https://static.wixstatic.com/media/9517a7_c823f28bc5c447baa04e73df1f02bc89~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_74f5b94c60b547e197868e1a1187080d~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_3bfe68ab9f9c4d168ca2bffb22b793ef~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_16880a0680014016b74811cb5ffa1fb3~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_abbe0a9a4b6f44d69632766c909d20f9~mv2.jpg</additionalImage>
-    <color>Λαδί</color>
-    <size>S</size>
+    <id>00f917b0-caf3-c899-97e6-d5bb9b0dead0</id>
+    <name>Fred Perry Polo Ανδρικό - The Fred Perry Shirt -  - Navy Dark Caramel D M3600-R63</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
+    <mpn>M3600-R63</mpn>
+    <link>https://www.onikshop.gr/product-page/fred-perry-polo-ανδρικό-the-fred-perry-shirt-navy-dark-caramel-d</link>
+    <description><![CDATA[Fred Perry  Polo Ανδρικό - The Fred Perry Shirt - M3600-R63 - Navy  Dark Caramel  Dark Caramel]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_f707daf6bb3143d39489f74891e3a5d5~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_9928bf16cf244f889ec3526e205b18e7~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_08e7e033fc6c4bc7863ee6364efcc120~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_422b03d05b2c4cd2ba55255d5505eb3c~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_bcf75cdb838b4e239335f477cd3dcbbc~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_0d08e69826be432bb91ea364d096f771~mv2.webp</additionalImage>
+    <color>Μπλε</color>
+    <size>S,M,L,XL,XXL,3XL</size>
     <brand>Fred Perry</brand>
-    <weight>500</weight>
-    <price>44.85</price>
+    <weight>100</weight>
+    <price>99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>00f917b0-caf3-c899-97e6-d5bb9b0dead0-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-polo-ανδρικό-the-fred-perry-shirt-navy-dark-caramel-d</link>
+        <mpn>M3600-R63</mpn>
+      </variation>
+      <variation>
+        <variationid>00f917b0-caf3-c899-97e6-d5bb9b0dead0-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-polo-ανδρικό-the-fred-perry-shirt-navy-dark-caramel-d</link>
+        <mpn>M3600-R63</mpn>
+      </variation>
+      <variation>
+        <variationid>00f917b0-caf3-c899-97e6-d5bb9b0dead0-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-polo-ανδρικό-the-fred-perry-shirt-navy-dark-caramel-d</link>
+        <mpn>M3600-R63</mpn>
+      </variation>
+      <variation>
+        <variationid>00f917b0-caf3-c899-97e6-d5bb9b0dead0-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-polo-ανδρικό-the-fred-perry-shirt-navy-dark-caramel-d</link>
+        <mpn>M3600-R63</mpn>
+      </variation>
+      <variation>
+        <variationid>00f917b0-caf3-c899-97e6-d5bb9b0dead0-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-polo-ανδρικό-the-fred-perry-shirt-navy-dark-caramel-d</link>
+        <mpn>M3600-R63</mpn>
+      </variation>
+      <variation>
+        <variationid>00f917b0-caf3-c899-97e6-d5bb9b0dead0-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-polo-ανδρικό-the-fred-perry-shirt-navy-dark-caramel-d</link>
+        <mpn>M3600-R63</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>fd800575-bd9d-2eab-082d-c66d0cbdbd9b</id>
+    <name>FRED PERRY SHOE B6259U</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
+    <mpn>B6259U</mpn>
+    <link>https://www.onikshop.gr/product-page/fred-perry-shoe</link>
+    <description><![CDATA[Fred Perry shoe female textile.It is in white with blue parts and the company's logo on the side in blue.<br>B6259U-370<br>Composition: 100% TEXTILE]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_c1166815bf6d4f749b2285821ca15638~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_b81335f788a84c58ae956657ba414281~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_4665c66c2a934cdaa43bddad2627c15c~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_385596814d97464a8b35fb5369863405~mv2.webp</additionalImage>
+    <color>Λευκό</color>
+    <size>41,42</size>
+    <brand>Fred Perry</brand>
+    <weight>200</weight>
+    <price>63</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+    <variations>
+      <variation>
+        <variationid>fd800575-bd9d-2eab-082d-c66d0cbdbd9b-41</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>41</size>
+        <quantity>1</quantity>
+        <price>63</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-shoe</link>
+        <mpn>B6259U</mpn>
+      </variation>
+      <variation>
+        <variationid>fd800575-bd9d-2eab-082d-c66d0cbdbd9b-42</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>42</size>
+        <quantity>1</quantity>
+        <price>63</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-shoe</link>
+        <mpn>B6259U</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>6e78e08a-dfab-08ea-68e9-2eaa06419f63</id>
+    <name>FRED PERRY SHOE KINGSTON B7163</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
+    <mpn>B7163</mpn>
+    <link>https://www.onikshop.gr/product-page/fred-perry-shoe-kingston</link>
+    <description><![CDATA[FRED PERRY SHOE KINGSTON B7163-100<br>B7163<br>Composition: LEATHER]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_541884c25c20416e9c37ef6bc83dcf94~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_d631b4a9193440d69afdf0d1c4e142b4~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_f1cf0f810d124d3e9c3cd08d4b326b16~mv2.jpg</additionalImage>
+    <color>Λευκό</color>
+    <size>42,46</size>
+    <brand>Fred Perry</brand>
+    <weight>200</weight>
+    <price>69</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+    <variations>
+      <variation>
+        <variationid>6e78e08a-dfab-08ea-68e9-2eaa06419f63-42</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>42</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-shoe-kingston</link>
+        <mpn>B7163</mpn>
+      </variation>
+      <variation>
+        <variationid>6e78e08a-dfab-08ea-68e9-2eaa06419f63-46</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>46</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-shoe-kingston</link>
+        <mpn>B7163</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>bce88c75-32b6-5871-9723-4794224c3502</id>
+    <name>Fred Perry T-Shirt Ανδρικό Μπλε M5632</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
+ ]]></category>
+    <mpn>M5632</mpn>
+    <link>https://www.onikshop.gr/product-page/fred-perry-t-shirt-ανδρικό-μπλε</link>
+    <description>Aνδρική κοντομάνικη μπλούζα με λαιμόκοψη από τους δημιουργούς του οίκου Fred Perry. Κατασκευασμένη από εξαιρετικής ποιότητας βαμβάκι και με γραφική στάμπα με στεφάνι δάφνης στο στήθος αποτελεί ένα μπλουζάκι με ιδιαίτερο στυλ.</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_80cf538ce6fb4feb8cd31b8652e82ca9~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_9f4eb4bc13b84eceb03fc329c3a21478~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_fd70c4e2ae1440279f3f8bd5400267fb~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_8029bf58662442ca985724b80fae9de4~mv2.jpg</additionalImage>
+    <color>Μπλε</color>
+    <size>S,M,L,XL,XXL</size>
+    <brand>Fred Perry</brand>
+    <weight>100</weight>
+    <price>88</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>bce88c75-32b6-5871-9723-4794224c3502-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>88</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-t-shirt-ανδρικό-μπλε</link>
+        <mpn>M5632</mpn>
+      </variation>
+      <variation>
+        <variationid>bce88c75-32b6-5871-9723-4794224c3502-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>88</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-t-shirt-ανδρικό-μπλε</link>
+        <mpn>M5632</mpn>
+      </variation>
+      <variation>
+        <variationid>bce88c75-32b6-5871-9723-4794224c3502-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>88</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-t-shirt-ανδρικό-μπλε</link>
+        <mpn>M5632</mpn>
+      </variation>
+      <variation>
+        <variationid>bce88c75-32b6-5871-9723-4794224c3502-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>88</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-t-shirt-ανδρικό-μπλε</link>
+        <mpn>M5632</mpn>
+      </variation>
+      <variation>
+        <variationid>bce88c75-32b6-5871-9723-4794224c3502-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>88</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-t-shirt-ανδρικό-μπλε</link>
+        <mpn>M5632</mpn>
+      </variation>
+    </variations>
   </product>
   <product>
     <id>8e4ee1c7-ca50-5241-87ab-dc9fa37eac19</id>
@@ -3042,6 +3243,81 @@
     <price>41.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
+  </product>
+  <product>
+    <id>536bb0fe-c7e6-c798-d406-34f5a5172427</id>
+    <name>Fred Perry Ανδρική μπλούζα Polo Plain Fred Perry Shirt M6000-R35</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
+    <mpn>M6000-R35</mpn>
+    <link>https://www.onikshop.gr/product-page/fred-perry-ανδρική-μπλούζα-polo-plain-fred-perry-shirt</link>
+    <description><![CDATA[Fred Perry  Polo Ανδρικό - The Fred Perry Shirt -M6000-R35 - Green <ul>	<li>Green</li>	<li>Regular Polo Collar</li>	<li>Button Placket</li>	<li>Fred Perry Branding</li>	<li>100% COTTON</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_7f57767b89294b27a72c0c0f458f8266~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_395c017957284660bd768ba389428909~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_efb95eb44abe4d258cc72628577f73e8~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_3664fd6d43ac4539840c102aa6134b06~mv2.jpg</additionalImage>
+    <color>Πετρόλ</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Fred Perry</brand>
+    <weight>100</weight>
+    <price>99</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>536bb0fe-c7e6-c798-d406-34f5a5172427-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-ανδρική-μπλούζα-polo-plain-fred-perry-shirt</link>
+        <mpn>M6000-R35</mpn>
+      </variation>
+      <variation>
+        <variationid>536bb0fe-c7e6-c798-d406-34f5a5172427-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-ανδρική-μπλούζα-polo-plain-fred-perry-shirt</link>
+        <mpn>M6000-R35</mpn>
+      </variation>
+      <variation>
+        <variationid>536bb0fe-c7e6-c798-d406-34f5a5172427-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-ανδρική-μπλούζα-polo-plain-fred-perry-shirt</link>
+        <mpn>M6000-R35</mpn>
+      </variation>
+      <variation>
+        <variationid>536bb0fe-c7e6-c798-d406-34f5a5172427-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-ανδρική-μπλούζα-polo-plain-fred-perry-shirt</link>
+        <mpn>M6000-R35</mpn>
+      </variation>
+      <variation>
+        <variationid>536bb0fe-c7e6-c798-d406-34f5a5172427-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-ανδρική-μπλούζα-polo-plain-fred-perry-shirt</link>
+        <mpn>M6000-R35</mpn>
+      </variation>
+      <variation>
+        <variationid>536bb0fe-c7e6-c798-d406-34f5a5172427-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-ανδρική-μπλούζα-polo-plain-fred-perry-shirt</link>
+        <mpn>M6000-R35</mpn>
+      </variation>
+    </variations>
   </product>
   <product>
     <id>ae3767e5-3f5e-f881-d85b-1460df28838b</id>
@@ -10877,6 +11153,72 @@
     </variations>
   </product>
   <product>
+    <id>48ec4fbb-c790-4c4c-ea50-0052a7ec1d00</id>
+    <name>MRT MARTINI T-Shirt Oversized με τύπωμα ENERGY colorful 70851-1</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
+ ]]></category>
+    <mpn>70851-1</mpn>
+    <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-oversized-με-τύπωμα-energy-colorful</link>
+    <description><![CDATA[T-Shirt κοντομάνικο oversized με τύπωμα ENERGY Colorful.<ul>	<li>Oversized</li>	<li>100% Βαμβάκι</li>	<li>Made In Greece</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_ba7fa59497864fa486aedaf04a04e0b1~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_f98fd13021cb4c49bec8955784f6e207~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_c89a32b00361496ea3a054b28cad1cce~mv2.jpg</additionalImage>
+    <color>Λευκό</color>
+    <size>S,L,XL,XXL,3XL</size>
+    <brand>Martini</brand>
+    <weight>100</weight>
+    <price>29.8</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>48ec4fbb-c790-4c4c-ea50-0052a7ec1d00-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>29.8</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-oversized-με-τύπωμα-energy-colorful</link>
+        <mpn>70851-1</mpn>
+      </variation>
+      <variation>
+        <variationid>48ec4fbb-c790-4c4c-ea50-0052a7ec1d00-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>29.8</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-oversized-με-τύπωμα-energy-colorful</link>
+        <mpn>70851-1</mpn>
+      </variation>
+      <variation>
+        <variationid>48ec4fbb-c790-4c4c-ea50-0052a7ec1d00-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>29.8</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-oversized-με-τύπωμα-energy-colorful</link>
+        <mpn>70851-1</mpn>
+      </variation>
+      <variation>
+        <variationid>48ec4fbb-c790-4c4c-ea50-0052a7ec1d00-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>29.8</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-oversized-με-τύπωμα-energy-colorful</link>
+        <mpn>70851-1</mpn>
+      </variation>
+      <variation>
+        <variationid>48ec4fbb-c790-4c4c-ea50-0052a7ec1d00-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>29.8</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-oversized-με-τύπωμα-energy-colorful</link>
+        <mpn>70851-1</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>f09e7f0d-f764-ddba-dc1b-2f20d1b19c47</id>
     <name>MRT Martini T-Shirt κολλεγίου με αλυσίδα εμπρός – Μαύρο 70908-2-S</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
@@ -11172,6 +11514,71 @@
         <price>27.3</price>
         <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-τύπωμα-search-rescue-μαύρο</link>
         <mpn>70664-2</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>6efafb62-cf04-59c8-9a42-29aa7aec65c1</id>
+    <name>MRT Martini Βερμούδα τύπωμα Stripes 8561-1</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
+    <mpn>8561-1</mpn>
+    <link>https://www.onikshop.gr/product-page/mrt-martini-βερμούδα-τύπωμα-stripes</link>
+    <description><![CDATA[Βερμούδα με τύπωμα MRT Stripes.<ul>	<li>Κανονική γραμμή</li>	<li>100% Βαμβάκι</li>	<li>Made In Greece</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_761cc11fd8e34246a93cecaa43b7f40c~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_a51e1d2934454ab59a680a173cb668fe~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_d98e386c28464dbaba161baf579deb5a~mv2.jpg</additionalImage>
+    <color>Λευκό</color>
+    <size>S,L,XL,XXL,3XL</size>
+    <brand>Martini</brand>
+    <weight>100</weight>
+    <price>32.2</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>7</quantity>
+    <variations>
+      <variation>
+        <variationid>6efafb62-cf04-59c8-9a42-29aa7aec65c1-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>32.2</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-βερμούδα-τύπωμα-stripes</link>
+        <mpn>8561-1</mpn>
+      </variation>
+      <variation>
+        <variationid>6efafb62-cf04-59c8-9a42-29aa7aec65c1-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>32.2</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-βερμούδα-τύπωμα-stripes</link>
+        <mpn>8561-1</mpn>
+      </variation>
+      <variation>
+        <variationid>6efafb62-cf04-59c8-9a42-29aa7aec65c1-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>2</quantity>
+        <price>32.2</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-βερμούδα-τύπωμα-stripes</link>
+        <mpn>8561-1</mpn>
+      </variation>
+      <variation>
+        <variationid>6efafb62-cf04-59c8-9a42-29aa7aec65c1-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>2</quantity>
+        <price>32.2</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-βερμούδα-τύπωμα-stripes</link>
+        <mpn>8561-1</mpn>
+      </variation>
+      <variation>
+        <variationid>6efafb62-cf04-59c8-9a42-29aa7aec65c1-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>32.2</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-βερμούδα-τύπωμα-stripes</link>
+        <mpn>8561-1</mpn>
       </variation>
     </variations>
   </product>
@@ -12377,7 +12784,7 @@
     <weight>100</weight>
     <price>29.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>21118d2c-694c-6c05-0679-24c4f8c29be7-s</variationid>
@@ -12428,7 +12835,7 @@
         <variationid>21118d2c-694c-6c05-0679-24c4f8c29be7-3xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>3XL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29.9</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery</link>
         <mpn>2129148-4734</mpn>
@@ -12528,7 +12935,7 @@
     <weight>100</weight>
     <price>29.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>d8e1eb11-4b3e-a777-fbd0-4a60297ef0f2-s</variationid>
@@ -12579,7 +12986,7 @@
         <variationid>d8e1eb11-4b3e-a777-fbd0-4a60297ef0f2-3xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>3XL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29.9</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-2</link>
         <mpn>2129148-7955</mpn>
@@ -12957,6 +13364,132 @@
     </variations>
   </product>
   <product>
+    <id>34041c81-3528-82d6-2060-6913b5b0efc7</id>
+    <name>s.Oliver Slim fit: jeans with a garment wash 54Z4 Rick 2133469-54Z4</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>2133469-54Z4</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-jeans-with-a-garment-wash</link>
+    <description><![CDATA[<ul>	<li>	Fastener: button, zip	</li>	<li>	Pockets: five-pocket design	</li>	<li>	Details: garment wash	</li>	<li>	waistband: with belt loops	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_5b63c3e335244a79b14873817ea8a72c~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_0516f1c1962348beb2731ca8ddb889bd~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_af9e3635b8f542b2b0f61f619d13d02b~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_5a0119c65a114d00b5076ba87c86f86e~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_ac145bda2dc74fa3bde8eea7a528e589~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_e8ad97e5f5f34e60b382d79d923071d9~mv2.webp</additionalImage>
+    <color>Μπλε</color>
+    <size>W30 L32,W33 L32,W34 L32,W36 L32</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>49.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>4</quantity>
+    <variations>
+      <variation>
+        <variationid>34041c81-3528-82d6-2060-6913b5b0efc7-w30-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W30 L32</size>
+        <quantity>1</quantity>
+        <price>49.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-jeans-with-a-garment-wash</link>
+        <mpn>2133469-54Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>34041c81-3528-82d6-2060-6913b5b0efc7-w33-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L32</size>
+        <quantity>1</quantity>
+        <price>49.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-jeans-with-a-garment-wash</link>
+        <mpn>2133469-54Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>34041c81-3528-82d6-2060-6913b5b0efc7-w34-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34 L32</size>
+        <quantity>1</quantity>
+        <price>49.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-jeans-with-a-garment-wash</link>
+        <mpn>2133469-54Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>34041c81-3528-82d6-2060-6913b5b0efc7-w36-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W36 L32</size>
+        <quantity>1</quantity>
+        <price>49.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-jeans-with-a-garment-wash</link>
+        <mpn>2133469-54Z4</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>8476184f-6a1c-20c0-ad6e-a642c88f888c</id>
+    <name>s.Oliver Slim fit: jeans with a garment wash 58Z4. Rick 2133469-58Z4</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>2133469-58Z4</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-jeans-with-a-garment-wash-58z4-rick</link>
+    <description><![CDATA[<ul>	<li>	Fastener: button, zip	</li>	<li>	Pockets: five-pocket design	</li>	<li>	Details: garment wash	</li>	<li>	waistband: with belt loops	</li>	<li>	Occasion: Casual	</li></ul>2133469.58Z4.32/34]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_9e44239087194deda541d286385477f4~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_d62ebdeafdba4c5ea6ba510686a3591a~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_7dc06a9f83f34e7f88e309207a221fb9~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_6fde5442e2224a19bf08e86a4e175d2b~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_e88e9533ee8e4c97a47279ff9eb56fe7~mv2.jpg</additionalImage>
+    <color>Βαθύ σκούρο Μπλε</color>
+    <size>W31 L32,W32 L32,W33 L32,W34 L34,W36 L32</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>49.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>8476184f-6a1c-20c0-ad6e-a642c88f888c-w31-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W31 L32</size>
+        <quantity>1</quantity>
+        <price>49.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-jeans-with-a-garment-wash-58z4-rick</link>
+        <mpn>2133469-58Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>8476184f-6a1c-20c0-ad6e-a642c88f888c-w32-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W32 L32</size>
+        <quantity>1</quantity>
+        <price>49.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-jeans-with-a-garment-wash-58z4-rick</link>
+        <mpn>2133469-58Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>8476184f-6a1c-20c0-ad6e-a642c88f888c-w33-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L32</size>
+        <quantity>1</quantity>
+        <price>49.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-jeans-with-a-garment-wash-58z4-rick</link>
+        <mpn>2133469-58Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>8476184f-6a1c-20c0-ad6e-a642c88f888c-w34-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34 L34</size>
+        <quantity>1</quantity>
+        <price>49.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-jeans-with-a-garment-wash-58z4-rick</link>
+        <mpn>2133469-58Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>8476184f-6a1c-20c0-ad6e-a642c88f888c-w36-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W36 L32</size>
+        <quantity>1</quantity>
+        <price>49.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-jeans-with-a-garment-wash-58z4-rick</link>
+        <mpn>2133469-58Z4</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>f5aeae1e-2bb4-5ec0-9f06-909e9bd7a0e4</id>
     <name>s.Oliver Slim fit: stretch chinos 2122353</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Τσίνος]]></category>
@@ -13130,6 +13663,64 @@
         <price>41.99</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-slim-jeans-mit-waschung</link>
         <mpn>Keith 55z4</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>04b6d3ca-7166-84dd-00ce-d8537785623a</id>
+    <name>s.Oliver Slim: slim leg jeans 57Z5 RICK 44-899-71-3153-57Z5</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>44-899-71-3153-57Z5</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-slim-slim-leg-jeans-57z5-rick</link>
+    <description><![CDATA[<ul>	<li>	Fastener: zip, button	</li>	<li>	Pockets: five-pocket design	</li>	<li>	Details: garment wash, logo appliqué	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_465b78a9975b458b992e5e3e09567774~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_5c77d380df564371945afcaea6dc65b1~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_391206bb28774e28a347c8fef8a7572e~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_c93965722066421fa7d139894e5cbfc9~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_8f106198d9574e50b664d010bfbcc386~mv2.jpg</additionalImage>
+    <color>Βαθύ σκούρο Μπλε</color>
+    <size>W33 L34,W34 L34,W36 L34,W38 L34</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>59.99</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>04b6d3ca-7166-84dd-00ce-d8537785623a-w33-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L34</size>
+        <quantity>1</quantity>
+        <price>59.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-slim-leg-jeans-57z5-rick</link>
+        <mpn>44-899-71-3153-57Z5</mpn>
+      </variation>
+      <variation>
+        <variationid>04b6d3ca-7166-84dd-00ce-d8537785623a-w34-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34 L34</size>
+        <quantity>2</quantity>
+        <price>59.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-slim-leg-jeans-57z5-rick</link>
+        <mpn>44-899-71-3153-57Z5</mpn>
+      </variation>
+      <variation>
+        <variationid>04b6d3ca-7166-84dd-00ce-d8537785623a-w36-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W36 L34</size>
+        <quantity>1</quantity>
+        <price>59.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-slim-leg-jeans-57z5-rick</link>
+        <mpn>44-899-71-3153-57Z5</mpn>
+      </variation>
+      <variation>
+        <variationid>04b6d3ca-7166-84dd-00ce-d8537785623a-w38-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W38 L34</size>
+        <quantity>1</quantity>
+        <price>59.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-slim-leg-jeans-57z5-rick</link>
+        <mpn>44-899-71-3153-57Z5</mpn>
       </variation>
     </variations>
   </product>
@@ -15211,6 +15802,75 @@
         <price>59.43</price>
         <link>https://www.onikshop.gr/product-page/terry-ma-edward</link>
         <mpn>18.1.2.84.087-BLUE</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>e521d5e7-af44-831a-a138-5ba901a9d392</id>
+    <name>THE FRED PERRY SHIRT M3600-R69</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο<br>
+ ]]></category>
+    <mpn>M3600-R69</mpn>
+    <link>https://www.onikshop.gr/product-page/the-fred-perry-shirt</link>
+    <description><![CDATA[The Twin Tipped Fred Perry Shirt. Made from our classic cotton piqué, in a contemporary adaptation of Fred's famous streamlined fit. Available in a diverse range of colourways - each with their own unique story.]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_fb87d81b80ca492a99448c97c0fe5914~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_ceb2f83b1951408eae4c4e5f6f04b9ed~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_a8a11d6e36f145fb9f96a1043ca8bed7~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_4770e46c7c3c4a1fa8a0f51ee663b9dc~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_f2774675f3e14c11bce131a4dd89aecd~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_b36ffc60c45540a6bc16d4b617fb22ed~mv2.jpg</additionalImage>
+    <color>Απαλό Ρόζ</color>
+    <size>S,M,L,XL,XXL</size>
+    <brand>Fred Perry</brand>
+    <weight>100</weight>
+    <price>109</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>e521d5e7-af44-831a-a138-5ba901a9d392-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/the-fred-perry-shirt</link>
+        <mpn>M3600-R69</mpn>
+      </variation>
+      <variation>
+        <variationid>e521d5e7-af44-831a-a138-5ba901a9d392-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/the-fred-perry-shirt</link>
+        <mpn>M3600-R69</mpn>
+      </variation>
+      <variation>
+        <variationid>e521d5e7-af44-831a-a138-5ba901a9d392-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/the-fred-perry-shirt</link>
+        <mpn>M3600-R69</mpn>
+      </variation>
+      <variation>
+        <variationid>e521d5e7-af44-831a-a138-5ba901a9d392-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/the-fred-perry-shirt</link>
+        <mpn>M3600-R69</mpn>
+      </variation>
+      <variation>
+        <variationid>e521d5e7-af44-831a-a138-5ba901a9d392-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>109</price>
+        <link>https://www.onikshop.gr/product-page/the-fred-perry-shirt</link>
+        <mpn>M3600-R69</mpn>
       </variation>
     </variations>
   </product>
