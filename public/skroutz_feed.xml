@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-12 10:07</created_at>
+  <created_at>2023-04-12 17:26</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -1680,6 +1680,298 @@
         <price>47.6</price>
         <link>https://www.onikshop.gr/product-page/demi-curve-levis-703-1</link>
         <mpn>05703-0642 levis</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>b34a5308-59c0-42d6-341f-bb76c9a6a08e</id>
+    <name>DIVERSE T-SHIRT HUMTLEX HUMTLEX</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
+ ]]></category>
+    <mpn>HUMTLEX</mpn>
+    <link>https://www.onikshop.gr/product-page/diverse-t-shirt-humtlex</link>
+    <description><![CDATA[About the productT-shirt HUMTLEX<br>10041420 Season: Spring/Summer 2023]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_355082b17d8e45d4bd7cf2732e2d06ea~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_00582e0866d544cca58a2811c460a7e5~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_274da3b4fe0249f4a51ce762844448a8~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_740d91fdc9ae402ea62e3e8a41d2f4be~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_6b759c24f32c4d1baf1c25d467498ea6~mv2.jpg</additionalImage>
+    <color>Γκρι/Μπλε</color>
+    <size>M,L,XL,XXL</size>
+    <brand>Diverse</brand>
+    <weight>100</weight>
+    <price>24</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>b34a5308-59c0-42d6-341f-bb76c9a6a08e-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-humtlex</link>
+        <mpn>HUMTLEX</mpn>
+      </variation>
+      <variation>
+        <variationid>b34a5308-59c0-42d6-341f-bb76c9a6a08e-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-humtlex</link>
+        <mpn>HUMTLEX</mpn>
+      </variation>
+      <variation>
+        <variationid>b34a5308-59c0-42d6-341f-bb76c9a6a08e-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-humtlex</link>
+        <mpn>HUMTLEX</mpn>
+      </variation>
+      <variation>
+        <variationid>b34a5308-59c0-42d6-341f-bb76c9a6a08e-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-humtlex</link>
+        <mpn>HUMTLEX</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>84ad00ba-0594-b47b-2806-030a2e6c53df</id>
+    <name>DIVERSE T-SHIRT PRM 0623 PRM-0623</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
+    <mpn>PRM-0623</mpn>
+    <link>https://www.onikshop.gr/product-page/diverse-t-shirt-prm-0623</link>
+    <description><![CDATA[About the productT-shirt PRM 0623<br>10041461 Season: Spring/Summer 2023]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_bcd2e3af42e74d90b537598706105785~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_02697526f2a74f03a57357a6a6734fdd~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_3beffc79d7dc4ef6aad3179354f20abc~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_d897973c39244c2e89d356deaa891af5~mv2.jpg</additionalImage>
+    <color>Λευκό</color>
+    <size>M,L,XL,XXL</size>
+    <brand>Diverse</brand>
+    <weight>100</weight>
+    <price>24</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>84ad00ba-0594-b47b-2806-030a2e6c53df-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-prm-0623</link>
+        <mpn>PRM-0623</mpn>
+      </variation>
+      <variation>
+        <variationid>84ad00ba-0594-b47b-2806-030a2e6c53df-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-prm-0623</link>
+        <mpn>PRM-0623</mpn>
+      </variation>
+      <variation>
+        <variationid>84ad00ba-0594-b47b-2806-030a2e6c53df-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-prm-0623</link>
+        <mpn>PRM-0623</mpn>
+      </variation>
+      <variation>
+        <variationid>84ad00ba-0594-b47b-2806-030a2e6c53df-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-prm-0623</link>
+        <mpn>PRM-0623</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>f8f55109-2aa2-4217-426b-4160febdc7aa</id>
+    <name>Diverse T-SHIRT RALF RALF</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
+ ]]></category>
+    <mpn>RALF</mpn>
+    <link>https://www.onikshop.gr/product-page/diverse-t-shirt-ralf</link>
+    <description><![CDATA[About the productT-shirt PRM 0123<br>10041456 Season: Spring/Summer 2023]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_8ed31ee0de2d4bfdbf13034ad88bd7a1~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_967bcfa947484ac5ae6e5c065b832992~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_6e8fc4c3c88e4d61a66bf1ba11fcb87f~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_32ba6a6fe39b4777b4396695d98d29be~mv2.jpg</additionalImage>
+    <color>Κοραλλί</color>
+    <size>M,L,XL,XXL</size>
+    <brand>Diverse</brand>
+    <weight>100</weight>
+    <price>24</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>f8f55109-2aa2-4217-426b-4160febdc7aa-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-ralf</link>
+        <mpn>RALF</mpn>
+      </variation>
+      <variation>
+        <variationid>f8f55109-2aa2-4217-426b-4160febdc7aa-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-ralf</link>
+        <mpn>RALF</mpn>
+      </variation>
+      <variation>
+        <variationid>f8f55109-2aa2-4217-426b-4160febdc7aa-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-ralf</link>
+        <mpn>RALF</mpn>
+      </variation>
+      <variation>
+        <variationid>f8f55109-2aa2-4217-426b-4160febdc7aa-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-ralf</link>
+        <mpn>RALF</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>be05eb77-d5a8-da93-f4d9-b478243b1f29</id>
+    <name>DIVERSE T-SHIRT TRADYS TRADYS</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
+ ]]></category>
+    <mpn>TRADYS</mpn>
+    <link>https://www.onikshop.gr/product-page/diverse-t-shirt-tradys</link>
+    <description><![CDATA[About the productT-shirt TRADYS<br>10041467 Season: Spring/Summer 2023]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_694e775b1c3f42059b060a161649d9f3~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_920a3d68c6e141879cb3d02d7e4c851c~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_eaecba670c7a496b852e6adebddf5cca~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_899628af2a564d51ba7bc27a2368b412~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_0d6ae0be97a44beb9c60ad7fbb099119~mv2.jpg</additionalImage>
+    <color>Πράσινο</color>
+    <size>M,L,XL,XXL</size>
+    <brand>Diverse</brand>
+    <weight>100</weight>
+    <price>24</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>be05eb77-d5a8-da93-f4d9-b478243b1f29-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-tradys</link>
+        <mpn>TRADYS</mpn>
+      </variation>
+      <variation>
+        <variationid>be05eb77-d5a8-da93-f4d9-b478243b1f29-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-tradys</link>
+        <mpn>TRADYS</mpn>
+      </variation>
+      <variation>
+        <variationid>be05eb77-d5a8-da93-f4d9-b478243b1f29-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-tradys</link>
+        <mpn>TRADYS</mpn>
+      </variation>
+      <variation>
+        <variationid>be05eb77-d5a8-da93-f4d9-b478243b1f29-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-tradys</link>
+        <mpn>TRADYS</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>cb38d7de-e692-5a18-2450-cde643d208ea</id>
+    <name>DIVERSE T-SHIRT VERSU VERSU</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
+ ]]></category>
+    <mpn>VERSU</mpn>
+    <link>https://www.onikshop.gr/product-page/diverse-t-shirt-versu</link>
+    <description><![CDATA[T-shirt VERSU<br>10041468 Season: Spring/Summer 2023]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_0b19c181948246b8a64d845bd0ca0d5b~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_f40c2e06e3b3490b9e3bab57036bd925~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_b07e2f3913a54ebc8473797e9e55161f~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_9e6cb277e32e4347bfc98f31a3f623c5~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_0f0d5b0aaa8748f2b5b74953e788266d~mv2.jpg</additionalImage>
+    <color>Γκρι</color>
+    <size>M,L,XL,XXL</size>
+    <brand>Diverse</brand>
+    <weight>100</weight>
+    <price>24</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>cb38d7de-e692-5a18-2450-cde643d208ea-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-versu</link>
+        <mpn>VERSU</mpn>
+      </variation>
+      <variation>
+        <variationid>cb38d7de-e692-5a18-2450-cde643d208ea-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-versu</link>
+        <mpn>VERSU</mpn>
+      </variation>
+      <variation>
+        <variationid>cb38d7de-e692-5a18-2450-cde643d208ea-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-versu</link>
+        <mpn>VERSU</mpn>
+      </variation>
+      <variation>
+        <variationid>cb38d7de-e692-5a18-2450-cde643d208ea-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>24</price>
+        <link>https://www.onikshop.gr/product-page/diverse-t-shirt-versu</link>
+        <mpn>VERSU</mpn>
       </variation>
     </variations>
   </product>
