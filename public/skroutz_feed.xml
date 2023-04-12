@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-11 15:31</created_at>
+  <created_at>2023-04-12 10:07</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -2584,6 +2584,81 @@
         <price>69.93</price>
         <link>https://www.onikshop.gr/product-page/edward-jeans-diederic-obs</link>
         <mpn>Diederic-Obs</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>2c9863a7-5b38-cae9-1073-41843833823d</id>
+    <name>Edward Kegan-Pop Black Shirt MP-N-SRT-S23-011-BLACK</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
+    <mpn>MP-N-SRT-S23-011-BLACK</mpn>
+    <link>https://www.onikshop.gr/product-page/edward-kegan-pop-black-shirt</link>
+    <description><![CDATA[97%cot-3%lyc Πλύσιμο στο πλυντήριο σε μέγιστη θερμοκρασία 30ºc. Χαμηλό πρόγραμμα στυψίματος. Απαγορεύεται η χρήση χλωρίνης. Μέγιστη θερμοκρασία σιδερώματος 110 º. Μη σιδερώνετε πάνω σε τυπώματα/κεντήματα. Στεγνό καθάρισμα με τετραχλωροαιθυλένιο. Απαγορεύεται η χρήση στεγνωτηρίου. Πλύσιμο από την ανάποδη.]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_506e45e10a9440b090fa7130a3b40842~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_b5873f1fc7ee41dfa8fa3f74bda9d422~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_f7be4a3a3036492898446d460e876cbb~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_6714d79ff90e45ab95fb3a33013d8cc3~mv2.jpg</additionalImage>
+    <color>Μαύρο</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Edward</brand>
+    <weight>100</weight>
+    <price>64.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>8</quantity>
+    <variations>
+      <variation>
+        <variationid>2c9863a7-5b38-cae9-1073-41843833823d-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>64.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-kegan-pop-black-shirt</link>
+        <mpn>MP-N-SRT-S23-011-BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>2c9863a7-5b38-cae9-1073-41843833823d-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>2</quantity>
+        <price>64.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-kegan-pop-black-shirt</link>
+        <mpn>MP-N-SRT-S23-011-BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>2c9863a7-5b38-cae9-1073-41843833823d-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>64.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-kegan-pop-black-shirt</link>
+        <mpn>MP-N-SRT-S23-011-BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>2c9863a7-5b38-cae9-1073-41843833823d-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>64.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-kegan-pop-black-shirt</link>
+        <mpn>MP-N-SRT-S23-011-BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>2c9863a7-5b38-cae9-1073-41843833823d-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>64.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-kegan-pop-black-shirt</link>
+        <mpn>MP-N-SRT-S23-011-BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>2c9863a7-5b38-cae9-1073-41843833823d-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>64.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-kegan-pop-black-shirt</link>
+        <mpn>MP-N-SRT-S23-011-BLACK</mpn>
       </variation>
     </variations>
   </product>
@@ -12784,7 +12859,7 @@
     <weight>100</weight>
     <price>29.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>21118d2c-694c-6c05-0679-24c4f8c29be7-s</variationid>
@@ -12817,7 +12892,7 @@
         <variationid>21118d2c-694c-6c05-0679-24c4f8c29be7-xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29.9</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery</link>
         <mpn>2129148-4734</mpn>
@@ -13588,6 +13663,63 @@
         <price>48.99</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-stretch-chinos</link>
         <mpn>2122353</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>1f8ebd69-30b5-7bf1-2153-8ef45b5997cc</id>
+    <name>s.Oliver Slim Rick 57Z4 fit: jeans with a garment wash 2133469-57Z4</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>2133469-57Z4</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-slim-rick-57z4-fit-jeans-with-a-garment-wash</link>
+    <description><![CDATA[<ul>	<li>	Fastener: button, zip	</li>	<li>	Pockets: five-pocket design	</li>	<li>	Details: garment wash	</li>	<li>	waistband: with belt loops	</li>	<li>	Occasion: Casual	</li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_4c1059aa1388466cb1798d601234eedf~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_02278937cd5549f28a1eb1abbf3af03a~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_fbe7cf67958548f9ad28a52488cae07f~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_4bc5ec1eee5e4c2c81b9db8690947120~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_35ce689c5d904984897e69124f26bcb5~mv2.webp</additionalImage>
+    <color>Μπλε</color>
+    <size>W31 L32,W32 L32,W33 L32,W36 L32</size>
+    <brand>s.Oliver</brand>
+    <weight>100</weight>
+    <price>49.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity/>
+    <variations>
+      <variation>
+        <variationid>1f8ebd69-30b5-7bf1-2153-8ef45b5997cc-w31-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W31 L32</size>
+        <price>49.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-rick-57z4-fit-jeans-with-a-garment-wash</link>
+        <mpn>2133469-57Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>1f8ebd69-30b5-7bf1-2153-8ef45b5997cc-w32-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W32 L32</size>
+        <quantity>1</quantity>
+        <price>49.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-rick-57z4-fit-jeans-with-a-garment-wash</link>
+        <mpn>2133469-57Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>1f8ebd69-30b5-7bf1-2153-8ef45b5997cc-w33-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L32</size>
+        <quantity>1</quantity>
+        <price>49.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-rick-57z4-fit-jeans-with-a-garment-wash</link>
+        <mpn>2133469-57Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>1f8ebd69-30b5-7bf1-2153-8ef45b5997cc-w36-l32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W36 L32</size>
+        <quantity>1</quantity>
+        <price>49.9</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-slim-rick-57z4-fit-jeans-with-a-garment-wash</link>
+        <mpn>2133469-57Z4</mpn>
       </variation>
     </variations>
   </product>
@@ -16829,7 +16961,7 @@
     <weight>200</weight>
     <price>89.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <variations>
       <variation>
         <variationid>00fec805-15d2-e4d9-0806-827453a388cc-w31-l34</variationid>
@@ -16898,7 +17030,7 @@
         <variationid>00fec805-15d2-e4d9-0806-827453a388cc-w42-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W42 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>89.95</price>
         <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
         <mpn>W1MZ UH 10K</mpn>
@@ -19192,7 +19324,7 @@
     <weight>500</weight>
     <price>20.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <variations>
       <variation>
         <variationid>253c5b82-f91a-5ca0-26c9-ba4b611188cf-s</variationid>
@@ -19216,7 +19348,7 @@
         <variationid>253c5b82-f91a-5ca0-26c9-ba4b611188cf-l</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>20.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-ανδρικό-t-shirt-λευκό-με-λογότυπο</link>
         <mpn>W7H3D3989</mpn>
@@ -20550,62 +20682,6 @@
     </variations>
   </product>
   <product>
-    <id>3ff1c2ce-3f0f-2d9a-a293-d7fb5fba8764</id>
-    <name>Ανδρικό πλεκτό Πουλόβερ HAKON NAVY Heavy Tools Hakon Navy</name>
-    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πλεκτά]]></category>
-    <mpn>Hakon Navy</mpn>
-    <link>https://www.onikshop.gr/product-page/ανδρικό-πλεκτό-πουλόβερ-hakon-navy-heavy-tools</link>
-    <description>Αυτό το ανδρικό φούτερ θα σας κάνει και σπορ και στιλάτους! Ιδανικό για ταξίδια, πεζοπορία ή πιο δροσερές, σπορ καθημερινές. Το ελαφρύ, απαλό, καθαρό βαμβακερό ύφασμα παρέχει τη σωστή άνεση ακόμα και κατά τη διάρκεια όλης της ημέρας. Η άνετη εφαρμογή, οι συναρπαστικές ρίγες και το μικρό υφαντό σήμα εξασφαλίζουν μια κομψή εμφάνιση για όλους. Φορέστε το με το αγαπημένο σας τζιν Heavy Tools ή πάνινο παντελόνι από τη νέα μας συλλογή!</description>
-    <featureImage>https://static.wixstatic.com/media/bbad40_cc7f2eb997964025ad4fd48781d078ae~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/bbad40_f4c5a0744cb44551b803925037d871fc~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/bbad40_64fadd4d3dfd4dc9877d09949f30fc82~mv2.jpg</additionalImage>
-    <color>Βαθύ σκούρο Μπλε</color>
-    <size>S,M,L,XL</size>
-    <brand>Heavy Tools</brand>
-    <weight>1000</weight>
-    <price>42.95</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-    <variations>
-      <variation>
-        <variationid>3ff1c2ce-3f0f-2d9a-a293-d7fb5fba8764-s</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>S</size>
-        <quantity>0</quantity>
-        <price>42.95</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-πλεκτό-πουλόβερ-hakon-navy-heavy-tools</link>
-        <mpn>Hakon Navy</mpn>
-      </variation>
-      <variation>
-        <variationid>3ff1c2ce-3f0f-2d9a-a293-d7fb5fba8764-m</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>M</size>
-        <quantity>0</quantity>
-        <price>42.95</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-πλεκτό-πουλόβερ-hakon-navy-heavy-tools</link>
-        <mpn>Hakon Navy</mpn>
-      </variation>
-      <variation>
-        <variationid>3ff1c2ce-3f0f-2d9a-a293-d7fb5fba8764-l</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>L</size>
-        <quantity>0</quantity>
-        <price>42.95</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-πλεκτό-πουλόβερ-hakon-navy-heavy-tools</link>
-        <mpn>Hakon Navy</mpn>
-      </variation>
-      <variation>
-        <variationid>3ff1c2ce-3f0f-2d9a-a293-d7fb5fba8764-xl</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XL</size>
-        <quantity>1</quantity>
-        <price>42.95</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-πλεκτό-πουλόβερ-hakon-navy-heavy-tools</link>
-        <mpn>Hakon Navy</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
     <id>e0a603e3-bf10-f23a-b99a-99c966fb9a9b</id>
     <name>Ανδρικό πουκάμισο Fred Perry M4533</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
@@ -20620,7 +20696,7 @@
     <weight>500</weight>
     <price>83.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <variations>
       <variation>
         <variationid>e0a603e3-bf10-f23a-b99a-99c966fb9a9b-s</variationid>
@@ -20644,7 +20720,7 @@
         <variationid>e0a603e3-bf10-f23a-b99a-99c966fb9a9b-xxl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/ανδρικό-πουκάμισο-fred-perry</link>
         <mpn>M4533</mpn>
