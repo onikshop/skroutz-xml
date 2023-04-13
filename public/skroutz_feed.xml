@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-12 17:26</created_at>
+  <created_at>2023-04-13 16:26</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -1817,7 +1817,7 @@
     <weight>100</weight>
     <price>24</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>f8f55109-2aa2-4217-426b-4160febdc7aa-m</variationid>
@@ -1832,7 +1832,7 @@
         <variationid>f8f55109-2aa2-4217-426b-4160febdc7aa-l</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>24</price>
         <link>https://www.onikshop.gr/product-page/diverse-t-shirt-ralf</link>
         <mpn>RALF</mpn>
@@ -4512,7 +4512,7 @@
     <weight>200</weight>
     <price>24.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>fb5c58ad-2c83-cffd-82aa-6bd3235e7dfc-s</variationid>
@@ -4554,7 +4554,7 @@
         <variationid>fb5c58ad-2c83-cffd-82aa-6bd3235e7dfc-xxl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>24.95</price>
         <link>https://www.onikshop.gr/product-page/heavy-tools-majesty</link>
         <mpn>C3S23100YE</mpn>
@@ -9725,24 +9725,6 @@
     </variations>
   </product>
   <product>
-    <id>7bf42938-8834-46ad-10f5-747add9eee1b</id>
-    <name>Levi's 501 Original 501-0113</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>501-0113</mpn>
-    <link>https://www.onikshop.gr/product-page/levi-s-501-original-8</link>
-    <description><![CDATA[Βασικά χαρακτηριστικά:Ίσια γραμμή<br>Κλείσιμο με κουμπί<br>Σύνθεση: 100% βαμβάκι]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_e2a0595a889942d2b5bddc8c9fc66b19~mv2.jpeg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_a35b6149753046ecaaeca5bd0f87b0af~mv2.jpeg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_7bf19e810bc84df58e3d43cb3dbbc168~mv2.jpeg</additionalImage>
-    <color>Πετροπλυμένο</color>
-    <size>W33 L34</size>
-    <brand>Levi's</brand>
-    <weight>500</weight>
-    <price>68.25</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-  </product>
-  <product>
     <id>e32aafc3-8833-43e0-2572-3fe339b4804f</id>
     <name>Levi's 501 Skinny 34268-0006</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
@@ -11212,13 +11194,13 @@
     <weight>2000</weight>
     <price>89.25</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <variations>
       <variation>
         <variationid>16d6d97c-9cc9-5b85-ce5f-dae06064804a-w27-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W27 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>89.25</price>
         <link>https://www.onikshop.gr/product-page/mom-jeans-in-ice-ice-baby</link>
         <mpn>W246PI41V</mpn>
@@ -11751,13 +11733,13 @@
     <weight>100</weight>
     <price>26</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>06e1faeb-e42b-74e8-46d3-e586387c6736-s</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>S</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>26</price>
         <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-logo-mrt-martini-navy-blue</link>
         <mpn>70830-4</mpn>
@@ -13377,7 +13359,7 @@
     <weight>100</weight>
     <price>29.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>e7922419-26ce-1aca-25e9-444ca905b3d5-s</variationid>
@@ -13392,7 +13374,7 @@
         <variationid>e7922419-26ce-1aca-25e9-444ca905b3d5-m</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>M</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29.9</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-3</link>
         <mpn>2129148-5864</mpn>
@@ -13749,13 +13731,13 @@
     <weight>100</weight>
     <price>49.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>34041c81-3528-82d6-2060-6913b5b0efc7-w30-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W30 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>49.9</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-jeans-with-a-garment-wash</link>
         <mpn>2133469-54Z4</mpn>
@@ -14289,7 +14271,7 @@
     <weight>100</weight>
     <price>25</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <variations>
       <variation>
         <variationid>2b6f5ec7-12c3-d98a-7d91-10e99e84a65c-s</variationid>
@@ -14331,7 +14313,7 @@
         <variationid>2b6f5ec7-12c3-d98a-7d91-10e99e84a65c-xxl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-cranberry</link>
         <mpn>2128330-30D1</mpn>
@@ -14364,7 +14346,7 @@
     <weight>100</weight>
     <price>25</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>9</quantity>
+    <quantity>7</quantity>
     <variations>
       <variation>
         <variationid>c449a182-3386-1f87-0422-69c47fa76000-s</variationid>
@@ -14388,7 +14370,7 @@
         <variationid>c449a182-3386-1f87-0422-69c47fa76000-l</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print</link>
         <mpn>2128330-47D1</mpn>
@@ -14406,7 +14388,7 @@
         <variationid>c449a182-3386-1f87-0422-69c47fa76000-xxl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print</link>
         <mpn>2128330-47D1</mpn>
@@ -14563,7 +14545,7 @@
     <weight>100</weight>
     <price>25</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <variations>
       <variation>
         <variationid>38c39ff2-e991-523f-9e08-eed3fd48e06a-s</variationid>
@@ -14587,7 +14569,7 @@
         <variationid>38c39ff2-e991-523f-9e08-eed3fd48e06a-l</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
         <mpn>2057432-41D1</mpn>
@@ -18475,7 +18457,7 @@
     <weight>2000</weight>
     <price>57.85</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>a845d784-6dbf-2c8e-f7e4-fbaf440872d4-s</variationid>
@@ -18508,7 +18490,7 @@
         <variationid>a845d784-6dbf-2c8e-f7e4-fbaf440872d4-xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>57.85</price>
         <link>https://www.onikshop.gr/product-page/wrangler-hoodie-deep-lichen-green</link>
         <mpn>W666ILX1X</mpn>
@@ -19854,7 +19836,7 @@
     <weight>500</weight>
     <price>47.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <variations>
       <variation>
         <variationid>be97db36-24a0-c10f-3e8d-a3b5b2bcb224-s</variationid>
@@ -19896,7 +19878,7 @@
         <variationid>be97db36-24a0-c10f-3e8d-a3b5b2bcb224-xxl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>47.4</price>
         <link>https://www.onikshop.gr/product-page/wrangler-ανδρικό-φούτερ-με-κουκούλα</link>
         <mpn>W6F4HAXV6</mpn>
