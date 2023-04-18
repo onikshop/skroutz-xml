@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-18 08:37</created_at>
+  <created_at>2023-04-18 17:55</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -3372,7 +3372,7 @@
     <weight>100</weight>
     <price>99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>00f917b0-caf3-c899-97e6-d5bb9b0dead0-s</variationid>
@@ -3396,7 +3396,7 @@
         <variationid>00f917b0-caf3-c899-97e6-d5bb9b0dead0-l</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>99</price>
         <link>https://www.onikshop.gr/product-page/fred-perry-polo-ανδρικό-the-fred-perry-shirt-navy-dark-caramel-d</link>
         <mpn>M3600-R63</mpn>
@@ -3610,7 +3610,7 @@
     <weight>100</weight>
     <price>99</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>536bb0fe-c7e6-c798-d406-34f5a5172427-s</variationid>
@@ -3634,7 +3634,7 @@
         <variationid>536bb0fe-c7e6-c798-d406-34f5a5172427-l</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>99</price>
         <link>https://www.onikshop.gr/product-page/fred-perry-ανδρική-μπλούζα-polo-plain-fred-perry-shirt</link>
         <mpn>M6000-R35</mpn>
@@ -6854,13 +6854,13 @@
     <weight>1000</weight>
     <price>83.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>d399d7dd-b264-6b22-70e0-e23524b027c8-w29-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W29 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
         <mpn>L701PZCL</mpn>
@@ -10338,23 +10338,6 @@
     <quantity>2</quantity>
   </product>
   <product>
-    <id>dbe3aba1-b24a-a650-5e89-08cc07d2362a</id>
-    <name>LEVIS 04511-2213 045112213</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>045112213</mpn>
-    <link>https://www.onikshop.gr/product-page/levis-045112213</link>
-    <description><![CDATA[<br>Υλικό:<br>98,83% χλοποκ, 1,17% ελαστάν]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_7d8e9feb34004a26b59e4030702985d1~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_385d04df281e493099a5e679d664486e~mv2.jpg</additionalImage>
-    <color>Βαθύ σκούρο Μπλε</color>
-    <size>W28 L32</size>
-    <brand>Levi's</brand>
-    <weight>2000</weight>
-    <price>57</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-  </product>
-  <product>
     <id>6fe90594-4a5e-9efb-bf3e-cabced487428</id>
     <name>LEVIS 501 00501 1727 00501-1727</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
@@ -11302,13 +11285,13 @@
     <weight>2000</weight>
     <price>24.25</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <variations>
       <variation>
         <variationid>45f30581-82fd-8a09-eedc-6dd0ef99e79e-s</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>S</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>24.25</price>
         <link>https://www.onikshop.gr/product-page/mrt-martini-10994</link>
         <mpn>10994</mpn>
@@ -12686,7 +12669,7 @@
     <weight>100</weight>
     <price>29.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>42e2c878-dbb0-c848-4916-ad62e6920329-s</variationid>
@@ -12701,7 +12684,7 @@
         <variationid>42e2c878-dbb0-c848-4916-ad62e6920329-m</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>M</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29.9</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-cotton-piqué-polo-shirt</link>
         <mpn>2024581</mpn>
@@ -12710,7 +12693,7 @@
         <variationid>42e2c878-dbb0-c848-4916-ad62e6920329-l</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29.9</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-cotton-piqué-polo-shirt</link>
         <mpn>2024581</mpn>
@@ -13417,7 +13400,7 @@
     <weight>100</weight>
     <price>29.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>706e7b95-6c87-8dd5-8849-ea5ce4996894-s</variationid>
@@ -13432,7 +13415,7 @@
         <variationid>706e7b95-6c87-8dd5-8849-ea5ce4996894-m</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>M</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29.9</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-4</link>
         <mpn>2129148-7351</mpn>
@@ -14452,7 +14435,7 @@
     <weight>100</weight>
     <price>25</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>1f2c78f9-f9b3-b4f4-626d-d6f06847ffe3-s</variationid>
@@ -14467,7 +14450,7 @@
         <variationid>1f2c78f9-f9b3-b4f4-626d-d6f06847ffe3-m</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>M</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>25</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pastel-turquoise</link>
         <mpn>2057432-60D1</mpn>
@@ -20230,6 +20213,56 @@
     </variations>
   </product>
   <product>
+    <id>0913297b-6716-c3f2-e443-3cdb51e9753d</id>
+    <name>ΑΝΔΡΙΚΟ ΠΟΥΚΑΜΙΣΟ S.OLIVER 13.808.21.3452</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα<br>
+ ]]></category>
+    <mpn>13.808.21.3452</mpn>
+    <link>https://www.onikshop.gr/product-page/ανδρικο-πουκαμισο-s-oliver</link>
+    <description><![CDATA[ΑΝΔΡΙΚΟ ΠΟΥΚΑΜΙΣΟ S.OLIVER  ]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_e42469c8df0d462bae6cb5077001c395~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_1d00757d8b004c15b93ad17653b1b18f~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_eed734b9a204488094ec708a676462f7~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_b6eb094fc3cc4efd833eceaadd807a8a~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_1bf35400fec348d68eb2b1f8d2afd5e9~mv2.jpg</additionalImage>
+    <color>Μπλε</color>
+    <size>S,M,L</size>
+    <brand>s.Oliver</brand>
+    <weight>200</weight>
+    <price>20</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>3</quantity>
+    <variations>
+      <variation>
+        <variationid>0913297b-6716-c3f2-e443-3cdb51e9753d-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>20</price>
+        <link>https://www.onikshop.gr/product-page/ανδρικο-πουκαμισο-s-oliver</link>
+        <mpn>13.808.21.3452</mpn>
+      </variation>
+      <variation>
+        <variationid>0913297b-6716-c3f2-e443-3cdb51e9753d-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>20</price>
+        <link>https://www.onikshop.gr/product-page/ανδρικο-πουκαμισο-s-oliver</link>
+        <mpn>13.808.21.3452</mpn>
+      </variation>
+      <variation>
+        <variationid>0913297b-6716-c3f2-e443-3cdb51e9753d-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>20</price>
+        <link>https://www.onikshop.gr/product-page/ανδρικο-πουκαμισο-s-oliver</link>
+        <mpn>13.808.21.3452</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>f566175e-7e41-bc57-0e97-a520c738bea4</id>
     <name>Ανδρικό T-shirt Λευκό S.Oliver 2109600-0100 2109600</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
@@ -20984,11 +21017,11 @@
     </variations>
   </product>
   <product>
-    <id>c248f3f9-8c66-429a-67b9-3cafc57e6ceb</id>
-    <name>Ανδρικό Πουκάμισο με σχέδιο S.Oliver 1250315 -99A4</name>
+    <id>5ec522e4-1e01-48e3-5872-39c8838fa179</id>
+    <name>Ανδρικό Πουκάμισο με σχέδιο S.Oliver 1250315</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
-    <mpn>1250315 -99A4</mpn>
-    <link>https://www.onikshop.gr/product-page/ανδρικό-πουκάμισο-με-σχέδιο-s-oliver</link>
+    <mpn>1250315</mpn>
+    <link>https://www.onikshop.gr/product-page/copy-of-ανδρικό-πουκάμισο-με-σχέδιο-s-oliver</link>
     <description><![CDATA[Ανδρικό Πουκάμισο με σχέδιο S.Oliver <ul>	<li>Slim Fit</li>	<li>97% Cotton</li>	<li>3% Elastane</li></ul>]]></description>
     <featureImage>https://static.wixstatic.com/media/6c7135_7c54b36ea1b04477a3791fd3c3295c4c~mv2.jpg</featureImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_6d49d8065dc24cbd978b630fab3eaf24~mv2.jpg</additionalImage>
@@ -20996,63 +21029,61 @@
     <size>S,M,L,XL,XXL,XXXL</size>
     <brand>s.Oliver</brand>
     <weight>500</weight>
-    <price>31.99</price>
+    <price>21.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity/>
     <variations>
       <variation>
-        <variationid>c248f3f9-8c66-429a-67b9-3cafc57e6ceb-s</variationid>
+        <variationid>5ec522e4-1e01-48e3-5872-39c8838fa179-s</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>S</size>
-        <quantity>0</quantity>
-        <price>31.99</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-πουκάμισο-με-σχέδιο-s-oliver</link>
-        <mpn>1250315 -99A4</mpn>
+        <price>21.95</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-ανδρικό-πουκάμισο-με-σχέδιο-s-oliver</link>
+        <mpn>1250315</mpn>
       </variation>
       <variation>
-        <variationid>c248f3f9-8c66-429a-67b9-3cafc57e6ceb-m</variationid>
+        <variationid>5ec522e4-1e01-48e3-5872-39c8838fa179-m</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>M</size>
         <quantity>1</quantity>
-        <price>31.99</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-πουκάμισο-με-σχέδιο-s-oliver</link>
-        <mpn>1250315 -99A4</mpn>
+        <price>21.95</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-ανδρικό-πουκάμισο-με-σχέδιο-s-oliver</link>
+        <mpn>1250315</mpn>
       </variation>
       <variation>
-        <variationid>c248f3f9-8c66-429a-67b9-3cafc57e6ceb-l</variationid>
+        <variationid>5ec522e4-1e01-48e3-5872-39c8838fa179-l</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
         <quantity>1</quantity>
-        <price>31.99</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-πουκάμισο-με-σχέδιο-s-oliver</link>
-        <mpn>1250315 -99A4</mpn>
+        <price>21.95</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-ανδρικό-πουκάμισο-με-σχέδιο-s-oliver</link>
+        <mpn>1250315</mpn>
       </variation>
       <variation>
-        <variationid>c248f3f9-8c66-429a-67b9-3cafc57e6ceb-xl</variationid>
+        <variationid>5ec522e4-1e01-48e3-5872-39c8838fa179-xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XL</size>
-        <quantity>0</quantity>
-        <price>31.99</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-πουκάμισο-με-σχέδιο-s-oliver</link>
-        <mpn>1250315 -99A4</mpn>
+        <price>21.95</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-ανδρικό-πουκάμισο-με-σχέδιο-s-oliver</link>
+        <mpn>1250315</mpn>
       </variation>
       <variation>
-        <variationid>c248f3f9-8c66-429a-67b9-3cafc57e6ceb-xxl</variationid>
+        <variationid>5ec522e4-1e01-48e3-5872-39c8838fa179-xxl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
         <quantity>1</quantity>
-        <price>31.99</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-πουκάμισο-με-σχέδιο-s-oliver</link>
-        <mpn>1250315 -99A4</mpn>
+        <price>21.95</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-ανδρικό-πουκάμισο-με-σχέδιο-s-oliver</link>
+        <mpn>1250315</mpn>
       </variation>
       <variation>
-        <variationid>c248f3f9-8c66-429a-67b9-3cafc57e6ceb-xxxl</variationid>
+        <variationid>5ec522e4-1e01-48e3-5872-39c8838fa179-xxxl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXXL</size>
         <quantity>1</quantity>
-        <price>31.99</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-πουκάμισο-με-σχέδιο-s-oliver</link>
-        <mpn>1250315 -99A4</mpn>
+        <price>21.95</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-ανδρικό-πουκάμισο-με-σχέδιο-s-oliver</link>
+        <mpn>1250315</mpn>
       </variation>
     </variations>
   </product>
