@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-19 07:52</created_at>
+  <created_at>2023-04-19 10:31</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -4946,6 +4946,81 @@
     </variations>
   </product>
   <product>
+    <id>f5c1aac9-9295-5f94-d4cb-c5052cf3c784</id>
+    <name>Heavy Tools WITTY23 WITTY23</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ >Αμάνικο]]></category>
+    <mpn>WITTY23</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-witty23</link>
+    <description>A vest is always the perfect choice! With its bright colours, straight, comfortable cut, inner wind flap, handy zipped pockets and small branding, this men's quilted vest with zip closure is the perfect comfort for any outdoor activity on cooler spring days. It's a great choice for active time outdoors, sports, travel, or even as an accessory for busy weekdays. Choose your favourite pair of Heavy Tools jeans or cargo trousers, sweatshirt or t-shirt from our new collection! Material: shell, lining: 100% nylon, padding: 100% polyester, lightweight. The model is 188 cm tall and wears size L</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_b4c6c582d14342f893058cc04dbda057~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_01d3b2a5b4b9468cb8516d5bf34d53f2~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_9f9fe99c6219417eacc1ac2504de2b58~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_481f9d5a474b484f80cf261081e9c98f~mv2.jpg</additionalImage>
+    <color>Πράσινο</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Heavy Tools</brand>
+    <weight>100</weight>
+    <price>69.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>7</quantity>
+    <variations>
+      <variation>
+        <variationid>f5c1aac9-9295-5f94-d4cb-c5052cf3c784-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>69.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-witty23</link>
+        <mpn>WITTY23</mpn>
+      </variation>
+      <variation>
+        <variationid>f5c1aac9-9295-5f94-d4cb-c5052cf3c784-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>69.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-witty23</link>
+        <mpn>WITTY23</mpn>
+      </variation>
+      <variation>
+        <variationid>f5c1aac9-9295-5f94-d4cb-c5052cf3c784-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>69.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-witty23</link>
+        <mpn>WITTY23</mpn>
+      </variation>
+      <variation>
+        <variationid>f5c1aac9-9295-5f94-d4cb-c5052cf3c784-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>2</quantity>
+        <price>69.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-witty23</link>
+        <mpn>WITTY23</mpn>
+      </variation>
+      <variation>
+        <variationid>f5c1aac9-9295-5f94-d4cb-c5052cf3c784-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>69.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-witty23</link>
+        <mpn>WITTY23</mpn>
+      </variation>
+      <variation>
+        <variationid>f5c1aac9-9295-5f94-d4cb-c5052cf3c784-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>69.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-witty23</link>
+        <mpn>WITTY23</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>71b1597c-9db5-5068-c0c4-d4e3d3958a1a</id>
     <name>Ivar-S23 T-Shirt MP-N-TOP-S23-017-NUDE</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
@@ -6300,7 +6375,7 @@
     <weight>100</weight>
     <price>95.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <variations>
       <variation>
         <variationid>4827d4de-50cd-f339-aecb-4a939ab6716a-w29-l34</variationid>
@@ -6342,7 +6417,7 @@
         <variationid>4827d4de-50cd-f339-aecb-4a939ab6716a-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>95.2</price>
         <link>https://www.onikshop.gr/product-page/lee-luke-slim-tapered</link>
         <mpn>L719PLGC</mpn>
@@ -12593,6 +12668,54 @@
         <price>62.3</price>
         <link>https://www.onikshop.gr/product-page/relaxed-graphic-serif-logo-hoodie-man-bordeaux-orange</link>
         <mpn>PC9-38479-0003</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>3bb54636-3b26-d836-bd3b-b1cdda014012</id>
+    <name>RUHELLO JACKET NAVY CELIO RUHELLO</name>
+    <category><![CDATA[<br>
+ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Αμάνικο]]></category>
+    <mpn>RUHELLO</mpn>
+    <link>https://www.onikshop.gr/product-page/ruhello-jacket-navy-celio</link>
+    <description><![CDATA[RUHELLO JACKET C: NAVY CELIO 100% Polyamide]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_b5c2ed077da0482ab238bfd3ef93f91b~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_96ca01f66b894835832d2a574de0772e~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_c747f0202fd5488189dee44d4fa90b4e~mv2.webp</additionalImage>
+    <color>Πράσινο</color>
+    <size>S,L,XL</size>
+    <brand>Celio</brand>
+    <weight>100</weight>
+    <price>29.99</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>3</quantity>
+    <variations>
+      <variation>
+        <variationid>3bb54636-3b26-d836-bd3b-b1cdda014012-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>29.99</price>
+        <link>https://www.onikshop.gr/product-page/ruhello-jacket-navy-celio</link>
+        <mpn>RUHELLO</mpn>
+      </variation>
+      <variation>
+        <variationid>3bb54636-3b26-d836-bd3b-b1cdda014012-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>29.99</price>
+        <link>https://www.onikshop.gr/product-page/ruhello-jacket-navy-celio</link>
+        <mpn>RUHELLO</mpn>
+      </variation>
+      <variation>
+        <variationid>3bb54636-3b26-d836-bd3b-b1cdda014012-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>29.99</price>
+        <link>https://www.onikshop.gr/product-page/ruhello-jacket-navy-celio</link>
+        <mpn>RUHELLO</mpn>
       </variation>
     </variations>
   </product>
@@ -19913,79 +20036,6 @@
         <price>62.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-man-s-trousers-navy-blue</link>
         <mpn>W15QY6114</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
-    <id>c60bfc74-ec9c-0070-ed19-7b9c096235bb</id>
-    <name>Αμάνικο μπουφάν Celio suless</name>
-    <category><![CDATA[ΠΑΝΩΦΟΡΙΑ > ΠΑΝΩΦΟΡΙΑ > Αμάνικο]]></category>
-    <mpn>suless</mpn>
-    <link>https://www.onikshop.gr/product-page/αμάνικο-μπουφάν-celio</link>
-    <description><![CDATA[Ανδρικό Αμάνικο Μπουφάν Celio ]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_34673d0351db4ec8a8015e7e9334a8a6~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_300e8a5fdcf94db5b73a54a024643078~mv2.jpg</additionalImage>
-    <color>Μαύρο</color>
-    <size>S,M,L,XL,XXL,XXXL</size>
-    <brand>Celio</brand>
-    <weight>1000</weight>
-    <price>39.99</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
-    <variations>
-      <variation>
-        <variationid>c60bfc74-ec9c-0070-ed19-7b9c096235bb-s</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>S</size>
-        <quantity>0</quantity>
-        <price>39.99</price>
-        <link>https://www.onikshop.gr/product-page/αμάνικο-μπουφάν-celio</link>
-        <mpn>suless</mpn>
-      </variation>
-      <variation>
-        <variationid>c60bfc74-ec9c-0070-ed19-7b9c096235bb-m</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>M</size>
-        <quantity>0</quantity>
-        <price>39.99</price>
-        <link>https://www.onikshop.gr/product-page/αμάνικο-μπουφάν-celio</link>
-        <mpn>suless</mpn>
-      </variation>
-      <variation>
-        <variationid>c60bfc74-ec9c-0070-ed19-7b9c096235bb-l</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>L</size>
-        <quantity>1</quantity>
-        <price>39.99</price>
-        <link>https://www.onikshop.gr/product-page/αμάνικο-μπουφάν-celio</link>
-        <mpn>suless</mpn>
-      </variation>
-      <variation>
-        <variationid>c60bfc74-ec9c-0070-ed19-7b9c096235bb-xl</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XL</size>
-        <quantity>1</quantity>
-        <price>39.99</price>
-        <link>https://www.onikshop.gr/product-page/αμάνικο-μπουφάν-celio</link>
-        <mpn>suless</mpn>
-      </variation>
-      <variation>
-        <variationid>c60bfc74-ec9c-0070-ed19-7b9c096235bb-xxl</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XXL</size>
-        <quantity>0</quantity>
-        <price>39.99</price>
-        <link>https://www.onikshop.gr/product-page/αμάνικο-μπουφάν-celio</link>
-        <mpn>suless</mpn>
-      </variation>
-      <variation>
-        <variationid>c60bfc74-ec9c-0070-ed19-7b9c096235bb-xxxl</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XXXL</size>
-        <quantity>0</quantity>
-        <price>39.99</price>
-        <link>https://www.onikshop.gr/product-page/αμάνικο-μπουφάν-celio</link>
-        <mpn>suless</mpn>
       </variation>
     </variations>
   </product>
