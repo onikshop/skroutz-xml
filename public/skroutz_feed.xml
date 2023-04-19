@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-18 17:55</created_at>
+  <created_at>2023-04-19 07:52</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -16453,24 +16453,6 @@
     <quantity>1</quantity>
   </product>
   <product>
-    <id>ccc0a208-141e-7ee6-f442-cc898536d0cd</id>
-    <name>Vintage Levi's  529 Red Tab 00529-17-03</name>
-    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > Jeans]]></category>
-    <mpn>00529-17-03</mpn>
-    <link>https://www.onikshop.gr/product-page/vintage-levi-s-red-tab-529</link>
-    <description><![CDATA[Δ<strong>ιαστάσεις</strong>W28- Μέση 80 Vintage Levi's Red Tab 529 Girls Boot Jeans00529.17.03]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_b0af0ccdbcdb4dfaaa24bee03e94e5e9~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_ded4ce15545e46f888a5f2ea35260dc8~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_59eaa50cf55a40b6b3ff81663af0aaa0~mv2.jpg</additionalImage>
-    <color>Μπλέ Κόκκινο</color>
-    <size>W28 L34</size>
-    <brand>Levi's</brand>
-    <weight>200</weight>
-    <price>30.4</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-  </product>
-  <product>
     <id>b13ec13d-bd15-a9c3-fb0f-3278e239c604</id>
     <name>VINTAGE LEVI'S  534.02.85 BLACK SLIM FIT STRAIGHT LEG HIGH WAIST ORIGINAL 5412456594548</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
@@ -16677,7 +16659,7 @@
     <weight>500</weight>
     <price>20</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>1</quantity>
   </product>
   <product>
     <id>12747f1f-c1b0-56eb-af4d-7886f6e18e1e</id>
