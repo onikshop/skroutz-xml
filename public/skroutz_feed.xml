@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-19 10:31</created_at>
+  <created_at>2023-04-20 15:06</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -1132,7 +1132,7 @@
     <weight>1000</weight>
     <price>34.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>23f24037-d203-4885-64c7-90a28f219f7c-w32</variationid>
@@ -1174,7 +1174,7 @@
         <variationid>23f24037-d203-4885-64c7-90a28f219f7c-w40</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>34.3</price>
         <link>https://www.onikshop.gr/product-page/celio-men-s-trousers-khaki-vopry1</link>
         <mpn>Vopry1</mpn>
@@ -3243,12 +3243,32 @@
     <additionalImage>https://static.wixstatic.com/media/9517a7_6dd2d257d9f54e729bf35f35b69e21c9~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/9517a7_5bc94f1c57d6456689579ceaedca75d8~mv2.jpg</additionalImage>
     <color>Μπλε</color>
-    <size>41</size>
+    <size>45,41</size>
     <brand>Fred Perry</brand>
     <weight>500</weight>
     <price>72</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
+    <quantity>3</quantity>
+    <variations>
+      <variation>
+        <variationid>26463616-f558-ef3e-e326-91b93f4ef86f-45</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>45</size>
+        <quantity>1</quantity>
+        <price>72</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-b7114-παπουτσι-ανδρικο</link>
+        <mpn>B7114</mpn>
+      </variation>
+      <variation>
+        <variationid>26463616-f558-ef3e-e326-91b93f4ef86f-41</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>41</size>
+        <quantity>2</quantity>
+        <price>72</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-b7114-παπουτσι-ανδρικο</link>
+        <mpn>B7114</mpn>
+      </variation>
+    </variations>
   </product>
   <product>
     <id>4998f9b7-c9ec-c73a-74eb-6923c43b0629</id>
@@ -3723,7 +3743,7 @@
     <weight>500</weight>
     <price>69.85</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <variations>
       <variation>
         <variationid>2e7b9f43-688e-2c0b-ac0d-b183beec4ef2-45</variationid>
@@ -3738,7 +3758,7 @@
         <variationid>2e7b9f43-688e-2c0b-ac0d-b183beec4ef2-46</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>46</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>69.85</price>
         <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι-kingston</link>
         <mpn>B7163-608</mpn>
@@ -6247,7 +6267,7 @@
     <weight>200</weight>
     <price>109</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>4998b864-4f92-68b1-c4eb-c162462377a9-w29-l34</variationid>
@@ -6271,7 +6291,7 @@
         <variationid>4998b864-4f92-68b1-c4eb-c162462377a9-w31-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>109</price>
         <link>https://www.onikshop.gr/product-page/lee-luke-slim-fit-jeans-clean-black</link>
         <mpn>L719HFAE</mpn>
@@ -8090,7 +8110,7 @@
     <weight>200</weight>
     <price>153.93</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>8</quantity>
+    <quantity>7</quantity>
     <variations>
       <variation>
         <variationid>70be4ba4-40e7-7e34-1ee6-490cc3f6c635-46</variationid>
@@ -8123,7 +8143,7 @@
         <variationid>70be4ba4-40e7-7e34-1ee6-490cc3f6c635-52</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>52</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>153.93</price>
         <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-navy-μπλε</link>
         <mpn>W22LU1590426-17</mpn>
@@ -9075,7 +9095,7 @@
     <weight>2000</weight>
     <price>60.83</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>cce17f16-3a55-0d2e-8882-1a9abe74edf7-29</variationid>
@@ -9108,7 +9128,7 @@
         <variationid>cce17f16-3a55-0d2e-8882-1a9abe74edf7-26</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>26</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>60.83</price>
         <link>https://www.onikshop.gr/product-page/leryn-71-jeans</link>
         <mpn>WP-D-JNS-W20-023-DARK</mpn>
@@ -9353,7 +9373,7 @@
     <weight>2000</weight>
     <price>77.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>732963c9-dc18-1492-da8b-f194e1fa6c88-w25-l28</variationid>
@@ -9386,7 +9406,7 @@
         <variationid>732963c9-dc18-1492-da8b-f194e1fa6c88-w29-l30</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W29 L30</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>77.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-crop-opposites-straight-fit</link>
         <mpn>38200-0120 501 LEVIS</mpn>
@@ -13447,7 +13467,7 @@
     <weight>100</weight>
     <price>29.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>e7922419-26ce-1aca-25e9-444ca905b3d5-s</variationid>
@@ -13489,7 +13509,7 @@
         <variationid>e7922419-26ce-1aca-25e9-444ca905b3d5-xxl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29.9</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-3</link>
         <mpn>2129148-5864</mpn>
@@ -18685,7 +18705,7 @@
     <weight>200</weight>
     <price>79.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>527d2abd-3f6a-7343-afd4-501bc20d4754-w29-l32</variationid>
@@ -18727,7 +18747,7 @@
         <variationid>527d2abd-3f6a-7343-afd4-501bc20d4754-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W33 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>79.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-812-black-valley</link>
         <mpn>W18S-HP-19A</mpn>
@@ -18786,13 +18806,13 @@
     <weight>500</weight>
     <price>87.2</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>c3cdadd4-6b41-12c9-90dd-0dec08c9eb41-w29-l32</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W29 L32</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>87.2</price>
         <link>https://www.onikshop.gr/product-page/wrangler-larston-country-boy</link>
         <mpn>W18S 84 23M</mpn>
