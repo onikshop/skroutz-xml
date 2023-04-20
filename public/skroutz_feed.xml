@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-20 15:06</created_at>
+  <created_at>2023-04-20 17:27</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -1974,7 +1974,7 @@
     <weight>200</weight>
     <price>89.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>9</quantity>
+    <quantity>8</quantity>
     <variations>
       <variation>
         <variationid>402d1e14-26f8-73d7-0cf0-ecb599910aff-w27</variationid>
@@ -1989,7 +1989,7 @@
         <variationid>402d1e14-26f8-73d7-0cf0-ecb599910aff-w28</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W28</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>89.9</price>
         <link>https://www.onikshop.gr/product-page/edward-balint-jap-jeans</link>
         <mpn>MP-D-JNS-S23-020</mpn>
@@ -3192,7 +3192,7 @@
     <weight>500</weight>
     <price>66</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>a1b0500a-3bd1-fa2c-7627-3b903ba45a27-40</variationid>
@@ -3225,7 +3225,7 @@
         <variationid>a1b0500a-3bd1-fa2c-7627-3b903ba45a27-44</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>44</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>66</price>
         <link>https://www.onikshop.gr/product-page/fred-perry-b6237u-102-παπουτσι-ανδρικα</link>
         <mpn>B6237U-102</mpn>
