@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-20 17:27</created_at>
+  <created_at>2023-04-21 08:44</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -2988,6 +2988,117 @@
         <price>26</price>
         <link>https://www.onikshop.gr/product-page/edward-lidia</link>
         <mpn>LIDIA-531</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>ca1b83f3-8ab6-fb99-b799-57e7958fcca9</id>
+    <name>EDWARD Neilan-Cas Jeans MP-D-JNS-S23-009-LIGHT</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
+    <mpn>MP-D-JNS-S23-009-LIGHT</mpn>
+    <link>https://www.onikshop.gr/product-page/edward-neilan-cas-jeans</link>
+    <description><![CDATA[99%cot-1%el Πλύσιμο στο πλυντήριο σε μέγιστη θερμοκρασία 30ºc. Χαμηλό πρόγραμμα στυψίματος. Απαγορεύεται η χρήση χλωρίνης. Μέγιστη θερμοκρασία σιδερώματος 110 º. Μη σιδερώνετε πάνω σε τυπώματα/κεντήματα. Στεγνό καθάρισμα με τετραχλωροαιθυλένιο. Απαγορεύεται η χρήση στεγνωτηρίου. Πλύσιμο από την ανάποδη.]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_9c3ab64e7d1842ec929b6b4c3912fa71~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_55e6dc3f8d0e4a029784c845d6d61e6d~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_814286c061094686a586156801a937d4~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_2769bbab20fd46cf9e017eb4b4ee5a98~mv2.jpg</additionalImage>
+    <color>Μπλε Ανοιχτό</color>
+    <size>28,29,30,31,32,33,34,36,38,40</size>
+    <brand>Edward</brand>
+    <weight>100</weight>
+    <price>99.9</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>10</quantity>
+    <variations>
+      <variation>
+        <variationid>ca1b83f3-8ab6-fb99-b799-57e7958fcca9-28</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>28</size>
+        <quantity>1</quantity>
+        <price>99.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-neilan-cas-jeans</link>
+        <mpn>MP-D-JNS-S23-009-LIGHT</mpn>
+      </variation>
+      <variation>
+        <variationid>ca1b83f3-8ab6-fb99-b799-57e7958fcca9-29</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>29</size>
+        <quantity>1</quantity>
+        <price>99.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-neilan-cas-jeans</link>
+        <mpn>MP-D-JNS-S23-009-LIGHT</mpn>
+      </variation>
+      <variation>
+        <variationid>ca1b83f3-8ab6-fb99-b799-57e7958fcca9-30</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>30</size>
+        <quantity>1</quantity>
+        <price>99.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-neilan-cas-jeans</link>
+        <mpn>MP-D-JNS-S23-009-LIGHT</mpn>
+      </variation>
+      <variation>
+        <variationid>ca1b83f3-8ab6-fb99-b799-57e7958fcca9-31</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>31</size>
+        <quantity>1</quantity>
+        <price>99.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-neilan-cas-jeans</link>
+        <mpn>MP-D-JNS-S23-009-LIGHT</mpn>
+      </variation>
+      <variation>
+        <variationid>ca1b83f3-8ab6-fb99-b799-57e7958fcca9-32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>32</size>
+        <quantity>1</quantity>
+        <price>99.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-neilan-cas-jeans</link>
+        <mpn>MP-D-JNS-S23-009-LIGHT</mpn>
+      </variation>
+      <variation>
+        <variationid>ca1b83f3-8ab6-fb99-b799-57e7958fcca9-33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>33</size>
+        <quantity>1</quantity>
+        <price>99.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-neilan-cas-jeans</link>
+        <mpn>MP-D-JNS-S23-009-LIGHT</mpn>
+      </variation>
+      <variation>
+        <variationid>ca1b83f3-8ab6-fb99-b799-57e7958fcca9-34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>34</size>
+        <quantity>1</quantity>
+        <price>99.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-neilan-cas-jeans</link>
+        <mpn>MP-D-JNS-S23-009-LIGHT</mpn>
+      </variation>
+      <variation>
+        <variationid>ca1b83f3-8ab6-fb99-b799-57e7958fcca9-36</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>36</size>
+        <quantity>1</quantity>
+        <price>99.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-neilan-cas-jeans</link>
+        <mpn>MP-D-JNS-S23-009-LIGHT</mpn>
+      </variation>
+      <variation>
+        <variationid>ca1b83f3-8ab6-fb99-b799-57e7958fcca9-38</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>38</size>
+        <quantity>1</quantity>
+        <price>99.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-neilan-cas-jeans</link>
+        <mpn>MP-D-JNS-S23-009-LIGHT</mpn>
+      </variation>
+      <variation>
+        <variationid>ca1b83f3-8ab6-fb99-b799-57e7958fcca9-40</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>40</size>
+        <quantity>1</quantity>
+        <price>99.9</price>
+        <link>https://www.onikshop.gr/product-page/edward-neilan-cas-jeans</link>
+        <mpn>MP-D-JNS-S23-009-LIGHT</mpn>
       </variation>
     </variations>
   </product>
@@ -10661,7 +10772,7 @@
     <weight>500</weight>
     <price>78.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>17</quantity>
+    <quantity>16</quantity>
     <variations>
       <variation>
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w30-l32</variationid>
@@ -10757,7 +10868,7 @@
         <variationid>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8-w34-l36</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W34 L36</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>78.4</price>
         <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
         <mpn>00501-0065</mpn>
