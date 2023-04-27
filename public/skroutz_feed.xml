@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-27 09:10</created_at>
+  <created_at>2023-04-27 11:10</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -10084,113 +10084,12 @@
     <additionalImage>https://static.wixstatic.com/media/6c7135_c47ec20a56fe44168cacb04791cd70bd~mv2.jpeg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_3800e3c23fd54acd94a87aa773117506~mv2.jpeg</additionalImage>
     <color>Μπλε Ανοιχτό</color>
-    <size>W30 L32,W30 L34,W31 L32,W32 L34,W33 L32,W33 L34,W33 L36,W38 L34,W38 L36,W40 L34,W42 L34</size>
+    <size>W40 L34</size>
     <brand>Levi's</brand>
     <weight>500</weight>
     <price>78.4</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
-    <variations>
-      <variation>
-        <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w30-l32</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W30 L32</size>
-        <quantity>0</quantity>
-        <price>78.4</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
-        <mpn>00501-0114</mpn>
-      </variation>
-      <variation>
-        <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w30-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W30 L34</size>
-        <quantity>0</quantity>
-        <price>78.4</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
-        <mpn>00501-0114</mpn>
-      </variation>
-      <variation>
-        <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w31-l32</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W31 L32</size>
-        <quantity>0</quantity>
-        <price>78.4</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
-        <mpn>00501-0114</mpn>
-      </variation>
-      <variation>
-        <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w32-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W32 L34</size>
-        <quantity>0</quantity>
-        <price>78.4</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
-        <mpn>00501-0114</mpn>
-      </variation>
-      <variation>
-        <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w33-l32</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W33 L32</size>
-        <quantity>0</quantity>
-        <price>78.4</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
-        <mpn>00501-0114</mpn>
-      </variation>
-      <variation>
-        <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w33-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W33 L34</size>
-        <quantity>0</quantity>
-        <price>78.4</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
-        <mpn>00501-0114</mpn>
-      </variation>
-      <variation>
-        <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w33-l36</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W33 L36</size>
-        <quantity>0</quantity>
-        <price>78.4</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
-        <mpn>00501-0114</mpn>
-      </variation>
-      <variation>
-        <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w38-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W38 L34</size>
-        <quantity>0</quantity>
-        <price>78.4</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
-        <mpn>00501-0114</mpn>
-      </variation>
-      <variation>
-        <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w38-l36</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W38 L36</size>
-        <quantity>0</quantity>
-        <price>78.4</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
-        <mpn>00501-0114</mpn>
-      </variation>
-      <variation>
-        <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w40-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W40 L34</size>
-        <quantity>4</quantity>
-        <price>78.4</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
-        <mpn>00501-0114</mpn>
-      </variation>
-      <variation>
-        <variationid>5af17437-dcb9-5e0f-a668-b8aeea8d4eca-w42-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W42 L34</size>
-        <quantity>0</quantity>
-        <price>78.4</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
-        <mpn>00501-0114</mpn>
-      </variation>
-    </variations>
+    <quantity>3</quantity>
   </product>
   <product>
     <id>e32aafc3-8833-43e0-2572-3fe339b4804f</id>
