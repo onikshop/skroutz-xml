@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-28 10:29</created_at>
+  <created_at>2023-04-28 17:35</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -10548,52 +10548,6 @@
     </variations>
   </product>
   <product>
-    <id>d0d1d41e-1804-7bd8-11ef-9a03cb783dca</id>
-    <name>LEVI'S® 527™ ΤΖΙΝ bootcut 05527-0588</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>05527-0588</mpn>
-    <link>https://www.onikshop.gr/product-page/levi-s-527-τζιν-bootcut</link>
-    <description><![CDATA[Περιγραφή<br>Levi’s® 527™ Slim Boot Cut 05527-0588<br>Black Denim<br>Bootcut<br>Φερμουάρ<br>99% Cotton, 2% Elastane]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_e841a394b36c46ef88c2a3972dcada0a~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_c3d829c6b7a5478fb4845988e281dc4f~mv2.jpg</additionalImage>
-    <color>Μαύρο</color>
-    <size>W32 L34,W33 L34,W34 L34</size>
-    <brand>Levi's</brand>
-    <weight>200</weight>
-    <price>76.3</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
-    <variations>
-      <variation>
-        <variationid>d0d1d41e-1804-7bd8-11ef-9a03cb783dca-w32-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W32 L34</size>
-        <quantity>0</quantity>
-        <price>76.3</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-527-τζιν-bootcut</link>
-        <mpn>05527-0588</mpn>
-      </variation>
-      <variation>
-        <variationid>d0d1d41e-1804-7bd8-11ef-9a03cb783dca-w33-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W33 L34</size>
-        <quantity>1</quantity>
-        <price>76.3</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-527-τζιν-bootcut</link>
-        <mpn>05527-0588</mpn>
-      </variation>
-      <variation>
-        <variationid>d0d1d41e-1804-7bd8-11ef-9a03cb783dca-w34-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W34 L34</size>
-        <quantity>1</quantity>
-        <price>76.3</price>
-        <link>https://www.onikshop.gr/product-page/levi-s-527-τζιν-bootcut</link>
-        <mpn>05527-0588</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
     <id>8c37b284-bac9-7fb0-b0d2-8dff50096c68</id>
     <name>LEVI'S® 724 HIGH-RISE STRAIGHT HYPERSOFT 18883-0103</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
@@ -17491,24 +17445,6 @@
     <brand>Levi's</brand>
     <weight>500</weight>
     <price>19.95</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-  </product>
-  <product>
-    <id>e35bf182-5077-4b60-3834-b14ee10103f4</id>
-    <name>Vintage Levi's Red Tub Guys 509.0078 10509.00.78</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>10509.00.78</mpn>
-    <link>https://www.onikshop.gr/product-page/vintage-levi-s</link>
-    <description>Loose fit 100% Cotton Vitage Levi's 509.0078</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_7185404f8a8d4066b9a6caf021ed0301~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_e8b65f68881f47b8b0843dffa4dc286a~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_94c5ab697b6a4383903fe7402940bbc8~mv2.jpg</additionalImage>
-    <color>Μπλε κλασικό</color>
-    <size>W34 L34</size>
-    <brand>Levi's</brand>
-    <weight>500</weight>
-    <price>20</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
   </product>
