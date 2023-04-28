@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-27 11:10</created_at>
+  <created_at>2023-04-28 10:29</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -469,13 +469,13 @@
     <weight>2000</weight>
     <price>74.72</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <variations>
       <variation>
         <variationid>4f79cb8a-0c67-9fcf-9aa2-626c6281b27f-s</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>S</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>74.72</price>
         <link>https://www.onikshop.gr/product-page/bellamy-82-edward</link>
         <mpn>19.1.2.84.124-DENIM</mpn>
@@ -7215,7 +7215,7 @@
     <weight>200</weight>
     <price>119</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>11</quantity>
+    <quantity>10</quantity>
     <variations>
       <variation>
         <variationid>74b2bb61-2514-8222-f8a4-58beb323b74f-w24-l31</variationid>
@@ -7257,7 +7257,7 @@
         <variationid>74b2bb61-2514-8222-f8a4-58beb323b74f-w28-l33</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W28 L33</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>119</price>
         <link>https://www.onikshop.gr/product-page/lee-scarlett-high-γυναικείο-μπλε-τζιν-παντελόν</link>
         <mpn>L626GUB43</mpn>
@@ -8141,6 +8141,62 @@
         <price>68</price>
         <link>https://www.onikshop.gr/product-page/lee</link>
         <mpn>L66WNS35</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>779922d5-f238-91af-5fa4-cb60ff76cfe0</id>
+    <name>Lee Μπλούζα Polo Πράσινο L61ARLA12</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
+    <mpn>L61ARLA12</mpn>
+    <link>https://www.onikshop.gr/product-page/lee-μπλούζα-polo-πράσινο</link>
+    <description><![CDATA[<div><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Ενά Polo σε βγάζει ασπροπρόσωπο σε πολλές περιστάσεις και για επίσημες εξόδους αλλά και για τις επαγγελματικές.</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></div><div><ul>	<li><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Μπλούζα Polo</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></li>	<li><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Regular Fit  </span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></li>	<li><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Lee</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></li>	<li><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span><span>Κωδ. Προϊόντος: L61ARLA12</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></li></ul></div>]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_22ee03a288cb47818cae063ee5519654~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_681c00d804824dc0af846ed210e38e31~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_eb7d3bbaa79f4e0ca0d084cac8b865c4~mv2.jpg</additionalImage>
+    <color>Πράσινο</color>
+    <size>S,M,L,XL</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>55</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>4</quantity>
+    <variations>
+      <variation>
+        <variationid>779922d5-f238-91af-5fa4-cb60ff76cfe0-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>55</price>
+        <link>https://www.onikshop.gr/product-page/lee-μπλούζα-polo-πράσινο</link>
+        <mpn>L61ARLA12</mpn>
+      </variation>
+      <variation>
+        <variationid>779922d5-f238-91af-5fa4-cb60ff76cfe0-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>55</price>
+        <link>https://www.onikshop.gr/product-page/lee-μπλούζα-polo-πράσινο</link>
+        <mpn>L61ARLA12</mpn>
+      </variation>
+      <variation>
+        <variationid>779922d5-f238-91af-5fa4-cb60ff76cfe0-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>55</price>
+        <link>https://www.onikshop.gr/product-page/lee-μπλούζα-polo-πράσινο</link>
+        <mpn>L61ARLA12</mpn>
+      </variation>
+      <variation>
+        <variationid>779922d5-f238-91af-5fa4-cb60ff76cfe0-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>55</price>
+        <link>https://www.onikshop.gr/product-page/lee-μπλούζα-polo-πράσινο</link>
+        <mpn>L61ARLA12</mpn>
       </variation>
     </variations>
   </product>
@@ -11376,6 +11432,80 @@
     </variations>
   </product>
   <product>
+    <id>03c74a39-b02f-0a76-670b-4f3d16464b69</id>
+    <name>LOSAN Ανδρικό ασπρόμαυρο κοντομάνικο πουκάμισο 31K-3027AL</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
+    <mpn>31K-3027AL</mpn>
+    <link>https://www.onikshop.gr/product-page/losan-ανδρικό-ασπρόμαυρο-κοντομάνικο-πουκάμισο</link>
+    <description><![CDATA[ LOSAN Ανδρικό ασπρόμαυρο κοντομάνικο πουκάμισο, τσέπη, γιακάς χωρίς κουμπί, τσέπη. 100% Viscose. 31K-3027AL]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_93e4ab6ff746423186c0bc057f8a7557~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_cf027ff7df864245ab72543beecf7287~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_bc3904e25b734a3f9bcaf26a6693d229~mv2.jpg</additionalImage>
+    <color>Μαύρο</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Losan</brand>
+    <weight>100</weight>
+    <price>37.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>03c74a39-b02f-0a76-670b-4f3d16464b69-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>37.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-ανδρικό-ασπρόμαυρο-κοντομάνικο-πουκάμισο</link>
+        <mpn>31K-3027AL</mpn>
+      </variation>
+      <variation>
+        <variationid>03c74a39-b02f-0a76-670b-4f3d16464b69-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>37.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-ανδρικό-ασπρόμαυρο-κοντομάνικο-πουκάμισο</link>
+        <mpn>31K-3027AL</mpn>
+      </variation>
+      <variation>
+        <variationid>03c74a39-b02f-0a76-670b-4f3d16464b69-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>37.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-ανδρικό-ασπρόμαυρο-κοντομάνικο-πουκάμισο</link>
+        <mpn>31K-3027AL</mpn>
+      </variation>
+      <variation>
+        <variationid>03c74a39-b02f-0a76-670b-4f3d16464b69-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>37.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-ανδρικό-ασπρόμαυρο-κοντομάνικο-πουκάμισο</link>
+        <mpn>31K-3027AL</mpn>
+      </variation>
+      <variation>
+        <variationid>03c74a39-b02f-0a76-670b-4f3d16464b69-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>37.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-ανδρικό-ασπρόμαυρο-κοντομάνικο-πουκάμισο</link>
+        <mpn>31K-3027AL</mpn>
+      </variation>
+      <variation>
+        <variationid>03c74a39-b02f-0a76-670b-4f3d16464b69-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>37.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-ανδρικό-ασπρόμαυρο-κοντομάνικο-πουκάμισο</link>
+        <mpn>31K-3027AL</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>07b657b8-3d30-44c4-89ba-6d7a12b60e6c</id>
     <name>LOSAN Ανδρικό μαύρο μπουφάν 22K-2014AL 22K-2014AL</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Μπουφάν]]></category>
@@ -11430,6 +11560,80 @@
         <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/losan-ανδρικό-μαύρο-μπουφάν-22k-2014al</link>
         <mpn>22K-2014AL</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>517a8904-ee1d-a5f5-67d7-cf71ebc2e611</id>
+    <name>Losan Μαγιό 31K-4025AL</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Μαγιό]]></category>
+    <mpn>31K-4025AL</mpn>
+    <link>https://www.onikshop.gr/product-page/losan-μαγιό</link>
+    <description>100% POLYESTER</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_ae05ecf5a28b4bdabec1a34e3d5b044c~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_d08a3cb6095e43478546631884327b6a~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_1ffb231dd1f141589fedc335a8fcb9eb~mv2.jpg</additionalImage>
+    <color>Μαύρο</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Losan</brand>
+    <weight>100</weight>
+    <price>21.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>517a8904-ee1d-a5f5-67d7-cf71ebc2e611-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>21.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-μαγιό</link>
+        <mpn>31K-4025AL</mpn>
+      </variation>
+      <variation>
+        <variationid>517a8904-ee1d-a5f5-67d7-cf71ebc2e611-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>21.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-μαγιό</link>
+        <mpn>31K-4025AL</mpn>
+      </variation>
+      <variation>
+        <variationid>517a8904-ee1d-a5f5-67d7-cf71ebc2e611-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>21.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-μαγιό</link>
+        <mpn>31K-4025AL</mpn>
+      </variation>
+      <variation>
+        <variationid>517a8904-ee1d-a5f5-67d7-cf71ebc2e611-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>21.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-μαγιό</link>
+        <mpn>31K-4025AL</mpn>
+      </variation>
+      <variation>
+        <variationid>517a8904-ee1d-a5f5-67d7-cf71ebc2e611-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>21.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-μαγιό</link>
+        <mpn>31K-4025AL</mpn>
+      </variation>
+      <variation>
+        <variationid>517a8904-ee1d-a5f5-67d7-cf71ebc2e611-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>21.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-μαγιό</link>
+        <mpn>31K-4025AL</mpn>
       </variation>
     </variations>
   </product>
@@ -20769,6 +20973,63 @@
     </variations>
   </product>
   <product>
+    <id>63ae7fd1-2dc1-b9dc-93f1-633de5525be2</id>
+    <name>Ανδρική λευκή Polo κοντομάνικη μπλούζα Lee L61ARLLJ</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
+    <mpn>L61ARLLJ</mpn>
+    <link>https://www.onikshop.gr/product-page/ανδρική-λευκή-polo-κοντομάνικη-μπλούζα-lee</link>
+    <description>Ανδρική polo μπλούζα της εταιρείας Lee, από πικέ ύφασμα. Rex γιακά. Κοντό μανίκι. Logo της εταιρείας σε patch. Κλείσιμο με κουμπάκια.</description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_13a4203d293e494e914f57054cea553b~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_eaabca8a0ce244f28bb527badce62e38~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_ec9126d570244664a9e5e09451c6f4aa~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_3ee75e8d41b34cad8659fd99410df3f7~mv2.jpg</additionalImage>
+    <color>Λευκό</color>
+    <size>S,M,L,XL</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>55</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>4</quantity>
+    <variations>
+      <variation>
+        <variationid>63ae7fd1-2dc1-b9dc-93f1-633de5525be2-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>55</price>
+        <link>https://www.onikshop.gr/product-page/ανδρική-λευκή-polo-κοντομάνικη-μπλούζα-lee</link>
+        <mpn>L61ARLLJ</mpn>
+      </variation>
+      <variation>
+        <variationid>63ae7fd1-2dc1-b9dc-93f1-633de5525be2-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>55</price>
+        <link>https://www.onikshop.gr/product-page/ανδρική-λευκή-polo-κοντομάνικη-μπλούζα-lee</link>
+        <mpn>L61ARLLJ</mpn>
+      </variation>
+      <variation>
+        <variationid>63ae7fd1-2dc1-b9dc-93f1-633de5525be2-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>55</price>
+        <link>https://www.onikshop.gr/product-page/ανδρική-λευκή-polo-κοντομάνικη-μπλούζα-lee</link>
+        <mpn>L61ARLLJ</mpn>
+      </variation>
+      <variation>
+        <variationid>63ae7fd1-2dc1-b9dc-93f1-633de5525be2-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>55</price>
+        <link>https://www.onikshop.gr/product-page/ανδρική-λευκή-polo-κοντομάνικη-μπλούζα-lee</link>
+        <mpn>L61ARLLJ</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>0913297b-6716-c3f2-e443-3cdb51e9753d</id>
     <name>ΑΝΔΡΙΚΟ ΠΟΥΚΑΜΙΣΟ S.OLIVER 13.808.21.3452</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα<br>
@@ -21903,6 +22164,72 @@
         <price>35.97</price>
         <link>https://www.onikshop.gr/product-page/ανδρικό-φούτερ-seno-heavy-tools</link>
         <mpn>Seno</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>f8e0429e-e68a-582e-c5b3-e2b75a65ad5f</id>
+    <name>Βαμβακερό μπλουζάκι πόλο Wrangler W7BJK4G15</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
+    <mpn>W7BJK4G15</mpn>
+    <link>https://www.onikshop.gr/product-page/βαμβακερό-μπλουζάκι-πόλο-wrangler</link>
+    <description><![CDATA[- Κόψιμο Regular.<br>- Τσέπη στο στήθος.<br>- Κοντό μανίκι.<br>- Μοντέλο με γιακά.<br>- Σύντομο κλείσιμο κουμπωτό.<br>- Λείο πλεκτό.<br>- Πιο μακριά πλάτη.<br>- Μπροστινό μήκος: 73 cm.<br>- Μήκος πλάτης: 79 cm.<br>- Πλάτος μασχάλης: 55 cm.<br>- Διαστάσεις αναφερόμενες για το μέγεθος: L.Υλικό:<br>100% ΒαμβάκιID προϊόντος: PPYX-POM08T_81XΚωδικός κατασκευαστή: W7BJK4G15]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_198527c056ad4b568725a51e61bdfb99~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_1f3cc1eb300349739d71eb81a8cd6b05~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_7ec57d9ffa90404cb79989ecac387d5d~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_9a3cb20e40d24616b889d05f90841a88~mv2.webp</additionalImage>
+    <color>Φιστικί</color>
+    <size>S,M,L,XL,XXL</size>
+    <brand>Wrangler</brand>
+    <weight>100</weight>
+    <price>49</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>4</quantity>
+    <variations>
+      <variation>
+        <variationid>f8e0429e-e68a-582e-c5b3-e2b75a65ad5f-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>49</price>
+        <link>https://www.onikshop.gr/product-page/βαμβακερό-μπλουζάκι-πόλο-wrangler</link>
+        <mpn>W7BJK4G15</mpn>
+      </variation>
+      <variation>
+        <variationid>f8e0429e-e68a-582e-c5b3-e2b75a65ad5f-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>49</price>
+        <link>https://www.onikshop.gr/product-page/βαμβακερό-μπλουζάκι-πόλο-wrangler</link>
+        <mpn>W7BJK4G15</mpn>
+      </variation>
+      <variation>
+        <variationid>f8e0429e-e68a-582e-c5b3-e2b75a65ad5f-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>0</quantity>
+        <price>49</price>
+        <link>https://www.onikshop.gr/product-page/βαμβακερό-μπλουζάκι-πόλο-wrangler</link>
+        <mpn>W7BJK4G15</mpn>
+      </variation>
+      <variation>
+        <variationid>f8e0429e-e68a-582e-c5b3-e2b75a65ad5f-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>49</price>
+        <link>https://www.onikshop.gr/product-page/βαμβακερό-μπλουζάκι-πόλο-wrangler</link>
+        <mpn>W7BJK4G15</mpn>
+      </variation>
+      <variation>
+        <variationid>f8e0429e-e68a-582e-c5b3-e2b75a65ad5f-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>49</price>
+        <link>https://www.onikshop.gr/product-page/βαμβακερό-μπλουζάκι-πόλο-wrangler</link>
+        <mpn>W7BJK4G15</mpn>
       </variation>
     </variations>
   </product>
