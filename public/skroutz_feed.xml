@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-04-28 17:35</created_at>
+  <created_at>2023-04-30 17:39</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -3303,13 +3303,13 @@
     <weight>500</weight>
     <price>66</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>2</quantity>
     <variations>
       <variation>
         <variationid>a1b0500a-3bd1-fa2c-7627-3b903ba45a27-40</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>40</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>66</price>
         <link>https://www.onikshop.gr/product-page/fred-perry-b6237u-102-παπουτσι-ανδρικα</link>
         <mpn>B6237U-102</mpn>
@@ -3901,13 +3901,13 @@
     <weight>500</weight>
     <price>69</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
     <variations>
       <variation>
         <variationid>b9fdb2c5-f50a-9a14-80e8-1aa41e35132a-44</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>44</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>69</price>
         <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι-sneaker-ανδρικο</link>
         <mpn>B7163-102</mpn>
@@ -8337,7 +8337,7 @@
     <weight>200</weight>
     <price>169.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>10</quantity>
+    <quantity>9</quantity>
     <variations>
       <variation>
         <variationid>03c7af69-0aa6-2a1b-c70b-298dadf8f1fa-46</variationid>
@@ -8397,7 +8397,7 @@
         <variationid>03c7af69-0aa6-2a1b-c70b-298dadf8f1fa-58</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>58</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>169.9</price>
         <link>https://www.onikshop.gr/product-page/leonardo-uomo-130146</link>
         <mpn>S23LU090130146</mpn>
@@ -10035,7 +10035,7 @@
     <weight>2000</weight>
     <price>55.8</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
+    <quantity>1</quantity>
   </product>
   <product>
     <id>371fc283-0361-3e1a-b378-b58895ea83d9</id>
@@ -11514,6 +11514,70 @@
         <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/losan-ανδρικό-μαύρο-μπουφάν-22k-2014al</link>
         <mpn>22K-2014AL</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>ae1aca16-3f28-9c7b-0b65-52f42b6b7abd</id>
+    <name>LOSAN Ανδρικό με σχέδια κοντομάνικο πουκάμισο 31K-3009AL</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
+    <mpn>31K-3009AL</mpn>
+    <link>https://www.onikshop.gr/product-page/losan-ανδρικό-με-σχέδια-κοντομάνικο-πουκάμισο</link>
+    <description><![CDATA[LOSAN Ανδρικό με σχέδιο κοντομάνικο πουκάμισο, τσέπη, γιακάς χωρίς κουμπί, τσέπη. 100% Viscose.]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_ffbe076309e74bb09bcc0b32d119a004~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_21a86948e7834a57893f5ffcdb238aec~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_3e2c9dff54994ea8ae43a93bd8fd66aa~mv2.jpg</additionalImage>
+    <color>Πράσινο</color>
+    <size>S,M,L,XL,XXL</size>
+    <brand>Losan</brand>
+    <weight>100</weight>
+    <price>39.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity/>
+    <variations>
+      <variation>
+        <variationid>ae1aca16-3f28-9c7b-0b65-52f42b6b7abd-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>39.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-ανδρικό-με-σχέδια-κοντομάνικο-πουκάμισο</link>
+        <mpn>31K-3009AL</mpn>
+      </variation>
+      <variation>
+        <variationid>ae1aca16-3f28-9c7b-0b65-52f42b6b7abd-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>39.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-ανδρικό-με-σχέδια-κοντομάνικο-πουκάμισο</link>
+        <mpn>31K-3009AL</mpn>
+      </variation>
+      <variation>
+        <variationid>ae1aca16-3f28-9c7b-0b65-52f42b6b7abd-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <price>39.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-ανδρικό-με-σχέδια-κοντομάνικο-πουκάμισο</link>
+        <mpn>31K-3009AL</mpn>
+      </variation>
+      <variation>
+        <variationid>ae1aca16-3f28-9c7b-0b65-52f42b6b7abd-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>39.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-ανδρικό-με-σχέδια-κοντομάνικο-πουκάμισο</link>
+        <mpn>31K-3009AL</mpn>
+      </variation>
+      <variation>
+        <variationid>ae1aca16-3f28-9c7b-0b65-52f42b6b7abd-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>39.95</price>
+        <link>https://www.onikshop.gr/product-page/losan-ανδρικό-με-σχέδια-κοντομάνικο-πουκάμισο</link>
+        <mpn>31K-3009AL</mpn>
       </variation>
     </variations>
   </product>
@@ -13533,81 +13597,6 @@
     </variations>
   </product>
   <product>
-    <id>78ae508b-bf17-986c-454a-f51ff833979b</id>
-    <name>s.Oliver Fine knit jumper with a V-neckline 2040666</name>
-    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πλεκτά]]></category>
-    <mpn>2040666</mpn>
-    <link>https://www.onikshop.gr/product-page/s-oliver-fine-knit-jumper-with-a-v-neckline</link>
-    <description>Μοτίβο: απλόΛαιμόκοψη: λαιμόκοψη με ραβδωτή επένδυση, λαιμόκοψη VΜανίκι: μανσέτες με ραβδώσειςΛεπτομέρειες: λογότυποΣτυλ: κλασική εμφάνισηΠερίσταση: Casual</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_1f7d6a464d8f466b9da4af6505946ef4~mv2.webp</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_298171ba759743a4b1be5141f428f508~mv2.webp</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_f40486ce30fa450eb689a5d6717f9d46~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_e4a2864908c24c0aa8caa1b2c958c760~mv2.jpg</additionalImage>
-    <color>Μαύρο</color>
-    <size>S,M,L,XL,XXL,3XL</size>
-    <brand>s.Oliver</brand>
-    <weight>2000</weight>
-    <price>35.99</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
-    <variations>
-      <variation>
-        <variationid>78ae508b-bf17-986c-454a-f51ff833979b-s</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>S</size>
-        <quantity>1</quantity>
-        <price>35.99</price>
-        <link>https://www.onikshop.gr/product-page/s-oliver-fine-knit-jumper-with-a-v-neckline</link>
-        <mpn>2040666</mpn>
-      </variation>
-      <variation>
-        <variationid>78ae508b-bf17-986c-454a-f51ff833979b-m</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>M</size>
-        <quantity>0</quantity>
-        <price>35.99</price>
-        <link>https://www.onikshop.gr/product-page/s-oliver-fine-knit-jumper-with-a-v-neckline</link>
-        <mpn>2040666</mpn>
-      </variation>
-      <variation>
-        <variationid>78ae508b-bf17-986c-454a-f51ff833979b-l</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>L</size>
-        <quantity>0</quantity>
-        <price>35.99</price>
-        <link>https://www.onikshop.gr/product-page/s-oliver-fine-knit-jumper-with-a-v-neckline</link>
-        <mpn>2040666</mpn>
-      </variation>
-      <variation>
-        <variationid>78ae508b-bf17-986c-454a-f51ff833979b-xl</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XL</size>
-        <quantity>1</quantity>
-        <price>35.99</price>
-        <link>https://www.onikshop.gr/product-page/s-oliver-fine-knit-jumper-with-a-v-neckline</link>
-        <mpn>2040666</mpn>
-      </variation>
-      <variation>
-        <variationid>78ae508b-bf17-986c-454a-f51ff833979b-xxl</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XXL</size>
-        <quantity>1</quantity>
-        <price>35.99</price>
-        <link>https://www.onikshop.gr/product-page/s-oliver-fine-knit-jumper-with-a-v-neckline</link>
-        <mpn>2040666</mpn>
-      </variation>
-      <variation>
-        <variationid>78ae508b-bf17-986c-454a-f51ff833979b-3xl</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>3XL</size>
-        <quantity>1</quantity>
-        <price>35.99</price>
-        <link>https://www.onikshop.gr/product-page/s-oliver-fine-knit-jumper-with-a-v-neckline</link>
-        <mpn>2040666</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
     <id>12dd43c7-2042-6de7-02d5-b563c47967b4</id>
     <name>s.Oliver Hoodie with a logo print 2118600</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
@@ -15420,25 +15409,6 @@
         <mpn>RICK 95Z4</mpn>
       </variation>
     </variations>
-  </product>
-  <product>
-    <id>45f02333-d0a3-696b-e643-21fa1d7d37ad</id>
-    <name>Sana-043 Edward 15.1.2.84.073-BLUE</name>
-    <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
-    <mpn>15.1.2.84.073-BLUE</mpn>
-    <link>https://www.onikshop.gr/product-page/sana-043-edward</link>
-    <description>ΚΩΔΙΚΟΣ: 15.1.2.84.073-BLUEFIT TYPE: SLIM8%COT-2%EL</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_27d45115ca624623873cbb57046d0aa5~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_d4eeb9d2034748799ed84b7738078e7e~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_4c45a80c505d4054bcd94253672d7a55~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_618d05546e534cdcae20e470b661387d~mv2.jpg</additionalImage>
-    <color>Σκούρο Μπλέ Πετροπλυμένο</color>
-    <size>30</size>
-    <brand>Edward</brand>
-    <weight>2000</weight>
-    <price>34.95</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
   </product>
   <product>
     <id>240efc1c-1e74-ba19-96b1-01a61c531f2f</id>
