@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-05-02 08:56</created_at>
+  <created_at>2023-05-04 07:31</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -4609,6 +4609,78 @@
     </variations>
   </product>
   <product>
+    <id>73a2229a-66b1-28a4-bace-ef368e68902c</id>
+    <name>Heavy Tools BLUE of WITTY22 WITTY22 BLUE</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ >Αμάνικο]]></category>
+    <mpn>WITTY22 BLUE</mpn>
+    <link>https://www.onikshop.gr/product-page/blue-of-witty22</link>
+    <description>A vest is always the perfect choice! With its bright colours, straight, comfortable cut, inner wind flap, handy zipped pockets and small branding, this men's quilted vest with zip closure is the perfect comfort for any outdoor activity on cooler spring days. It's a great choice for active time outdoors, sports, travel, or even as an accessory for busy weekdays. Choose your favourite pair of Heavy Tools jeans or cargo trousers, sweatshirt or t-shirt from our new collection! Material: shell, lining: 100% nylon, padding: 100% polyester, lightweight. The model is 188 cm tall and wears size L</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_db0c39d0fbc84c65af3aefbabff01bfd~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_3a4437510f1a49f48542e801c19ef628~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_af1e3596c75f4e13ba1defff4af556de~mv2.jpg</additionalImage>
+    <color>Μπλε</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Heavy Tools</brand>
+    <weight>100</weight>
+    <price>40.77</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity/>
+    <variations>
+      <variation>
+        <variationid>73a2229a-66b1-28a4-bace-ef368e68902c-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>40.77</price>
+        <link>https://www.onikshop.gr/product-page/blue-of-witty22</link>
+        <mpn>WITTY22 BLUE</mpn>
+      </variation>
+      <variation>
+        <variationid>73a2229a-66b1-28a4-bace-ef368e68902c-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <price>40.77</price>
+        <link>https://www.onikshop.gr/product-page/blue-of-witty22</link>
+        <mpn>WITTY22 BLUE</mpn>
+      </variation>
+      <variation>
+        <variationid>73a2229a-66b1-28a4-bace-ef368e68902c-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>40.77</price>
+        <link>https://www.onikshop.gr/product-page/blue-of-witty22</link>
+        <mpn>WITTY22 BLUE</mpn>
+      </variation>
+      <variation>
+        <variationid>73a2229a-66b1-28a4-bace-ef368e68902c-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>40.77</price>
+        <link>https://www.onikshop.gr/product-page/blue-of-witty22</link>
+        <mpn>WITTY22 BLUE</mpn>
+      </variation>
+      <variation>
+        <variationid>73a2229a-66b1-28a4-bace-ef368e68902c-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <price>40.77</price>
+        <link>https://www.onikshop.gr/product-page/blue-of-witty22</link>
+        <mpn>WITTY22 BLUE</mpn>
+      </variation>
+      <variation>
+        <variationid>73a2229a-66b1-28a4-bace-ef368e68902c-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>40.77</price>
+        <link>https://www.onikshop.gr/product-page/blue-of-witty22</link>
+        <mpn>WITTY22 BLUE</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>fb5c58ad-2c83-cffd-82aa-6bd3235e7dfc</id>
     <name>Heavy Tools MAJESTY C3S23100YE</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
@@ -4625,7 +4697,7 @@
     <weight>200</weight>
     <price>24.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>fb5c58ad-2c83-cffd-82aa-6bd3235e7dfc-s</variationid>
@@ -4685,7 +4757,7 @@
         <variationid>fb5c58ad-2c83-cffd-82aa-6bd3235e7dfc-4xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>4XL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>24.95</price>
         <link>https://www.onikshop.gr/product-page/heavy-tools-majesty</link>
         <mpn>C3S23100YE</mpn>
@@ -4850,6 +4922,77 @@
         <price>74.95</price>
         <link>https://www.onikshop.gr/product-page/heavy-tools-nitop22</link>
         <mpn>NITOP22</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>d3210d02-9c8b-5e66-907e-03f951372f32</id>
+    <name>Heavy Tools RED of WITTY22 WITTY22 RED</name>
+    <category><![CDATA[ΠΑΝΩΦΟΡΙΑ > ΠΑΝΩΦΟΡΙΑ > Αμάνικο]]></category>
+    <mpn>WITTY22 RED</mpn>
+    <link>https://www.onikshop.gr/product-page/copy-of-witty22</link>
+    <description>A vest is always the perfect choice! With its bright colours, straight, comfortable cut, inner wind flap, handy zipped pockets and small branding, this men's quilted vest with zip closure is the perfect comfort for any outdoor activity on cooler spring days. It's a great choice for active time outdoors, sports, travel, or even as an accessory for busy weekdays. Choose your favourite pair of Heavy Tools jeans or cargo trousers, sweatshirt or t-shirt from our new collection! Material: shell, lining: 100% nylon, padding: 100% polyester, lightweight. The model is 188 cm tall and wears size L</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_db464867109d45259d87e90ce717b689~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_7d58caeb6db74ca9b9b94fddc8bf77b3~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_8eb4acf909a04b09ae43f59edacd5ad7~mv2.jpg</additionalImage>
+    <color>Κόκκινο</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Heavy Tools</brand>
+    <weight>100</weight>
+    <price>40.77</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity/>
+    <variations>
+      <variation>
+        <variationid>d3210d02-9c8b-5e66-907e-03f951372f32-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>40.77</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-witty22</link>
+        <mpn>WITTY22 RED</mpn>
+      </variation>
+      <variation>
+        <variationid>d3210d02-9c8b-5e66-907e-03f951372f32-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <price>40.77</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-witty22</link>
+        <mpn>WITTY22 RED</mpn>
+      </variation>
+      <variation>
+        <variationid>d3210d02-9c8b-5e66-907e-03f951372f32-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>40.77</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-witty22</link>
+        <mpn>WITTY22 RED</mpn>
+      </variation>
+      <variation>
+        <variationid>d3210d02-9c8b-5e66-907e-03f951372f32-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>40.77</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-witty22</link>
+        <mpn>WITTY22 RED</mpn>
+      </variation>
+      <variation>
+        <variationid>d3210d02-9c8b-5e66-907e-03f951372f32-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <price>40.77</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-witty22</link>
+        <mpn>WITTY22 RED</mpn>
+      </variation>
+      <variation>
+        <variationid>d3210d02-9c8b-5e66-907e-03f951372f32-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <price>40.77</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-witty22</link>
+        <mpn>WITTY22 RED</mpn>
       </variation>
     </variations>
   </product>
@@ -8323,6 +8466,71 @@
     </variations>
   </product>
   <product>
+    <id>25dae03f-0c64-c80f-9a1c-0c9df3dec5eb</id>
+    <name>LEONARDO 11590622  Κοστούμι S23LU1590622</name>
+    <category><![CDATA[ΚΛΑΣΙΚΑ > Κοστούμια]]></category>
+    <mpn>S23LU1590622</mpn>
+    <link>https://www.onikshop.gr/product-page/leonardo-11590622-κοστούμι</link>
+    <description><![CDATA[70% TERYLEN 28% WOOL 2% SPANDEX Κωδικός προϊόντος: 11590622 ]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_2198a5a1971f4b668d2f8fccb115293a~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_14d8122031bd4010b41c34565ea54bee~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_1eac23182e9444f98513c8462c27b5a3~mv2.jpg</additionalImage>
+    <color>Χακί</color>
+    <size>46,48,50,52,54</size>
+    <brand>Leonardo Uomo</brand>
+    <weight>300</weight>
+    <price>186.58</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>25dae03f-0c64-c80f-9a1c-0c9df3dec5eb-46</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>46</size>
+        <quantity>1</quantity>
+        <price>186.58</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-11590622-κοστούμι</link>
+        <mpn>S23LU1590622</mpn>
+      </variation>
+      <variation>
+        <variationid>25dae03f-0c64-c80f-9a1c-0c9df3dec5eb-48</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>48</size>
+        <quantity>1</quantity>
+        <price>186.58</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-11590622-κοστούμι</link>
+        <mpn>S23LU1590622</mpn>
+      </variation>
+      <variation>
+        <variationid>25dae03f-0c64-c80f-9a1c-0c9df3dec5eb-50</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>50</size>
+        <quantity>1</quantity>
+        <price>186.58</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-11590622-κοστούμι</link>
+        <mpn>S23LU1590622</mpn>
+      </variation>
+      <variation>
+        <variationid>25dae03f-0c64-c80f-9a1c-0c9df3dec5eb-52</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>52</size>
+        <quantity>1</quantity>
+        <price>186.58</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-11590622-κοστούμι</link>
+        <mpn>S23LU1590622</mpn>
+      </variation>
+      <variation>
+        <variationid>25dae03f-0c64-c80f-9a1c-0c9df3dec5eb-54</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>54</size>
+        <quantity>1</quantity>
+        <price>186.58</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-11590622-κοστούμι</link>
+        <mpn>S23LU1590622</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>03c7af69-0aa6-2a1b-c70b-298dadf8f1fa</id>
     <name>LEONARDO UOMO 130146 S23LU090130146</name>
     <category><![CDATA[ΚΛΑΣΙΚΑ > Σακάκια]]></category>
@@ -10821,24 +11029,6 @@
     <brand>Levi's</brand>
     <weight>1000</weight>
     <price>76.3</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-  </product>
-  <product>
-    <id>92c07423-7de2-9a97-0bac-d179b379cfe3</id>
-    <name>Levis Jean Pantolon 501 00501-1617 LEVIS</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>00501-1617 LEVIS</mpn>
-    <link>https://www.onikshop.gr/product-page/levis-jean-pantolon-501</link>
-    <description><![CDATA[Βασικά χαρακτηριστικά:Κλείσιμο με φερμουάρ και κουμπί<br>Τρεις τσέπες μπροστά<br>Δύο τσέπες πίσω<br>Θηλάκια για ζώνη στη μέση<br>Δερμάτινο logo patch πίσω<br>100%COTTON]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_b8dd31b5933d4fff810449a9726d70e0~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_4918efe7aaa34d9e988d9d6c5bfd3a7c~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_7a35b1d42d0f4b0182c0e0b45c2a8d45~mv2.jpg</additionalImage>
-    <color>Μπλε κλασικό</color>
-    <size>W42 L34</size>
-    <brand>Levi's</brand>
-    <weight>500</weight>
-    <price>47</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
   </product>
