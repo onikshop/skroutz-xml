@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-05-04 07:31</created_at>
+  <created_at>2023-05-04 17:38</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -2522,7 +2522,7 @@
     <weight>500</weight>
     <price>29.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>d9446355-93e5-1e99-ccb6-f8c3a05ff9be-s</variationid>
@@ -2564,7 +2564,7 @@
         <variationid>d9446355-93e5-1e99-ccb6-f8c3a05ff9be-xxl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29.9</price>
         <link>https://www.onikshop.gr/product-page/edward-ivar-s23-t-shirt</link>
         <mpn>MP-N-TOP-S23-017-BLACK</mpn>
@@ -4997,6 +4997,174 @@
     </variations>
   </product>
   <product>
+    <id>8f3d3e05-c303-05c4-8018-87c621f81263</id>
+    <name>HEAVY TOOLS ROLLER23 ROLLER23</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
+    <mpn>ROLLER23</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-roller23</link>
+    <description>This men's short-sleeve shirt with its classic comfort fit, fine weave, small patterned fabric, nicely crafted collar and small, embroidered branding is a great choice for a busy day at the office or a summer evening out. The lightweight, soft cotton fabric ensures a comfortable feel even when worn all day. For a more stylish ensemble, choose your favourite pair of Heavy Tools jeans or bermudas to complement your shirt. Material: 100% cotton, poplin. Model is 188 cm tall and wears size L</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_3841d1287d364883a098d94d31404aa3~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_c72d72d0bae0454c8365bea00bc45ff0~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_220568e4513646d29657e6474d38b958~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_1a7001abf47d4db19a766dc5f56f828c~mv2.jpg</additionalImage>
+    <color>Λευκό</color>
+    <size>S,M,L,XL,XXL,3XL,4XL</size>
+    <brand>Heavy Tools</brand>
+    <weight>100</weight>
+    <price>44.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>8</quantity>
+    <variations>
+      <variation>
+        <variationid>8f3d3e05-c303-05c4-8018-87c621f81263-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>44.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-roller23</link>
+        <mpn>ROLLER23</mpn>
+      </variation>
+      <variation>
+        <variationid>8f3d3e05-c303-05c4-8018-87c621f81263-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>44.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-roller23</link>
+        <mpn>ROLLER23</mpn>
+      </variation>
+      <variation>
+        <variationid>8f3d3e05-c303-05c4-8018-87c621f81263-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>44.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-roller23</link>
+        <mpn>ROLLER23</mpn>
+      </variation>
+      <variation>
+        <variationid>8f3d3e05-c303-05c4-8018-87c621f81263-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>44.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-roller23</link>
+        <mpn>ROLLER23</mpn>
+      </variation>
+      <variation>
+        <variationid>8f3d3e05-c303-05c4-8018-87c621f81263-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>44.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-roller23</link>
+        <mpn>ROLLER23</mpn>
+      </variation>
+      <variation>
+        <variationid>8f3d3e05-c303-05c4-8018-87c621f81263-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>44.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-roller23</link>
+        <mpn>ROLLER23</mpn>
+      </variation>
+      <variation>
+        <variationid>8f3d3e05-c303-05c4-8018-87c621f81263-4xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>4XL</size>
+        <quantity>1</quantity>
+        <price>44.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-roller23</link>
+        <mpn>ROLLER23</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>3c4e5bfb-3fd7-795a-e37a-1f49e216e056</id>
+    <name>HEAVY TOOLS ROLLER23 INDIGO ROLLER23 ARROWS</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
+    <mpn>ROLLER23 ARROWS</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-roller23-indigo</link>
+    <description>This men's short-sleeve shirt with its classic comfort fit, fine weave, small patterned fabric, nicely crafted collar and small, embroidered branding is a great choice for a busy day at the office or a summer evening out. The lightweight, soft cotton fabric ensures a comfortable feel even when worn all day. For a more stylish ensemble, choose your favourite pair of Heavy Tools jeans or bermudas to complement your shirt. Material: 100% cotton, poplin. Model is 188 cm tall and wears size L</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_7715432f3611419685af97735aa08859~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_854564d70f7a47169441a0bf233f7b55~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_d6e2dc69e3ba415c92a85b6955139946~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_519a46b65fa244cab0f7e671172aa32d~mv2.jpg</additionalImage>
+    <color>Βαθύ σκούρο Μπλε</color>
+    <size>S,M,L,XL,XXL,3XL,4XL</size>
+    <brand>Heavy Tools</brand>
+    <weight>100</weight>
+    <price>44.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>8</quantity>
+    <variations>
+      <variation>
+        <variationid>3c4e5bfb-3fd7-795a-e37a-1f49e216e056-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>44.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-roller23-indigo</link>
+        <mpn>ROLLER23 ARROWS</mpn>
+      </variation>
+      <variation>
+        <variationid>3c4e5bfb-3fd7-795a-e37a-1f49e216e056-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>44.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-roller23-indigo</link>
+        <mpn>ROLLER23 ARROWS</mpn>
+      </variation>
+      <variation>
+        <variationid>3c4e5bfb-3fd7-795a-e37a-1f49e216e056-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>44.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-roller23-indigo</link>
+        <mpn>ROLLER23 ARROWS</mpn>
+      </variation>
+      <variation>
+        <variationid>3c4e5bfb-3fd7-795a-e37a-1f49e216e056-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>44.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-roller23-indigo</link>
+        <mpn>ROLLER23 ARROWS</mpn>
+      </variation>
+      <variation>
+        <variationid>3c4e5bfb-3fd7-795a-e37a-1f49e216e056-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>44.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-roller23-indigo</link>
+        <mpn>ROLLER23 ARROWS</mpn>
+      </variation>
+      <variation>
+        <variationid>3c4e5bfb-3fd7-795a-e37a-1f49e216e056-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>44.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-roller23-indigo</link>
+        <mpn>ROLLER23 ARROWS</mpn>
+      </variation>
+      <variation>
+        <variationid>3c4e5bfb-3fd7-795a-e37a-1f49e216e056-4xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>4XL</size>
+        <quantity>1</quantity>
+        <price>44.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-roller23-indigo</link>
+        <mpn>ROLLER23 ARROWS</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>90aea61e-363c-2b99-45d8-e5ce75793152</id>
     <name>Heavy Tools SNOKER SNOKER</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
@@ -5220,6 +5388,323 @@
     </variations>
   </product>
   <product>
+    <id>d9d6d09e-6a43-36db-2902-115448090e96</id>
+    <name>Heavy Tools WANTI22 WANTI22</name>
+    <category><![CDATA[ΠΑΝΩΦΟΡΙΑ > ΠΑΝΩΦΟΡΙΑ > Αμάνικο]]></category>
+    <mpn>WANTI22</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-wanti22</link>
+    <description>Το γιλέκο είναι πάντα τέλεια επιλογή! Αυτό το ανδρικό γιλέκο με κουκούλα, με φερμουάρ, καπιτονέ με τα μοντέρνα του χρώματα, την ίσια, άνετη εφαρμογή, την ρυθμιζόμενη και αποσπώμενη κουκούλα, τις πρακτικές τσέπες με φερμουάρ, την εσωτερική τσέπη και τα μικρά σήματα παρέχει τη σωστή άνεση για οποιοδήποτε πρόγραμμα εξωτερικού χώρου τις πιο δροσερές μέρες. Είναι μια εξαιρετική επιλογή για υπαίθριες δραστηριότητες, αθλήματα και ταξίδια, αλλά μπορεί να είναι ακόμα και αξεσουάρ για πολυάσχολη καθημερινότητα. Επιλέξτε το αγαπημένο σας τζιν Heavy Tools ή ένα cargo παντελόνι, πουλόβερ από τη νέα μας συλλογή! Υλικό: κέλυφος: 100% πολυεστέρας, επένδυση: 100% πολυεστέρας, επένδυση: 100% πολυεστέρας. Το μοντέλο έχει ύψος 188 cm και φοράει μέγεθος L.</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_31c4ede4e80c4f0b8ac04e2e870d7d76~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_6dde37b9762e42d5a0a6bffc25e5ab42~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_67d4bcc2cdd243068f6131eb1c7d02ef~mv2.jpg</additionalImage>
+    <color>Κόκκινο</color>
+    <size>S</size>
+    <brand>Heavy Tools</brand>
+    <weight>200</weight>
+    <price>64.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
+  </product>
+  <product>
+    <id>f6356ebe-e7e5-2ac6-ef8d-8e5e34ceb9ac</id>
+    <name>HEAVY TOOLS WATERLOO23 WATERLOO23</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
+    <mpn>WATERLOO23</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-waterloo23</link>
+    <description>These men's canvas shorts feature a straight leg, comfort fit, zip fly fastening, narrow belt loops, side pocket, button back pockets and small branding, making them a great choice for busy weekdays or for summer evening parties with a stylish shirt. Thanks to its exciting shade of stretch cotton, it offers a high level of comfort even when worn all day. Wear it with your favourite Heavy Tools shirt or polo shirt from the new collection! Material: 97% cotton, 3% elastane, twill. The model is 188 cm tall and wears size M. The belt is not included with the shorts</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_6ef4524516bf4bafaced55da933cca65~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_aa4a9b84e4354b7b9d0644bf04608788~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_08dc0dcd85b0423c81de749d16fa8211~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_6dd10f805acb4517bbb4a7ce083a04ea~mv2.jpg</additionalImage>
+    <color>Εκρού</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Heavy Tools</brand>
+    <weight>200</weight>
+    <price>49.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>12</quantity>
+    <variations>
+      <variation>
+        <variationid>f6356ebe-e7e5-2ac6-ef8d-8e5e34ceb9ac-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>2</quantity>
+        <price>49.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-waterloo23</link>
+        <mpn>WATERLOO23</mpn>
+      </variation>
+      <variation>
+        <variationid>f6356ebe-e7e5-2ac6-ef8d-8e5e34ceb9ac-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>2</quantity>
+        <price>49.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-waterloo23</link>
+        <mpn>WATERLOO23</mpn>
+      </variation>
+      <variation>
+        <variationid>f6356ebe-e7e5-2ac6-ef8d-8e5e34ceb9ac-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>49.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-waterloo23</link>
+        <mpn>WATERLOO23</mpn>
+      </variation>
+      <variation>
+        <variationid>f6356ebe-e7e5-2ac6-ef8d-8e5e34ceb9ac-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>2</quantity>
+        <price>49.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-waterloo23</link>
+        <mpn>WATERLOO23</mpn>
+      </variation>
+      <variation>
+        <variationid>f6356ebe-e7e5-2ac6-ef8d-8e5e34ceb9ac-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>2</quantity>
+        <price>49.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-waterloo23</link>
+        <mpn>WATERLOO23</mpn>
+      </variation>
+      <variation>
+        <variationid>f6356ebe-e7e5-2ac6-ef8d-8e5e34ceb9ac-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>2</quantity>
+        <price>49.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-waterloo23</link>
+        <mpn>WATERLOO23</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>c2a78816-e20d-042f-5426-ce9855e44b3d</id>
+    <name>HEAVY TOOLS WATERLOO23 NAVY WATERLOO23 NAVY</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
+    <mpn>WATERLOO23 NAVY</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-waterloo23-blue</link>
+    <description>These men's canvas shorts feature a straight leg, comfort fit, zip fly fastening, narrow belt loops, side pocket, button back pockets and small branding, making them a great choice for busy weekdays or for summer evening parties with a stylish shirt. Thanks to its exciting shade of stretch cotton, it offers a high level of comfort even when worn all day. Wear it with your favourite Heavy Tools shirt or polo shirt from the new collection! Material: 97% cotton, 3% elastane, twill. The model is 188 cm tall and wears size M. The belt is not included with the shorts</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_3f7f63c46ee44587b5169d5536a35b6f~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_3e1cf58d9da74a83b6fd9e28b4e50d7a~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_c14ca08efa554d489b38f7d2dd5e1c99~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_e3b689c22da44ea195df77cabe5225c7~mv2.jpg</additionalImage>
+    <color>Μπλέ Indigo</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Heavy Tools</brand>
+    <weight>200</weight>
+    <price>49.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>12</quantity>
+    <variations>
+      <variation>
+        <variationid>c2a78816-e20d-042f-5426-ce9855e44b3d-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>2</quantity>
+        <price>49.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-waterloo23-blue</link>
+        <mpn>WATERLOO23 NAVY</mpn>
+      </variation>
+      <variation>
+        <variationid>c2a78816-e20d-042f-5426-ce9855e44b3d-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>2</quantity>
+        <price>49.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-waterloo23-blue</link>
+        <mpn>WATERLOO23 NAVY</mpn>
+      </variation>
+      <variation>
+        <variationid>c2a78816-e20d-042f-5426-ce9855e44b3d-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>49.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-waterloo23-blue</link>
+        <mpn>WATERLOO23 NAVY</mpn>
+      </variation>
+      <variation>
+        <variationid>c2a78816-e20d-042f-5426-ce9855e44b3d-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>2</quantity>
+        <price>49.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-waterloo23-blue</link>
+        <mpn>WATERLOO23 NAVY</mpn>
+      </variation>
+      <variation>
+        <variationid>c2a78816-e20d-042f-5426-ce9855e44b3d-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>2</quantity>
+        <price>49.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-waterloo23-blue</link>
+        <mpn>WATERLOO23 NAVY</mpn>
+      </variation>
+      <variation>
+        <variationid>c2a78816-e20d-042f-5426-ce9855e44b3d-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>2</quantity>
+        <price>49.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-waterloo23-blue</link>
+        <mpn>WATERLOO23 NAVY</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>601367fb-0e3a-cb9f-127f-3c466cd055d5</id>
+    <name>HEAVY TOOLS WAVE23 WAVE23</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
+    <mpn>WAVE23</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-wave23</link>
+    <description>These men's shorts are Heavy Tools' stylish 5-pocket zip-up denim bermudas. A great choice for a busy weekday, a trip or a casual evening out. With its regular fit, trendy colours, narrow belt loop and small branding, it will be a staple for the season. Thanks to the elastic cotton fabric, it offers a high level of comfort. If you want a really stylish look, wear it with your favourite Heavy Tools top! Material: 64% cotton, 35% polyester, 1% elastane, denim. The model is 188 cm tall and wears size M. The belt is not included with the shorts</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_4cc673bda2054ed7bb5bcc236c68092c~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_86df86202d904839adc5803441a9dc35~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_e22d47e78d9044acb22329bf5d720f47~mv2.jpg</additionalImage>
+    <color>Μπλε Ανοιχτό</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Heavy Tools</brand>
+    <weight>200</weight>
+    <price>59.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>7</quantity>
+    <variations>
+      <variation>
+        <variationid>601367fb-0e3a-cb9f-127f-3c466cd055d5-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>59.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-wave23</link>
+        <mpn>WAVE23</mpn>
+      </variation>
+      <variation>
+        <variationid>601367fb-0e3a-cb9f-127f-3c466cd055d5-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>59.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-wave23</link>
+        <mpn>WAVE23</mpn>
+      </variation>
+      <variation>
+        <variationid>601367fb-0e3a-cb9f-127f-3c466cd055d5-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>2</quantity>
+        <price>59.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-wave23</link>
+        <mpn>WAVE23</mpn>
+      </variation>
+      <variation>
+        <variationid>601367fb-0e3a-cb9f-127f-3c466cd055d5-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>59.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-wave23</link>
+        <mpn>WAVE23</mpn>
+      </variation>
+      <variation>
+        <variationid>601367fb-0e3a-cb9f-127f-3c466cd055d5-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>59.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-wave23</link>
+        <mpn>WAVE23</mpn>
+      </variation>
+      <variation>
+        <variationid>601367fb-0e3a-cb9f-127f-3c466cd055d5-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>59.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-wave23</link>
+        <mpn>WAVE23</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>d3b8b8df-a23c-ca0c-7324-a0d84cf558b0</id>
+    <name>HEAVY TOOLS WAVE23 INDIGO WAVE23 INDIGO</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
+    <mpn>WAVE23 INDIGO</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-wave23-1</link>
+    <description>These men's shorts are Heavy Tools' stylish 5-pocket zip-up denim bermudas. A great choice for a busy weekday, a trip or a casual evening out. With its regular fit, trendy colours, narrow belt loop and small branding, it will be a staple for the season. Thanks to the elastic cotton fabric, it offers a high level of comfort. If you want a really stylish look, wear it with your favourite Heavy Tools top! Material: 99% cotton, 1% elastane, denim. The model is 188 cm tall and wears size M. The belt is not included with the shorts.</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_5fdd31141cfa42dd90d5597db2b91653~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_f35d28fea81a4f37aaf26bd77c525db2~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_66cb606d95f74b999bb1687d5a7d5aa0~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_056479ddc9224c909d517b76fd01487b~mv2.jpg</additionalImage>
+    <color>Βαθύ σκούρο Μπλε</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Heavy Tools</brand>
+    <weight>200</weight>
+    <price>59.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>d3b8b8df-a23c-ca0c-7324-a0d84cf558b0-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>59.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-wave23-1</link>
+        <mpn>WAVE23 INDIGO</mpn>
+      </variation>
+      <variation>
+        <variationid>d3b8b8df-a23c-ca0c-7324-a0d84cf558b0-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>59.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-wave23-1</link>
+        <mpn>WAVE23 INDIGO</mpn>
+      </variation>
+      <variation>
+        <variationid>d3b8b8df-a23c-ca0c-7324-a0d84cf558b0-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>59.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-wave23-1</link>
+        <mpn>WAVE23 INDIGO</mpn>
+      </variation>
+      <variation>
+        <variationid>d3b8b8df-a23c-ca0c-7324-a0d84cf558b0-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>59.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-wave23-1</link>
+        <mpn>WAVE23 INDIGO</mpn>
+      </variation>
+      <variation>
+        <variationid>d3b8b8df-a23c-ca0c-7324-a0d84cf558b0-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>59.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-wave23-1</link>
+        <mpn>WAVE23 INDIGO</mpn>
+      </variation>
+      <variation>
+        <variationid>d3b8b8df-a23c-ca0c-7324-a0d84cf558b0-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>59.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-wave23-1</link>
+        <mpn>WAVE23 INDIGO</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>f5c1aac9-9295-5f94-d4cb-c5052cf3c784</id>
     <name>Heavy Tools WITTY23 WITTY23</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ >Αμάνικο]]></category>
@@ -5236,7 +5721,7 @@
     <weight>100</weight>
     <price>69.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>f5c1aac9-9295-5f94-d4cb-c5052cf3c784-s</variationid>
@@ -5251,7 +5736,7 @@
         <variationid>f5c1aac9-9295-5f94-d4cb-c5052cf3c784-m</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>M</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>69.95</price>
         <link>https://www.onikshop.gr/product-page/heavy-tools-witty23</link>
         <mpn>WITTY23</mpn>
@@ -5311,7 +5796,7 @@
     <weight>500</weight>
     <price>29.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>71b1597c-9db5-5068-c0c4-d4e3d3958a1a-s</variationid>
@@ -5362,7 +5847,7 @@
         <variationid>71b1597c-9db5-5068-c0c4-d4e3d3958a1a-3xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>3XL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29.9</price>
         <link>https://www.onikshop.gr/product-page/ivar-s23-t-shirt</link>
         <mpn>MP-N-TOP-S23-017-NUDE</mpn>
@@ -5590,6 +6075,177 @@
         <price>15.54</price>
         <link>https://www.onikshop.gr/product-page/jersey-top-with-a-retro-print</link>
         <mpn>4063619166150</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>57005371-6fb8-90e1-dbdd-f71b568764ef</id>
+    <name>JOHN s.Oliver 2132824</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
+    <mpn>2132824</mpn>
+    <link>https://www.onikshop.gr/product-page/copy-of-heavy-tools-waterloo23-navy</link>
+    <description><![CDATA[Delivery and PaymentThe delivery costs amount to 4.95 EUR per order. Return cost are not covered by us.<br>Payment available by Credit Card, PayPal, and advance payment.]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_39261b89fd344f81983fd2cd841feb6c~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_b284855eb63c48b3b37ef6b16a2cb919~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_9023d3e8c01e417ba0805fe02e2aa04d~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_2d73a0b12cda4dd4b3c29de8221a8fab~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_d4365a455a6c491e93752d282aa8eaad~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_6e2dd6b9c16d44f79002dc6e48b134a1~mv2.webp</additionalImage>
+    <color>Γκρι</color>
+    <size>W28,W32,W33,W34,W36</size>
+    <brand>s.Oliver</brand>
+    <weight>200</weight>
+    <price>39.99</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>57005371-6fb8-90e1-dbdd-f71b568764ef-w28</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W28</size>
+        <quantity>1</quantity>
+        <price>39.99</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-heavy-tools-waterloo23-navy</link>
+        <mpn>2132824</mpn>
+      </variation>
+      <variation>
+        <variationid>57005371-6fb8-90e1-dbdd-f71b568764ef-w32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W32</size>
+        <quantity>1</quantity>
+        <price>39.99</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-heavy-tools-waterloo23-navy</link>
+        <mpn>2132824</mpn>
+      </variation>
+      <variation>
+        <variationid>57005371-6fb8-90e1-dbdd-f71b568764ef-w33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33</size>
+        <quantity>1</quantity>
+        <price>39.99</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-heavy-tools-waterloo23-navy</link>
+        <mpn>2132824</mpn>
+      </variation>
+      <variation>
+        <variationid>57005371-6fb8-90e1-dbdd-f71b568764ef-w34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34</size>
+        <quantity>1</quantity>
+        <price>39.99</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-heavy-tools-waterloo23-navy</link>
+        <mpn>2132824</mpn>
+      </variation>
+      <variation>
+        <variationid>57005371-6fb8-90e1-dbdd-f71b568764ef-w36</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W36</size>
+        <quantity>1</quantity>
+        <price>39.99</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-heavy-tools-waterloo23-navy</link>
+        <mpn>2132824</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>43f88419-972f-cf53-cfd0-ec47f0fbc381</id>
+    <name>JOHN s.Oliver Indigo 2127790.56Z4</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
+    <mpn>2127790.56Z4</mpn>
+    <link>https://www.onikshop.gr/product-page/john-s-oliver-indigo</link>
+    <description><![CDATA[Delivery and PaymentThe delivery costs amount to 4.95 EUR per order. Return cost are not covered by us.<br>Payment available by Credit Card, PayPal, and advance payment.]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_e0941be669a946e28db03c5c53a1482e~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_cebc9bc37a544db894b0875b0e979c87~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_277ce29ceb7b45ffa308fb62af8532ab~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_a616a064040f47b2a8812df6d722e100~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_c0e82a688f8049149e0c4aecef07f909~mv2.webp</additionalImage>
+    <color>Βαθύ σκούρο Μπλε</color>
+    <size>W28,W29,W30,W31,W32,W33,W34,W36,W38</size>
+    <brand>s.Oliver</brand>
+    <weight>200</weight>
+    <price>39.99</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>10</quantity>
+    <variations>
+      <variation>
+        <variationid>43f88419-972f-cf53-cfd0-ec47f0fbc381-w28</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W28</size>
+        <quantity>1</quantity>
+        <price>39.99</price>
+        <link>https://www.onikshop.gr/product-page/john-s-oliver-indigo</link>
+        <mpn>2127790.56Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>43f88419-972f-cf53-cfd0-ec47f0fbc381-w29</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W29</size>
+        <quantity>1</quantity>
+        <price>39.99</price>
+        <link>https://www.onikshop.gr/product-page/john-s-oliver-indigo</link>
+        <mpn>2127790.56Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>43f88419-972f-cf53-cfd0-ec47f0fbc381-w30</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W30</size>
+        <quantity>1</quantity>
+        <price>39.99</price>
+        <link>https://www.onikshop.gr/product-page/john-s-oliver-indigo</link>
+        <mpn>2127790.56Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>43f88419-972f-cf53-cfd0-ec47f0fbc381-w31</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W31</size>
+        <quantity>1</quantity>
+        <price>39.99</price>
+        <link>https://www.onikshop.gr/product-page/john-s-oliver-indigo</link>
+        <mpn>2127790.56Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>43f88419-972f-cf53-cfd0-ec47f0fbc381-w32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W32</size>
+        <quantity>1</quantity>
+        <price>39.99</price>
+        <link>https://www.onikshop.gr/product-page/john-s-oliver-indigo</link>
+        <mpn>2127790.56Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>43f88419-972f-cf53-cfd0-ec47f0fbc381-w33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33</size>
+        <quantity>1</quantity>
+        <price>39.99</price>
+        <link>https://www.onikshop.gr/product-page/john-s-oliver-indigo</link>
+        <mpn>2127790.56Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>43f88419-972f-cf53-cfd0-ec47f0fbc381-w34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34</size>
+        <quantity>1</quantity>
+        <price>39.99</price>
+        <link>https://www.onikshop.gr/product-page/john-s-oliver-indigo</link>
+        <mpn>2127790.56Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>43f88419-972f-cf53-cfd0-ec47f0fbc381-w36</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W36</size>
+        <quantity>2</quantity>
+        <price>39.99</price>
+        <link>https://www.onikshop.gr/product-page/john-s-oliver-indigo</link>
+        <mpn>2127790.56Z4</mpn>
+      </variation>
+      <variation>
+        <variationid>43f88419-972f-cf53-cfd0-ec47f0fbc381-w38</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W38</size>
+        <quantity>1</quantity>
+        <price>39.99</price>
+        <link>https://www.onikshop.gr/product-page/john-s-oliver-indigo</link>
+        <mpn>2127790.56Z4</mpn>
       </variation>
     </variations>
   </product>
@@ -6246,62 +6902,6 @@
     <quantity>1</quantity>
   </product>
   <product>
-    <id>891f86da-7835-6af8-b4c9-35191099b2d4</id>
-    <name>Lee Hoodie Purple Storm L84LTJ70</name>
-    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
-    <mpn>L84LTJ70</mpn>
-    <link>https://www.onikshop.gr/product-page/lee-hoodie-purple-storm</link>
-    <description><![CDATA[Μπλούζα με κουκούλα από τη συλλογή Lee. Μοντέλο από λεπτό, ελαφρώς ελαστικό πλεκτό.<br>- Χαλαρή εφαρμογή.<br>- Χαμηλή γραμμή ώμου.<br>- Κουκούλα με κορδόνια περίσφιξης.<br>- Μια πρακτική, ολισθηρή τσέπη καγκουρό στο μπροστινό μέρος.<br>- Μοντέλο με απλικέ.<br>- Φινίρισμα από μέσο σύσφιξης.<br>- Μήκος μανικιού (μετρούμενο από την κουκούλα): 83 cm.<br>- Μήκος: 71 cm.<br>- Πλάτος μασχάλης: 63 cm.<br>- Διαστάσεις αναφερόμενες για το μέγεθος: L.<br>Υλικό:<br>75% Βαμβάκι, 25% Πολυεστέρας]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_ba118086c162406bb8ee727b6aa9700c~mv2.webp</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_69a9cd9c39f44ab0a7bce4c90355937e~mv2.webp</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_b173bed3609043e4b92835fb044e6585~mv2.webp</additionalImage>
-    <color>Μώβ</color>
-    <size>S,M,L,XL</size>
-    <brand>Lee</brand>
-    <weight>2000</weight>
-    <price>42.5</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-    <variations>
-      <variation>
-        <variationid>891f86da-7835-6af8-b4c9-35191099b2d4-s</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>S</size>
-        <quantity>0</quantity>
-        <price>42.5</price>
-        <link>https://www.onikshop.gr/product-page/lee-hoodie-purple-storm</link>
-        <mpn>L84LTJ70</mpn>
-      </variation>
-      <variation>
-        <variationid>891f86da-7835-6af8-b4c9-35191099b2d4-m</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>M</size>
-        <quantity>0</quantity>
-        <price>42.5</price>
-        <link>https://www.onikshop.gr/product-page/lee-hoodie-purple-storm</link>
-        <mpn>L84LTJ70</mpn>
-      </variation>
-      <variation>
-        <variationid>891f86da-7835-6af8-b4c9-35191099b2d4-l</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>L</size>
-        <quantity>1</quantity>
-        <price>42.5</price>
-        <link>https://www.onikshop.gr/product-page/lee-hoodie-purple-storm</link>
-        <mpn>L84LTJ70</mpn>
-      </variation>
-      <variation>
-        <variationid>891f86da-7835-6af8-b4c9-35191099b2d4-xl</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XL</size>
-        <quantity>0</quantity>
-        <price>42.5</price>
-        <link>https://www.onikshop.gr/product-page/lee-hoodie-purple-storm</link>
-        <mpn>L84LTJ70</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
     <id>fcf729d7-93bd-3cea-0ed7-fd1ce4de10a3</id>
     <name>LEE JADE SEASONAL AUTHENTIC BLUE L314BCQD</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
@@ -6953,7 +7553,7 @@
     <weight>200</weight>
     <price>29</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>6d1e42ef-b090-2cbc-e729-e0b2765f80f9-s</variationid>
@@ -6977,7 +7577,7 @@
         <variationid>6d1e42ef-b090-2cbc-e729-e0b2765f80f9-l</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29</price>
         <link>https://www.onikshop.gr/product-page/lee-men-s-patch-logo-tee-ανδρικό-t-shirt</link>
         <mpn>L60UFQ12</mpn>
@@ -7260,31 +7860,13 @@
     <additionalImage>https://static.wixstatic.com/media/6c7135_6f27620f4bc249c1b88eaa1e50650a03~mv2.jpeg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_8b306cc78be549088d9f1c67d5881e56~mv2.jpeg</additionalImage>
     <color>Γκρι Πετροπλυμένο</color>
-    <size>W29 L34,W30 L34,W31 L34,W32 L34,W33 L34,W34 L34,W36 L34,W38 L34</size>
+    <size>W31 L34,W36 L34</size>
     <brand>Lee</brand>
     <weight>1000</weight>
     <price>83.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>2</quantity>
     <variations>
-      <variation>
-        <variationid>d399d7dd-b264-6b22-70e0-e23524b027c8-w29-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W29 L34</size>
-        <quantity>0</quantity>
-        <price>83.3</price>
-        <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
-        <mpn>L701PZCL</mpn>
-      </variation>
-      <variation>
-        <variationid>d399d7dd-b264-6b22-70e0-e23524b027c8-w30-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W30 L34</size>
-        <quantity>0</quantity>
-        <price>83.3</price>
-        <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
-        <mpn>L701PZCL</mpn>
-      </variation>
       <variation>
         <variationid>d399d7dd-b264-6b22-70e0-e23524b027c8-w31-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -7295,46 +7877,10 @@
         <mpn>L701PZCL</mpn>
       </variation>
       <variation>
-        <variationid>d399d7dd-b264-6b22-70e0-e23524b027c8-w32-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W32 L34</size>
-        <quantity>0</quantity>
-        <price>83.3</price>
-        <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
-        <mpn>L701PZCL</mpn>
-      </variation>
-      <variation>
-        <variationid>d399d7dd-b264-6b22-70e0-e23524b027c8-w33-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W33 L34</size>
-        <quantity>0</quantity>
-        <price>83.3</price>
-        <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
-        <mpn>L701PZCL</mpn>
-      </variation>
-      <variation>
-        <variationid>d399d7dd-b264-6b22-70e0-e23524b027c8-w34-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W34 L34</size>
-        <quantity>0</quantity>
-        <price>83.3</price>
-        <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
-        <mpn>L701PZCL</mpn>
-      </variation>
-      <variation>
         <variationid>d399d7dd-b264-6b22-70e0-e23524b027c8-w36-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W36 L34</size>
         <quantity>1</quantity>
-        <price>83.3</price>
-        <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
-        <mpn>L701PZCL</mpn>
-      </variation>
-      <variation>
-        <variationid>d399d7dd-b264-6b22-70e0-e23524b027c8-w38-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W38 L34</size>
-        <quantity>0</quantity>
         <price>83.3</price>
         <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
         <mpn>L701PZCL</mpn>
@@ -8090,7 +8636,7 @@
     <weight>200</weight>
     <price>29</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>09420501-7d07-431d-eacd-18ca672604ad-s</variationid>
@@ -8141,7 +8687,7 @@
         <variationid>09420501-7d07-431d-eacd-18ca672604ad-3xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>3XL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29</price>
         <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-με-λογότυπο</link>
         <mpn>L60UFQON</mpn>
@@ -8481,7 +9027,7 @@
     <weight>300</weight>
     <price>186.58</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>5</quantity>
+    <quantity/>
     <variations>
       <variation>
         <variationid>25dae03f-0c64-c80f-9a1c-0c9df3dec5eb-46</variationid>
@@ -8514,7 +9060,6 @@
         <variationid>25dae03f-0c64-c80f-9a1c-0c9df3dec5eb-52</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>52</size>
-        <quantity>1</quantity>
         <price>186.58</price>
         <link>https://www.onikshop.gr/product-page/leonardo-11590622-κοστούμι</link>
         <mpn>S23LU1590622</mpn>
@@ -8863,61 +9408,97 @@
     </variations>
   </product>
   <product>
-    <id>850edf6c-fbc0-be50-9e0b-8ffec39a6b4a</id>
-    <name>Leonardo Uomo Ανδρικό Κοστούμι με Στενή Εφαρμογή Γαλάζιο S22LU01530094</name>
+    <id>5817f3ad-9ab6-252c-c52d-f74dacadd8ec</id>
+    <name>Leonardo Uomo Ανδρικό Κοστούμι με Στενή Εφαρμογή Γαλάζιο S23LU1530094</name>
     <category><![CDATA[ΚΛΑΣΙΚΑ > Κοστούμια]]></category>
-    <mpn>S22LU01530094</mpn>
-    <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
+    <mpn>S23LU1530094</mpn>
+    <link>https://www.onikshop.gr/product-page/copy-of-leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
     <description><![CDATA[Κοστούμι ανδρικό μονόχρωμο,σε κανονική γραμμή, με διπλό κούμπωμα στο μπροστινό μέρος αλλά και κουμπί στο πέτο του γιακά. (Σύνθεση: 40% Trevira 40% Μαλλί 20% Βισκόζη)<ul>	<li><strong>Style:</strong> ΚΛΑΣΙΚΟ</li>	<li><strong>Υλικό:</strong> ΒΙΣΚΟΖ, ΜΑΛΛΙ, ΣΥΝΘΕΤΙΚΟ</li>	<li><strong>Κωδικός Κατασκευαστή: </strong>S22LU01530094</li></ul>]]></description>
     <featureImage>https://static.wixstatic.com/media/9517a7_7eca9dd40fe84ba8a036719792b7dc2a~mv2.jpeg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_a71abbdd50414903b74d0beae257621f~mv2.jpeg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/9517a7_600a2a0e1de84b12bae784b545032d0c~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_a71abbdd50414903b74d0beae257621f~mv2.jpeg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/9517a7_3fe1bc6a4c8f4aea9d0c1644801cadba~mv2.jpeg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/9517a7_c556a023c5734dcf997f62050cede2dc~mv2.jpeg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/9517a7_8523ea895c7c4e18a02d17b118e4fc6e~mv2.jpeg</additionalImage>
     <color>Μπλε Ανοιχτό</color>
-    <size>58,64,66,68</size>
+    <size>46,48,50,52,58,64,66,68</size>
     <brand>Leonardo Uomo</brand>
     <weight>200</weight>
-    <price>146.93</price>
+    <price>178.42</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
+    <quantity>8</quantity>
     <variations>
       <variation>
-        <variationid>850edf6c-fbc0-be50-9e0b-8ffec39a6b4a-58</variationid>
+        <variationid>5817f3ad-9ab6-252c-c52d-f74dacadd8ec-46</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>46</size>
+        <quantity>1</quantity>
+        <price>178.42</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
+        <mpn>S23LU1530094</mpn>
+      </variation>
+      <variation>
+        <variationid>5817f3ad-9ab6-252c-c52d-f74dacadd8ec-48</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>48</size>
+        <quantity>1</quantity>
+        <price>178.42</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
+        <mpn>S23LU1530094</mpn>
+      </variation>
+      <variation>
+        <variationid>5817f3ad-9ab6-252c-c52d-f74dacadd8ec-50</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>50</size>
+        <quantity>1</quantity>
+        <price>178.42</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
+        <mpn>S23LU1530094</mpn>
+      </variation>
+      <variation>
+        <variationid>5817f3ad-9ab6-252c-c52d-f74dacadd8ec-52</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>52</size>
+        <quantity>1</quantity>
+        <price>178.42</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
+        <mpn>S23LU1530094</mpn>
+      </variation>
+      <variation>
+        <variationid>5817f3ad-9ab6-252c-c52d-f74dacadd8ec-58</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>58</size>
         <quantity>1</quantity>
-        <price>146.93</price>
-        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
-        <mpn>S22LU01530094</mpn>
+        <price>178.42</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
+        <mpn>S23LU1530094</mpn>
       </variation>
       <variation>
-        <variationid>850edf6c-fbc0-be50-9e0b-8ffec39a6b4a-64</variationid>
+        <variationid>5817f3ad-9ab6-252c-c52d-f74dacadd8ec-64</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>64</size>
         <quantity>1</quantity>
-        <price>146.93</price>
-        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
-        <mpn>S22LU01530094</mpn>
+        <price>178.42</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
+        <mpn>S23LU1530094</mpn>
       </variation>
       <variation>
-        <variationid>850edf6c-fbc0-be50-9e0b-8ffec39a6b4a-66</variationid>
+        <variationid>5817f3ad-9ab6-252c-c52d-f74dacadd8ec-66</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>66</size>
         <quantity>1</quantity>
-        <price>146.93</price>
-        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
-        <mpn>S22LU01530094</mpn>
+        <price>178.42</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
+        <mpn>S23LU1530094</mpn>
       </variation>
       <variation>
-        <variationid>850edf6c-fbc0-be50-9e0b-8ffec39a6b4a-68</variationid>
+        <variationid>5817f3ad-9ab6-252c-c52d-f74dacadd8ec-68</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>68</size>
-        <quantity>0</quantity>
-        <price>146.93</price>
-        <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
-        <mpn>S22LU01530094</mpn>
+        <quantity>1</quantity>
+        <price>178.42</price>
+        <link>https://www.onikshop.gr/product-page/copy-of-leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
+        <mpn>S23LU1530094</mpn>
       </variation>
     </variations>
   </product>
@@ -8958,6 +9539,226 @@
         <price>107.5</price>
         <link>https://www.onikshop.gr/product-page/leonardo-uomo-καλοκαιρινό-ανδρικό-κοστούμι-μπεζ</link>
         <mpn>S22LU01590782-28</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>2f2e1743-778f-500a-0185-408adebc2ce2</id>
+    <name>Leonardo Uomo Κοστούμι Μπλέ S23LU150230215 BLUE</name>
+    <category><![CDATA[ΚΛΑΣΙΚΑ > Κοστούμια]]></category>
+    <mpn>S23LU150230215 BLUE</mpn>
+    <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μπλέ</link>
+    <description><![CDATA[Ανακαλύψτε την κλασική ανδρική κομψότητα στη μοντέρνα εκδοχή της! 70% TERYLEN 30% WOOL<br>ΑΜΠΙΓΕ 3 PIECES ]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_0931284c46f547378fc4df728d06079a~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_24631d7f591a43a5848375ff1f8ea3dc~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_4b95bfd4caa94c2680a05a15aae62329~mv2.jpg</additionalImage>
+    <color>Μπλε</color>
+    <size>46,48,50,52,54,56,58,64,66,68</size>
+    <brand>Leonardo Uomo</brand>
+    <weight>200</weight>
+    <price>212.08</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>10</quantity>
+    <variations>
+      <variation>
+        <variationid>2f2e1743-778f-500a-0185-408adebc2ce2-46</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>46</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μπλέ</link>
+        <mpn>S23LU150230215 BLUE</mpn>
+      </variation>
+      <variation>
+        <variationid>2f2e1743-778f-500a-0185-408adebc2ce2-48</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>48</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μπλέ</link>
+        <mpn>S23LU150230215 BLUE</mpn>
+      </variation>
+      <variation>
+        <variationid>2f2e1743-778f-500a-0185-408adebc2ce2-50</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>50</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μπλέ</link>
+        <mpn>S23LU150230215 BLUE</mpn>
+      </variation>
+      <variation>
+        <variationid>2f2e1743-778f-500a-0185-408adebc2ce2-52</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>52</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μπλέ</link>
+        <mpn>S23LU150230215 BLUE</mpn>
+      </variation>
+      <variation>
+        <variationid>2f2e1743-778f-500a-0185-408adebc2ce2-54</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>54</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μπλέ</link>
+        <mpn>S23LU150230215 BLUE</mpn>
+      </variation>
+      <variation>
+        <variationid>2f2e1743-778f-500a-0185-408adebc2ce2-56</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>56</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μπλέ</link>
+        <mpn>S23LU150230215 BLUE</mpn>
+      </variation>
+      <variation>
+        <variationid>2f2e1743-778f-500a-0185-408adebc2ce2-58</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>58</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μπλέ</link>
+        <mpn>S23LU150230215 BLUE</mpn>
+      </variation>
+      <variation>
+        <variationid>2f2e1743-778f-500a-0185-408adebc2ce2-64</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>64</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μπλέ</link>
+        <mpn>S23LU150230215 BLUE</mpn>
+      </variation>
+      <variation>
+        <variationid>2f2e1743-778f-500a-0185-408adebc2ce2-66</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>66</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μπλέ</link>
+        <mpn>S23LU150230215 BLUE</mpn>
+      </variation>
+      <variation>
+        <variationid>2f2e1743-778f-500a-0185-408adebc2ce2-68</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>68</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μπλέ</link>
+        <mpn>S23LU150230215 BLUE</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>746aceb7-55a6-731c-13eb-8054bf851a72</id>
+    <name>Leonardo Uomo Κοστούμι Μύρο S23LU150230215 BLACK</name>
+    <category><![CDATA[ΚΛΑΣΙΚΑ > Κοστούμια]]></category>
+    <mpn>S23LU150230215 BLACK</mpn>
+    <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μύρο</link>
+    <description><![CDATA[Ανακαλύψτε την κλασική ανδρική κομψότητα στη μοντέρνα εκδοχή της! 70% TERYLEN 30% WOOL<br>ΑΜΠΙΓΕ 3 PIECES ]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_6e0cec1805044d178ddc2be89912ec08~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_8e75b3da8a8d4a8897d7d4f3702553c6~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_50872deb0eeb4478bf7489cef8f7e85c~mv2.jpg</additionalImage>
+    <color>Μαύρο</color>
+    <size>46,48,50,52,54,56,58,60,62,64</size>
+    <brand>Leonardo Uomo</brand>
+    <weight>200</weight>
+    <price>212.08</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>10</quantity>
+    <variations>
+      <variation>
+        <variationid>746aceb7-55a6-731c-13eb-8054bf851a72-46</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>46</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μύρο</link>
+        <mpn>S23LU150230215 BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>746aceb7-55a6-731c-13eb-8054bf851a72-48</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>48</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μύρο</link>
+        <mpn>S23LU150230215 BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>746aceb7-55a6-731c-13eb-8054bf851a72-50</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>50</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μύρο</link>
+        <mpn>S23LU150230215 BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>746aceb7-55a6-731c-13eb-8054bf851a72-52</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>52</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μύρο</link>
+        <mpn>S23LU150230215 BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>746aceb7-55a6-731c-13eb-8054bf851a72-54</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>54</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μύρο</link>
+        <mpn>S23LU150230215 BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>746aceb7-55a6-731c-13eb-8054bf851a72-56</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>56</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μύρο</link>
+        <mpn>S23LU150230215 BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>746aceb7-55a6-731c-13eb-8054bf851a72-58</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>58</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μύρο</link>
+        <mpn>S23LU150230215 BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>746aceb7-55a6-731c-13eb-8054bf851a72-60</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>60</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μύρο</link>
+        <mpn>S23LU150230215 BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>746aceb7-55a6-731c-13eb-8054bf851a72-62</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>62</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μύρο</link>
+        <mpn>S23LU150230215 BLACK</mpn>
+      </variation>
+      <variation>
+        <variationid>746aceb7-55a6-731c-13eb-8054bf851a72-64</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>64</size>
+        <quantity>1</quantity>
+        <price>212.08</price>
+        <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μύρο</link>
+        <mpn>S23LU150230215 BLACK</mpn>
       </variation>
     </variations>
   </product>
@@ -12494,7 +13295,7 @@
     <weight>100</weight>
     <price>26</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>9309c53a-4560-2d9e-60e3-cdd248264efb-s</variationid>
@@ -12545,7 +13346,7 @@
         <variationid>9309c53a-4560-2d9e-60e3-cdd248264efb-3xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>3XL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>26</price>
         <link>https://www.onikshop.gr/product-page/mrt-martini-t-shirt-με-τύπωμα-inspire-mrtn-μαύρο</link>
         <mpn>70869-2</mpn>
@@ -18198,31 +18999,13 @@
     <additionalImage>https://static.wixstatic.com/media/6c7135_e88e9fdabd8f4f4585eabdf8632ffcfe~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_cc98de0a637f47aa8d912004cbadc45d~mv2.jpg</additionalImage>
     <color>Πετροπλυμένο</color>
-    <size>W31 L34,W32 L34,W33 L34,W34 L34,W36 L34,W38 L34,W40,W42 L34</size>
+    <size>W33 L34,W40</size>
     <brand>Wrangler</brand>
     <weight>200</weight>
     <price>89.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>2</quantity>
     <variations>
-      <variation>
-        <variationid>00fec805-15d2-e4d9-0806-827453a388cc-w31-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W31 L34</size>
-        <quantity>0</quantity>
-        <price>89.95</price>
-        <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
-        <mpn>W1MZ UH 10K</mpn>
-      </variation>
-      <variation>
-        <variationid>00fec805-15d2-e4d9-0806-827453a388cc-w32-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W32 L34</size>
-        <quantity>0</quantity>
-        <price>89.95</price>
-        <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
-        <mpn>W1MZ UH 10K</mpn>
-      </variation>
       <variation>
         <variationid>00fec805-15d2-e4d9-0806-827453a388cc-w33-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
@@ -18233,46 +19016,10 @@
         <mpn>W1MZ UH 10K</mpn>
       </variation>
       <variation>
-        <variationid>00fec805-15d2-e4d9-0806-827453a388cc-w34-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W34 L34</size>
-        <quantity>0</quantity>
-        <price>89.95</price>
-        <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
-        <mpn>W1MZ UH 10K</mpn>
-      </variation>
-      <variation>
-        <variationid>00fec805-15d2-e4d9-0806-827453a388cc-w36-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W36 L34</size>
-        <quantity>0</quantity>
-        <price>89.95</price>
-        <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
-        <mpn>W1MZ UH 10K</mpn>
-      </variation>
-      <variation>
-        <variationid>00fec805-15d2-e4d9-0806-827453a388cc-w38-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W38 L34</size>
-        <quantity>0</quantity>
-        <price>89.95</price>
-        <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
-        <mpn>W1MZ UH 10K</mpn>
-      </variation>
-      <variation>
         <variationid>00fec805-15d2-e4d9-0806-827453a388cc-w40</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40</size>
         <quantity>1</quantity>
-        <price>89.95</price>
-        <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
-        <mpn>W1MZ UH 10K</mpn>
-      </variation>
-      <variation>
-        <variationid>00fec805-15d2-e4d9-0806-827453a388cc-w42-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W42 L34</size>
-        <quantity>0</quantity>
         <price>89.95</price>
         <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
         <mpn>W1MZ UH 10K</mpn>
@@ -18663,7 +19410,7 @@
     <additionalImage>https://static.wixstatic.com/media/6c7135_f319859d271c4ecebe6f76b02b494d93~mv2.png</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_73e51c7dac8f4e69938548dd101fa37c~mv2.png</additionalImage>
     <color>Μπλε κλασικό</color>
-    <size>W31 L34,W32 L34,W34 L34,W34 L36,W35 L34,W36 L34,W36 L36,W38 L34,W40 L34,W42 L34</size>
+    <size>W31 L34,W36 L36,W38 L34,W40 L34</size>
     <brand>Wrangler</brand>
     <weight>200</weight>
     <price>76.3</price>
@@ -18675,51 +19422,6 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W31 L34</size>
         <quantity>1</quantity>
-        <price>76.3</price>
-        <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
-        <mpn>W15Q-YI-39K</mpn>
-      </variation>
-      <variation>
-        <variationid>0827b57c-f2df-13f2-917f-3928266fd951-w32-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W32 L34</size>
-        <quantity>0</quantity>
-        <price>76.3</price>
-        <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
-        <mpn>W15Q-YI-39K</mpn>
-      </variation>
-      <variation>
-        <variationid>0827b57c-f2df-13f2-917f-3928266fd951-w34-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W34 L34</size>
-        <quantity>0</quantity>
-        <price>76.3</price>
-        <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
-        <mpn>W15Q-YI-39K</mpn>
-      </variation>
-      <variation>
-        <variationid>0827b57c-f2df-13f2-917f-3928266fd951-w34-l36</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W34 L36</size>
-        <quantity>0</quantity>
-        <price>76.3</price>
-        <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
-        <mpn>W15Q-YI-39K</mpn>
-      </variation>
-      <variation>
-        <variationid>0827b57c-f2df-13f2-917f-3928266fd951-w35-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W35 L34</size>
-        <quantity>0</quantity>
-        <price>76.3</price>
-        <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
-        <mpn>W15Q-YI-39K</mpn>
-      </variation>
-      <variation>
-        <variationid>0827b57c-f2df-13f2-917f-3928266fd951-w36-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W36 L34</size>
-        <quantity>0</quantity>
         <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
         <mpn>W15Q-YI-39K</mpn>
@@ -18747,15 +19449,6 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W40 L34</size>
         <quantity>1</quantity>
-        <price>76.3</price>
-        <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
-        <mpn>W15Q-YI-39K</mpn>
-      </variation>
-      <variation>
-        <variationid>0827b57c-f2df-13f2-917f-3928266fd951-w42-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W42 L34</size>
-        <quantity>0</quantity>
         <price>76.3</price>
         <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
         <mpn>W15Q-YI-39K</mpn>
