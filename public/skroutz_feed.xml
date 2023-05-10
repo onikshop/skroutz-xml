@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-05-04 17:38</created_at>
+  <created_at>2023-05-10 09:51</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -1438,7 +1438,7 @@
     <weight>500</weight>
     <price>29</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>36d24804-045b-d400-db77-0db6b8193908-s</variationid>
@@ -1480,7 +1480,7 @@
         <variationid>36d24804-045b-d400-db77-0db6b8193908-xxl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>29</price>
         <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-white</link>
         <mpn>DAKAR LOGO 1</mpn>
@@ -2878,7 +2878,7 @@
     <weight>100</weight>
     <price>64.9</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>2c9863a7-5b38-cae9-1073-41843833823d-s</variationid>
@@ -2893,7 +2893,7 @@
         <variationid>2c9863a7-5b38-cae9-1073-41843833823d-m</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>M</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>64.9</price>
         <link>https://www.onikshop.gr/product-page/edward-kegan-pop-black-shirt</link>
         <mpn>MP-N-SRT-S23-011-BLACK</mpn>
@@ -2902,7 +2902,7 @@
         <variationid>2c9863a7-5b38-cae9-1073-41843833823d-l</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>64.9</price>
         <link>https://www.onikshop.gr/product-page/edward-kegan-pop-black-shirt</link>
         <mpn>MP-N-SRT-S23-011-BLACK</mpn>
@@ -3298,50 +3298,12 @@
     <additionalImage>https://static.wixstatic.com/media/9517a7_52b0204894354d9f90ddc7908b91e343~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/9517a7_d0c22a3dc5644281add8d55bedfe7019~mv2.jpg</additionalImage>
     <color>Μαύρο</color>
-    <size>40,41,43,44</size>
+    <size>43</size>
     <brand>Fred Perry</brand>
     <weight>500</weight>
     <price>66</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
-    <variations>
-      <variation>
-        <variationid>a1b0500a-3bd1-fa2c-7627-3b903ba45a27-40</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>40</size>
-        <quantity>0</quantity>
-        <price>66</price>
-        <link>https://www.onikshop.gr/product-page/fred-perry-b6237u-102-παπουτσι-ανδρικα</link>
-        <mpn>B6237U-102</mpn>
-      </variation>
-      <variation>
-        <variationid>a1b0500a-3bd1-fa2c-7627-3b903ba45a27-41</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>41</size>
-        <quantity>1</quantity>
-        <price>66</price>
-        <link>https://www.onikshop.gr/product-page/fred-perry-b6237u-102-παπουτσι-ανδρικα</link>
-        <mpn>B6237U-102</mpn>
-      </variation>
-      <variation>
-        <variationid>a1b0500a-3bd1-fa2c-7627-3b903ba45a27-43</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>43</size>
-        <quantity>1</quantity>
-        <price>66</price>
-        <link>https://www.onikshop.gr/product-page/fred-perry-b6237u-102-παπουτσι-ανδρικα</link>
-        <mpn>B6237U-102</mpn>
-      </variation>
-      <variation>
-        <variationid>a1b0500a-3bd1-fa2c-7627-3b903ba45a27-44</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>44</size>
-        <quantity>0</quantity>
-        <price>66</price>
-        <link>https://www.onikshop.gr/product-page/fred-perry-b6237u-102-παπουτσι-ανδρικα</link>
-        <mpn>B6237U-102</mpn>
-      </variation>
-    </variations>
+    <quantity>3</quantity>
   </product>
   <product>
     <id>26463616-f558-ef3e-e326-91b93f4ef86f</id>
@@ -3611,32 +3573,12 @@
     <additionalImage>https://static.wixstatic.com/media/6c7135_d631b4a9193440d69afdf0d1c4e142b4~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_f1cf0f810d124d3e9c3cd08d4b326b16~mv2.jpg</additionalImage>
     <color>Λευκό</color>
-    <size>42,46</size>
+    <size>46</size>
     <brand>Fred Perry</brand>
     <weight>200</weight>
     <price>69</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
-    <variations>
-      <variation>
-        <variationid>6e78e08a-dfab-08ea-68e9-2eaa06419f63-42</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>42</size>
-        <quantity>1</quantity>
-        <price>69</price>
-        <link>https://www.onikshop.gr/product-page/fred-perry-shoe-kingston</link>
-        <mpn>B7163</mpn>
-      </variation>
-      <variation>
-        <variationid>6e78e08a-dfab-08ea-68e9-2eaa06419f63-46</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>46</size>
-        <quantity>1</quantity>
-        <price>69</price>
-        <link>https://www.onikshop.gr/product-page/fred-perry-shoe-kingston</link>
-        <mpn>B7163</mpn>
-      </variation>
-    </variations>
+    <quantity>1</quantity>
   </product>
   <product>
     <id>bce88c75-32b6-5871-9723-4794224c3502</id>
@@ -3849,12 +3791,12 @@
     <additionalImage>https://static.wixstatic.com/media/6c7135_93b6633040784ef384f771fa73228705~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_cf367d6ef11f4eea84a8a4ebaa93c612~mv2.jpg</additionalImage>
     <color>Μπλε</color>
-    <size>45,46,47</size>
+    <size>45,46</size>
     <brand>Fred Perry</brand>
     <weight>500</weight>
     <price>69.85</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
+    <quantity>0</quantity>
     <variations>
       <variation>
         <variationid>2e7b9f43-688e-2c0b-ac0d-b183beec4ef2-45</variationid>
@@ -3870,15 +3812,6 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>46</size>
         <quantity>0</quantity>
-        <price>69.85</price>
-        <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι-kingston</link>
-        <mpn>B7163-608</mpn>
-      </variation>
-      <variation>
-        <variationid>2e7b9f43-688e-2c0b-ac0d-b183beec4ef2-47</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>47</size>
-        <quantity>1</quantity>
         <price>69.85</price>
         <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι-kingston</link>
         <mpn>B7163-608</mpn>
@@ -4926,6 +4859,60 @@
     </variations>
   </product>
   <product>
+    <id>7966becc-8e44-38a4-218e-7c3f73b77b79</id>
+    <name>HEAVY TOOLS PITRA23 BLACK PITRA23 BLACK</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Καπέλα - Σκουφιά]]></category>
+    <mpn>PITRA23 BLACK</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-pitra23</link>
+    <description>Men's baseball cap with woven branding on front and back. Adjustable size with metal buckle. Recommended for hiking, sailing, holidays and hot summer days! Material: 100% polyester, micro fabric</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_2cea4f489e6542cb9c04edb4b00411db~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_121f462f245a4dc7888b116d44449d30~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_7aaead4ab7e841499eb1539bc07eb197~mv2.png</additionalImage>
+    <color>Μαύρο</color>
+    <size>ONE SIZE</size>
+    <brand>Heavy Tools</brand>
+    <weight>100</weight>
+    <price>17.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+  </product>
+  <product>
+    <id>eeabbcd1-a1ff-47ea-94e9-40204f56d8de</id>
+    <name>HEAVY TOOLS PITRA23 NAVY PITRA23 NAVY</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Καπέλα - Σκουφιά]]></category>
+    <mpn>PITRA23 NAVY</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-pitra23-navy</link>
+    <description>Men's baseball cap with woven branding on front and back. Adjustable size with metal buckle. Recommended for hiking, sailing, holidays and hot summer days! Material: 100% polyester, micro fabric</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_a498e674e7074ab8a6d362f655e8cb5c~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_60df1906b4544853b75a6a7e64164944~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_7aaead4ab7e841499eb1539bc07eb197~mv2.png</additionalImage>
+    <color>Βαθύ σκούρο Μπλε</color>
+    <size>ONE SIZE</size>
+    <brand>Heavy Tools</brand>
+    <weight>100</weight>
+    <price>17.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+  </product>
+  <product>
+    <id>01a16bd2-bf76-93d3-d5d0-f1677676d005</id>
+    <name>HEAVY TOOLS PITRA23 WHITE PITRA23 WHITE</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Καπέλα - Σκουφιά]]></category>
+    <mpn>PITRA23 WHITE</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-pitra23-white</link>
+    <description>Men's baseball cap with woven branding on front and back. Adjustable size with metal buckle. Recommended for hiking, sailing, holidays and hot summer days! Material: 100% polyester, micro fabric</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_7e8ce4752bbf4165b0a8798467cf57c4~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_c57c58078b4c4d028ac2a48165b55009~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_7aaead4ab7e841499eb1539bc07eb197~mv2.png</additionalImage>
+    <color>Βαθύ σκούρο Μπλε</color>
+    <size>ONE SIZE</size>
+    <brand>Heavy Tools</brand>
+    <weight>100</weight>
+    <price>17.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+  </product>
+  <product>
     <id>d3210d02-9c8b-5e66-907e-03f951372f32</id>
     <name>Heavy Tools RED of WITTY22 WITTY22 RED</name>
     <category><![CDATA[ΠΑΝΩΦΟΡΙΑ > ΠΑΝΩΦΟΡΙΑ > Αμάνικο]]></category>
@@ -5245,7 +5232,7 @@
     <weight>500</weight>
     <price>69.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>9e8cbd35-ecc4-8cd7-1257-d78de5981926-s</variationid>
@@ -5287,7 +5274,7 @@
         <variationid>9e8cbd35-ecc4-8cd7-1257-d78de5981926-xxl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>69.95</price>
         <link>https://www.onikshop.gr/product-page/heavy-tools-sogun</link>
         <mpn>SOGUN NAVY</mpn>
@@ -5320,7 +5307,7 @@
     <weight>400</weight>
     <price>59.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>020e6ffd-9186-0136-23b9-aebd4cd82cdf-s</variationid>
@@ -5362,7 +5349,7 @@
         <variationid>020e6ffd-9186-0136-23b9-aebd4cd82cdf-xxl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>59.95</price>
         <link>https://www.onikshop.gr/product-page/heavy-tools-sweet</link>
         <mpn>SWEET WHITE</mpn>
@@ -8383,7 +8370,7 @@
     <weight>500</weight>
     <price>28</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>67bc1a44-5eeb-1376-4196-a21dcbc60417-s</variationid>
@@ -8425,7 +8412,7 @@
         <variationid>67bc1a44-5eeb-1376-4196-a21dcbc60417-xxl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
-        <quantity>2</quantity>
+        <quantity>1</quantity>
         <price>28</price>
         <link>https://www.onikshop.gr/product-page/lee-wobbly-logo-ανδρικό-t-shirt-μπλε-με-λογότυπο</link>
         <mpn>L65QAI12</mpn>
@@ -9022,12 +9009,12 @@
     <additionalImage>https://static.wixstatic.com/media/6c7135_14d8122031bd4010b41c34565ea54bee~mv2.jpg</additionalImage>
     <additionalImage>https://static.wixstatic.com/media/6c7135_1eac23182e9444f98513c8462c27b5a3~mv2.jpg</additionalImage>
     <color>Χακί</color>
-    <size>46,48,50,52,54</size>
+    <size>46,48,50,54</size>
     <brand>Leonardo Uomo</brand>
     <weight>300</weight>
     <price>186.58</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity/>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>25dae03f-0c64-c80f-9a1c-0c9df3dec5eb-46</variationid>
@@ -9052,14 +9039,6 @@
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>50</size>
         <quantity>1</quantity>
-        <price>186.58</price>
-        <link>https://www.onikshop.gr/product-page/leonardo-11590622-κοστούμι</link>
-        <mpn>S23LU1590622</mpn>
-      </variation>
-      <variation>
-        <variationid>25dae03f-0c64-c80f-9a1c-0c9df3dec5eb-52</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>52</size>
         <price>186.58</price>
         <link>https://www.onikshop.gr/product-page/leonardo-11590622-κοστούμι</link>
         <mpn>S23LU1590622</mpn>
@@ -12793,26 +12772,6 @@
         <mpn>MARICO</mpn>
       </variation>
     </variations>
-  </product>
-  <product>
-    <id>6b595158-33bd-0372-ab3b-9b286269e043</id>
-    <name>MEN'S DAKAR BASEBALL CAP 226ACTDAKAR-NAVI V</name>
-    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Καπέλα - Σκουφιά]]></category>
-    <mpn>226ACTDAKAR-NAVI V</mpn>
-    <link>https://www.onikshop.gr/product-page/men-s-dakar-baseball-cap</link>
-    <description>ONE SIZE</description>
-    <featureImage>https://static.wixstatic.com/media/9517a7_1ec12dbb5fac496aa260450f8421113b~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_61ae8cf0777d4e5dba9377e8e5b56627~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_70c5f5b205c2466ba8010f8a84939019~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_bdf472b32e064110bb76464a317872b3~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/9517a7_3a49827c686d468db38f1aa718a4c635~mv2.jpg</additionalImage>
-    <color>Μαύρο</color>
-    <size>ONE SIZE</size>
-    <brand>Diverse</brand>
-    <weight>200</weight>
-    <price>19.99</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
   </product>
   <product>
     <id>16d6d97c-9cc9-5b85-ce5f-dae06064804a</id>
@@ -16712,7 +16671,7 @@
     <weight>500</weight>
     <price>59.5</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>4</quantity>
     <variations>
       <variation>
         <variationid>79d26637-679b-dc24-8d46-e35cd3d60b2c-s</variationid>
@@ -16754,7 +16713,7 @@
         <variationid>79d26637-679b-dc24-8d46-e35cd3d60b2c-xxl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
-        <quantity>2</quantity>
+        <quantity>0</quantity>
         <price>59.5</price>
         <link>https://www.onikshop.gr/product-page/shirt-man-white-levis-866250002</link>
         <mpn>866250002</mpn>
