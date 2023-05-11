@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-05-11 08:06</created_at>
+  <created_at>2023-05-11 17:04</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -5766,6 +5766,158 @@
     </variations>
   </product>
   <product>
+    <id>a2c3b357-281d-9215-eda2-19fdc74e3dd1</id>
+    <name>Heavy Tools ZET23 B1S23625JE</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
+    <mpn>B1S23625JE</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-zet23</link>
+    <description>Holiday, sport or excursion? These men's cotton shorts are perfect for all conditions! With its drawstring adjustable elasticated waist, handy pockets and ventilated fabric, it ensures maximum comfort even when you're on the move. With its classic fit, denim colour and small branding, it's an essential addition to your sports set. Wear it with your favourite Heavy Tools T-shirt from our new collection! Material: 96% cotton, 4% elastane. The model is 188 cm tall and wears size M</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_5ff2c77ff4754e8eac15bc2c65c07ece~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_eaff268d5f0b489891920dcc686a8f76~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_3f7e244bd9ca41d5883e47e679ef7e92~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_9f61c729cddb460dbc712b35ba485241~mv2.jpg</additionalImage>
+    <color>Μπλέ Ουρανί</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Heavy Tools</brand>
+    <weight>200</weight>
+    <price>39.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>a2c3b357-281d-9215-eda2-19fdc74e3dd1-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>39.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-zet23</link>
+        <mpn>B1S23625JE</mpn>
+      </variation>
+      <variation>
+        <variationid>a2c3b357-281d-9215-eda2-19fdc74e3dd1-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>39.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-zet23</link>
+        <mpn>B1S23625JE</mpn>
+      </variation>
+      <variation>
+        <variationid>a2c3b357-281d-9215-eda2-19fdc74e3dd1-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>39.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-zet23</link>
+        <mpn>B1S23625JE</mpn>
+      </variation>
+      <variation>
+        <variationid>a2c3b357-281d-9215-eda2-19fdc74e3dd1-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>39.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-zet23</link>
+        <mpn>B1S23625JE</mpn>
+      </variation>
+      <variation>
+        <variationid>a2c3b357-281d-9215-eda2-19fdc74e3dd1-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>39.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-zet23</link>
+        <mpn>B1S23625JE</mpn>
+      </variation>
+      <variation>
+        <variationid>a2c3b357-281d-9215-eda2-19fdc74e3dd1-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>39.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-zet23</link>
+        <mpn>B1S23625JE</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>898c574d-7553-d882-ecc4-30bd0aa79109</id>
+    <name>Heavy Tools ZORDON23 B1S23626BL</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
+    <mpn>B1S23626BL</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-zordon23</link>
+    <description>Holiday, sport or excursion? These men's cotton shorts are perfect for all conditions! With its drawstring adjustable elasticated waist, handy zipped pockets and ventilated fabric, it ensures maximum comfort even when you're on the move. Its classic lines, basic colours and branding make it an essential addition to your sports set. Material: 80% cotton, 20% polyester, french terry. The model is 188 cm tall and wears size M</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_0aed8bed9dfa4550bb16ef9e0df76c9a~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_ba7cac52d47140e7ad0dccbc67ab16d9~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_a40743bec3b945d5b3ec1e01922112ae~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_7da3947c978e408ca66aacc2c81a3df7~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_4489603b97594668a55b17a03b854c25~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_52fa10cfd1fc438484eb770449b752a2~mv2.jpg</additionalImage>
+    <color>Μαύρο</color>
+    <size>S,M,L,XL,XXL,3XL</size>
+    <brand>Heavy Tools</brand>
+    <weight>200</weight>
+    <price>37.95</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>6</quantity>
+    <variations>
+      <variation>
+        <variationid>898c574d-7553-d882-ecc4-30bd0aa79109-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>37.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-zordon23</link>
+        <mpn>B1S23626BL</mpn>
+      </variation>
+      <variation>
+        <variationid>898c574d-7553-d882-ecc4-30bd0aa79109-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>37.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-zordon23</link>
+        <mpn>B1S23626BL</mpn>
+      </variation>
+      <variation>
+        <variationid>898c574d-7553-d882-ecc4-30bd0aa79109-l</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>1</quantity>
+        <price>37.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-zordon23</link>
+        <mpn>B1S23626BL</mpn>
+      </variation>
+      <variation>
+        <variationid>898c574d-7553-d882-ecc4-30bd0aa79109-xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>1</quantity>
+        <price>37.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-zordon23</link>
+        <mpn>B1S23626BL</mpn>
+      </variation>
+      <variation>
+        <variationid>898c574d-7553-d882-ecc4-30bd0aa79109-xxl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>1</quantity>
+        <price>37.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-zordon23</link>
+        <mpn>B1S23626BL</mpn>
+      </variation>
+      <variation>
+        <variationid>898c574d-7553-d882-ecc4-30bd0aa79109-3xl</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>3XL</size>
+        <quantity>1</quantity>
+        <price>37.95</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-zordon23</link>
+        <mpn>B1S23626BL</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>6321a9eb-ab02-65c6-053b-00d3addf6672</id>
     <name>HEAVY TOOLS ΣΑΓΙΟΝΑΡΕΣ S20-908</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
@@ -8260,7 +8412,7 @@
     <weight>100</weight>
     <price>75</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>c3870249-90e7-dd5e-65d9-7beca3f5b3dc-26</variationid>
@@ -8302,7 +8454,7 @@
         <variationid>c3870249-90e7-dd5e-65d9-7beca3f5b3dc-30</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>30</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>75</price>
         <link>https://www.onikshop.gr/product-page/lee-stella-short-in-mid-wash</link>
         <mpn>L37EHGC05</mpn>
@@ -14714,6 +14866,99 @@
         <price>29.9</price>
         <link>https://www.onikshop.gr/product-page/s-oliver-cotton-piqué-polo-shirt</link>
         <mpn>2024581</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>69161cc7-209f-5814-868d-4eec8cfd4250</id>
+    <name>s.Oliver Detroit Χαλαρή εφαρμογή: λινό παντελόνι 2128979</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Υφασμάτινα]]></category>
+    <mpn>2128979</mpn>
+    <link>https://www.onikshop.gr/product-page/s-oliver-χαλαρή-εφαρμογή-λινό-παντελόνι</link>
+    <description>Κλείσιμο: κουμπί, φερμουάρ Τσέπες: τσέπη με πτερύγιο ζώνη μέσης: με θηλιές ζώνης, πιέτα μέσης Στυλ: Σε casual εμφάνιση</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_831f61a0ecc3480e9eae1a65fe910809~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_6906b93e20e3491583b32c17d3c971e7~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_c23e096352694b9997b860542815c80c~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_47f017e0db8f42c8b43f2c63f5718144~mv2.webp</additionalImage>
+    <color>Μαύρο</color>
+    <size>W29 L34,W30 L34,W31 L34,W32 L34,W33 L34,W34 L34,W36 L34,W38 L34</size>
+    <brand>s.Oliver</brand>
+    <weight>200</weight>
+    <price>59.99</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>10</quantity>
+    <variations>
+      <variation>
+        <variationid>69161cc7-209f-5814-868d-4eec8cfd4250-w29-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W29 L34</size>
+        <quantity>1</quantity>
+        <price>59.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-χαλαρή-εφαρμογή-λινό-παντελόνι</link>
+        <mpn>2128979</mpn>
+      </variation>
+      <variation>
+        <variationid>69161cc7-209f-5814-868d-4eec8cfd4250-w30-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W30 L34</size>
+        <quantity>1</quantity>
+        <price>59.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-χαλαρή-εφαρμογή-λινό-παντελόνι</link>
+        <mpn>2128979</mpn>
+      </variation>
+      <variation>
+        <variationid>69161cc7-209f-5814-868d-4eec8cfd4250-w31-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W31 L34</size>
+        <quantity>1</quantity>
+        <price>59.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-χαλαρή-εφαρμογή-λινό-παντελόνι</link>
+        <mpn>2128979</mpn>
+      </variation>
+      <variation>
+        <variationid>69161cc7-209f-5814-868d-4eec8cfd4250-w32-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W32 L34</size>
+        <quantity>1</quantity>
+        <price>59.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-χαλαρή-εφαρμογή-λινό-παντελόνι</link>
+        <mpn>2128979</mpn>
+      </variation>
+      <variation>
+        <variationid>69161cc7-209f-5814-868d-4eec8cfd4250-w33-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W33 L34</size>
+        <quantity>2</quantity>
+        <price>59.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-χαλαρή-εφαρμογή-λινό-παντελόνι</link>
+        <mpn>2128979</mpn>
+      </variation>
+      <variation>
+        <variationid>69161cc7-209f-5814-868d-4eec8cfd4250-w34-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W34 L34</size>
+        <quantity>2</quantity>
+        <price>59.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-χαλαρή-εφαρμογή-λινό-παντελόνι</link>
+        <mpn>2128979</mpn>
+      </variation>
+      <variation>
+        <variationid>69161cc7-209f-5814-868d-4eec8cfd4250-w36-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W36 L34</size>
+        <quantity>1</quantity>
+        <price>59.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-χαλαρή-εφαρμογή-λινό-παντελόνι</link>
+        <mpn>2128979</mpn>
+      </variation>
+      <variation>
+        <variationid>69161cc7-209f-5814-868d-4eec8cfd4250-w38-l34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>W38 L34</size>
+        <quantity>1</quantity>
+        <price>59.99</price>
+        <link>https://www.onikshop.gr/product-page/s-oliver-χαλαρή-εφαρμογή-λινό-παντελόνι</link>
+        <mpn>2128979</mpn>
       </variation>
     </variations>
   </product>
