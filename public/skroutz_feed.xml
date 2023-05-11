@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-05-10 09:51</created_at>
+  <created_at>2023-05-11 08:06</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -354,45 +354,6 @@
     <price>83.3</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
-  </product>
-  <product>
-    <id>8d743c07-5122-ae52-ec22-c05ada5c8682</id>
-    <name>751 Standard Fit Jean Levis 00751-0216</name>
-    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
-    <mpn>00751-0216</mpn>
-    <link>https://www.onikshop.gr/product-page/751-standard-fit-jean</link>
-    <description>100% COTTON</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_13df9a3a0a814f61bd30fca95483f6a3~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_87f33b681a634145a98e8bc15720a1c1~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_548f2257290345f7a6f81930570cc157~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_02b4d400253e42a99a8f12fca629a6ee~mv2.jpg</additionalImage>
-    <color>Βαθύ σκούρο Μπλε</color>
-    <size>W40 L34,W42 L34</size>
-    <brand>Levi's</brand>
-    <weight>200</weight>
-    <price>55.3</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
-    <variations>
-      <variation>
-        <variationid>8d743c07-5122-ae52-ec22-c05ada5c8682-w40-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W40 L34</size>
-        <quantity>2</quantity>
-        <price>55.3</price>
-        <link>https://www.onikshop.gr/product-page/751-standard-fit-jean</link>
-        <mpn>00751-0216</mpn>
-      </variation>
-      <variation>
-        <variationid>8d743c07-5122-ae52-ec22-c05ada5c8682-w42-l34</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>W42 L34</size>
-        <quantity>0</quantity>
-        <price>55.3</price>
-        <link>https://www.onikshop.gr/product-page/751-standard-fit-jean</link>
-        <mpn>00751-0216</mpn>
-      </variation>
-    </variations>
   </product>
   <product>
     <id>3f4900de-b0c0-8810-e20a-6ecee2d4e0fe</id>
@@ -5375,6 +5336,44 @@
     </variations>
   </product>
   <product>
+    <id>37894199-8057-f86c-b3c3-db69cf5d651f</id>
+    <name>Heavy Tools Ulit18 Red I1S18905RE</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
+    <mpn>I1S18905RE</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-ulit18-red</link>
+    <description><![CDATA[Heavy Tools  Ulit18 Red I1S18905REΝούμερο / Μήκος ΠέλματοςNo 45 = 30,2 cm<br>No 46 = 30,6 cm]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_d707a3ec0c5045559fee3cca435041a6~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_bb40acf3583f47e5ac2396a78c0ffb66~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_63af15b19db6432aa49730f71505f5cb~mv2.jpg</additionalImage>
+    <color>Κόκκινο</color>
+    <size>45,46</size>
+    <brand>Heavy Tools</brand>
+    <weight>100</weight>
+    <price>7.96</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+    <variations>
+      <variation>
+        <variationid>37894199-8057-f86c-b3c3-db69cf5d651f-45</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>45</size>
+        <quantity>1</quantity>
+        <price>7.96</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-ulit18-red</link>
+        <mpn>I1S18905RE</mpn>
+      </variation>
+      <variation>
+        <variationid>37894199-8057-f86c-b3c3-db69cf5d651f-46</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>46</size>
+        <quantity>1</quantity>
+        <price>7.96</price>
+        <link>https://www.onikshop.gr/product-page/heavy-tools-ulit18-red</link>
+        <mpn>I1S18905RE</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>d9d6d09e-6a43-36db-2902-115448090e96</id>
     <name>Heavy Tools WANTI22 WANTI22</name>
     <category><![CDATA[ΠΑΝΩΦΟΡΙΑ > ΠΑΝΩΦΟΡΙΑ > Αμάνικο]]></category>
@@ -5765,6 +5764,24 @@
         <mpn>WITTY23</mpn>
       </variation>
     </variations>
+  </product>
+  <product>
+    <id>6321a9eb-ab02-65c6-053b-00d3addf6672</id>
+    <name>HEAVY TOOLS ΣΑΓΙΟΝΑΡΕΣ S20-908</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
+    <mpn>S20-908</mpn>
+    <link>https://www.onikshop.gr/product-page/heavy-tools-σαγιοναρεσ</link>
+    <description><![CDATA[Heavy Tools Σαγιονάρες σε μπλέ με καρχαρίες Νούμερο / Μήκος Πέλματος.<br>No 40 = 27,0 cm]]></description>
+    <featureImage>https://static.wixstatic.com/media/9517a7_728eefc928fe4e759e020ce079b89d8f~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_2478df1d6f664238b13f7640fbfb2760~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/9517a7_cb40d0cabdcc4edeb8193bf1043cc0cd~mv2.jpg</additionalImage>
+    <color>Βαθύ σκούρο Μπλε</color>
+    <size>40</size>
+    <brand>Heavy Tools</brand>
+    <weight>100</weight>
+    <price>7.96</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>1</quantity>
   </product>
   <product>
     <id>71b1597c-9db5-5068-c0c4-d4e3d3958a1a</id>
@@ -8122,6 +8139,46 @@
     <price>44</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
     <quantity>1</quantity>
+  </product>
+  <product>
+    <id>0e559b07-b7c8-aade-657d-2309ce233d13</id>
+    <name>LEE Sherpa L87ABBFC</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Μπουφάν]]></category>
+    <mpn>L87ABBFC</mpn>
+    <link>https://www.onikshop.gr/product-page/lee-sherpa</link>
+    <description><![CDATA[Τζιν μπουφάν Sherpa L87ABBFC Μαύρο Regular FitΜάρκα<br>Lee<br>Χρώμα<br>Μαύρο<br>Χρώμα παραγωγού<br>Black<br>Μοτίβο<br>Λείο<br>Κούμπωμα<br>Με κουμπιά]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_1981a1c643af4dab99895ef7b1b8a3b0~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_22765c226d38442c88cd901138d05d13~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_2c889ca9535141e8af06fb7ad4877286~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_118e7f7844ef40bb81e61defec27b754~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_89728d8a4eca430bbe332ce0e089ecc0~mv2.webp</additionalImage>
+    <color>Γκρι</color>
+    <size>S,M</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>104.3</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+    <variations>
+      <variation>
+        <variationid>0e559b07-b7c8-aade-657d-2309ce233d13-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>104.3</price>
+        <link>https://www.onikshop.gr/product-page/lee-sherpa</link>
+        <mpn>L87ABBFC</mpn>
+      </variation>
+      <variation>
+        <variationid>0e559b07-b7c8-aade-657d-2309ce233d13-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>104.3</price>
+        <link>https://www.onikshop.gr/product-page/lee-sherpa</link>
+        <mpn>L87ABBFC</mpn>
+      </variation>
+    </variations>
   </product>
   <product>
     <id>cdef1a89-efad-12ad-18b6-1b037d900cd4</id>
@@ -11494,6 +11551,46 @@
         <price>62.3</price>
         <link>https://www.onikshop.gr/product-page/relaxd-graphic-serif-hoodie</link>
         <mpn>384790011</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>d37f3fb6-dc7e-be6d-5468-3d300ac97e8a</id>
+    <name>LEVI'S SHERPA 16365-0084</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Μπουφάν]]></category>
+    <mpn>16365-0084</mpn>
+    <link>https://www.onikshop.gr/product-page/levi-s-sherpa</link>
+    <description>Τζιν μπουφάν Type III Sherpa 16365-0084 Σκούρο μπλε Regular Fit</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_e242960e50c24c9a9de660b13f212e80~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_74b21e472f6d4bfe938a24091b59922b~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_2f9476b4198144c198751a23336fa9c2~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_fc0d6af0a9ed437d9c757a98ade00661~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_54ebd8c57b594bf4ba43f491b28dd281~mv2.webp</additionalImage>
+    <color>Βαθύ σκούρο Μπλε</color>
+    <size>S,M</size>
+    <brand>Levi's</brand>
+    <weight>200</weight>
+    <price>119.2</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+    <variations>
+      <variation>
+        <variationid>d37f3fb6-dc7e-be6d-5468-3d300ac97e8a-s</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>119.2</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-sherpa</link>
+        <mpn>16365-0084</mpn>
+      </variation>
+      <variation>
+        <variationid>d37f3fb6-dc7e-be6d-5468-3d300ac97e8a-m</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>119.2</price>
+        <link>https://www.onikshop.gr/product-page/levi-s-sherpa</link>
+        <mpn>16365-0084</mpn>
       </variation>
     </variations>
   </product>
