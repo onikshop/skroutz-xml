@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-05-12 08:07</created_at>
+  <created_at>2023-05-12 17:44</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN 36200-0096 501 LEVIS</name>
@@ -3609,6 +3609,74 @@
     </variations>
   </product>
   <product>
+    <id>99d2bd08-2f13-b513-b869-faa7d711072d</id>
+    <name>Fred Perry Tumbled Leather Shoes B5311-560 col. Ecru B5311</name>
+    <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
+    <mpn>B5311</mpn>
+    <link>https://www.onikshop.gr/product-page/fred-perry-tumbled-leather-shoes-b5311-560-col-ecru</link>
+    <description><![CDATA[Our tennis shoes are all inspired by what Fred wore on the court. You need a good pair of shoes to become a triple Wimbledon champion, so we’ve taken the basics and designed something new. Our B71 is a clean and minimalist tennis shoe with a contemporary aesthetic.<ul>	<li>Lea-Tex/Lea-Oth</li>	<li>Do Not Wash</li></ul>StyleB5311ColourEcru]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_adab6991246e4c96b87ce13ddea4466f~mv2.jpeg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_e978b4dd38564287ab41ded6d881959f~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_7387f06a9fda4b28878c2d283cbcc47b~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_ca2857e3327b4b9f81388fd8d233b785~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_e79913c02ebd455e8a4825604538a3bd~mv2.jpeg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_095d787bcecb4c9a85b5b7d4202a47e8~mv2.jpeg</additionalImage>
+    <color>Εκρού</color>
+    <size>41,42,43,44,45</size>
+    <brand>Fred Perry</brand>
+    <weight>300</weight>
+    <price>159.99</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>5</quantity>
+    <variations>
+      <variation>
+        <variationid>99d2bd08-2f13-b513-b869-faa7d711072d-41</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>41</size>
+        <quantity>1</quantity>
+        <price>159.99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-tumbled-leather-shoes-b5311-560-col-ecru</link>
+        <mpn>B5311</mpn>
+      </variation>
+      <variation>
+        <variationid>99d2bd08-2f13-b513-b869-faa7d711072d-42</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>42</size>
+        <quantity>1</quantity>
+        <price>159.99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-tumbled-leather-shoes-b5311-560-col-ecru</link>
+        <mpn>B5311</mpn>
+      </variation>
+      <variation>
+        <variationid>99d2bd08-2f13-b513-b869-faa7d711072d-43</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>43</size>
+        <quantity>1</quantity>
+        <price>159.99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-tumbled-leather-shoes-b5311-560-col-ecru</link>
+        <mpn>B5311</mpn>
+      </variation>
+      <variation>
+        <variationid>99d2bd08-2f13-b513-b869-faa7d711072d-44</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>44</size>
+        <quantity>1</quantity>
+        <price>159.99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-tumbled-leather-shoes-b5311-560-col-ecru</link>
+        <mpn>B5311</mpn>
+      </variation>
+      <variation>
+        <variationid>99d2bd08-2f13-b513-b869-faa7d711072d-45</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>45</size>
+        <quantity>1</quantity>
+        <price>159.99</price>
+        <link>https://www.onikshop.gr/product-page/fred-perry-tumbled-leather-shoes-b5311-560-col-ecru</link>
+        <mpn>B5311</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
     <id>8e4ee1c7-ca50-5241-87ab-dc9fa37eac19</id>
     <name>Fred Perry Twin tipped m1588</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
@@ -4677,7 +4745,7 @@
     <weight>200</weight>
     <price>24.95</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>7</quantity>
+    <quantity>6</quantity>
     <variations>
       <variation>
         <variationid>d69471f7-c81e-d218-63be-d1475a20fd5f-s</variationid>
@@ -4710,7 +4778,7 @@
         <variationid>d69471f7-c81e-d218-63be-d1475a20fd5f-xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>24.95</price>
         <link>https://www.onikshop.gr/product-page/heavy-tools-majesty-ivy</link>
         <mpn>C3S23100IY</mpn>
@@ -5448,24 +5516,6 @@
         <mpn>I1S18905RE</mpn>
       </variation>
     </variations>
-  </product>
-  <product>
-    <id>d9d6d09e-6a43-36db-2902-115448090e96</id>
-    <name>Heavy Tools WANTI22 WANTI22</name>
-    <category><![CDATA[ΠΑΝΩΦΟΡΙΑ > ΠΑΝΩΦΟΡΙΑ > Αμάνικο]]></category>
-    <mpn>WANTI22</mpn>
-    <link>https://www.onikshop.gr/product-page/heavy-tools-wanti22</link>
-    <description>Το γιλέκο είναι πάντα τέλεια επιλογή! Αυτό το ανδρικό γιλέκο με κουκούλα, με φερμουάρ, καπιτονέ με τα μοντέρνα του χρώματα, την ίσια, άνετη εφαρμογή, την ρυθμιζόμενη και αποσπώμενη κουκούλα, τις πρακτικές τσέπες με φερμουάρ, την εσωτερική τσέπη και τα μικρά σήματα παρέχει τη σωστή άνεση για οποιοδήποτε πρόγραμμα εξωτερικού χώρου τις πιο δροσερές μέρες. Είναι μια εξαιρετική επιλογή για υπαίθριες δραστηριότητες, αθλήματα και ταξίδια, αλλά μπορεί να είναι ακόμα και αξεσουάρ για πολυάσχολη καθημερινότητα. Επιλέξτε το αγαπημένο σας τζιν Heavy Tools ή ένα cargo παντελόνι, πουλόβερ από τη νέα μας συλλογή! Υλικό: κέλυφος: 100% πολυεστέρας, επένδυση: 100% πολυεστέρας, επένδυση: 100% πολυεστέρας. Το μοντέλο έχει ύψος 188 cm και φοράει μέγεθος L.</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_31c4ede4e80c4f0b8ac04e2e870d7d76~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_6dde37b9762e42d5a0a6bffc25e5ab42~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_67d4bcc2cdd243068f6131eb1c7d02ef~mv2.jpg</additionalImage>
-    <color>Κόκκινο</color>
-    <size>S</size>
-    <brand>Heavy Tools</brand>
-    <weight>200</weight>
-    <price>64.95</price>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
   </product>
   <product>
     <id>f6356ebe-e7e5-2ac6-ef8d-8e5e34ceb9ac</id>
@@ -7765,6 +7815,118 @@
         <price>44.85</price>
         <link>https://www.onikshop.gr/product-page/lee-marine</link>
         <mpn>L81MRY54</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>816679a8-7ddb-5cdf-b44c-0c38a1b0f72f</id>
+    <name>Lee Men's Denim Shorts 5POCKET SHORT L73MHVB72</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
+    <mpn>L73MHVB72</mpn>
+    <link>https://www.onikshop.gr/product-page/lee-men-s-denim-shorts-5pocket-short</link>
+    <description>Five pocket denim shorts warm tobacco coloured thread contrasts perfectly with the blue denim, the antique brass button completes the look.● Regular fit ● Lightweight ● Recycled fabrics</description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_bc426e7b999946a6830bf371d1b89576~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_cadf9372530140bb9272982b00779ddd~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_fa566a164513407da884323f21a84564~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_746ac7830d6d4fa1a350b3db1373fc4f~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_4b261aa39bf84e9b9d17e5fbaaa0bb44~mv2.jpg</additionalImage>
+    <color>Μπλε κλασικό</color>
+    <size>30,31,32,33,34,36,38,40,42,44</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>69</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>10</quantity>
+    <variations>
+      <variation>
+        <variationid>816679a8-7ddb-5cdf-b44c-0c38a1b0f72f-30</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>30</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-denim-shorts-5pocket-short</link>
+        <mpn>L73MHVB72</mpn>
+      </variation>
+      <variation>
+        <variationid>816679a8-7ddb-5cdf-b44c-0c38a1b0f72f-31</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>31</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-denim-shorts-5pocket-short</link>
+        <mpn>L73MHVB72</mpn>
+      </variation>
+      <variation>
+        <variationid>816679a8-7ddb-5cdf-b44c-0c38a1b0f72f-32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>32</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-denim-shorts-5pocket-short</link>
+        <mpn>L73MHVB72</mpn>
+      </variation>
+      <variation>
+        <variationid>816679a8-7ddb-5cdf-b44c-0c38a1b0f72f-33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>33</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-denim-shorts-5pocket-short</link>
+        <mpn>L73MHVB72</mpn>
+      </variation>
+      <variation>
+        <variationid>816679a8-7ddb-5cdf-b44c-0c38a1b0f72f-34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>34</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-denim-shorts-5pocket-short</link>
+        <mpn>L73MHVB72</mpn>
+      </variation>
+      <variation>
+        <variationid>816679a8-7ddb-5cdf-b44c-0c38a1b0f72f-36</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>36</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-denim-shorts-5pocket-short</link>
+        <mpn>L73MHVB72</mpn>
+      </variation>
+      <variation>
+        <variationid>816679a8-7ddb-5cdf-b44c-0c38a1b0f72f-38</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>38</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-denim-shorts-5pocket-short</link>
+        <mpn>L73MHVB72</mpn>
+      </variation>
+      <variation>
+        <variationid>816679a8-7ddb-5cdf-b44c-0c38a1b0f72f-40</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>40</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-denim-shorts-5pocket-short</link>
+        <mpn>L73MHVB72</mpn>
+      </variation>
+      <variation>
+        <variationid>816679a8-7ddb-5cdf-b44c-0c38a1b0f72f-42</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>42</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-denim-shorts-5pocket-short</link>
+        <mpn>L73MHVB72</mpn>
+      </variation>
+      <variation>
+        <variationid>816679a8-7ddb-5cdf-b44c-0c38a1b0f72f-44</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>44</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/lee-men-s-denim-shorts-5pocket-short</link>
+        <mpn>L73MHVB72</mpn>
       </variation>
     </variations>
   </product>
@@ -18078,7 +18240,7 @@
     <weight>500</weight>
     <price>20.8</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>4</quantity>
+    <quantity>3</quantity>
     <variations>
       <variation>
         <variationid>3127c7e7-929b-796e-f67c-d8e983b0071c-s</variationid>
@@ -18111,7 +18273,7 @@
         <variationid>3127c7e7-929b-796e-f67c-d8e983b0071c-xl</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XL</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>20.8</price>
         <link>https://www.onikshop.gr/product-page/t-shirt-λαιμόκοψη-martini-triple-stripes-μπεζ</link>
         <mpn>70793</mpn>
@@ -19421,7 +19583,7 @@
     <weight>200</weight>
     <price>109</price>
     <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>6</quantity>
+    <quantity>5</quantity>
     <variations>
       <variation>
         <variationid>e48a6a8a-9bad-725a-64a0-08e8380e0c70-w25-l32</variationid>
@@ -19436,7 +19598,7 @@
         <variationid>e48a6a8a-9bad-725a-64a0-08e8380e0c70-w26-l34</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>W26 L34</size>
-        <quantity>1</quantity>
+        <quantity>0</quantity>
         <price>109</price>
         <link>https://www.onikshop.gr/product-page/wrangler-603-women-s-wild-west</link>
         <mpn>W2H2-73-191</mpn>
@@ -26558,6 +26720,117 @@
         <price>129</price>
         <link>https://www.onikshop.gr/product-page/τζιν-παντελόνι-lee-carol</link>
         <mpn>L30UHJB57</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>bcf806ce-80d4-3cae-2397-05d7ed341c1a</id>
+    <name>Τζιν σορτσάκια 5 Pocket L73MHVB71 Μπλε Regular Fit L73MHVB71</name>
+    <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
+    <mpn>L73MHVB71</mpn>
+    <link>https://www.onikshop.gr/product-page/τζιν-σορτσάκια-5-pocket-l73mhvb71-μπλε-regular-fit</link>
+    <description><![CDATA[<strong>Μάρκα</strong><br>Lee<br><strong>Χρώμα</strong><br>Μπλε<br><strong>Χρώμα παραγωγού</strong><br>Mellow Light<br><strong>Μοτίβο</strong><br>Λείο<br><strong>Κούμπωμα</strong><br>Με φερμουάρ]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_7bccba8f6cb24bc6821fe4be5d7d17b0~mv2.webp</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_9439d112c8194e7bae9e4a3c142c6ed7~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_b631f9e5243d46129f0f9ccbb7346bce~mv2.webp</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_1f0465dcee394b87b08870f36b64ef7d~mv2.webp</additionalImage>
+    <color>Μπλε κλασικό</color>
+    <size>30,31,32,33,34,36,38,40,42,44</size>
+    <brand>Lee</brand>
+    <weight>200</weight>
+    <price>69</price>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>10</quantity>
+    <variations>
+      <variation>
+        <variationid>bcf806ce-80d4-3cae-2397-05d7ed341c1a-30</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>30</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-σορτσάκια-5-pocket-l73mhvb71-μπλε-regular-fit</link>
+        <mpn>L73MHVB71</mpn>
+      </variation>
+      <variation>
+        <variationid>bcf806ce-80d4-3cae-2397-05d7ed341c1a-31</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>31</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-σορτσάκια-5-pocket-l73mhvb71-μπλε-regular-fit</link>
+        <mpn>L73MHVB71</mpn>
+      </variation>
+      <variation>
+        <variationid>bcf806ce-80d4-3cae-2397-05d7ed341c1a-32</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>32</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-σορτσάκια-5-pocket-l73mhvb71-μπλε-regular-fit</link>
+        <mpn>L73MHVB71</mpn>
+      </variation>
+      <variation>
+        <variationid>bcf806ce-80d4-3cae-2397-05d7ed341c1a-33</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>33</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-σορτσάκια-5-pocket-l73mhvb71-μπλε-regular-fit</link>
+        <mpn>L73MHVB71</mpn>
+      </variation>
+      <variation>
+        <variationid>bcf806ce-80d4-3cae-2397-05d7ed341c1a-34</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>34</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-σορτσάκια-5-pocket-l73mhvb71-μπλε-regular-fit</link>
+        <mpn>L73MHVB71</mpn>
+      </variation>
+      <variation>
+        <variationid>bcf806ce-80d4-3cae-2397-05d7ed341c1a-36</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>36</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-σορτσάκια-5-pocket-l73mhvb71-μπλε-regular-fit</link>
+        <mpn>L73MHVB71</mpn>
+      </variation>
+      <variation>
+        <variationid>bcf806ce-80d4-3cae-2397-05d7ed341c1a-38</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>38</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-σορτσάκια-5-pocket-l73mhvb71-μπλε-regular-fit</link>
+        <mpn>L73MHVB71</mpn>
+      </variation>
+      <variation>
+        <variationid>bcf806ce-80d4-3cae-2397-05d7ed341c1a-40</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>40</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-σορτσάκια-5-pocket-l73mhvb71-μπλε-regular-fit</link>
+        <mpn>L73MHVB71</mpn>
+      </variation>
+      <variation>
+        <variationid>bcf806ce-80d4-3cae-2397-05d7ed341c1a-42</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>42</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-σορτσάκια-5-pocket-l73mhvb71-μπλε-regular-fit</link>
+        <mpn>L73MHVB71</mpn>
+      </variation>
+      <variation>
+        <variationid>bcf806ce-80d4-3cae-2397-05d7ed341c1a-44</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>44</size>
+        <quantity>1</quantity>
+        <price>69</price>
+        <link>https://www.onikshop.gr/product-page/τζιν-σορτσάκια-5-pocket-l73mhvb71-μπλε-regular-fit</link>
+        <mpn>L73MHVB71</mpn>
       </variation>
     </variations>
   </product>
