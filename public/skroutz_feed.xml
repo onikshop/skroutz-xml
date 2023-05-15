@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-05-15 10:30</created_at>
+  <created_at>2023-05-15 12:40</created_at>
   <product>
+    <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/501-crop-tango-beats-light-indigo-worn</link>
@@ -55,6 +56,7 @@
     </variations>
   </product>
   <product>
+    <id>c4bf8801-db9c-6b51-7735-2e8b1e076dfb</id>
     <name>514 Levi's</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-514</link>
@@ -181,6 +183,7 @@
     </variations>
   </product>
   <product>
+    <id>285efee5-4cb1-ecd5-e37a-9ed1c44f75c2</id>
     <name>514 Levis Erkek Pantolon</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/514-levis-erkek-pantolon</link>
@@ -234,6 +237,7 @@
     </variations>
   </product>
   <product>
+    <id>e1260b78-dae4-b68f-792d-c5075f29b1d9</id>
     <name>514 Straight Fit Men's Jeans Levis</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/514-straight-fit-men-s-jeans-levis</link>
@@ -287,6 +291,7 @@
     </variations>
   </product>
   <product>
+    <id>d996c7ef-fabb-8793-28a5-8905ef85991c</id>
     <name>514™ Straight Fit Jeans</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/514-straight-fit-jeans</link>
@@ -323,6 +328,7 @@
     </variations>
   </product>
   <product>
+    <id>763a08dc-5f00-79d8-170e-dc24168acd0e</id>
     <name>711 SKINNY Levi's</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/711-skinny-levi-s</link>
@@ -349,6 +355,7 @@
     </variations>
   </product>
   <product>
+    <id>3f4900de-b0c0-8810-e20a-6ecee2d4e0fe</id>
     <name>AIRY DAKAR BASEBALL CAP</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Καπέλα - Σκουφιά]]></category>
     <link>https://www.onikshop.gr/product-page/airy-dakar-baseball-cap</link>
@@ -376,6 +383,7 @@
     </variations>
   </product>
   <product>
+    <id>b86be3a9-61f9-c151-1a74-673d72c2ca2f</id>
     <name>Apolo-43 Jeans Edward</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/apolo-43-jeans</link>
@@ -412,6 +420,7 @@
     </variations>
   </product>
   <product>
+    <id>4f79cb8a-0c67-9fcf-9aa2-626c6281b27f</id>
     <name>BELLAMY-82 Edward</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/bellamy-82-edward</link>
@@ -457,6 +466,7 @@
     </variations>
   </product>
   <product>
+    <id>47112a6d-71e3-4495-eec2-85f7fea80507</id>
     <name>Celio Denim Jacket Budens</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Μπουφάν]]></category>
     <link>https://www.onikshop.gr/product-page/celio-denim-jacket-budens</link>
@@ -519,6 +529,7 @@
     </variations>
   </product>
   <product>
+    <id>2ce96b38-ff4e-1d45-4fdb-f0121c59f785</id>
     <name>Celio Light Down Jacket Sucolor-Blue</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Μπουφάν]]></category>
     <link>https://www.onikshop.gr/product-page/celio-light-down-jacket-sucolor-blue</link>
@@ -579,6 +590,7 @@
     </variations>
   </product>
   <product>
+    <id>85fd0e0e-907a-0fbf-3532-d91ab0b72fc8</id>
     <name>Celio Sucolor Ανδρικό Μπουφάν Bomber για Χειμώνα Χακί</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Μπουφάν]]></category>
     <link>https://www.onikshop.gr/product-page/celio-sucolor-ανδρικό-μπουφάν-bomber-για-χειμώνα-χακί</link>
@@ -642,6 +654,7 @@
     </variations>
   </product>
   <product>
+    <id>1ffa87d3-3e82-4416-ae58-db7638c60c17</id>
     <name>Celio T-shirt Bestato</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/celio-t-shirt-bestato</link>
@@ -704,6 +717,7 @@
     </variations>
   </product>
   <product>
+    <id>ee0fd0a3-f940-4cae-081b-57428932ea29</id>
     <name>CELIO VUPREM ΑΝΔΡΙΚΟ ΜΠΟΥΦΑΝ BOMBER</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Μπουφάν]]></category>
     <link>https://www.onikshop.gr/product-page/celio-vuprem-ανδρικο-μπουφαν-bomber</link>
@@ -765,6 +779,7 @@
     </variations>
   </product>
   <product>
+    <id>60a5f8e7-c3b1-054a-dacc-ddb331dfdae3</id>
     <name>CELIO – Tee Shirt Mc Bework</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/celio-tee-shirt-mc-bework</link>
@@ -827,6 +842,7 @@
     </variations>
   </product>
   <product>
+    <id>3493d53a-3d56-0ce2-e9ee-802eaa8435c2</id>
     <name>Celio* Boskin3 Stone Μπλε Σκούρο</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/jean-celio-boskin3-stone-μπλε-σκούρο</link>
@@ -917,6 +933,7 @@
     </variations>
   </product>
   <product>
+    <id>fb7ed823-e169-ffb9-820d-f63caff0c6bb</id>
     <name>Celio* Boslim2 slim C25  jeans</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/boslim2-slim-c25-celio-jeans</link>
@@ -998,6 +1015,7 @@
     </variations>
   </product>
   <product>
+    <id>17df58c4-f573-26fc-780f-32e1e42ee797</id>
     <name>Celio* jeans sodestroy</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans<br>
  ]]></category>
@@ -1045,6 +1063,7 @@
     </variations>
   </product>
   <product>
+    <id>23f24037-d203-4885-64c7-90a28f219f7c</id>
     <name>Celio* Men's trousers khaki Vopry1</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/celio-men-s-trousers-khaki-vopry1</link>
@@ -1108,6 +1127,7 @@
     </variations>
   </product>
   <product>
+    <id>3dbb09bf-73a0-b47d-efa3-bceca37cabde</id>
     <name>Celio* Voslight25 Bleached Μπλε Ανοιχτό</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans<br>
  ]]></category>
@@ -1200,6 +1220,7 @@
     </variations>
   </product>
   <product>
+    <id>1068ff3f-7478-95a6-73b2-f2d21b7cb74b</id>
     <name>Classic solid blue shirt with short sleeves LOSAN</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/classic-solid-blue-shirt-with-short-sleeves-losan</link>
@@ -1226,6 +1247,7 @@
     </variations>
   </product>
   <product>
+    <id>7ea7794e-da35-8bc4-8d68-4e0e746499fa</id>
     <name>CREW NECK TEE</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > T-Shirts Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/crew-neck-tee</link>
@@ -1287,6 +1309,7 @@
     </variations>
   </product>
   <product>
+    <id>7a061d29-b4cb-62f4-0139-e1dc28b4ef66</id>
     <name>Dakar DKR VIP 0123 Mens T-shirt black</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-black</link>
@@ -1349,6 +1372,7 @@
     </variations>
   </product>
   <product>
+    <id>36d24804-045b-d400-db77-0db6b8193908</id>
     <name>Dakar DKR VIP 0123 Mens T-shirt white</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/dakar-dkr-vip-0123-mens-t-shirt-white</link>
@@ -1410,6 +1434,7 @@
     </variations>
   </product>
   <product>
+    <id>c934d1c1-bed0-1ebd-fb92-5c1eba932e77</id>
     <name>Dani Edward Jeans</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/dani-edward-jeans</link>
@@ -1464,6 +1489,7 @@
     </variations>
   </product>
   <product>
+    <id>f5b226e2-d7e0-9ee9-73e9-c2879239c1d4</id>
     <name>Dayton-531 Edward</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/dayton-531-edward</link>
@@ -1507,6 +1533,7 @@
     </variations>
   </product>
   <product>
+    <id>bfc0fec5-46e6-3189-ceeb-9900bea69e93</id>
     <name>Demi Curve levis 703</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/demi-curve-levis-703</link>
@@ -1542,6 +1569,7 @@
     </variations>
   </product>
   <product>
+    <id>45164d97-560b-bb6f-0663-7336832f70d5</id>
     <name>Demi Curve Levis 703</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/demi-curve-levis-703-1</link>
@@ -1576,6 +1604,7 @@
     </variations>
   </product>
   <product>
+    <id>b34a5308-59c0-42d6-341f-bb76c9a6a08e</id>
     <name>DIVERSE T-SHIRT HUMTLEX</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -1632,6 +1661,7 @@
     </variations>
   </product>
   <product>
+    <id>84ad00ba-0594-b47b-2806-030a2e6c53df</id>
     <name>DIVERSE T-SHIRT PRM 0623</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/diverse-t-shirt-prm-0623</link>
@@ -1686,6 +1716,7 @@
     </variations>
   </product>
   <product>
+    <id>f8f55109-2aa2-4217-426b-4160febdc7aa</id>
     <name>Diverse T-SHIRT RALF</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -1741,6 +1772,7 @@
     </variations>
   </product>
   <product>
+    <id>be05eb77-d5a8-da93-f4d9-b478243b1f29</id>
     <name>DIVERSE T-SHIRT TRADYS</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -1797,6 +1829,7 @@
     </variations>
   </product>
   <product>
+    <id>cb38d7de-e692-5a18-2450-cde643d208ea</id>
     <name>DIVERSE T-SHIRT VERSU</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -1853,6 +1886,7 @@
     </variations>
   </product>
   <product>
+    <id>402d1e14-26f8-73d7-0cf0-ecb599910aff</id>
     <name>Edward Balint-Jap Jeans</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/edward-balint-jap-jeans</link>
@@ -1979,6 +2013,7 @@
     </variations>
   </product>
   <product>
+    <id>4eab0349-b561-418a-8ec2-10ae34624bf6</id>
     <name>Edward Ballard-Ol Jeans</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/edward-ballard-ol-jeans</link>
@@ -2121,6 +2156,7 @@
     </variations>
   </product>
   <product>
+    <id>2e24815b-e2eb-d8f6-0b80-2d1a988cd4e8</id>
     <name>EDWARD BIANA-W</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/edward-biana-w</link>
@@ -2191,6 +2227,7 @@
     </variations>
   </product>
   <product>
+    <id>e395e0fc-c78c-fe89-1efb-ad5ac40d648b</id>
     <name>Edward DIAZ-533</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/edward-diaz-533</link>
@@ -2215,6 +2252,7 @@
     </variations>
   </product>
   <product>
+    <id>0a5cc497-7c87-8bda-6989-41bc60ed876d</id>
     <name>Edward DORIE-29R Μαύρο</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/τζιν-edward-dorie-29r-μαύρο</link>
@@ -2277,6 +2315,7 @@
     </variations>
   </product>
   <product>
+    <id>41f71d5b-62f4-7360-9801-eb6750b7f40f</id>
     <name>Edward Fadey-Jt Jeans</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/edward-fadey-jt-jeans</link>
@@ -2394,6 +2433,7 @@
     </variations>
   </product>
   <product>
+    <id>d9446355-93e5-1e99-ccb6-f8c3a05ff9be</id>
     <name>EDWARD Ivar-S23 T-Shirt</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/edward-ivar-s23-t-shirt</link>
@@ -2466,6 +2506,7 @@
     </variations>
   </product>
   <product>
+    <id>01531add-6c41-23ec-4502-e8befe11ee0e</id>
     <name>EDWARD Izod TShirt</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -2539,6 +2580,7 @@
     </variations>
   </product>
   <product>
+    <id>6fc2842e-2d88-4daf-3f5c-215b59d72119</id>
     <name>Edward Izod TShirt Elephant</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -2612,6 +2654,7 @@
     </variations>
   </product>
   <product>
+    <id>22a128b6-cfc1-c6ab-d113-54c4ab771f42</id>
     <name>Edward Jeans Diederic-Obs</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/edward-jeans-diederic-obs</link>
@@ -2738,6 +2781,7 @@
     </variations>
   </product>
   <product>
+    <id>2c9863a7-5b38-cae9-1073-41843833823d</id>
     <name>Edward Kegan-Pop Black Shirt</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/edward-kegan-pop-black-shirt</link>
@@ -2810,6 +2854,7 @@
     </variations>
   </product>
   <product>
+    <id>63bbaa6c-1da2-3dd1-66b0-90ebb80b271b</id>
     <name>EDWARD LIDIA</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Σορτς Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/edward-lidia</link>
@@ -2862,6 +2907,7 @@
     </variations>
   </product>
   <product>
+    <id>ca1b83f3-8ab6-fb99-b799-57e7958fcca9</id>
     <name>EDWARD Neilan-Cas Jeans</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/edward-neilan-cas-jeans</link>
@@ -2970,6 +3016,7 @@
     </variations>
   </product>
   <product>
+    <id>8b05d74e-01b2-a076-3795-070180301791</id>
     <name>Edward Neilan-Emp Jeans</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/neilan-emp-jeans</link>
@@ -3096,6 +3143,7 @@
     </variations>
   </product>
   <product>
+    <id>b84943f6-538e-4bba-c6e3-87721fdcbd1b</id>
     <name>FRED PERRY B4318-325 SHOE</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
     <link>https://www.onikshop.gr/product-page/fred-perry-b4318-325-shoe</link>
@@ -3149,6 +3197,7 @@
     </variations>
   </product>
   <product>
+    <id>a1b0500a-3bd1-fa2c-7627-3b903ba45a27</id>
     <name>FRED PERRY B6237U-102 ΠΑΠΟΥΤΣΙ ΑΝΔΡΙΚΑ</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
     <link>https://www.onikshop.gr/product-page/fred-perry-b6237u-102-παπουτσι-ανδρικα</link>
@@ -3175,6 +3224,7 @@
     </variations>
   </product>
   <product>
+    <id>26463616-f558-ef3e-e326-91b93f4ef86f</id>
     <name>FRED PERRY B7114 ΠΑΠΟΥΤΣΙ ΑΝΔΡΙΚΟ</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
     <link>https://www.onikshop.gr/product-page/fred-perry-b7114-παπουτσι-ανδρικο</link>
@@ -3210,6 +3260,7 @@
     </variations>
   </product>
   <product>
+    <id>4998f9b7-c9ec-c73a-74eb-6923c43b0629</id>
     <name>Fred Perry Black Graphic T-shirt</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/fred-perry-black-graphic-t-shirt</link>
@@ -3271,6 +3322,7 @@
     </variations>
   </product>
   <product>
+    <id>e7c2b270-7922-765d-ea96-15029d10bb9c</id>
     <name>FRED PERRY BLOCK TIPPED PIQUE POLO SHIRT IN NAVY</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
     <link>https://www.onikshop.gr/product-page/fred-perry-block-tipped-pique-polo-shirt-in-navy</link>
@@ -3307,6 +3359,7 @@
     </variations>
   </product>
   <product>
+    <id>ea4e436f-f444-3a4b-5b09-e433fce0035c</id>
     <name>FRED PERRY M3519 608 FRED PERRY T-SHIRT</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -3362,6 +3415,7 @@
     </variations>
   </product>
   <product>
+    <id>00f917b0-caf3-c899-97e6-d5bb9b0dead0</id>
     <name>Fred Perry Polo Ανδρικό - The Fred Perry Shirt -  - Navy Dark Caramel D</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
     <link>https://www.onikshop.gr/product-page/fred-perry-polo-ανδρικό-the-fred-perry-shirt-navy-dark-caramel-d</link>
@@ -3436,6 +3490,7 @@
     </variations>
   </product>
   <product>
+    <id>fd800575-bd9d-2eab-082d-c66d0cbdbd9b</id>
     <name>FRED PERRY SHOE</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
     <link>https://www.onikshop.gr/product-page/fred-perry-shoe</link>
@@ -3472,6 +3527,7 @@
     </variations>
   </product>
   <product>
+    <id>6e78e08a-dfab-08ea-68e9-2eaa06419f63</id>
     <name>FRED PERRY SHOE KINGSTON</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
     <link>https://www.onikshop.gr/product-page/fred-perry-shoe-kingston</link>
@@ -3498,6 +3554,7 @@
     </variations>
   </product>
   <product>
+    <id>bce88c75-32b6-5871-9723-4794224c3502</id>
     <name>Fred Perry T-Shirt Ανδρικό Μπλε</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -3562,6 +3619,7 @@
     </variations>
   </product>
   <product>
+    <id>99d2bd08-2f13-b513-b869-faa7d711072d</id>
     <name>Fred Perry Tumbled Leather Shoes B5311-560 col. Ecru</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
     <link>https://www.onikshop.gr/product-page/fred-perry-tumbled-leather-shoes-b5311-560-col-ecru</link>
@@ -3627,6 +3685,7 @@
     </variations>
   </product>
   <product>
+    <id>8e4ee1c7-ca50-5241-87ab-dc9fa37eac19</id>
     <name>Fred Perry Twin tipped</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/fred-perry-twin-tipped</link>
@@ -3654,6 +3713,7 @@
     </variations>
   </product>
   <product>
+    <id>536bb0fe-c7e6-c798-d406-34f5a5172427</id>
     <name>Fred Perry Ανδρική μπλούζα Polo Plain Fred Perry Shirt</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
     <link>https://www.onikshop.gr/product-page/fred-perry-ανδρική-μπλούζα-polo-plain-fred-perry-shirt</link>
@@ -3726,6 +3786,7 @@
     </variations>
   </product>
   <product>
+    <id>38f68845-dbd5-5c41-385b-131102cff75d</id>
     <name>Fred Perry Ανδρικό T-shirt Λευκό Μονόχρωμο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -3772,6 +3833,7 @@
     </variations>
   </product>
   <product>
+    <id>ae3767e5-3f5e-f881-d85b-1460df28838b</id>
     <name>FRED PERRY ΠΑΠΟΥΤΣΙ</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
     <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι</link>
@@ -3807,6 +3869,7 @@
     </variations>
   </product>
   <product>
+    <id>2e7b9f43-688e-2c0b-ac0d-b183beec4ef2</id>
     <name>FRED PERRY ΠΑΠΟΥΤΣΙ KINGSTON</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
     <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι-kingston</link>
@@ -3843,6 +3906,7 @@
     </variations>
   </product>
   <product>
+    <id>b9fdb2c5-f50a-9a14-80e8-1aa41e35132a</id>
     <name>FRED PERRY ΠΑΠΟΥΤΣΙ SNEAKER ΑΝΔΡΙΚΟ</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
     <link>https://www.onikshop.gr/product-page/fred-perry-παπουτσι-sneaker-ανδρικο</link>
@@ -3878,6 +3942,7 @@
     </variations>
   </product>
   <product>
+    <id>afbd7757-03be-db4f-1133-943489a01343</id>
     <name>Fred Perry Πόλο Navy M6000</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
     <link>https://www.onikshop.gr/product-page/fred-perry-πόλο-navy-m6000</link>
@@ -3932,6 +3997,7 @@
     </variations>
   </product>
   <product>
+    <id>b1e14a57-badc-73cd-e5c8-944506f271e9</id>
     <name>GUY HAMPTONS FLORAL</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/guy-hamptons-floral</link>
@@ -3984,6 +4050,7 @@
     </variations>
   </product>
   <product>
+    <id>4588c4c3-dde1-edbc-00ef-205239cc07d0</id>
     <name>Guy Hamptons Taglia</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/guy-hamptons-taglia</link>
@@ -4045,6 +4112,7 @@
     </variations>
   </product>
   <product>
+    <id>cfcc0625-db8f-1a5b-a327-113107d65f1b</id>
     <name>Hackers 6008 Jeans</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/hackers-6008-jeans</link>
@@ -4150,6 +4218,7 @@
     </variations>
   </product>
   <product>
+    <id>ecd4708a-4ca7-49e6-1712-3faf446109a4</id>
     <name>Hackers jeans HOK</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/hackers-jeans-hok</link>
@@ -4264,6 +4333,7 @@
     </variations>
   </product>
   <product>
+    <id>212be331-8e09-56d8-b3c5-b89d63cb274a</id>
     <name>Hackers Tshirt</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/hackers-tshirt</link>
@@ -4327,6 +4397,7 @@
     </variations>
   </product>
   <product>
+    <id>b317e645-5855-9717-1c04-94d9a65a850b</id>
     <name>Hackers Tsino</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Τσίνος]]></category>
     <link>https://www.onikshop.gr/product-page/hackers-tsino-2</link>
@@ -4451,6 +4522,7 @@
     </variations>
   </product>
   <product>
+    <id>9734a2be-d408-88b0-6b12-7c7c01e8fa98</id>
     <name>Hanz-2575 Jeansb Edward</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/hanz-2575-jeansb-edward</link>
@@ -4477,6 +4549,7 @@
     </variations>
   </product>
   <product>
+    <id>7306f275-a645-6a72-bf81-2ef755248142</id>
     <name>Heavy Tools  RUSSEL sky</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-russel-sky</link>
@@ -4547,6 +4620,7 @@
     </variations>
   </product>
   <product>
+    <id>73a2229a-66b1-28a4-bace-ef368e68902c</id>
     <name>Heavy Tools BLUE of WITTY22</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ >Αμάνικο]]></category>
     <link>https://www.onikshop.gr/product-page/blue-of-witty22</link>
@@ -4616,6 +4690,7 @@
     </variations>
   </product>
   <product>
+    <id>fb5c58ad-2c83-cffd-82aa-6bd3235e7dfc</id>
     <name>Heavy Tools MAJESTY</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-majesty</link>
@@ -4697,6 +4772,7 @@
     </variations>
   </product>
   <product>
+    <id>d69471f7-c81e-d218-63be-d1475a20fd5f</id>
     <name>Heavy Tools MAJESTY ivy</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -4780,6 +4856,7 @@
     </variations>
   </product>
   <product>
+    <id>77fed03f-f02e-0ce9-b42c-88bf94e414cd</id>
     <name>Heavy Tools Nitop22</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Μπουφάν]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-nitop22</link>
@@ -4852,6 +4929,7 @@
     </variations>
   </product>
   <product>
+    <id>7966becc-8e44-38a4-218e-7c3f73b77b79</id>
     <name>HEAVY TOOLS PITRA23 BLACK</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Καπέλα - Σκουφιά]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-pitra23</link>
@@ -4878,6 +4956,7 @@
     </variations>
   </product>
   <product>
+    <id>eeabbcd1-a1ff-47ea-94e9-40204f56d8de</id>
     <name>HEAVY TOOLS PITRA23 NAVY</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Καπέλα - Σκουφιά]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-pitra23-navy</link>
@@ -4904,6 +4983,7 @@
     </variations>
   </product>
   <product>
+    <id>01a16bd2-bf76-93d3-d5d0-f1677676d005</id>
     <name>HEAVY TOOLS PITRA23 WHITE</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Καπέλα - Σκουφιά]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-pitra23-white</link>
@@ -4930,6 +5010,7 @@
     </variations>
   </product>
   <product>
+    <id>d3210d02-9c8b-5e66-907e-03f951372f32</id>
     <name>Heavy Tools RED of WITTY22</name>
     <category><![CDATA[ΠΑΝΩΦΟΡΙΑ > ΠΑΝΩΦΟΡΙΑ > Αμάνικο]]></category>
     <link>https://www.onikshop.gr/product-page/copy-of-witty22</link>
@@ -4998,6 +5079,7 @@
     </variations>
   </product>
   <product>
+    <id>8f3d3e05-c303-05c4-8018-87c621f81263</id>
     <name>HEAVY TOOLS ROLLER23</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-roller23</link>
@@ -5079,6 +5161,7 @@
     </variations>
   </product>
   <product>
+    <id>3c4e5bfb-3fd7-795a-e37a-1f49e216e056</id>
     <name>HEAVY TOOLS ROLLER23 INDIGO</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-roller23-indigo</link>
@@ -5160,6 +5243,7 @@
     </variations>
   </product>
   <product>
+    <id>90aea61e-363c-2b99-45d8-e5ce75793152</id>
     <name>Heavy Tools SNOKER</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-snoker</link>
@@ -5222,6 +5306,7 @@
     </variations>
   </product>
   <product>
+    <id>9e8cbd35-ecc4-8cd7-1257-d78de5981926</id>
     <name>Heavy Tools SOGUN</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Ζακέτες]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-sogun</link>
@@ -5293,6 +5378,7 @@
     </variations>
   </product>
   <product>
+    <id>4c1f56e3-f5d3-8685-807d-4700b8a8f7e0</id>
     <name>Heavy Tools Surf</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -5366,6 +5452,7 @@
     </variations>
   </product>
   <product>
+    <id>020e6ffd-9186-0136-23b9-aebd4cd82cdf</id>
     <name>Heavy Tools SWEET</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Ζακέτες]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-sweet</link>
@@ -5447,6 +5534,7 @@
     </variations>
   </product>
   <product>
+    <id>37894199-8057-f86c-b3c3-db69cf5d651f</id>
     <name>Heavy Tools Ulit18 Red</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-ulit18-red</link>
@@ -5482,6 +5570,7 @@
     </variations>
   </product>
   <product>
+    <id>f6356ebe-e7e5-2ac6-ef8d-8e5e34ceb9ac</id>
     <name>HEAVY TOOLS WATERLOO23</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-waterloo23</link>
@@ -5554,6 +5643,7 @@
     </variations>
   </product>
   <product>
+    <id>c2a78816-e20d-042f-5426-ce9855e44b3d</id>
     <name>HEAVY TOOLS WATERLOO23 NAVY</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-waterloo23-blue</link>
@@ -5626,6 +5716,7 @@
     </variations>
   </product>
   <product>
+    <id>601367fb-0e3a-cb9f-127f-3c466cd055d5</id>
     <name>HEAVY TOOLS WAVE23</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-wave23</link>
@@ -5697,6 +5788,7 @@
     </variations>
   </product>
   <product>
+    <id>d3b8b8df-a23c-ca0c-7324-a0d84cf558b0</id>
     <name>HEAVY TOOLS WAVE23 INDIGO</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-wave23-1</link>
@@ -5769,6 +5861,7 @@
     </variations>
   </product>
   <product>
+    <id>f5c1aac9-9295-5f94-d4cb-c5052cf3c784</id>
     <name>Heavy Tools WITTY23</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ >Αμάνικο]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-witty23</link>
@@ -5841,6 +5934,7 @@
     </variations>
   </product>
   <product>
+    <id>a2c3b357-281d-9215-eda2-19fdc74e3dd1</id>
     <name>Heavy Tools ZET23</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-zet23</link>
@@ -5913,6 +6007,7 @@
     </variations>
   </product>
   <product>
+    <id>898c574d-7553-d882-ecc4-30bd0aa79109</id>
     <name>Heavy Tools ZORDON23</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-zordon23</link>
@@ -5987,6 +6082,7 @@
     </variations>
   </product>
   <product>
+    <id>6321a9eb-ab02-65c6-053b-00d3addf6672</id>
     <name>HEAVY TOOLS ΣΑΓΙΟΝΑΡΕΣ</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools-σαγιοναρεσ</link>
@@ -6013,6 +6109,7 @@
     </variations>
   </product>
   <product>
+    <id>71b1597c-9db5-5068-c0c4-d4e3d3958a1a</id>
     <name>Ivar-S23 T-Shirt</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/ivar-s23-t-shirt</link>
@@ -6085,6 +6182,7 @@
     </variations>
   </product>
   <product>
+    <id>d6fe12ea-344c-afbe-7f62-f1ea79a9184a</id>
     <name>Jacket with a detachable hood S.Oliver</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Μπουφάν]]></category>
     <link>https://www.onikshop.gr/product-page/jacket-with-a-detachable-hood-s-oliver</link>
@@ -6113,6 +6211,7 @@
     </variations>
   </product>
   <product>
+    <id>5c46b121-e1ed-19b9-472d-95961b79c7b6</id>
     <name>Jean Pantolon | 527 Slim Bootcut Levi's</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/jean-pantolon-527-slim-bootcut</link>
@@ -6157,6 +6256,7 @@
     </variations>
   </product>
   <product>
+    <id>976480f7-b4c0-fa93-c5d5-2f6ff8cc59aa</id>
     <name>JEANSY LEE MARION STRAIGHT</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/jeansy-lee-marion-straight</link>
@@ -6190,6 +6290,7 @@
     </variations>
   </product>
   <product>
+    <id>ca169429-2dfe-446f-dea0-ca853e2740fd</id>
     <name>Jersey top with a garment wash s.Oliver</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/jersey-top-with-a-garment-wash</link>
@@ -6242,6 +6343,7 @@
     </variations>
   </product>
   <product>
+    <id>72a5f2ff-3a25-95f4-7a0a-191370d0f178</id>
     <name>Jersey top with a retro print s.Oliver</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/jersey-top-with-a-retro-print</link>
@@ -6305,6 +6407,7 @@
     </variations>
   </product>
   <product>
+    <id>57005371-6fb8-90e1-dbdd-f71b568764ef</id>
     <name>JOHN s.Oliver</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/copy-of-heavy-tools-waterloo23-navy</link>
@@ -6370,6 +6473,7 @@
     </variations>
   </product>
   <product>
+    <id>43f88419-972f-cf53-cfd0-ec47f0fbc381</id>
     <name>JOHN s.Oliver Indigo</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/john-s-oliver-indigo</link>
@@ -6470,6 +6574,7 @@
     </variations>
   </product>
   <product>
+    <id>5fc86ebc-1790-028d-fd3c-9bb1a66e6b71</id>
     <name>Kramar-Ks Jeans Edward</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/kramar-ks-jeans-edward</link>
@@ -6560,6 +6665,7 @@
     </variations>
   </product>
   <product>
+    <id>7021b7c1-bafe-e831-da19-9893f540b020</id>
     <name>Lee "Rider Trashed" Stone</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/lee-rider-trashed-stone</link>
@@ -6604,6 +6710,7 @@
     </variations>
   </product>
   <product>
+    <id>8ce19c48-00c2-ff8c-0796-c90135987664</id>
     <name>Lee - 5 Pocket Short Mid Nelson</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/lee-5-pocket-short-mid-nelson</link>
@@ -6658,6 +6765,7 @@
     </variations>
   </product>
   <product>
+    <id>927ab73c-63fe-7574-725c-a50a16939db4</id>
     <name>LEE BROOKLYN STRAIGHT MID STONEWASH</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/lee-brooklyn-straight-mid-stonewash</link>
@@ -6703,6 +6811,7 @@
     </variations>
   </product>
   <product>
+    <id>4e1e376a-fec0-6d5e-621c-3dcae37c78d1</id>
     <name>Lee Daren</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Υφασμάτινα]]></category>
     <link>https://www.onikshop.gr/product-page/lee-daren</link>
@@ -6793,6 +6902,7 @@
     </variations>
   </product>
   <product>
+    <id>7aea8f2f-1a59-3182-8391-95800ac35010</id>
     <name>Lee Daren Azure</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/lee-daren-azure</link>
@@ -6891,6 +7001,7 @@
     </variations>
   </product>
   <product>
+    <id>f2aad3be-8b26-9c96-2dba-5d53f7b93dde</id>
     <name>Lee Daren Zip Fly</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly</link>
@@ -6990,6 +7101,7 @@
     </variations>
   </product>
   <product>
+    <id>59a85da0-224f-f56f-7f6c-ad70554c14e0</id>
     <name>Lee Daren Zip Fly Black Iris</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Κοτλέ]]></category>
     <link>https://www.onikshop.gr/product-page/lee-daren-zip-fly-black-iris</link>
@@ -7080,6 +7192,7 @@
     </variations>
   </product>
   <product>
+    <id>247ec1dd-412f-e076-7266-66761177b274</id>
     <name>Lee Fits em all KNOX</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/lee-fits-em-all-knox</link>
@@ -7106,6 +7219,7 @@
     </variations>
   </product>
   <product>
+    <id>fcf729d7-93bd-3cea-0ed7-fd1ce4de10a3</id>
     <name>LEE JADE SEASONAL AUTHENTIC BLUE</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/lee-jade-seasonal-authentic-blue</link>
@@ -7140,6 +7254,7 @@
     </variations>
   </product>
   <product>
+    <id>0e66c783-8529-acf1-c844-ff6e4c58c861</id>
     <name>LEE JEANS low waist LYNN</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/lee-jeans-low-waist-lynn</link>
@@ -7211,6 +7326,7 @@
     </variations>
   </product>
   <product>
+    <id>232cbad5-ddea-e967-6cfa-daf0730e2677</id>
     <name>Lee Knox Regular Straight</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/lee-knox-regular-straight</link>
@@ -7246,6 +7362,7 @@
     </variations>
   </product>
   <product>
+    <id>ea60bb7b-66a4-393e-f7f1-418783de8579</id>
     <name>Lee Knox Regular Straight Vintage</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/lee-knox-regular-straight-vintage</link>
@@ -7272,6 +7389,7 @@
     </variations>
   </product>
   <product>
+    <id>658422ef-5440-98b8-b051-b98d0a877cfc</id>
     <name>Lee logo patch Loose Fit "Core"</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/lee-logo-patch-loose-fit-core</link>
@@ -7307,6 +7425,7 @@
     </variations>
   </product>
   <product>
+    <id>4998b864-4f92-68b1-c4eb-c162462377a9</id>
     <name>Lee Luke Slim Fit Jeans Clean Black</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/lee-luke-slim-fit-jeans-clean-black</link>
@@ -7431,6 +7550,7 @@
     </variations>
   </product>
   <product>
+    <id>4827d4de-50cd-f339-aecb-4a939ab6716a</id>
     <name>Lee Luke Slim Tapered</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/lee-luke-slim-tapered</link>
@@ -7538,6 +7658,7 @@
     </variations>
   </product>
   <product>
+    <id>88cc9c15-4e0c-1c2c-9439-1e0d65babb95</id>
     <name>LEE LYNN BLUE MONDAY</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/lee-lynn-blue-monday</link>
@@ -7572,6 +7693,7 @@
     </variations>
   </product>
   <product>
+    <id>97216882-ce09-8cdb-2443-1cb6d625d180</id>
     <name>LEE LYNN SKINNY L357EGSF</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/lee-lynn-skinny-l357egsf</link>
@@ -7660,6 +7782,7 @@
     </variations>
   </product>
   <product>
+    <id>e29624fc-2134-f12c-5e48-7a143a1be397</id>
     <name>Lee Marine</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/lee-marine</link>
@@ -7722,6 +7845,7 @@
     </variations>
   </product>
   <product>
+    <id>816679a8-7ddb-5cdf-b44c-0c38a1b0f72f</id>
     <name>Lee Men's Denim Shorts 5POCKET SHORT</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/lee-men-s-denim-shorts-5pocket-short</link>
@@ -7831,6 +7955,7 @@
     </variations>
   </product>
   <product>
+    <id>6d1e42ef-b090-2cbc-e729-e0b2765f80f9</id>
     <name>Lee Men’s Patch Logo Tee Ανδρικό t-shirt</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/lee-men-s-patch-logo-tee-ανδρικό-t-shirt</link>
@@ -7912,6 +8037,7 @@
     </variations>
   </product>
   <product>
+    <id>b3794c26-006d-23fe-7cf7-ee19030d0369</id>
     <name>LEE PLAIN HOODIE</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/lee-plain-hoodie</link>
@@ -8001,6 +8127,7 @@
     </variations>
   </product>
   <product>
+    <id>110d7bdb-a44c-759f-dcad-3e6a8b4c7453</id>
     <name>LEE RELAXED RIDER JACKET LIGHT BLUE MONDAY</name>
     <category><![CDATA[ΠΑΝΩΦΟΡΙΑ > Μπουφάν]]></category>
     <link>https://www.onikshop.gr/product-page/aa</link>
@@ -8060,6 +8187,7 @@
     </variations>
   </product>
   <product>
+    <id>e7ba13dd-afa6-f915-7b7c-a0bceb6afecc</id>
     <name>Lee Rider Jeans Slim - Sea Salt Worn</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/lee-rider-jeans-slim-sea-salt-worn</link>
@@ -8132,6 +8260,7 @@
     </variations>
   </product>
   <product>
+    <id>d399d7dd-b264-6b22-70e0-e23524b027c8</id>
     <name>Lee Rider Slim</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/lee-rider-slim</link>
@@ -8167,6 +8296,7 @@
     </variations>
   </product>
   <product>
+    <id>74b2bb61-2514-8222-f8a4-58beb323b74f</id>
     <name>Lee Scarlett High Γυναικείο Μπλε Τζιν Παντελόν</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ<br>
  > Jean Γυναικεία]]></category>
@@ -8284,6 +8414,7 @@
     </variations>
   </product>
   <product>
+    <id>1ad4dd01-9538-6410-f247-e54be12648da</id>
     <name>Lee Scarlett Skinny Pitch Royal L526WQSO</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/lee-scarlett-skinny-pitch-royal-l526wqso</link>
@@ -8327,6 +8458,7 @@
     </variations>
   </product>
   <product>
+    <id>535d3ff5-32fa-463a-b2b5-3af18f5cdfe3</id>
     <name>LEE SCARLETT USED GREY</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/lee-scarlett-used-grey</link>
@@ -8371,6 +8503,7 @@
     </variations>
   </product>
   <product>
+    <id>38e10d04-6cfd-dfb2-5173-867653c0181c</id>
     <name>LEE Seattle</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/lee-seattle</link>
@@ -8397,6 +8530,7 @@
     </variations>
   </product>
   <product>
+    <id>48b67962-a628-b959-03bd-6d1d67ace4b0</id>
     <name>Lee Seattle Ανδρικό Μπλε Vintage Τζιν Παντελόνι</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/lee-seattle-ανδρικό-μπλε-vintage-τζιν-παντελόνι</link>
@@ -8423,6 +8557,7 @@
     </variations>
   </product>
   <product>
+    <id>0e559b07-b7c8-aade-657d-2309ce233d13</id>
     <name>LEE Sherpa</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Μπουφάν]]></category>
     <link>https://www.onikshop.gr/product-page/lee-sherpa</link>
@@ -8460,6 +8595,7 @@
     </variations>
   </product>
   <product>
+    <id>cdef1a89-efad-12ad-18b6-1b037d900cd4</id>
     <name>Lee Stella A Line</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/lee-stella-a-line</link>
@@ -8520,6 +8656,7 @@
     </variations>
   </product>
   <product>
+    <id>c3870249-90e7-dd5e-65d9-7beca3f5b3dc</id>
     <name>LEE Stella Short in Mid Wash</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Σορτς Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/lee-stella-short-in-mid-wash</link>
@@ -8601,6 +8738,7 @@
     </variations>
   </product>
   <product>
+    <id>a6fa9afe-bf49-0053-837b-18f277cbfc21</id>
     <name>LEE Welt Pocket plant stretch slim fit</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/lee-welt-pocket-plant-stretch-slim-fit</link>
@@ -8628,6 +8766,7 @@
     </variations>
   </product>
   <product>
+    <id>6267cef6-4124-d5ae-a14b-4ea49bb8835f</id>
     <name>Lee Wobbly Logo Tee ανδρικό γαλάζιο μπλουζάκι</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/lee-wobbly-logo-tee-ανδρικό-γαλάζιο-μπλουζάκι</link>
@@ -8690,6 +8829,7 @@
     </variations>
   </product>
   <product>
+    <id>67bc1a44-5eeb-1376-4196-a21dcbc60417</id>
     <name>Lee Wobbly Logo Ανδρικό T-shirt Μπλε με Λογότυπο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/lee-wobbly-logo-ανδρικό-t-shirt-μπλε-με-λογότυπο</link>
@@ -8752,6 +8892,7 @@
     </variations>
   </product>
   <product>
+    <id>4213087a-12e4-71c6-57a9-27e691101d7d</id>
     <name>Lee Women's Cameron Jeans</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/lee-women-s-cameron-jeans</link>
@@ -8796,6 +8937,7 @@
     </variations>
   </product>
   <product>
+    <id>4f72ed44-97da-d528-8d6f-5182942ae0f5</id>
     <name>Lee Worn Iris</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/lee-worn-iris</link>
@@ -8859,6 +9001,7 @@
     </variations>
   </product>
   <product>
+    <id>3a889d8d-cbd7-9c91-d66c-d4340511b9ad</id>
     <name>Lee Ανδρική Μπλούζα Polo Κοντομάνικη Γαλάζια</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
     <link>https://www.onikshop.gr/product-page/lee-ανδρική-μπλούζα-polo-κοντομάνικη-γαλάζια</link>
@@ -8885,6 +9028,7 @@
     </variations>
   </product>
   <product>
+    <id>9fdfd6be-255f-e71d-73e2-0756b1156697</id>
     <name>Lee Ανδρικό T-shirt Μαύρο με Στάμπα</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-μαύρο-με-στάμπα</link>
@@ -8938,6 +9082,7 @@
     </variations>
   </product>
   <product>
+    <id>09420501-7d07-431d-eacd-18ca672604ad</id>
     <name>Lee Ανδρικό T-shirt με Λογότυπο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-με-λογότυπο</link>
@@ -9028,6 +9173,7 @@
     </variations>
   </product>
   <product>
+    <id>1660f5ea-f018-ba72-bafc-9e960511f258</id>
     <name>Lee Ανδρικό T-shirt Πράσινο με Στάμπα</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/lee-ανδρικό-t-shirt-πράσινο-με-στάμπα</link>
@@ -9090,6 +9236,7 @@
     </variations>
   </product>
   <product>
+    <id>d4683e44-a7ad-3569-4a69-bf6bb96746d9</id>
     <name>Lee Ανδρικό Πουκάμισο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/lee</link>
@@ -9143,6 +9290,7 @@
     </variations>
   </product>
   <product>
+    <id>779922d5-f238-91af-5fa4-cb60ff76cfe0</id>
     <name>Lee Μπλούζα Polo Πράσινο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
     <link>https://www.onikshop.gr/product-page/lee-μπλούζα-polo-πράσινο</link>
@@ -9196,6 +9344,7 @@
     </variations>
   </product>
   <product>
+    <id>8b3e93f2-cd70-3f58-7689-883b06f3bfe5</id>
     <name>LEE ΤΖΙΝ 70S Bootcut In Union City Worn In</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/lee-τζιν-70s-bootcut-in-union-city-worn-in</link>
@@ -9250,6 +9399,7 @@
     </variations>
   </product>
   <product>
+    <id>b0192112-291b-8c7d-c817-560b97589966</id>
     <name>Leonard Jeans Edward</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/leonard-jeans-edward</link>
@@ -9312,6 +9462,7 @@
     </variations>
   </product>
   <product>
+    <id>25dae03f-0c64-c80f-9a1c-0c9df3dec5eb</id>
     <name>LEONARDO 11590622  Κοστούμι</name>
     <category><![CDATA[ΚΛΑΣΙΚΑ > Κοστούμια]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-11590622-κοστούμι</link>
@@ -9365,6 +9516,7 @@
     </variations>
   </product>
   <product>
+    <id>03c7af69-0aa6-2a1b-c70b-298dadf8f1fa</id>
     <name>LEONARDO UOMO 130146</name>
     <category><![CDATA[ΚΛΑΣΙΚΑ > Σακάκια]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-130146</link>
@@ -9471,6 +9623,7 @@
     </variations>
   </product>
   <product>
+    <id>70be4ba4-40e7-7e34-1ee6-490cc3f6c635</id>
     <name>Leonardo Uomo Ανδρικό Κοστούμι Navy Μπλε</name>
     <category><![CDATA[ΚΛΑΣΙΚΑ > Κοστούμια]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-navy-μπλε</link>
@@ -9570,6 +9723,7 @@
     </variations>
   </product>
   <product>
+    <id>400aa48a-1f02-f8e4-4035-9faac9ac35ad</id>
     <name>Leonardo Uomo Ανδρικό Κοστούμι Μαύρο</name>
     <category><![CDATA[ΚΛΑΣΙΚΑ > Κοστούμια]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-ανδρικό-κοστούμι-μαύρο</link>
@@ -9688,6 +9842,7 @@
     </variations>
   </product>
   <product>
+    <id>5817f3ad-9ab6-252c-c52d-f74dacadd8ec</id>
     <name>Leonardo Uomo Ανδρικό Κοστούμι με Στενή Εφαρμογή Γαλάζιο</name>
     <category><![CDATA[ΚΛΑΣΙΚΑ > Κοστούμια]]></category>
     <link>https://www.onikshop.gr/product-page/copy-of-leonardo-uomo-ανδρικό-κοστούμι-με-στενή-εφαρμογή-γαλάζιο</link>
@@ -9780,6 +9935,7 @@
     </variations>
   </product>
   <product>
+    <id>5f0cecdc-470b-6d12-8f36-70eff5344a9f</id>
     <name>Leonardo Uomo Καλοκαιρινό Ανδρικό Κοστούμι Μπεζ</name>
     <category><![CDATA[ΚΛΑΣΙΚΑ > Κοστούμια]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-καλοκαιρινό-ανδρικό-κοστούμι-μπεζ</link>
@@ -9817,6 +9973,7 @@
     </variations>
   </product>
   <product>
+    <id>2f2e1743-778f-500a-0185-408adebc2ce2</id>
     <name>Leonardo Uomo Κοστούμι Μπλέ</name>
     <category><![CDATA[ΚΛΑΣΙΚΑ > Κοστούμια]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μπλέ</link>
@@ -9924,6 +10081,7 @@
     </variations>
   </product>
   <product>
+    <id>746aceb7-55a6-731c-13eb-8054bf851a72</id>
     <name>Leonardo Uomo Κοστούμι Μύρο</name>
     <category><![CDATA[ΚΛΑΣΙΚΑ > Κοστούμια]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-κοστούμι-μύρο</link>
@@ -10031,6 +10189,7 @@
     </variations>
   </product>
   <product>
+    <id>01927e90-0685-7968-3588-13fddf8b0d20</id>
     <name>Leonardo Uomo Πουκάμισο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-πουκάμισο</link>
@@ -10110,6 +10269,7 @@
     </variations>
   </product>
   <product>
+    <id>71393021-7724-cede-668a-08bff730dcf8</id>
     <name>Leonardo Uomo Πουκάμισο S22LU01172-2</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-πουκάμισο-s22lu01172-2</link>
@@ -10190,6 +10350,7 @@
     </variations>
   </product>
   <product>
+    <id>20f610f2-792a-3667-ee97-470a05c7710e</id>
     <name>Leonardo Uomo Πουκάμισο Καρό</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-πουκάμισο-καρό</link>
@@ -10269,6 +10430,7 @@
     </variations>
   </product>
   <product>
+    <id>ad4fdfb1-a731-2ee6-0fa7-6f0c1aa279f6</id>
     <name>Leonardo Uomo Πουκάμισο Καρό</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-πουκάμισο-καρό-1</link>
@@ -10348,6 +10510,7 @@
     </variations>
   </product>
   <product>
+    <id>f83c8ebd-df4b-2ec4-07c5-1d35c113dc19</id>
     <name>Leonardo Uomo Πουκάμισο Καρό</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-πουκάμισο-καρό-2</link>
@@ -10373,6 +10536,7 @@
     </variations>
   </product>
   <product>
+    <id>c51fa018-6aba-53ce-6c5c-4832380d89df</id>
     <name>Leonardo Uomo Πουκάμισο Καρό</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-πουκάμισο-καρό-3</link>
@@ -10398,6 +10562,7 @@
     </variations>
   </product>
   <product>
+    <id>91509113-fcef-236e-9813-b95c4618abd8</id>
     <name>Leonardo Uomo Πουκάμισο Καρό</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-πουκάμισο-καρό-4</link>
@@ -10441,6 +10606,7 @@
     </variations>
   </product>
   <product>
+    <id>c3c8c4fd-c49e-c5ea-54da-0c380cf018f7</id>
     <name>Leonardo Uomo Πουκάμισο Καρό</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-πουκάμισο-καρό-5</link>
@@ -10484,6 +10650,7 @@
     </variations>
   </product>
   <product>
+    <id>52f0fc4f-5d36-d201-072b-ddf11607b661</id>
     <name>Leonardo Uomo Πουκάμισο Καρό</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-πουκάμισο-καρό-7</link>
@@ -10527,6 +10694,7 @@
     </variations>
   </product>
   <product>
+    <id>931482fb-cd94-0073-139f-ce83249730f3</id>
     <name>Leonardo Uomo Πουκάμισο Λευκό</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-πουκάμισο-λευκό</link>
@@ -10606,6 +10774,7 @@
     </variations>
   </product>
   <product>
+    <id>a3619a53-7372-a550-28bf-43027fa1f128</id>
     <name>Leonardo Uomo Πουκάμισο Μαύρο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-πουκάμισο-μαύρο</link>
@@ -10685,6 +10854,7 @@
     </variations>
   </product>
   <product>
+    <id>829f2cdb-f2ba-25c9-a557-2ae6224d5e34</id>
     <name>LEONARDO UOMO Σακάκι</name>
     <category><![CDATA[ΚΛΑΣΙΚΑ > Σακάκια]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-σακάκι</link>
@@ -10791,6 +10961,7 @@
     </variations>
   </product>
   <product>
+    <id>cce17f16-3a55-0d2e-8882-1a9abe74edf7</id>
     <name>Leryn-71 Jeans Edward</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/leryn-71-jeans</link>
@@ -10843,6 +11014,7 @@
     </variations>
   </product>
   <product>
+    <id>77989206-0855-69f3-8416-cf967d07be99</id>
     <name>LEVI'S  721 High Rise</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-721-high-rise</link>
@@ -10941,6 +11113,7 @@
     </variations>
   </product>
   <product>
+    <id>9f72cd55-a748-d93f-0cb4-131167cfcc7f</id>
     <name>Levi's - Jean Levis 751</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-jean-levis-751</link>
@@ -10975,6 +11148,7 @@
     </variations>
   </product>
   <product>
+    <id>ef09cf28-6b39-6d76-f21f-7428c27f32d8</id>
     <name>Levi's 501</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-501</link>
@@ -11055,6 +11229,7 @@
     </variations>
   </product>
   <product>
+    <id>732963c9-dc18-1492-da8b-f194e1fa6c88</id>
     <name>Levi's 501 Crop Opposites Straight Fit</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-501-crop-opposites-straight-fit</link>
@@ -11118,6 +11293,7 @@
     </variations>
   </product>
   <product>
+    <id>a75005e3-0f75-4385-dc6d-e51d6c779fcd</id>
     <name>Levi's 501 CT Customized</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-501-ct-customized</link>
@@ -11189,6 +11365,7 @@
     </variations>
   </product>
   <product>
+    <id>128f9435-5807-7247-eee3-1c1e979796ed</id>
     <name><![CDATA[LEVI'S 501 CT Customized & Tapered Celebration]]></name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-501-ct-customized-tapered-celebration</link>
@@ -11224,6 +11401,7 @@
     </variations>
   </product>
   <product>
+    <id>d47041dc-68ce-fe14-7e03-bc4864c72803</id>
     <name>Levi's 501 Original</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-501-original-1</link>
@@ -11259,6 +11437,7 @@
     </variations>
   </product>
   <product>
+    <id>5a1407b7-ad0d-12b6-ba37-942c844af962</id>
     <name>Levi's 501 Original</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-501-original-2</link>
@@ -11285,6 +11464,7 @@
     </variations>
   </product>
   <product>
+    <id>371fc283-0361-3e1a-b378-b58895ea83d9</id>
     <name>Levi's 501 Original</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-501-original-4</link>
@@ -11374,6 +11554,7 @@
     </variations>
   </product>
   <product>
+    <id>5af17437-dcb9-5e0f-a668-b8aeea8d4eca</id>
     <name>Levi's 501 Original</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-501-original-5</link>
@@ -11400,6 +11581,7 @@
     </variations>
   </product>
   <product>
+    <id>e32aafc3-8833-43e0-2572-3fe339b4804f</id>
     <name>Levi's 501 Skinny</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-501-skinny</link>
@@ -11453,6 +11635,7 @@
     </variations>
   </product>
   <product>
+    <id>86d8154d-b567-604c-c72f-e165196c87dc</id>
     <name>Levi's 506 Regular Fit</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-506-regular-fit</link>
@@ -11479,6 +11662,7 @@
     </variations>
   </product>
   <product>
+    <id>3565a1bc-0566-c449-9340-8c25e53576c1</id>
     <name>Levi's 511 COMMUTER 19151-0005  SLIM FIT</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-511-commuter-19151-0005-slim-fit</link>
@@ -11505,6 +11689,7 @@
     </variations>
   </product>
   <product>
+    <id>b4ce8259-294c-a6bd-d715-af421ec09749</id>
     <name>Levi's 511 Selvage Denim Slim Fit</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-511-selvage-denim-slim-fit</link>
@@ -11541,6 +11726,7 @@
     </variations>
   </product>
   <product>
+    <id>3d1c4ba8-c946-53c4-2681-405f4518789b</id>
     <name>Levi's 519 Skinny Fit</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-519-skinny-fit</link>
@@ -11576,6 +11762,7 @@
     </variations>
   </product>
   <product>
+    <id>9130b51d-9bb5-a8d7-9c48-be600e0e443e</id>
     <name>Levi's 527 Slim BootCut</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-527-slim-bootcut</link>
@@ -11602,6 +11789,7 @@
     </variations>
   </product>
   <product>
+    <id>f847e614-bf34-d3f7-dfbe-4358ecc9d3b1</id>
     <name>Levi's 581 Red Tab Standard Fit</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-581-red-tab-standard-fit</link>
@@ -11628,6 +11816,7 @@
     </variations>
   </product>
   <product>
+    <id>849a50e2-498e-ef63-2a53-ef310f832c61</id>
     <name>Levi's 721 Skinny Fit</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-721-skinny-fit</link>
@@ -11735,6 +11924,7 @@
     </variations>
   </product>
   <product>
+    <id>97758161-7244-517a-af05-2d65ca6da832</id>
     <name>Levi's Men's 751 Standard Fit Jeans</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-men-s-751-standard-fit-jeans</link>
@@ -11771,6 +11961,7 @@
     </variations>
   </product>
   <product>
+    <id>e3145bab-b7cc-68d8-29f0-23f3f32dae9f</id>
     <name>Levi's Regular Straight Contrail</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-regular-straight-contrail</link>
@@ -11797,6 +11988,7 @@
     </variations>
   </product>
   <product>
+    <id>f4f0d4ed-b59b-cf42-4d41-820c0d11d43e</id>
     <name>LEVI'S RELAXD GRAPHIC SERIF HOODIE</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/relaxd-graphic-serif-hoodie</link>
@@ -11841,6 +12033,7 @@
     </variations>
   </product>
   <product>
+    <id>d37f3fb6-dc7e-be6d-5468-3d300ac97e8a</id>
     <name>LEVI'S SHERPA</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Μπουφάν]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-sherpa</link>
@@ -11878,6 +12071,7 @@
     </variations>
   </product>
   <product>
+    <id>09aaa652-d7ed-4eef-0d3f-2898b3be9efa</id>
     <name>Levi's Standard 506</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-standard-506</link>
@@ -11913,6 +12107,7 @@
     </variations>
   </product>
   <product>
+    <id>8c37b284-bac9-7fb0-b0d2-8dff50096c68</id>
     <name>LEVI'S® 724 HIGH-RISE STRAIGHT HYPERSOFT</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-724-high-rise-straight-hypersoft</link>
@@ -12011,6 +12206,7 @@
     </variations>
   </product>
   <product>
+    <id>3edeab35-dadc-2a08-ddb2-0535c21aa3ab</id>
     <name>LEVI'S® ΤΖΙΝ 720™ High Rise Super Skinny</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-τζιν-720-high-rise-super-skinny</link>
@@ -12074,6 +12270,7 @@
     </variations>
   </product>
   <product>
+    <id>6513d58c-94f5-4e32-e994-5f96a94dd3f0</id>
     <name>Levis  504 Regular Straight Fit</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levis-504-regular-straight-fit</link>
@@ -12100,6 +12297,7 @@
     </variations>
   </product>
   <product>
+    <id>6fe90594-4a5e-9efb-bf3e-cabced487428</id>
     <name>LEVIS 501 00501 1727</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levis-501-00501-1727</link>
@@ -12126,6 +12324,7 @@
     </variations>
   </product>
   <product>
+    <id>9514cdc4-a39a-b284-1e29-734f683c040d</id>
     <name>Levis 581 06 Jeans vintage Red Tab</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levis-581-06-jeans-vintage-red-tab</link>
@@ -12152,6 +12351,7 @@
     </variations>
   </product>
   <product>
+    <id>bda48270-1951-293d-d8f7-fa30ce174586</id>
     <name>Levis Demi Curve</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/levis-demi-curve</link>
@@ -12187,6 +12387,7 @@
     </variations>
   </product>
   <product>
+    <id>d9a03e7a-8af6-2504-106c-6b1c53eae2d1</id>
     <name>Levis demi curve 05703 0636</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/levis-demi-curve-05703-0636</link>
@@ -12213,6 +12414,7 @@
     </variations>
   </product>
   <product>
+    <id>608166a5-f113-2d43-d15e-cfb3067d14ee</id>
     <name>Levis Line 8 Jeans Men Slim Straight</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levis-line-8-jeans-men-slim-straight</link>
@@ -12266,6 +12468,7 @@
     </variations>
   </product>
   <product>
+    <id>587e44ed-7eac-d3c6-7bea-442d94c978e7</id>
     <name>Levis Slight Curve Skinny</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/levis-slight-curve-skinny</link>
@@ -12310,6 +12513,7 @@
     </variations>
   </product>
   <product>
+    <id>b328b5ef-4def-7cd6-e2a0-e3f5d493dfb8</id>
     <name>Levi´s® 501® Original</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-501-original-6</link>
@@ -12471,6 +12675,7 @@
     </variations>
   </product>
   <product>
+    <id>d2888bb6-2a71-1030-98d9-e8fa1cf42d35</id>
     <name>LEVI’S 045114216</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-045114216</link>
@@ -12532,6 +12737,7 @@
     </variations>
   </product>
   <product>
+    <id>b3dde6d9-e8f7-2a9a-7515-6a7456e3a269</id>
     <name>LEVI’S® 501® Crop</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/levi-s-501-crop</link>
@@ -12576,6 +12782,7 @@
     </variations>
   </product>
   <product>
+    <id>83ddc754-422f-f0e4-688a-c074759a3111</id>
     <name>LGS-3021 ΜΠΛΕ ΣΚΟΥΡΟ</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Κασκόλ]]></category>
     <link>https://www.onikshop.gr/product-page/lgs-3021-μπλε-σκουρο</link>
@@ -12601,6 +12808,7 @@
     </variations>
   </product>
   <product>
+    <id>7eb3566b-4a34-d9e8-c534-f146fe335f98</id>
     <name>Liandro-201 Shirt Edward</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/liandro-201-shirt-edward</link>
@@ -12672,6 +12880,7 @@
     </variations>
   </product>
   <product>
+    <id>99412899-4e3e-0f2b-2e82-ea8aa64492bd</id>
     <name>Liddy-Vi Edward</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/liddy-vi-edward</link>
@@ -12706,6 +12915,7 @@
     </variations>
   </product>
   <product>
+    <id>c1355c68-d3e4-3e8e-28c5-897edeef13f2</id>
     <name>LOGO TEE IN OFF WHITE</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > T-Shirts Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/logo-tee-in-off-white</link>
@@ -12740,6 +12950,7 @@
     </variations>
   </product>
   <product>
+    <id>03c74a39-b02f-0a76-670b-4f3d16464b69</id>
     <name>LOSAN Ανδρικό ασπρόμαυρο κοντομάνικο πουκάμισο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/losan-ανδρικό-ασπρόμαυρο-κοντομάνικο-πουκάμισο</link>
@@ -12811,6 +13022,7 @@
     </variations>
   </product>
   <product>
+    <id>07b657b8-3d30-44c4-89ba-6d7a12b60e6c</id>
     <name>LOSAN Ανδρικό μαύρο μπουφάν 22K-2014AL</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Μπουφάν]]></category>
     <link>https://www.onikshop.gr/product-page/losan-ανδρικό-μαύρο-μπουφάν-22k-2014al</link>
@@ -12866,6 +13078,7 @@
     </variations>
   </product>
   <product>
+    <id>ae1aca16-3f28-9c7b-0b65-52f42b6b7abd</id>
     <name>LOSAN Ανδρικό με σχέδια κοντομάνικο πουκάμισο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/losan-ανδρικό-με-σχέδια-κοντομάνικο-πουκάμισο</link>
@@ -12927,6 +13140,7 @@
     </variations>
   </product>
   <product>
+    <id>517a8904-ee1d-a5f5-67d7-cf71ebc2e611</id>
     <name>Losan Μαγιό</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Μαγιό]]></category>
     <link>https://www.onikshop.gr/product-page/losan-μαγιό</link>
@@ -12998,6 +13212,7 @@
     </variations>
   </product>
   <product>
+    <id>8be74ed7-26b3-3613-8bde-5599b9b5faac</id>
     <name>Losan Μαγιό</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Μαγιό]]></category>
     <link>https://www.onikshop.gr/product-page/losan-μαγιό-1</link>
@@ -13069,6 +13284,7 @@
     </variations>
   </product>
   <product>
+    <id>204478ed-8b47-9fa9-95d1-01787ade8c98</id>
     <name>MARICO</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/marico</link>
@@ -13140,6 +13356,7 @@
     </variations>
   </product>
   <product>
+    <id>16d6d97c-9cc9-5b85-ce5f-dae06064804a</id>
     <name>MOM JEANS IN ICE ICE BABY WRANGLER</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/mom-jeans-in-ice-ice-baby</link>
@@ -13185,6 +13402,7 @@
     </variations>
   </product>
   <product>
+    <id>4ab1910e-d549-11ad-aa60-cf9e739a4170</id>
     <name>Mrt Martini 10975</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/mrt-martini-10975</link>
@@ -13259,6 +13477,7 @@
     </variations>
   </product>
   <product>
+    <id>45f30581-82fd-8a09-eedc-6dd0ef99e79e</id>
     <name>Mrt Martini 10994</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/mrt-martini-10994</link>
@@ -13323,6 +13542,7 @@
     </variations>
   </product>
   <product>
+    <id>14fb9b31-c767-7f90-fdf0-35b8ca4525d9</id>
     <name>Mrt Martini 10997</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/mrt-martini-10997</link>
@@ -13386,6 +13606,7 @@
     </variations>
   </product>
   <product>
+    <id>f8b124f3-4b2c-c594-766f-ff6c23908725</id>
     <name>Mrt Martini 11056</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/mrt-martini-11056</link>
@@ -13449,6 +13670,7 @@
     </variations>
   </product>
   <product>
+    <id>48ec4fbb-c790-4c4c-ea50-0052a7ec1d00</id>
     <name>MRT MARTINI T-Shirt Oversized με τύπωμα ENERGY colorful</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -13512,6 +13734,7 @@
     </variations>
   </product>
   <product>
+    <id>f09e7f0d-f764-ddba-dc1b-2f20d1b19c47</id>
     <name>MRT Martini T-Shirt κολλεγίου με αλυσίδα εμπρός – Μαύρο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/t-shirt-κολλεγίου-με-αλυσίδα-εμπρός-μαύρο</link>
@@ -13583,6 +13806,7 @@
     </variations>
   </product>
   <product>
+    <id>9309c53a-4560-2d9e-60e3-cdd248264efb</id>
     <name>MRT Martini T-Shirt με τύπωμα inspire mrtn – Μαύρο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -13655,6 +13879,7 @@
     </variations>
   </product>
   <product>
+    <id>06e1faeb-e42b-74e8-46d3-e586387c6736</id>
     <name>MRT Martini T-Shirt με τύπωμα Logo MRT MARTINI – Navy Blue</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -13727,6 +13952,7 @@
     </variations>
   </product>
   <product>
+    <id>e12035a2-12de-5b41-e720-ed9ac383cf80</id>
     <name>MRT Martini T-Shirt τύπωμα SEARCH – RESCUE – Μαύρο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -13799,6 +14025,7 @@
     </variations>
   </product>
   <product>
+    <id>6efafb62-cf04-59c8-9a42-29aa7aec65c1</id>
     <name>MRT Martini Βερμούδα τύπωμα Stripes</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/mrt-martini-βερμούδα-τύπωμα-stripes</link>
@@ -13861,6 +14088,7 @@
     </variations>
   </product>
   <product>
+    <id>3b317af5-f38c-f9bf-c44c-fd8a2d2d7b10</id>
     <name>MRT Martini Παντελόνι Cargo με jean ύφασμα και αλυσίδα – Μαύρο</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Army]]></category>
     <link>https://www.onikshop.gr/product-page/mrt-martini-παντελόνι-cargo-με-jean-ύφασμα-και-αλυσίδα-μαύρο</link>
@@ -13933,6 +14161,7 @@
     </variations>
   </product>
   <product>
+    <id>ee4b3bdc-f231-5237-a9a7-b5e313d03e14</id>
     <name>MRT Martini Πουκάμισο με αλυσίδα και Mao γιακά – Μαύρο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/mrt-martini-πουκάμισο-με-αλυσίδα-και-mao-γιακά-μαύρο</link>
@@ -13995,6 +14224,7 @@
     </variations>
   </product>
   <product>
+    <id>0a92c1f2-1a48-aa7c-3fb1-b4d4671630d4</id>
     <name>MRT Martini Πουκάμισο με τσέπη και Mao γιακά – Λευκό</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/mrt-martini-πουκάμισο-με-τσέπη-και-mao-γιακά-λευκό</link>
@@ -14066,6 +14296,7 @@
     </variations>
   </product>
   <product>
+    <id>7f941efb-d87c-82e3-953b-bd951cbd8a07</id>
     <name>NEPAL Heavy Tools</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Μπουφάν]]></category>
     <link>https://www.onikshop.gr/product-page/nepal</link>
@@ -14128,6 +14359,7 @@
     </variations>
   </product>
   <product>
+    <id>fdc2c9cd-2e14-25f3-da36-aeae8dfc12da</id>
     <name>NEW GRAPHIC CREWNECK SWEATSHIRT</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Φούτερ Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/new-graphic-crewneck-sweatshirt</link>
@@ -14154,6 +14386,7 @@
     </variations>
   </product>
   <product>
+    <id>4443d29d-5a77-7100-ea3e-efb509f8798a</id>
     <name>Oba T-shirt</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > T-Shirts Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/oba-t-shirt</link>
@@ -14186,6 +14419,7 @@
     </variations>
   </product>
   <product>
+    <id>f89f059e-dcc3-c80e-2b39-4e35ed83d617</id>
     <name>Onyx-070 Jeans Edward</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/onyx-070-jeans-edward</link>
@@ -14229,6 +14463,7 @@
     </variations>
   </product>
   <product>
+    <id>86581c62-0d5a-f5f6-f4f6-e9339952ae8c</id>
     <name>P/Club POLO</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
     <link>https://www.onikshop.gr/product-page/p-club</link>
@@ -14280,6 +14515,7 @@
     </variations>
   </product>
   <product>
+    <id>e585b1d3-b225-2ed0-a145-f8a14801e521</id>
     <name>Paco Mood</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > T-Shirts Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/paco-mood</link>
@@ -14333,6 +14569,7 @@
     </variations>
   </product>
   <product>
+    <id>18b3d54d-0ffb-0239-db81-2d8d88ea77a5</id>
     <name>Paco MOOD 2</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > T-Shirts Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/paco-mood-2</link>
@@ -14386,6 +14623,7 @@
     </variations>
   </product>
   <product>
+    <id>986052de-17f8-818a-5a25-87aaa42eb782</id>
     <name>Patrice-L Edward</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/patrice-l-edward</link>
@@ -14440,6 +14678,7 @@
     </variations>
   </product>
   <product>
+    <id>0779a2da-0e9d-853e-ba29-b97ca9cf86ba</id>
     <name>PIQUE POLO LEE BLACK</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
     <link>https://www.onikshop.gr/product-page/pique-polo-ανδρικη-μπλουζα-lee-black</link>
@@ -14492,6 +14731,7 @@
     </variations>
   </product>
   <product>
+    <id>2a7a9eac-eb19-277c-3af5-942975317c70</id>
     <name>Raith-N33 Jeans Edward POLO</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/raith-n33-jeans</link>
@@ -14518,6 +14758,7 @@
     </variations>
   </product>
   <product>
+    <id>0e8b3058-47f4-bc8c-be74-c47e6c1873da</id>
     <name>Regular Fit: denim shorts s.Oliver</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/regular-fit-denim-shorts</link>
@@ -14616,6 +14857,7 @@
     </variations>
   </product>
   <product>
+    <id>f499e7da-dbb1-eca8-8743-e73f00c7714c</id>
     <name>Regular: Denim shorts s.Oliver</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/regular-denim-shorts</link>
@@ -14714,6 +14956,7 @@
     </variations>
   </product>
   <product>
+    <id>7fd5a158-6f19-ccf3-504d-43a657310ba4</id>
     <name>RELAXED GRAPHIC SERIF LOGO HOODIE MAN BORDEAUX ORANGE</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/relaxed-graphic-serif-logo-hoodie-man-bordeaux-orange</link>
@@ -14749,6 +14992,7 @@
     </variations>
   </product>
   <product>
+    <id>3bb54636-3b26-d836-bd3b-b1cdda014012</id>
     <name>RUHELLO JACKET NAVY CELIO</name>
     <category><![CDATA[<br>
 ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Αμάνικο]]></category>
@@ -14794,6 +15038,7 @@
     </variations>
   </product>
   <product>
+    <id>071e6e0f-5ae3-cd1c-14b5-5d666abf27aa</id>
     <name>S.Oliver 2057715</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-2057715</link>
@@ -14847,6 +15092,7 @@
     </variations>
   </product>
   <product>
+    <id>42e2c878-dbb0-c848-4916-ad62e6920329</id>
     <name>s.Oliver Cotton piqué polo shirt</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-cotton-piqué-polo-shirt</link>
@@ -14919,6 +15165,7 @@
     </variations>
   </product>
   <product>
+    <id>69161cc7-209f-5814-868d-4eec8cfd4250</id>
     <name>s.Oliver Detroit Χαλαρή εφαρμογή: λινό παντελόνι</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Υφασμάτινα]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-χαλαρή-εφαρμογή-λινό-παντελόνι</link>
@@ -15009,6 +15256,7 @@
     </variations>
   </product>
   <product>
+    <id>12dd43c7-2042-6de7-02d5-b563c47967b4</id>
     <name>s.Oliver Hoodie with a logo print</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-hoodie-with-a-logo-print</link>
@@ -15079,6 +15327,7 @@
     </variations>
   </product>
   <product>
+    <id>536b3383-3735-601b-fcff-47c8ead8a838</id>
     <name>s.Oliver Jeans mit Cargotaschen</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Army]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-jeans-mit-cargotaschen</link>
@@ -15177,6 +15426,7 @@
     </variations>
   </product>
   <product>
+    <id>34facf2c-3fa4-c693-5e01-809330d7fa6c</id>
     <name>s.Oliver Loose fit: jeans in a five-pocket design</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-loose-fit-jeans-in-a-five-pocket-design</link>
@@ -15278,6 +15528,7 @@
     </variations>
   </product>
   <product>
+    <id>21118d2c-694c-6c05-0679-24c4f8c29be7</id>
     <name>s.Oliver Polo shirt with logo embroidery</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery</link>
@@ -15306,6 +15557,7 @@
     </variations>
   </product>
   <product>
+    <id>7c174d1f-9aa0-980b-317a-fbd004f262f0</id>
     <name>s.Oliver Polo shirt with logo embroidery</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-1</link>
@@ -15378,6 +15630,7 @@
     </variations>
   </product>
   <product>
+    <id>d8e1eb11-4b3e-a777-fbd0-4a60297ef0f2</id>
     <name>s.Oliver Polo shirt with logo embroidery</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-2</link>
@@ -15451,6 +15704,7 @@
     </variations>
   </product>
   <product>
+    <id>e7922419-26ce-1aca-25e9-444ca905b3d5</id>
     <name>s.Oliver Polo shirt with logo embroidery</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-3</link>
@@ -15523,6 +15777,7 @@
     </variations>
   </product>
   <product>
+    <id>706e7b95-6c87-8dd5-8849-ea5ce4996894</id>
     <name>s.Oliver Polo shirt with logo embroidery</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-polo-shirt-with-logo-embroidery-4</link>
@@ -15596,6 +15851,7 @@
     </variations>
   </product>
   <product>
+    <id>0589e483-4ebe-bd85-41a9-717a312678d8</id>
     <name>s.Oliver Regular fit: trousers made of stretch cotton</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Τσίνος]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-regular-fit-trousers-made-of-stretch-cotton</link>
@@ -15697,6 +15953,7 @@
     </variations>
   </product>
   <product>
+    <id>35bbd237-4088-060f-0af6-18ab2a292b99</id>
     <name>s.Oliver Regular: shirt with a check pattern</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-regular-shirt-with-a-check-pattern</link>
@@ -15761,6 +16018,7 @@
     </variations>
   </product>
   <product>
+    <id>71163052-9cfb-1f59-cf74-538743ed50f7</id>
     <name>s.Oliver Skinny: skinny leg stretch jeans</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-skinny-skinny-leg-stretch-jeans</link>
@@ -15806,6 +16064,7 @@
     </variations>
   </product>
   <product>
+    <id>34041c81-3528-82d6-2060-6913b5b0efc7</id>
     <name>s.Oliver Slim fit: jeans with a garment wash 54Z4 Rick</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-jeans-with-a-garment-wash</link>
@@ -15862,6 +16121,7 @@
     </variations>
   </product>
   <product>
+    <id>8476184f-6a1c-20c0-ad6e-a642c88f888c</id>
     <name>s.Oliver Slim fit: jeans with a garment wash 58Z4. Rick</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-jeans-with-a-garment-wash-58z4-rick</link>
@@ -15926,6 +16186,7 @@
     </variations>
   </product>
   <product>
+    <id>f5aeae1e-2bb4-5ec0-9f06-909e9bd7a0e4</id>
     <name>s.Oliver Slim fit: stretch chinos</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Τσίνος]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-slim-fit-stretch-chinos</link>
@@ -16025,6 +16286,7 @@
     </variations>
   </product>
   <product>
+    <id>1f8ebd69-30b5-7bf1-2153-8ef45b5997cc</id>
     <name>s.Oliver Slim Rick 57Z4 fit: jeans with a garment wash</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-slim-rick-57z4-fit-jeans-with-a-garment-wash</link>
@@ -16079,6 +16341,7 @@
     </variations>
   </product>
   <product>
+    <id>f4da2aae-ea7f-9287-aece-f3b4999ec6b5</id>
     <name>s.Oliver Slim: Jeans mit Waschung Keith</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-slim-jeans-mit-waschung</link>
@@ -16151,6 +16414,7 @@
     </variations>
   </product>
   <product>
+    <id>04b6d3ca-7166-84dd-00ce-d8537785623a</id>
     <name>s.Oliver Slim: slim leg jeans 57Z5 RICK</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-slim-slim-leg-jeans-57z5-rick</link>
@@ -16206,6 +16470,7 @@
     </variations>
   </product>
   <product>
+    <id>f0d4bccd-406e-ba28-9cfb-d4f65548c63a</id>
     <name>s.Oliver T-shirt with a front print  lemon</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-lemon</link>
@@ -16279,6 +16544,7 @@
     </variations>
   </product>
   <product>
+    <id>4f50571a-c897-a0a6-ada5-68ec896671cb</id>
     <name>s.Oliver T-shirt with a front print Blue</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-blue</link>
@@ -16324,6 +16590,7 @@
     </variations>
   </product>
   <product>
+    <id>2b6f5ec7-12c3-d98a-7d91-10e99e84a65c</id>
     <name>s.Oliver T-shirt with a front print cranberry</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-cranberry</link>
@@ -16396,6 +16663,7 @@
     </variations>
   </product>
   <product>
+    <id>c449a182-3386-1f87-0422-69c47fa76000</id>
     <name>s.Oliver T-shirt with a front print Lavender</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print</link>
@@ -16468,6 +16736,7 @@
     </variations>
   </product>
   <product>
+    <id>1ffb2e10-6879-64a2-c84e-3b3540fbcd73</id>
     <name>s.Oliver T-shirt with a front print pale green</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pale-green</link>
@@ -16513,6 +16782,7 @@
     </variations>
   </product>
   <product>
+    <id>1f2c78f9-f9b3-b4f4-626d-d6f06847ffe3</id>
     <name>s.Oliver T-shirt with a front print pastel turquoise</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pastel-turquoise</link>
@@ -16586,6 +16856,7 @@
     </variations>
   </product>
   <product>
+    <id>38c39ff2-e991-523f-9e08-eed3fd48e06a</id>
     <name>s.Oliver T-shirt with a front print Pink</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-t-shirt-with-a-front-print-pink</link>
@@ -16658,6 +16929,7 @@
     </variations>
   </product>
   <product>
+    <id>4a1149c7-8e50-f1c0-7031-5fc5ff9eac9e</id>
     <name>S.Oliver Ανδρικό Παντελόνι Τζιν σε Ίσια Γραμμή Γκρι</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/s-oliver-ανδρικό-παντελόνι-τζιν-σε-ίσια-γραμμή-γκρι</link>
@@ -16703,6 +16975,7 @@
     </variations>
   </product>
   <product>
+    <id>240efc1c-1e74-ba19-96b1-01a61c531f2f</id>
     <name>SCARLETT HIGH IN MID COPAN LEE</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/scarlett-high-in-mid-copan</link>
@@ -16764,6 +17037,7 @@
     </variations>
   </product>
   <product>
+    <id>ce8656f2-5442-b97a-dcff-297af4fcc56c</id>
     <name>SCARLETT IN BLACK RINSE LEE</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/scarlett-in-black-rinse</link>
@@ -16807,6 +17081,7 @@
     </variations>
   </product>
   <product>
+    <id>a8fcf670-d143-b91f-ed09-9b22deb5df8a</id>
     <name>Seath-Sds Jeans Edward</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/seath-sds-jeans-edward</link>
@@ -16914,6 +17189,7 @@
     </variations>
   </product>
   <product>
+    <id>79d26637-679b-dc24-8d46-e35cd3d60b2c</id>
     <name>Shirt Man White Levis - 866250002</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα<br>
  ]]></category>
@@ -16977,6 +17253,7 @@
     </variations>
   </product>
   <product>
+    <id>f01e7d7f-41b7-854e-46c8-4e8e9ed4dd4f</id>
     <name>Skinny Fit 501 Levis</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/skinny-fit-501-levis</link>
@@ -17002,6 +17279,7 @@
     </variations>
   </product>
   <product>
+    <id>0b97d7ab-184f-b2c9-ecc6-30063e195236</id>
     <name>Slim Fit 712 Levis</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/slim-fit-712-levis</link>
@@ -17118,6 +17396,7 @@
     </variations>
   </product>
   <product>
+    <id>ca3aff74-ca97-2d48-cdbb-bc45082401ed</id>
     <name>Sweatshirt Lee Wobbly</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/sweatshirt-lee-wobbly</link>
@@ -17178,6 +17457,7 @@
     </variations>
   </product>
   <product>
+    <id>8381a146-8be1-c2ab-29e3-8a8029e269a3</id>
     <name>SWIMWEAR Heavy Tools Julian</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Μαγιό]]></category>
     <link>https://www.onikshop.gr/product-page/swimwear-heavy-tools-julian</link>
@@ -17212,6 +17492,7 @@
     </variations>
   </product>
   <product>
+    <id>81877603-6ea0-7e16-082d-7036e51cb43a</id>
     <name>SWIMWEAR Heavy Tools Jutas</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Μαγιό]]></category>
     <link>https://www.onikshop.gr/product-page/swimwear-heavy-tools-jutas</link>
@@ -17238,6 +17519,7 @@
     </variations>
   </product>
   <product>
+    <id>d3cb7d5d-0bfc-869e-fa36-4adebaf955fa</id>
     <name>SWIMWEAR Losan Amarillo Muestra</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Μαγιό]]></category>
     <link>https://www.onikshop.gr/product-page/swimwear-losan-amarillo-muestra</link>
@@ -17299,6 +17581,7 @@
     </variations>
   </product>
   <product>
+    <id>aa241ef7-848f-9395-b586-4be321ee72cc</id>
     <name>SWIMWEAR Losan Casual INDIGO</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Μαγιό]]></category>
     <link>https://www.onikshop.gr/product-page/swimwear-losan-casual-indigo</link>
@@ -17360,6 +17643,7 @@
     </variations>
   </product>
   <product>
+    <id>8b1edc66-c9cd-533f-d694-4b536ec02c12</id>
     <name>SWIMWEAR Losan Marino</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Μαγιό]]></category>
     <link>https://www.onikshop.gr/product-page/swimwear-losan-marino</link>
@@ -17412,6 +17696,7 @@
     </variations>
   </product>
   <product>
+    <id>32f1ff2a-023a-0b5e-a5ae-863499791260</id>
     <name>SWIMWEAR Losan Muestra</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Μαγιό]]></category>
     <link>https://www.onikshop.gr/product-page/swimwear-losan-muestra</link>
@@ -17464,6 +17749,7 @@
     </variations>
   </product>
   <product>
+    <id>8c804699-aadb-0f0b-cf5d-008d86e5d260</id>
     <name>T-SHIRT DIVERSE DAKAR - LOGO 1</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/t-shirt-diverse-dakar-logo-1</link>
@@ -17527,6 +17813,7 @@
     </variations>
   </product>
   <product>
+    <id>b56ce980-66a2-1d98-1827-e13a599a8734</id>
     <name>T-shirt with a logo print  jersey</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-jersey</link>
@@ -17599,6 +17886,7 @@
     </variations>
   </product>
   <product>
+    <id>8957ee46-0d79-f16c-104a-543d9bcae527</id>
     <name>T-shirt with a logo print turquoise blue</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-turquoise-blue</link>
@@ -17672,6 +17960,7 @@
     </variations>
   </product>
   <product>
+    <id>6c2c94e1-5119-bd64-a814-360714dfd8a9</id>
     <name>T-shirt with a logo print White</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/t-shirt-with-a-logo-print-white</link>
@@ -17745,6 +18034,7 @@
     </variations>
   </product>
   <product>
+    <id>a2bc0404-823c-69fa-3387-8f0075b47c5c</id>
     <name>T-shirt with a round neckline s.Oliver</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/t-shirt-with-a-round-neckline</link>
@@ -17815,6 +18105,7 @@
     </variations>
   </product>
   <product>
+    <id>017a60e3-8e16-262c-ace3-1e01a028d60d</id>
     <name>T-SHIRT WRANGLER VARSITY TEE TURTLEDOVE</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -17896,6 +18187,7 @@
     </variations>
   </product>
   <product>
+    <id>3127c7e7-929b-796e-f67c-d8e983b0071c</id>
     <name>T-Shirt λαιμόκοψη MARTINI triple-stripes – Μπεζ</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/t-shirt-λαιμόκοψη-martini-triple-stripes-μπεζ</link>
@@ -17966,6 +18258,7 @@
     </variations>
   </product>
   <product>
+    <id>9128cf6d-4fde-3b78-ea93-2269f72da10c</id>
     <name>T-Shirt λαιμόκοψη τρέσα MARTINI Black – Λευκό</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/t-shirt-λαιμόκοψη-τρέσα-martini-black-λευκό</link>
@@ -18036,6 +18329,7 @@
     </variations>
   </product>
   <product>
+    <id>94872bdb-977d-1596-ba1d-2f3918151d1b</id>
     <name>Terry-531 Jeans Edward</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/terry-531-jeans</link>
@@ -18106,6 +18400,7 @@
     </variations>
   </product>
   <product>
+    <id>fd708253-f9de-6848-74c3-2704f7868815</id>
     <name>Terry-Cd Jeans Edward</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/terry-cd-jeans</link>
@@ -18131,6 +18426,7 @@
     </variations>
   </product>
   <product>
+    <id>eafcfe25-7889-50bc-4a1b-4349f80f98d9</id>
     <name>Terry-Distressed Jeans Edward</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/terry-distressed-jeans-edward</link>
@@ -18174,6 +18470,7 @@
     </variations>
   </product>
   <product>
+    <id>389e57ff-b3ec-7054-d064-7bcc7a4ef144</id>
     <name>Terry-Ma Edward</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/terry-ma-edward</link>
@@ -18219,6 +18516,7 @@
     </variations>
   </product>
   <product>
+    <id>e521d5e7-af44-831a-a138-5ba901a9d392</id>
     <name>THE FRED PERRY SHIRT</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο<br>
  ]]></category>
@@ -18285,6 +18583,7 @@
     </variations>
   </product>
   <product>
+    <id>90a537cd-1200-09f4-37c9-13ad4dbe8319</id>
     <name>Theodor-Msb Jeans Edward</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/theodor-msb-jeans</link>
@@ -18329,6 +18628,7 @@
     </variations>
   </product>
   <product>
+    <id>9a4a440b-92fd-2502-bf6d-c7103095c5a2</id>
     <name>VARSITY GRAPHIC TEE</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > T-Shirts Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/varsity-graphic-tee</link>
@@ -18372,6 +18672,7 @@
     </variations>
   </product>
   <product>
+    <id>4ee3196b-bd5b-1e4a-885d-1d0266dc9eae</id>
     <name>Vintage 507 Red Tab Coupe Standard Bootcut</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-507-red-tab-coupe-standard-bootcut</link>
@@ -18399,6 +18700,7 @@
     </variations>
   </product>
   <product>
+    <id>cd223eab-39f3-56fb-fddf-748ac39cec05</id>
     <name>Vintage 534 Levi's</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-levi-s-534-04-01</link>
@@ -18435,6 +18737,7 @@
     </variations>
   </product>
   <product>
+    <id>18a27e2e-d6e6-0e8b-9eec-bbedd2846d9c</id>
     <name>Vintage Ace Wrangler the regular</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-ace-wrangler-the-regular</link>
@@ -18470,6 +18773,7 @@
     </variations>
   </product>
   <product>
+    <id>c1d21bc9-36f3-97c3-aebe-c6d3c4070e27</id>
     <name>Vintage Crank Low Straight</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-crank-low-straight</link>
@@ -18496,6 +18800,7 @@
     </variations>
   </product>
   <product>
+    <id>31bcc1e1-cabe-9c1e-4e4b-d9dd1b9c56b6</id>
     <name>Vintage Levi's  515 Relaxed Fit</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-levi-s-1</link>
@@ -18521,6 +18826,7 @@
     </variations>
   </product>
   <product>
+    <id>b13ec13d-bd15-a9c3-fb0f-3278e239c604</id>
     <name>VINTAGE LEVI'S  534.02.85 BLACK SLIM FIT STRAIGHT LEG HIGH WAIST ORIGINAL</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-levi-s-jeans-levis-534-black-slim-fit-straight-leg-high-waist-original</link>
@@ -18560,6 +18866,7 @@
     </variations>
   </product>
   <product>
+    <id>9457bf7b-9f62-3416-2649-fbc15f0ded69</id>
     <name>VINTAGE LEVI'S 512 BOOTCUT JEANS</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-levi-s-512-bootcut-jeans</link>
@@ -18587,6 +18894,7 @@
     </variations>
   </product>
   <product>
+    <id>975367ff-74dc-6371-efad-29aa20809b0b</id>
     <name>Vintage Levi's 584 Red Tab</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-levi-s-584-red-tab</link>
@@ -18613,6 +18921,7 @@
     </variations>
   </product>
   <product>
+    <id>e3902c0d-e0f9-9fd3-e438-cac57af2f742</id>
     <name>Vintage Levi's 595 Κοτλέ</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-levi-s-595-κοτλέ</link>
@@ -18638,6 +18947,7 @@
     </variations>
   </product>
   <product>
+    <id>879ed36d-ffd4-7044-ef06-14688a685176</id>
     <name>Vintage Levi's Red Tab  Lot 525 Girls Slim Fit Bootcut</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-levi-s-red-tab-lot-525-girls-slim-fit-bootcut</link>
@@ -18674,6 +18984,7 @@
     </variations>
   </product>
   <product>
+    <id>7181d533-874b-c46d-629a-8064b8d8da9b</id>
     <name>Vintage Levi's Red Tab 525.04.87</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-levi-s-red-tab-525-04-87</link>
@@ -18700,6 +19011,7 @@
     </variations>
   </product>
   <product>
+    <id>ca342538-34c5-6967-450e-a25f62ff0f88</id>
     <name><![CDATA[Vintage Levi's Red Tab 595 Girls Slim & Streight Leg]]></name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-levi-s-red-tab-595-girls-slim-streight-leg</link>
@@ -18726,6 +19038,7 @@
     </variations>
   </product>
   <product>
+    <id>12747f1f-c1b0-56eb-af4d-7886f6e18e1e</id>
     <name>Vintage levi's Red Tub Lot #531 Fille Coupe Comfort Fermeture Zip Blue Indigo</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-levi-s-red-tub-lot-531-fille-coupe-comfort-fermeture-zip-blue-indigo</link>
@@ -18752,6 +19065,7 @@
     </variations>
   </product>
   <product>
+    <id>cfc2ebc6-23ec-a66b-4fca-134bb31474c5</id>
     <name>Vintage levi's Red Tub slim</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-levi-s-red-tub-slim</link>
@@ -18779,6 +19093,7 @@
     </variations>
   </product>
   <product>
+    <id>8b79e052-3426-17f1-8ffe-518a2f833d8c</id>
     <name>Vintage Levi's Κοτλέ 551</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-levi-s-κοτλέ-551</link>
@@ -18806,6 +19121,7 @@
     </variations>
   </product>
   <product>
+    <id>f309b73b-83fd-24fb-0516-ffbf186a7ced</id>
     <name>Vintage Retro Wrangler Bell Bottom hipster Gold Dust</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-retro-wrangler-bell-bottom-hipster-gold-dust</link>
@@ -18851,6 +19167,7 @@
     </variations>
   </product>
   <product>
+    <id>86b0449b-42b3-67fb-fa12-fc0c1c3bbd4d</id>
     <name>Vintage Wrangler 110010s stretch low waist Flare zip fly</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-wrangler-110010s-stretch-low-waist-flare-zip-fly</link>
@@ -18877,6 +19194,7 @@
     </variations>
   </product>
   <product>
+    <id>5ee6073d-0415-148f-3c65-6b855461c4b2</id>
     <name>Vintage Wrangler Authentic 70's Cut</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-wrangler-authentic-70-s-cut</link>
@@ -18912,6 +19230,7 @@
     </variations>
   </product>
   <product>
+    <id>d837f617-9f01-8e3b-1c14-a36e9ce86b77</id>
     <name>Vintage Wrangler crank the low straight</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-wrangler-crank-the-low-straight</link>
@@ -18947,6 +19266,7 @@
     </variations>
   </product>
   <product>
+    <id>33e0658c-562a-8a7c-ae46-ce3c083078ce</id>
     <name>Vintage Wrangler Crank The Low Straight Holey mole</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-wrangler-crank-the-low-straight-holey-mole</link>
@@ -18974,6 +19294,7 @@
     </variations>
   </product>
   <product>
+    <id>6095d44c-ed5f-9360-842a-68ccf6fc691e</id>
     <name>Vintage Wrangler Hipster Bootcut Stretch kate W21582039</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-wrangler-hipster-bootcut-stretch-kate-w21582039</link>
@@ -19000,6 +19321,7 @@
     </variations>
   </product>
   <product>
+    <id>c4bfd122-3d10-334d-e10e-b7ec05975557</id>
     <name>Vintage Wrangler Relaxed Fit Button fly</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/vintage-wrangler-relaxed-fit-button-fly</link>
@@ -19027,6 +19349,7 @@
     </variations>
   </product>
   <product>
+    <id>f8b72162-3e27-53dd-2d6b-efcd1b3dd10c</id>
     <name>Vista-533 Jeans Edward</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/vista-533-jeans-edward</link>
@@ -19079,6 +19402,7 @@
     </variations>
   </product>
   <product>
+    <id>2c1c00d4-007d-a408-dbc1-e6fbff942b9b</id>
     <name>WENGO22 Heavy Tools</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/wengo22</link>
@@ -19150,6 +19474,7 @@
     </variations>
   </product>
   <product>
+    <id>7da209ce-6fe8-eba2-e600-3b694f07e9b8</id>
     <name>WISTI22 Heavy Tools</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/wisti22</link>
@@ -19221,6 +19546,7 @@
     </variations>
   </product>
   <product>
+    <id>a737dfd0-729c-0d9d-62bd-082e02b1a01b</id>
     <name>Women's Lee European Collection Regular Graphic Tee</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > T-Shirts Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/women-s-lee-european-collection-regular-graphic-tee</link>
@@ -19264,6 +19590,7 @@
     </variations>
   </product>
   <product>
+    <id>00fec805-15d2-e4d9-0806-827453a388cc</id>
     <name>Wrangler 11MWZ 3 YEARS</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-11mwz-3-years</link>
@@ -19301,6 +19628,7 @@
     </variations>
   </product>
   <product>
+    <id>e48a6a8a-9bad-725a-64a0-08e8380e0c70</id>
     <name>WRANGLER 603 Women's Wild West</name>
     <category><![CDATA[ ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-603-women-s-wild-west</link>
@@ -19374,6 +19702,7 @@
     </variations>
   </product>
   <product>
+    <id>2bb0969f-0224-8c92-144e-96b50d970460</id>
     <name>Wrangler Ace Warm Indigo</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-ace-warm-indigo</link>
@@ -19418,6 +19747,7 @@
     </variations>
   </product>
   <product>
+    <id>ea520814-c245-ec2c-5c8f-6664660d9de8</id>
     <name>Wrangler Boxy</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ > T-Shirts Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-boxy</link>
@@ -19451,6 +19781,7 @@
     </variations>
   </product>
   <product>
+    <id>2d056c51-2603-c2ca-9886-743308842f40</id>
     <name>Wrangler Cotton T-Shirt</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -19523,6 +19854,7 @@
     </variations>
   </product>
   <product>
+    <id>ec855edf-7ed0-8a76-36bb-b54233efa451</id>
     <name>Wrangler Franklin Vintage</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-franklin-vintage</link>
@@ -19549,6 +19881,7 @@
     </variations>
   </product>
   <product>
+    <id>5d180c38-c252-1bdd-4710-273a386431a0</id>
     <name>Wrangler Greensboro 803 Blue Arcade</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-blue-arcade</link>
@@ -19666,6 +19999,7 @@
     </variations>
   </product>
   <product>
+    <id>0827b57c-f2df-13f2-917f-3928266fd951</id>
     <name>Wrangler Greensboro 803 BULLSEYE</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-greensboro-803-bullseye</link>
@@ -19720,6 +20054,7 @@
     </variations>
   </product>
   <product>
+    <id>badbc59e-53c3-ba30-4e2f-0d290dcffd37</id>
     <name>Wrangler Greensboro 803 Corduroy in Biscuit</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Κοτλέ]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-biscuit</link>
@@ -19846,6 +20181,7 @@
     </variations>
   </product>
   <product>
+    <id>5bc67a77-6d7f-5ba2-00c8-55c0827068ed</id>
     <name>Wrangler Greensboro 803 Corduroy in Fudge</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Κοτλέ]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-fudge</link>
@@ -19946,6 +20282,7 @@
     </variations>
   </product>
   <product>
+    <id>7a1ef34f-1e10-4e61-253b-7b1c30dfa8dd</id>
     <name>Wrangler Greensboro 803 Corduroy in Navy</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Κοτλέ]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-greensboro-corduroy-in-navy</link>
@@ -20091,6 +20428,7 @@
     </variations>
   </product>
   <product>
+    <id>a76d654e-de22-913f-1f32-a072f6df337a</id>
     <name>Wrangler Grensboro 803 Day Drifter</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-grensboro-803-day-drifter</link>
@@ -20235,6 +20573,7 @@
     </variations>
   </product>
   <product>
+    <id>1247ada9-f899-2650-4122-0aaf9297549e</id>
     <name>Wrangler Grensboro 803 High Stretch in Black Valley</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/grensboro-803-high-stretch-in-black-valley</link>
@@ -20352,6 +20691,7 @@
     </variations>
   </product>
   <product>
+    <id>a845d784-6dbf-2c8e-f7e4-fbaf440872d4</id>
     <name>Wrangler Hoodie Deep Lichen Green</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-hoodie-deep-lichen-green</link>
@@ -20432,6 +20772,7 @@
     </variations>
   </product>
   <product>
+    <id>535adcc8-5cac-1623-df81-bdd2b0348ccf</id>
     <name>Wrangler JEANS TEXAS STRETCH W121Y6XRE SMOKE</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Υφασμάτινα]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-jeans-texas-stretch-w121y6xre-smoke</link>
@@ -20503,6 +20844,7 @@
     </variations>
   </product>
   <product>
+    <id>527d2abd-3f6a-7343-afd4-501bc20d4754</id>
     <name>Wrangler Larston 812 Black Valley</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-larston-812-black-valley</link>
@@ -20602,6 +20944,7 @@
     </variations>
   </product>
   <product>
+    <id>c3cdadd4-6b41-12c9-90dd-0dec08c9eb41</id>
     <name>Wrangler Larston Country Boy</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-larston-country-boy</link>
@@ -20700,6 +21043,7 @@
     </variations>
   </product>
   <product>
+    <id>72f5f54f-83c7-b57f-a5e6-ce0824f1276b</id>
     <name>Wrangler Low Straight Crank</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-low-straight-crank</link>
@@ -20726,6 +21070,7 @@
     </variations>
   </product>
   <product>
+    <id>cc4b090e-1a6d-0c39-556e-5dda343b214b</id>
     <name>Wrangler Regular Tee Wornwhite</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ<br>
  > T-Shirts Γυναικεία]]></category>
@@ -20800,6 +21145,7 @@
     </variations>
   </product>
   <product>
+    <id>e74905e0-cad9-da86-0eff-7b0b7f6e5108</id>
     <name>Wrangler SIGN OFF TEE</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-sign-off-tee</link>
@@ -20844,6 +21190,7 @@
     </variations>
   </product>
   <product>
+    <id>45df2dbe-5e43-85b8-d080-5bc539da4599</id>
     <name>Wrangler SIGN OFF TEE</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-sign-off-tee-1</link>
@@ -20905,6 +21252,7 @@
     </variations>
   </product>
   <product>
+    <id>b65caf0e-68d8-f16f-c2bf-6cb41d0b00e3</id>
     <name>WRANGLER SLIM IN WAY OUT WEST</name>
     <category><![CDATA[ΓΥΝΑΙΚΕΙΑ > Jean Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-slim-in-way-out-west</link>
@@ -20995,6 +21343,7 @@
     </variations>
   </product>
   <product>
+    <id>180c1aaf-114f-2b82-29fe-e11026d4f7ca</id>
     <name>Wrangler Spencer Blue</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-spencer-blue</link>
@@ -21059,6 +21408,7 @@
     </variations>
   </product>
   <product>
+    <id>bb126050-39b3-b4e2-65c6-12f75bbeae14</id>
     <name>Wrangler Spencer Slim Streight Ripped Ashes</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-spencer-slim-streight-ripped-ashes</link>
@@ -21094,6 +21444,7 @@
     </variations>
   </product>
   <product>
+    <id>b166be86-c913-b273-cd8d-779b1aa44429</id>
     <name>Wrangler Texas 821 Low Stretch in The Mountain</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/texas-low-stretch-in-the-mountain</link>
@@ -21184,6 +21535,7 @@
     </variations>
   </product>
   <product>
+    <id>db6d9f63-cf68-cbbb-7bb8-be8e22b4d2af</id>
     <name>Wrangler Texas Electric Rodeo</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-texas-electric-rodeo</link>
@@ -21274,6 +21626,7 @@
     </variations>
   </product>
   <product>
+    <id>65fb0cfb-5d12-4e3d-bfff-7265c143a691</id>
     <name>Wrangler TheBroken Twill Spencer Vintage</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-thebroken-twill-spencer-vintage</link>
@@ -21300,6 +21653,7 @@
     </variations>
   </product>
   <product>
+    <id>68bae381-deae-be88-e826-a380812b866a</id>
     <name>Wrangler Ανδρικό T-shirt Navy Μπλε με Λογότυπο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-ανδρικό-t-shirt-navy-μπλε-με-λογότυπο</link>
@@ -21370,6 +21724,7 @@
     </variations>
   </product>
   <product>
+    <id>5676cecf-3dbd-c54f-7d9e-1839bc437acb</id>
     <name>Wrangler Ανδρικό T-shirt Κίτρινο με Λογότυπο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-ανδρικό-t-shirt-κίτρινο-με-λογότυπο</link>
@@ -21422,6 +21777,7 @@
     </variations>
   </product>
   <product>
+    <id>68ef75bf-34cb-8028-a37b-2d808e9da5f1</id>
     <name>Wrangler Ανδρικό T-shirt Κόκκινο με Λογότυπο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-ανδρικό-t-shirt-κόκκινο-με-λογότυπο</link>
@@ -21465,6 +21821,7 @@
     </variations>
   </product>
   <product>
+    <id>253c5b82-f91a-5ca0-26c9-ba4b611188cf</id>
     <name>Wrangler Ανδρικό T-shirt Λευκό με Λογότυπο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-ανδρικό-t-shirt-λευκό-με-λογότυπο</link>
@@ -21535,6 +21892,7 @@
     </variations>
   </product>
   <product>
+    <id>b788a5d8-e6b2-1e43-3a79-6c12d619af7c</id>
     <name>Wrangler Ανδρικό T-shirt Μαύρο με Λογότυπο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-ανδρικό-t-shirt-μαύρο-με-λογότυπο</link>
@@ -21578,6 +21936,7 @@
     </variations>
   </product>
   <product>
+    <id>e3929b9a-220b-19c6-50fd-60f8969bf155</id>
     <name>Wrangler Ανδρικό T-shirt Μαύρο με Λογότυπο</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-ανδρικό-t-shirt-μαύρο-με-λογότυπο-1</link>
@@ -21648,6 +22007,7 @@
     </variations>
   </product>
   <product>
+    <id>97da49b5-6ac0-2b34-436c-f3c659ea5ceb</id>
     <name>Wrangler Ανδρικό T-shirt Μπλε με Στάμπα</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-ανδρικό-t-shirt-μπλε-με-στάμπα</link>
@@ -21691,6 +22051,7 @@
     </variations>
   </product>
   <product>
+    <id>be97db36-24a0-c10f-3e8d-a3b5b2bcb224</id>
     <name>Wrangler Ανδρικό Φούτερ με Κουκούλα</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-ανδρικό-φούτερ-με-κουκούλα</link>
@@ -21761,6 +22122,7 @@
     </variations>
   </product>
   <product>
+    <id>a919ba56-81d7-11b5-d928-e7d0b1f5487a</id>
     <name>Wrangler ΠΑΝΤΕΛΟΝΙ Navy Blue</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Υφασμάτινα]]></category>
     <link>https://www.onikshop.gr/product-page/wrangler-man-s-trousers-navy-blue</link>
@@ -21833,6 +22195,7 @@
     </variations>
   </product>
   <product>
+    <id>2b2f4175-6e95-cb74-5b26-d435e508e284</id>
     <name>Ανδρική Ζακέτα SALARIO Heavy Tools</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Ζακέτες<br>
  ]]></category>
@@ -21905,6 +22268,7 @@
     </variations>
   </product>
   <product>
+    <id>1cf07a89-36b1-f5cd-d86b-faeb398a1177</id>
     <name>Ανδρική Ζακέτα TIMAR RED Heavy Tools</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Ζακέτες<br>
  ]]></category>
@@ -21978,6 +22342,7 @@
     </variations>
   </product>
   <product>
+    <id>21b26de4-22ee-1c58-ae76-5e623a0996b4</id>
     <name>Ανδρική Καζάκα FRED PERRY</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πλεκτά]]></category>
     <link>https://www.onikshop.gr/product-page/fred-perry-ανδρικη-καζακα</link>
@@ -22029,6 +22394,7 @@
     </variations>
   </product>
   <product>
+    <id>63ae7fd1-2dc1-b9dc-93f1-633de5525be2</id>
     <name>Ανδρική λευκή Polo κοντομάνικη μπλούζα Lee</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
     <link>https://www.onikshop.gr/product-page/ανδρική-λευκή-polo-κοντομάνικη-μπλούζα-lee</link>
@@ -22074,6 +22440,7 @@
     </variations>
   </product>
   <product>
+    <id>0913297b-6716-c3f2-e443-3cdb51e9753d</id>
     <name>ΑΝΔΡΙΚΟ ΠΟΥΚΑΜΙΣΟ S.OLIVER</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα<br>
  ]]></category>
@@ -22121,6 +22488,7 @@
     </variations>
   </product>
   <product>
+    <id>f566175e-7e41-bc57-0e97-a520c738bea4</id>
     <name>Ανδρικό T-shirt Λευκό S.Oliver 2109600-0100</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -22193,6 +22561,7 @@
     </variations>
   </product>
   <product>
+    <id>ebb697e7-69b3-c939-dd03-cb26d81ad480</id>
     <name>Ανδρικό Ημίπαλτο Leonardo</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Παλτό - Ημίπαλτο]]></category>
     <link>https://www.onikshop.gr/product-page/ανδρικό-ημίπαλτο-leonardo</link>
@@ -22246,6 +22615,7 @@
     </variations>
   </product>
   <product>
+    <id>b393e842-51e5-d3c3-bcff-f323268cca3d</id>
     <name>Ανδρικό Ημίπαλτο Leonardo</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Παλτό - Ημίπαλτο]]></category>
     <link>https://www.onikshop.gr/product-page/ανδρικό-ημίπαλτο-leonardo-1</link>
@@ -22354,6 +22724,7 @@
     </variations>
   </product>
   <product>
+    <id>f438f1d2-f2fb-b2b6-af7f-c0fb79f3556b</id>
     <name>Ανδρικό Ημίπαλτο Leonardo</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Παλτό - Ημίπαλτο]]></category>
     <link>https://www.onikshop.gr/product-page/ανδρικό-ημίπαλτο-leonardo-2</link>
@@ -22461,60 +22832,7 @@
     </variations>
   </product>
   <product>
-    <name>Ανδρικό Ημίπαλτο  S.Oliver</name>
-    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Παλτό - Ημίπαλτο]]></category>
-    <link>https://www.onikshop.gr/product-page/ανδρικό-ημίπαλτο-s-oliver</link>
-    <description><![CDATA[Ανδρικό Ημίπαλτο  S.Oliver ]]></description>
-    <featureImage>https://static.wixstatic.com/media/bbad40_177c6dfa68e94170a46935f97ba9dc4f~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/bbad40_b427f6a9f0464e5e95572a8a35b809e3~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/bbad40_2aba77459d11447ebd17eff5ffc1a22c~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/bbad40_8dc74600bda5492a81c93010dfdef4bb~mv2.jpg</additionalImage>
-    <color>Γκρι Ανοιχτό</color>
-    <sizes>S, M, L, XL</sizes>
-    <brand>s.Oliver</brand>
-    <weight>2000</weight>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>3</quantity>
-    <variations>
-      <variation>
-        <variationid>94763e07-d344-44cd-81b1-5c19fd996a6a</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>S</size>
-        <quantity>0</quantity>
-        <price>93.49</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-ημίπαλτο-s-oliver</link>
-        <mpn>2102959</mpn>
-      </variation>
-      <variation>
-        <variationid>c21344d6-d4f1-4808-95fe-995898fb9843</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>M</size>
-        <quantity>1</quantity>
-        <price>93.49</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-ημίπαλτο-s-oliver</link>
-        <mpn>2102959</mpn>
-      </variation>
-      <variation>
-        <variationid>04c10cee-6438-4b3c-a89a-0cb3994d9ee7</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>L</size>
-        <quantity>1</quantity>
-        <price>93.49</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-ημίπαλτο-s-oliver</link>
-        <mpn>2102959</mpn>
-      </variation>
-      <variation>
-        <variationid>f18973d4-43e5-4557-a422-6a84e87814bf</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XL</size>
-        <quantity>1</quantity>
-        <price>93.49</price>
-        <link>https://www.onikshop.gr/product-page/ανδρικό-ημίπαλτο-s-oliver</link>
-        <mpn>2102959</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
+    <id>dda32883-b518-491c-4d3a-342c07c15adf</id>
     <name>Ανδρικό Μποτάκι Ukangee21 Tan Heavy Tools</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια<br>
  ]]></category>
@@ -22588,6 +22906,7 @@
     </variations>
   </product>
   <product>
+    <id>72b3f4cb-a357-95e2-b519-9e7c2b5a5401</id>
     <name>Ανδρικό Μποτάκι Usgan21 Tan Heavy Tools</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Παπούτσια<br>
  ]]></category>
@@ -22634,6 +22953,7 @@
     </variations>
   </product>
   <product>
+    <id>46f45316-6e6c-8233-0723-1beb1d285d74</id>
     <name>Ανδρικό πλεκτή Ζακέτα με φερμουάρ HANRI Heavy Tools</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Ζακέτες]]></category>
     <link>https://www.onikshop.gr/product-page/ανδρικό-πλεκτή-ζακέτα-με-φερμουάρ-hanri-heavy-tools</link>
@@ -22696,6 +23016,7 @@
     </variations>
   </product>
   <product>
+    <id>05057325-e22f-f615-f03b-0e95b87e6173</id>
     <name>Ανδρικό Πλεκτό FRED PERRY</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πλεκτά]]></category>
     <link>https://www.onikshop.gr/product-page/ανδρικο-πλεκτo-fred-perry</link>
@@ -22747,6 +23068,7 @@
     </variations>
   </product>
   <product>
+    <id>c3adb59c-fa12-6c2d-a57f-f6339a061b50</id>
     <name>Ανδρικό πλεκτό HEAVY TOOLS</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πλεκτά]]></category>
     <link>https://www.onikshop.gr/product-page/heavy-tools</link>
@@ -22799,6 +23121,7 @@
     </variations>
   </product>
   <product>
+    <id>e0a603e3-bf10-f23a-b99a-99c966fb9a9b</id>
     <name>Ανδρικό πουκάμισο Fred Perry</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/ανδρικό-πουκάμισο-fred-perry</link>
@@ -22842,6 +23165,7 @@
     </variations>
   </product>
   <product>
+    <id>5ec522e4-1e01-48e3-5872-39c8838fa179</id>
     <name>Ανδρικό Πουκάμισο με σχέδιο S.Oliver</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/copy-of-ανδρικό-πουκάμισο-με-σχέδιο-s-oliver</link>
@@ -22910,6 +23234,7 @@
     </variations>
   </product>
   <product>
+    <id>b60c5688-818b-6f95-57fa-220a3c7c9fbd</id>
     <name>Ανδρικό Πουκάμισο Μπουφάν Μακρυμάνικo S.Oliver</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/ανδρικό-πουκάμισο-μακρυμάνικo-s-oliver</link>
@@ -22964,6 +23289,7 @@
     </variations>
   </product>
   <product>
+    <id>c7859e4b-1d42-f4a7-3194-b0bf6704dfcb</id>
     <name>Ανδρικό Πουλόβερ Μακρυμάνικο S.Oliver</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πλεκτά]]></category>
     <link>https://www.onikshop.gr/product-page/ανδρικό-πουλόβερ-μακρυμάνικο-s-oliver</link>
@@ -23036,6 +23362,7 @@
     </variations>
   </product>
   <product>
+    <id>c7836f03-5e5b-a065-c39a-b56c908f5f7e</id>
     <name>Ανδρικό Τζάκετ S.Oliver 9897</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Παρκά]]></category>
     <link>https://www.onikshop.gr/product-page/ανδρικό-τζάκετ-s-oliver-9897</link>
@@ -23099,6 +23426,7 @@
     </variations>
   </product>
   <product>
+    <id>a7a48f28-8fdf-7196-5dac-c041ae2182f0</id>
     <name>Ανδρικό Φούτερ SENO Heavy Tools</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/ανδρικό-φούτερ-seno-heavy-tools</link>
@@ -23161,6 +23489,7 @@
     </variations>
   </product>
   <product>
+    <id>f8e0429e-e68a-582e-c5b3-e2b75a65ad5f</id>
     <name>Βαμβακερό μπλουζάκι πόλο Wrangler</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πόλο]]></category>
     <link>https://www.onikshop.gr/product-page/βαμβακερό-μπλουζάκι-πόλο-wrangler</link>
@@ -23224,6 +23553,7 @@
     </variations>
   </product>
   <product>
+    <id>ff1ee680-d0e7-8916-90d1-91887a44022f</id>
     <name>Βερμούδα baby φούτερ απλή – Μαύρο</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/βερμούδα-baby-φούτερ-απλή-μαύρο</link>
@@ -23294,6 +23624,7 @@
     </variations>
   </product>
   <product>
+    <id>d3ca897b-490a-16fe-249d-5edfa59217fd</id>
     <name>Βερμούδα baby φούτερ λάστιχα πλάι – Μπέζ</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/βερμούδα-baby-φούτερ-λάστιχα-πλάι-μπέζ</link>
@@ -23364,6 +23695,7 @@
     </variations>
   </product>
   <product>
+    <id>0e3f0a3d-b2e1-333c-1cd7-bdf098778f7c</id>
     <name>Βερμούδα baby φούτερ τύπωμα MARTINI πλάι – Navy Blue</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/βερμούδα-baby-φούτερ-τύπωμα-martini-πλάι-navy-blue</link>
@@ -23434,6 +23766,7 @@
     </variations>
   </product>
   <product>
+    <id>197300ef-04f0-6f8e-4341-a579551d55b1</id>
     <name>Γραβάτα Leonardo Uomo 001</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-6cm</link>
@@ -23458,6 +23791,7 @@
     </variations>
   </product>
   <product>
+    <id>ce386382-1bd5-28ea-8860-dbef37ad5fc8</id>
     <name>Γραβάτα Leonardo Uomo 002</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/copy-of-γραβάτα-leonardo-uomo-002</link>
@@ -23482,6 +23816,7 @@
     </variations>
   </product>
   <product>
+    <id>759fe9c0-f889-bbae-ee07-9c997812fd2d</id>
     <name>Γραβάτα Leonardo Uomo 003</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-003</link>
@@ -23506,6 +23841,7 @@
     </variations>
   </product>
   <product>
+    <id>154907ec-9a55-ebe5-2368-2e4881d21352</id>
     <name>Γραβάτα Leonardo Uomo 004</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-004</link>
@@ -23530,6 +23866,7 @@
     </variations>
   </product>
   <product>
+    <id>d012c340-504e-61dc-41a4-d7f25c59d352</id>
     <name>Γραβάτα Leonardo Uomo 005</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-005</link>
@@ -23554,6 +23891,7 @@
     </variations>
   </product>
   <product>
+    <id>e37aed56-2c3d-e0af-01a3-bd5f1525b78b</id>
     <name>Γραβάτα Leonardo Uomo 006</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-006</link>
@@ -23578,6 +23916,7 @@
     </variations>
   </product>
   <product>
+    <id>c3ae86c7-6a32-a208-336a-7a260f32c72d</id>
     <name>Γραβάτα Leonardo Uomo 007</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-007</link>
@@ -23602,6 +23941,7 @@
     </variations>
   </product>
   <product>
+    <id>3c3b93fc-dcc8-04e0-6475-a875824ccc0b</id>
     <name>Γραβάτα Leonardo Uomo 009</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-009</link>
@@ -23626,6 +23966,7 @@
     </variations>
   </product>
   <product>
+    <id>5937a616-6624-95ba-40a7-2e96e6cb6472</id>
     <name>Γραβάτα Leonardo Uomo 010</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/copy-of-γραβάτα-leonardo-uomo-010</link>
@@ -23650,6 +23991,7 @@
     </variations>
   </product>
   <product>
+    <id>3414c5ba-c576-7bf9-28a1-7ce15e4122d2</id>
     <name>Γραβάτα Leonardo Uomo 011</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/copy-of-copy-of-γραβάτα-leonardo-uomo-011</link>
@@ -23674,6 +24016,7 @@
     </variations>
   </product>
   <product>
+    <id>e991b482-a1aa-c320-5b8f-fdc7be14518f</id>
     <name>Γραβάτα Leonardo Uomo 012</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-012</link>
@@ -23698,6 +24041,7 @@
     </variations>
   </product>
   <product>
+    <id>53dade62-1579-576f-b4c6-ee4e8449a1df</id>
     <name>Γραβάτα Leonardo Uomo 013</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-013</link>
@@ -23722,6 +24066,7 @@
     </variations>
   </product>
   <product>
+    <id>efee80d5-987f-1cae-cf88-0b41f5d03162</id>
     <name>Γραβάτα Leonardo Uomo 014</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-014</link>
@@ -23746,6 +24091,7 @@
     </variations>
   </product>
   <product>
+    <id>18125a49-8e3b-1c45-80fa-d10e2c6a7a04</id>
     <name>Γραβάτα Leonardo Uomo 015</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-015</link>
@@ -23770,6 +24116,7 @@
     </variations>
   </product>
   <product>
+    <id>20cdb67d-0971-efa7-420d-e1e55de876e8</id>
     <name>Γραβάτα Leonardo Uomo 016</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-016</link>
@@ -23794,6 +24141,7 @@
     </variations>
   </product>
   <product>
+    <id>4371ba4b-1e11-338d-45de-ec386b6cd8aa</id>
     <name>Γραβάτα Leonardo Uomo 017</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-017</link>
@@ -23818,6 +24166,7 @@
     </variations>
   </product>
   <product>
+    <id>2cff5695-2461-78d5-62a1-764d46d7e2dc</id>
     <name>Γραβάτα Leonardo Uomo 018</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-018</link>
@@ -23842,6 +24191,7 @@
     </variations>
   </product>
   <product>
+    <id>f2e375ba-04dd-2096-8694-59a589edbc5b</id>
     <name>Γραβάτα Leonardo Uomo 019</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-019</link>
@@ -23866,6 +24216,7 @@
     </variations>
   </product>
   <product>
+    <id>2e3d6ef0-b6b7-ad9f-5d43-af1f52df6b4d</id>
     <name>Γραβάτα Leonardo Uomo 020</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-020</link>
@@ -23890,6 +24241,7 @@
     </variations>
   </product>
   <product>
+    <id>f06eeeed-3cdb-8fd4-de4c-17fadd6dec1a</id>
     <name>Γραβάτα Leonardo Uomo 021</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-021</link>
@@ -23913,6 +24265,7 @@
     </variations>
   </product>
   <product>
+    <id>ff18bb38-62c9-5952-9c30-fe7658bbe942</id>
     <name>Γραβάτα Leonardo Uomo 022</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-022</link>
@@ -23936,6 +24289,7 @@
     </variations>
   </product>
   <product>
+    <id>d48bd054-6bef-7891-1805-89f5fb774c59</id>
     <name>Γραβάτα Leonardo Uomo 023</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-023</link>
@@ -23958,6 +24312,7 @@
     </variations>
   </product>
   <product>
+    <id>709f84a4-2601-62ff-bfca-9ee943fbc79c</id>
     <name>Γραβάτα Leonardo Uomo 024</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-024</link>
@@ -23981,6 +24336,7 @@
     </variations>
   </product>
   <product>
+    <id>30d5d851-35da-ece4-820f-599c64f1be86</id>
     <name>Γραβάτα Leonardo Uomo 025</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-025</link>
@@ -24004,6 +24360,7 @@
     </variations>
   </product>
   <product>
+    <id>19856556-6af4-25f7-cf19-4bd6d494f27d</id>
     <name>Γραβάτα Leonardo Uomo 026</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-026</link>
@@ -24027,6 +24384,7 @@
     </variations>
   </product>
   <product>
+    <id>25c3aa7c-5038-bcae-da77-f2300b94d106</id>
     <name>Γραβάτα Leonardo Uomo 027</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-027</link>
@@ -24050,6 +24408,7 @@
     </variations>
   </product>
   <product>
+    <id>65ef4e31-aabf-a81b-de2d-d8ca2a613d51</id>
     <name>Γραβάτα Leonardo Uomo 028</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-028</link>
@@ -24073,6 +24432,7 @@
     </variations>
   </product>
   <product>
+    <id>f4716645-041e-a248-dafd-5e860235dfa4</id>
     <name>Γραβάτα Leonardo Uomo 029</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-029</link>
@@ -24096,6 +24456,7 @@
     </variations>
   </product>
   <product>
+    <id>c442be0f-1edc-21f1-ad3d-4c2c28ccaaee</id>
     <name>Γραβάτα Leonardo Uomo 031</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-031</link>
@@ -24119,6 +24480,7 @@
     </variations>
   </product>
   <product>
+    <id>8b6fe4db-d940-acfb-e0c5-b3a7846ca0ca</id>
     <name>Γραβάτα Leonardo Uomo 055</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-055</link>
@@ -24142,6 +24504,7 @@
     </variations>
   </product>
   <product>
+    <id>1bbfa405-8008-8ee4-67e9-84d79aa7848c</id>
     <name>Γραβάτα Leonardo Uomo 056</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-056</link>
@@ -24165,6 +24528,7 @@
     </variations>
   </product>
   <product>
+    <id>0efef8d4-e419-b2f3-7200-dd5af2dbdd5c</id>
     <name>Γραβάτα Leonardo Uomo 057</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-057</link>
@@ -24188,6 +24552,7 @@
     </variations>
   </product>
   <product>
+    <id>65d5efb8-eaba-50eb-59d3-fe88cdc61d0d</id>
     <name>Γραβάτα Leonardo Uomo 058</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-058</link>
@@ -24211,6 +24576,7 @@
     </variations>
   </product>
   <product>
+    <id>135efc42-2144-16e9-63cb-4f1286d2ce7d</id>
     <name>Γραβάτα Leonardo Uomo 059</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-059</link>
@@ -24234,6 +24600,7 @@
     </variations>
   </product>
   <product>
+    <id>8e4977a8-efd8-d7b6-df48-bd1b66424e59</id>
     <name>Γραβάτα Leonardo Uomo 1797</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1797</link>
@@ -24257,6 +24624,7 @@
     </variations>
   </product>
   <product>
+    <id>63cf4f0d-5e33-cecf-a7de-25dd1ed00234</id>
     <name>Γραβάτα Leonardo Uomo 1798</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1798</link>
@@ -24280,6 +24648,7 @@
     </variations>
   </product>
   <product>
+    <id>e431b425-3a01-715f-4016-ac98c41cefd7</id>
     <name>Γραβάτα Leonardo Uomo 1799</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1799</link>
@@ -24303,6 +24672,7 @@
     </variations>
   </product>
   <product>
+    <id>441e636e-448c-916c-27ef-df12e811f7e6</id>
     <name>Γραβάτα Leonardo Uomo 1800</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1800</link>
@@ -24326,6 +24696,7 @@
     </variations>
   </product>
   <product>
+    <id>885e4593-186b-2fbf-3f58-cbdb21b52b14</id>
     <name>Γραβάτα Leonardo Uomo 1801</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1801</link>
@@ -24349,6 +24720,7 @@
     </variations>
   </product>
   <product>
+    <id>46267294-fa19-af76-6cd7-fbf00addebaf</id>
     <name>Γραβάτα Leonardo Uomo 1802</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1802</link>
@@ -24372,6 +24744,7 @@
     </variations>
   </product>
   <product>
+    <id>3d61bc45-ff3e-5d31-f5c0-ff15481e477c</id>
     <name>Γραβάτα Leonardo Uomo 1804</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/1804</link>
@@ -24395,6 +24768,7 @@
     </variations>
   </product>
   <product>
+    <id>f4059e98-b3af-3c6b-01f2-2de69c34d2be</id>
     <name>Γραβάτα Leonardo Uomo 1805</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1805</link>
@@ -24418,6 +24792,7 @@
     </variations>
   </product>
   <product>
+    <id>102e2c2c-b085-2eb2-d639-4b2bae24c091</id>
     <name>Γραβάτα Leonardo Uomo 1806</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1806</link>
@@ -24441,6 +24816,7 @@
     </variations>
   </product>
   <product>
+    <id>df003ad7-bf08-47b4-ad3d-e62fb7ab0a08</id>
     <name>Γραβάτα Leonardo Uomo 1807</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/copy-of-γραβάτα-leonardo-uomo-1807</link>
@@ -24464,6 +24840,7 @@
     </variations>
   </product>
   <product>
+    <id>e92a7924-5a62-9879-9201-1b0b28355475</id>
     <name>Γραβάτα Leonardo Uomo 1809</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/1809</link>
@@ -24487,6 +24864,7 @@
     </variations>
   </product>
   <product>
+    <id>27c04eab-83d7-e2a8-b4ab-27e51ed28f43</id>
     <name>Γραβάτα Leonardo Uomo 1810</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1810</link>
@@ -24510,6 +24888,7 @@
     </variations>
   </product>
   <product>
+    <id>f6072da4-dc9f-a498-a233-4a2035108a5a</id>
     <name>Γραβάτα Leonardo Uomo 1811</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1811</link>
@@ -24533,6 +24912,7 @@
     </variations>
   </product>
   <product>
+    <id>e85e386c-16b0-b5ce-f06a-33e2c26e6d15</id>
     <name>Γραβάτα Leonardo Uomo 1813</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1813</link>
@@ -24556,6 +24936,7 @@
     </variations>
   </product>
   <product>
+    <id>5656a785-4e16-5d3f-76a7-73b0da312d82</id>
     <name>Γραβάτα Leonardo Uomo 1815</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1815</link>
@@ -24579,6 +24960,7 @@
     </variations>
   </product>
   <product>
+    <id>0fa94b84-5032-7898-243c-e558518df47c</id>
     <name>Γραβάτα Leonardo Uomo 1819</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1819</link>
@@ -24602,6 +24984,7 @@
     </variations>
   </product>
   <product>
+    <id>ebaca537-8a59-384b-566a-4eb5d9927eb2</id>
     <name>Γραβάτα Leonardo Uomo 1820</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1820</link>
@@ -24625,6 +25008,7 @@
     </variations>
   </product>
   <product>
+    <id>461fbc2e-26f8-ff01-393a-a88a0a45e49b</id>
     <name>Γραβάτα Leonardo Uomo 1821</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1821</link>
@@ -24648,6 +25032,7 @@
     </variations>
   </product>
   <product>
+    <id>aa3bad1e-dcff-af22-efcf-bde7780fa077</id>
     <name>Γραβάτα Leonardo Uomo 1823</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1823</link>
@@ -24671,6 +25056,7 @@
     </variations>
   </product>
   <product>
+    <id>f6eac884-6784-391a-b05e-01cfb0b18e0d</id>
     <name>Γραβάτα Leonardo Uomo 1825</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/γραβάτα-leonardo-uomo-1825</link>
@@ -24694,6 +25080,7 @@
     </variations>
   </product>
   <product>
+    <id>94074bb0-9a0f-7dda-2cbb-e6dffbacaeb1</id>
     <name>ΖΑΚΕΤΑ FADED BLACK WRANGLER</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Ζακέτες]]></category>
     <link>https://www.onikshop.gr/product-page/ζακετα-faded-black-wrangler</link>
@@ -24748,6 +25135,7 @@
     </variations>
   </product>
   <product>
+    <id>92e0e6e0-307a-6aee-6e47-70b4d0ef1db3</id>
     <name>ΖΩΝΗ ΔΕΡΜΑΤΙΝΗ 4 CM BLACK 4 CM L-101-A</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες]]></category>
     <link>https://www.onikshop.gr/product-page/ζωνη-δερματινη-4-cm-black-4-cm-l-101-a</link>
@@ -24822,6 +25210,7 @@
     </variations>
   </product>
   <product>
+    <id>92b40b0d-8c3f-de6b-e80e-c8108c4f5fad</id>
     <name>ΖΩΝΗ ΔΕΡΜΑΤΙΝΗ 4 CM BROWN 4 CM L-101-A</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες]]></category>
     <link>https://www.onikshop.gr/product-page/ζωνη-δερματινη-4-cm-brown-4-cm-l-101-a</link>
@@ -24898,6 +25287,7 @@
     </variations>
   </product>
   <product>
+    <id>0d90e62c-71d9-71bf-76e8-59ca0ec41900</id>
     <name>ΖΩΝΗ ΔΕΡΜΑΤΙΝΗ 4 CM DARK BLUE 4 CM L-101-A</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες]]></category>
     <link>https://www.onikshop.gr/product-page/ζωνη-δερματινη-4-cm-dark-blue-4-cm-l-101-a</link>
@@ -24974,6 +25364,7 @@
     </variations>
   </product>
   <product>
+    <id>7e302f91-eb93-22e8-932b-0e10b59c070b</id>
     <name>ΖΩΝΗ ΔΕΡΜΑΤΙΝΗ 4 CM DARK COGNAC 4 CM L-101-A</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες]]></category>
     <link>https://www.onikshop.gr/product-page/ζωνη-δερματινη-4-cm-dark-cognac-4-cm-l-101-a</link>
@@ -25049,6 +25440,7 @@
     </variations>
   </product>
   <product>
+    <id>3750fc27-2fae-45db-4f32-461d21fc091d</id>
     <name>ΖΩΝΗ ΔΕΡΜΑΤΙΝΗ 4 CM SADDLE BROWN 4 CM L-101-A</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες]]></category>
     <link>https://www.onikshop.gr/product-page/ζωνη-δερματινη-4-cm-saddle-brown-4-cm-l-101-a</link>
@@ -25124,6 +25516,7 @@
     </variations>
   </product>
   <product>
+    <id>38a9201b-8744-492e-80f9-27dafa4d70e7</id>
     <name>Ζώνη Δερμάτινη 3,5cm Celio</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες<br>
  ]]></category>
@@ -25149,6 +25542,7 @@
     </variations>
   </product>
   <product>
+    <id>9bf10b4b-391b-2393-9011-dbd1bbfd622e</id>
     <name>Ζώνη Δερμάτινη 4cm Guildford's</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες<br>
  ]]></category>
@@ -25198,6 +25592,7 @@
     </variations>
   </product>
   <product>
+    <id>a272ce17-2892-fed6-c627-12220ab967eb</id>
     <name>Ζώνη Δερμάτινη Ασημί 3,5cm</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες]]></category>
     <link>https://www.onikshop.gr/product-page/ζώνη-δερμάτινη-ασημί-3-5cm</link>
@@ -25230,6 +25625,7 @@
     </variations>
   </product>
   <product>
+    <id>74beaa3e-b336-6da1-3bea-0c9c9fb94731</id>
     <name>Ζώνη Δερμάτινη Καφέ 2cm</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες]]></category>
     <link>https://www.onikshop.gr/product-page/ζώνη-δερμάτινη-καφέ-2cm</link>
@@ -25254,6 +25650,7 @@
     </variations>
   </product>
   <product>
+    <id>e7e3efd1-57d8-4e33-63d8-d5224bac65de</id>
     <name>Ζώνη Δερμάτινη Καφέ 2cm Celio</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες]]></category>
     <link>https://www.onikshop.gr/product-page/ζώνη-δερμάτινη-καφέ-2cm-celio</link>
@@ -25286,6 +25683,7 @@
     </variations>
   </product>
   <product>
+    <id>d0c7ea2d-3762-2096-4e1b-b5f1e453bb81</id>
     <name>Ζώνη Δερμάτινη Καφέ Μελιτζανί 3,5cm</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες<br>
  ]]></category>
@@ -25335,6 +25733,7 @@
     </variations>
   </product>
   <product>
+    <id>d06b3d2a-08ea-5d12-cf2f-2d93390e8b53</id>
     <name>Ζώνη Δερμάτινη Καφέ Μελιτζανί 3,5cm</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες<br>
  ]]></category>
@@ -25368,6 +25767,7 @@
     </variations>
   </product>
   <product>
+    <id>abc5985c-9979-a1c2-701c-06a002328509</id>
     <name>Ζώνη Δερμάτινη Μαύρη 2,5cm</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες]]></category>
     <link>https://www.onikshop.gr/product-page/ζώνη-δερμάτινη-μαύρη-2-5cm</link>
@@ -25392,6 +25792,7 @@
     </variations>
   </product>
   <product>
+    <id>19e6b184-374c-06a6-8151-7c786c273e0d</id>
     <name>Ζώνη Δερμάτινη Μαύρη 3,5cm</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες]]></category>
     <link>https://www.onikshop.gr/product-page/ζώνη-δερμάτινη-μαύρη-3-5cm</link>
@@ -25440,6 +25841,7 @@
     </variations>
   </product>
   <product>
+    <id>f18cb171-9c90-6c44-4b8d-510b73616eb4</id>
     <name>Ζώνη Δερμάτινη Μαύρη 4cm</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες<br>
  ]]></category>
@@ -25473,6 +25875,7 @@
     </variations>
   </product>
   <product>
+    <id>8a219f4e-e721-88eb-4370-9f270e6ed009</id>
     <name>Ζώνη Δερμάτινη Ταμπά με Wild West Αγκράφα</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες<br>
  ]]></category>
@@ -25498,6 +25901,7 @@
     </variations>
   </product>
   <product>
+    <id>c8ab9ed2-03a6-a1e6-c26f-6928e5d7a88e</id>
     <name>Ζώνη Λευκή Δερματίνη Legend 3cm</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Ζώνες]]></category>
     <link>https://www.onikshop.gr/product-page/ζώνη-λευκή-δερματίνη-legend-3cm</link>
@@ -25542,6 +25946,7 @@
     </variations>
   </product>
   <product>
+    <id>ba40e4e1-8610-13e8-f028-a1ecc941c5a5</id>
     <name>Ζώνη Μπορντό Δερματίνη Legend 3cm</name>
     <category>Legend</category>
     <link>https://www.onikshop.gr/product-page/ζώνη-μπορντό-δερματίνη-legend-3cm</link>
@@ -25582,6 +25987,7 @@
     </variations>
   </product>
   <product>
+    <id>f0821c4c-167e-aeb5-b52f-1e790866a38c</id>
     <name>Ημίπαλτο LEONARDO UOMO</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Παλτό - Ημίπαλτο]]></category>
     <link>https://www.onikshop.gr/product-page/leonardo-uomo-1</link>
@@ -25688,6 +26094,7 @@
     </variations>
   </product>
   <product>
+    <id>6b88efa2-2ca7-b856-7adc-14b3b8ec70a3</id>
     <name>Ιταλική Γραβάτα 038</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-038</link>
@@ -25711,6 +26118,7 @@
     </variations>
   </product>
   <product>
+    <id>dd6cde0a-9bb9-61c3-7e05-1c2bf3191bf6</id>
     <name>Ιταλική Γραβάτα 4cm - 1792</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-4cm-1792</link>
@@ -25734,6 +26142,7 @@
     </variations>
   </product>
   <product>
+    <id>961fa110-e82f-3a72-d6d7-beb98089956e</id>
     <name>Ιταλική Γραβάτα 4cm - 1793</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-4cm-1793</link>
@@ -25757,6 +26166,7 @@
     </variations>
   </product>
   <product>
+    <id>64d2f1d7-cdb6-5ac2-eb93-0df03b2706b7</id>
     <name>Ιταλική Γραβάτα 4cm - 1794</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-4cm-1794</link>
@@ -25780,6 +26190,7 @@
     </variations>
   </product>
   <product>
+    <id>d9a6f489-6d60-4537-8743-83fecb6a638e</id>
     <name>Ιταλική Γραβάτα 4cm - 1795</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-4cm-1795</link>
@@ -25803,6 +26214,7 @@
     </variations>
   </product>
   <product>
+    <id>959a3d30-8ac7-304c-2b6f-f33bb417efb1</id>
     <name>Ιταλική Γραβάτα 4cm - 1796</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-4cm-1796</link>
@@ -25826,6 +26238,7 @@
     </variations>
   </product>
   <product>
+    <id>2de25adf-a46b-ca33-626e-759b3c2c9568</id>
     <name>Ιταλική Γραβάτα 4cm - 1842</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-4cm-1842</link>
@@ -25849,6 +26262,7 @@
     </variations>
   </product>
   <product>
+    <id>1ea03f6f-1d3d-bf00-f5bf-b25eaf03f33c</id>
     <name>Ιταλική Γραβάτα 4cm - 1843</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-4cm-1843</link>
@@ -25872,6 +26286,7 @@
     </variations>
   </product>
   <product>
+    <id>c46d4ab6-7eec-3322-41db-6fe0d14acee0</id>
     <name>Ιταλική Γραβάτα 4cm - 1844</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-4cm-1844</link>
@@ -25895,6 +26310,7 @@
     </variations>
   </product>
   <product>
+    <id>29e6aac2-503e-96a2-0383-166e82dfd0a9</id>
     <name>Ιταλική Γραβάτα 4cm - 1845</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-4cm-1845</link>
@@ -25918,6 +26334,7 @@
     </variations>
   </product>
   <product>
+    <id>cb788528-1d69-6f37-867e-764ca3ff3f6f</id>
     <name>Ιταλική Γραβάτα 4cm - 1857</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-4cm-1857</link>
@@ -25941,6 +26358,7 @@
     </variations>
   </product>
   <product>
+    <id>223e57ce-9f1b-70f7-9b9f-ca7e608070cf</id>
     <name>Ιταλική Γραβάτα 6cm - 1830</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-6cm-1830</link>
@@ -25964,6 +26382,7 @@
     </variations>
   </product>
   <product>
+    <id>773845e3-6132-b3e4-eb6f-c984b93c11ce</id>
     <name>Ιταλική Γραβάτα 6cm - 1831</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-6cm-1831</link>
@@ -25987,6 +26406,7 @@
     </variations>
   </product>
   <product>
+    <id>f7cc723e-e6b7-b94b-3738-93aa7bfd10e0</id>
     <name>Ιταλική Γραβάτα 6cm - 1835</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν<br>
  ]]></category>
@@ -26011,6 +26431,7 @@
     </variations>
   </product>
   <product>
+    <id>c6d321a7-2287-4ccf-55fd-86b2ca09fb47</id>
     <name>Ιταλική Γραβάτα 6cm - 1838</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-6cm-1838</link>
@@ -26034,6 +26455,7 @@
     </variations>
   </product>
   <product>
+    <id>443a7ab0-b1f8-a10f-f0b9-614371de19d1</id>
     <name>Ιταλική Γραβάτα 6cm - 1840</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-6cm-1840</link>
@@ -26057,6 +26479,7 @@
     </variations>
   </product>
   <product>
+    <id>5dee92fc-5a00-aae5-0efb-7bb8386e54d8</id>
     <name>Ιταλική Γραβάτα 6cm - 1846</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-6cm-1846</link>
@@ -26080,6 +26503,7 @@
     </variations>
   </product>
   <product>
+    <id>f7831b11-746a-7e27-4025-28628561b455</id>
     <name>Ιταλική Γραβάτα 6cm - 1847</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-6cm-1847</link>
@@ -26103,6 +26527,7 @@
     </variations>
   </product>
   <product>
+    <id>180e66e0-9183-23e5-85c5-829b41b6240e</id>
     <name>Ιταλική Γραβάτα 6cm - 1849</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-6cm-1849</link>
@@ -26126,6 +26551,7 @@
     </variations>
   </product>
   <product>
+    <id>4e3507f4-770b-302d-1a5a-cf20cf4dcdfa</id>
     <name>Ιταλική Γραβάτα 6cm - 1851</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-6cm-1851</link>
@@ -26149,6 +26575,7 @@
     </variations>
   </product>
   <product>
+    <id>64ed1220-344e-2ec3-9174-550e9336db5e</id>
     <name>Ιταλική Γραβάτα 6cm - 1852</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν<br>
  ]]></category>
@@ -26173,6 +26600,7 @@
     </variations>
   </product>
   <product>
+    <id>b1210592-0c96-5f7b-a08c-dc25e1f109ac</id>
     <name>Ιταλική Γραβάτα 6cm - 1853</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-6cm-1853</link>
@@ -26196,6 +26624,7 @@
     </variations>
   </product>
   <product>
+    <id>0e8d8851-d96d-0d48-b9cd-a1d0b24e85a6</id>
     <name>Ιταλική Γραβάτα 6cm - 1854</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-6cm-1854</link>
@@ -26219,6 +26648,7 @@
     </variations>
   </product>
   <product>
+    <id>8bce4ade-c174-988e-e19e-e7551ed27216</id>
     <name>Ιταλική Γραβάτα 6cm - 1858</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-6cm-1858</link>
@@ -26241,6 +26671,7 @@
     </variations>
   </product>
   <product>
+    <id>886d5d30-332c-2535-6e03-2a849be5b0dc</id>
     <name>Ιταλική Γραβάτα 8cm - 1816</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-8cm-1816</link>
@@ -26264,6 +26695,7 @@
     </variations>
   </product>
   <product>
+    <id>05a4f622-213d-d6ec-97b6-5bc8e7b101c1</id>
     <name>Ιταλική Γραβάτα 8cm - 1817</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-8cm-1817</link>
@@ -26287,6 +26719,7 @@
     </variations>
   </product>
   <product>
+    <id>edd3e405-1648-fc5b-2398-a13cdb64df09</id>
     <name>Ιταλική Γραβάτα 8cm - 1818</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-8cm-1818</link>
@@ -26310,6 +26743,7 @@
     </variations>
   </product>
   <product>
+    <id>855ac0fb-b559-673c-b46a-019b79506333</id>
     <name>Ιταλική Γραβάτα 8cm - 1832</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-8cm-1832</link>
@@ -26333,6 +26767,7 @@
     </variations>
   </product>
   <product>
+    <id>035c1b3b-0c2c-0ea4-1224-610675cb81a8</id>
     <name>Ιταλική Γραβάτα 8cm - 1834</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-8cm-1834</link>
@@ -26356,6 +26791,7 @@
     </variations>
   </product>
   <product>
+    <id>05eb2ff4-f74c-a711-cd9c-b401002d3563</id>
     <name>Ιταλική Γραβάτα 8cm - 1850</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-γραβάτα-8cm-1850</link>
@@ -26379,6 +26815,7 @@
     </variations>
   </product>
   <product>
+    <id>4a3ba956-ce99-a721-b781-fffbc9e242a4</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 032</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-032</link>
@@ -26402,6 +26839,7 @@
     </variations>
   </product>
   <product>
+    <id>0baa19ce-6fc4-f4fe-b3d9-9ec6161a8514</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 033</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-033</link>
@@ -26425,6 +26863,7 @@
     </variations>
   </product>
   <product>
+    <id>e8659981-c52a-484a-8851-ce2415535978</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 034</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-034</link>
@@ -26448,6 +26887,7 @@
     </variations>
   </product>
   <product>
+    <id>9de77527-ce56-87b2-7a8a-17bf510c4f15</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 035</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-035</link>
@@ -26471,6 +26911,7 @@
     </variations>
   </product>
   <product>
+    <id>0873f975-db40-d211-96d0-03e81f3a7455</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 036</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-036</link>
@@ -26494,6 +26935,7 @@
     </variations>
   </product>
   <product>
+    <id>d73fd4c0-7c83-455a-4ed8-a02d9637e51c</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 039</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-8cm-039</link>
@@ -26517,6 +26959,7 @@
     </variations>
   </product>
   <product>
+    <id>7a156ba0-6e72-5e97-f27f-29629206d7dc</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 040</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/copy-of-ιταλική-σατέν-γραβάτα-8cm-040</link>
@@ -26540,6 +26983,7 @@
     </variations>
   </product>
   <product>
+    <id>1cb38526-e70c-113a-fa45-5264bd0844f1</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 041</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-8cm-041</link>
@@ -26563,6 +27007,7 @@
     </variations>
   </product>
   <product>
+    <id>800211a3-ce5e-cefa-7e1a-cd48b4d89477</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 042</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-8cm-042</link>
@@ -26586,6 +27031,7 @@
     </variations>
   </product>
   <product>
+    <id>eb88cd55-5d22-d473-633d-5e4e0a5a6f95</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 043</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-8cm-043</link>
@@ -26609,6 +27055,7 @@
     </variations>
   </product>
   <product>
+    <id>73e9c83a-b729-3db7-9328-76242c8d5ac4</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 044</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-8cm-044</link>
@@ -26632,6 +27079,7 @@
     </variations>
   </product>
   <product>
+    <id>ebc0d854-1e73-6383-377b-21959e3d94fc</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 045</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-8cm-045</link>
@@ -26655,6 +27103,7 @@
     </variations>
   </product>
   <product>
+    <id>3d25ac4b-9f7e-6ed6-04ad-a4a68efd9f66</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 046</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-8cm-046</link>
@@ -26678,6 +27127,7 @@
     </variations>
   </product>
   <product>
+    <id>c05e09c9-b765-5c7c-6a6d-51221ef8d160</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 047</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-8cm-047</link>
@@ -26701,6 +27151,7 @@
     </variations>
   </product>
   <product>
+    <id>0f673e94-601f-3d07-83ef-f7327d6a2a13</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 048</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-8cm-048</link>
@@ -26724,6 +27175,7 @@
     </variations>
   </product>
   <product>
+    <id>4e4e3a54-8f14-738f-7376-c18171f57439</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 049</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-8cm-049</link>
@@ -26747,6 +27199,7 @@
     </variations>
   </product>
   <product>
+    <id>e61cbfa2-97da-4c2a-3b4e-6f2c626d91ff</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 050</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-8cm-050</link>
@@ -26770,6 +27223,7 @@
     </variations>
   </product>
   <product>
+    <id>3f12d41e-10ee-3de5-347b-abd49d60ab6e</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 051</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-8cm-051</link>
@@ -26793,6 +27247,7 @@
     </variations>
   </product>
   <product>
+    <id>7a70ecec-43ba-5c5c-a816-de1a6560084c</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 052</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-8cm-052</link>
@@ -26816,6 +27271,7 @@
     </variations>
   </product>
   <product>
+    <id>177ab19b-170b-defd-86fa-51a351af32cb</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 053</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-8cm-053</link>
@@ -26839,6 +27295,7 @@
     </variations>
   </product>
   <product>
+    <id>bef1e791-52c5-f4a5-1dff-626ae10dba25</id>
     <name>Ιταλική Σατέν Γραβάτα 8cm - 054</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-8cm-054</link>
@@ -26862,6 +27319,7 @@
     </variations>
   </product>
   <product>
+    <id>cecfd2fa-f6a0-2b69-6381-4f7368c5e5a6</id>
     <name>Ιταλική Σατέν Γραβάτα 9cm - 037</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Γραβάτες - Παπιγιόν]]></category>
     <link>https://www.onikshop.gr/product-page/ιταλική-σατέν-γραβάτα-9cm-037</link>
@@ -26885,6 +27343,7 @@
     </variations>
   </product>
   <product>
+    <id>1813de88-519e-243c-a11a-40e5f2f98006</id>
     <name>Καρό Μακρυμάνικο Πουκάμισο HEAVY TOOLS RATO Καφέ</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα<br>
  ]]></category>
@@ -26957,6 +27416,7 @@
     </variations>
   </product>
   <product>
+    <id>1705eb79-bb6f-73ca-50f6-8cbb500b3f4f</id>
     <name>ΚΑΣΚΟΛ BLUE NAVY LGS-3021</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Κασκόλ]]></category>
     <link>https://www.onikshop.gr/product-page/κασκολ-blue-navy-lgs-3021</link>
@@ -26983,6 +27443,7 @@
     </variations>
   </product>
   <product>
+    <id>e72d812c-5871-a376-4392-23c4dc522b46</id>
     <name>ΚΑΣΚΟΛ CAMEL ΜΟΝΟΧΡΩΜΟ LGS-3021</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Κασκόλ]]></category>
     <link>https://www.onikshop.gr/product-page/κασκολ-camel-μονοχρωμο-lgs-3021</link>
@@ -27008,6 +27469,7 @@
     </variations>
   </product>
   <product>
+    <id>e20f6f0c-3e17-90d3-9c60-7849360747ce</id>
     <name>ΚΑΣΚΟΛ GRAY LIGHT ΜΟΝΟΧΡΩΜΟ LGS-3021</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Κασκόλ]]></category>
     <link>https://www.onikshop.gr/product-page/κασκολ-gray-light-μονοχρωμο-lgs-3021</link>
@@ -27033,6 +27495,7 @@
     </variations>
   </product>
   <product>
+    <id>a1495591-ae03-cf00-6f88-afc6a3673248</id>
     <name>ΚΑΣΚΟΛ ΓΚΡΙ ΜΟΝΟΧΡΩΜΟ LGS-3021</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Κασκόλ]]></category>
     <link>https://www.onikshop.gr/product-page/κασκολ-γκρι-μονοχρωμο-lgs-3021</link>
@@ -27058,6 +27521,7 @@
     </variations>
   </product>
   <product>
+    <id>6b9d3efc-979f-1986-9a5c-30f27472a4df</id>
     <name>ΚΑΣΚΟΛ ΚΑΡΟ DOUBLE FACE ΓΚΡΙ ΜΠΟΡΝΤΩ LGS-3021-78</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Κασκόλ]]></category>
     <link>https://www.onikshop.gr/product-page/κασκολ-καρο-double-face-γκρι-μπορντω-lgs-3021-78</link>
@@ -27083,6 +27547,7 @@
     </variations>
   </product>
   <product>
+    <id>8c8caac7-b0b7-90b4-5ef8-fd31d423f4f2</id>
     <name>ΚΑΣΚΟΛ ΚΑΡΟ DOUBLE FACE ΜΠΕΖ ΓΚΡΙ LGS-3021-71</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Κασκόλ]]></category>
     <link>https://www.onikshop.gr/product-page/κασκολ-καρο-double-face-μπεζ-γκρι-lgs-3021-71</link>
@@ -27109,6 +27574,7 @@
     </variations>
   </product>
   <product>
+    <id>aafbbbff-e021-0fc2-2dee-09d6f57f79b5</id>
     <name>ΚΑΣΚΟΛ ΚΑΡΟ LGS-3021-53</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Κασκόλ]]></category>
     <link>https://www.onikshop.gr/product-page/κασκολ-καρο-lgs-3021-53</link>
@@ -27136,6 +27602,7 @@
     </variations>
   </product>
   <product>
+    <id>b7f6bb96-aecc-9c78-eff1-56ee696143a5</id>
     <name>ΚΑΣΚΟΛ ΚΑΡΟ ΚΑΜΗΛΟ – ΜΠΛΕ LGS-3021-32</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Κασκόλ]]></category>
     <link>https://www.onikshop.gr/product-page/κασκολ-καρο-καμηλο-μπλε-lgs-3021-32</link>
@@ -27162,6 +27629,7 @@
     </variations>
   </product>
   <product>
+    <id>2edf9bf6-9e8e-54df-b317-082c77c01b9f</id>
     <name>ΚΑΣΚΟΛ ΚΑΡΟ ΚΑΦΕ – ΚΑΜΗΛΟ LGS-3021-34</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Κασκόλ]]></category>
     <link>https://www.onikshop.gr/product-page/κασκολ-καρο-καφε-καμηλο-lgs-3021-34</link>
@@ -27188,6 +27656,7 @@
     </variations>
   </product>
   <product>
+    <id>e70aa30b-754d-9721-398f-475851065a50</id>
     <name>ΚΑΣΚΟΛ ΚΑΡΟ ΜΑΥΡΟ LGS-3021-42</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Κασκόλ]]></category>
     <link>https://www.onikshop.gr/product-page/κασκολ-καρο-μαυρο-lgs-3021-42</link>
@@ -27215,6 +27684,7 @@
     </variations>
   </product>
   <product>
+    <id>f48be7b5-211d-4bbf-69a1-9c7e1d883013</id>
     <name>ΚΑΣΚΟΛ ΜΑΥΡΟ ΜΟΝΟΧΡΩΜΟ LGS-3021</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Κασκόλ]]></category>
     <link>https://www.onikshop.gr/product-page/κασκολ-μαυρο-μονοχρωμο-lgs-3021</link>
@@ -27241,6 +27711,7 @@
     </variations>
   </product>
   <product>
+    <id>3af5abc6-add2-742c-bb03-049b85464727</id>
     <name>ΚΑΣΚΟΛ ΜΠΟΡΝΤΟ ΜΟΝΟΧΡΩΜΟ LGS-3021</name>
     <category><![CDATA[ΑΞΕΣΟΥΑΡ > Κασκόλ]]></category>
     <link>https://www.onikshop.gr/product-page/κασκολ-μπορντο-μονοχρωμο-lgs-3021</link>
@@ -27267,6 +27738,7 @@
     </variations>
   </product>
   <product>
+    <id>f5c8aed7-8ecc-7d87-2dbf-3325c9b74d76</id>
     <name>Κοντομάνικη Μπλούζα T-Shirt  HOODLOOM</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/κοντομάνικη-μπλούζα-t-shirt-hoodloom</link>
@@ -27327,6 +27799,7 @@
     </variations>
   </product>
   <product>
+    <id>378d59eb-394b-92f1-09bd-57320ea51130</id>
     <name>Κοντομάνικη Μπλούζα T-Shirt  HOODLOOM</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/κοντομάνικη-μπλούζα-t-shirt-hoodloom-1</link>
@@ -27360,6 +27833,7 @@
     </variations>
   </product>
   <product>
+    <id>81e569f0-6752-83e2-cc67-a34d3018a044</id>
     <name><![CDATA[Κοντομάνικη Μπλούζα T-Shirt Paco & CO]]></name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt<br>
  ]]></category>
@@ -27421,6 +27895,7 @@
     </variations>
   </product>
   <product>
+    <id>ccdac344-4c87-9a50-1c1f-c4c979447cbe</id>
     <name>ΜΠΟΥΦΑΝ S.OLIVER</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > Μπουφάν<br>
  ]]></category>
@@ -27485,6 +27960,7 @@
     </variations>
   </product>
   <product>
+    <id>cf42a0d6-0cf5-6ba6-44c8-aa369d190fbd</id>
     <name>ΠΛΕΚΤΟ S.OLIVER 78W0</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πλεκτά]]></category>
     <link>https://www.onikshop.gr/product-page/πλεκτό-s-oliver78w0</link>
@@ -27512,6 +27988,7 @@
     </variations>
   </product>
   <product>
+    <id>40375fb4-34e9-ea9c-a57c-e720abf81a99</id>
     <name>ΠΛΕΚΤΟ ΠΟΥΛΟΒΕΡ S.OLIVER 6710</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πλεκτά]]></category>
     <link>https://www.onikshop.gr/product-page/πλεκτο-s-oliver-6710</link>
@@ -27575,6 +28052,7 @@
     </variations>
   </product>
   <product>
+    <id>8e1d50a8-ff96-a8b4-1c54-298f8d2312c1</id>
     <name>Πουκάμισο Bades</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/πουκάμισο-bades</link>
@@ -27609,6 +28087,7 @@
     </variations>
   </product>
   <product>
+    <id>b6e54a67-935a-3c59-faf2-bb057471b2fb</id>
     <name>Πουκάμισο Oversized S.Oliver</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/πουκάμισο-μεγάλο-μέγεθος-s-oliver</link>
@@ -27645,6 +28124,7 @@
     </variations>
   </product>
   <product>
+    <id>ef0600d7-79d2-24a9-d2b9-d56a886d782f</id>
     <name>Πουκάμισο Καρό Bades</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/πουκάμισο-καρό-bades-1</link>
@@ -27679,6 +28159,7 @@
     </variations>
   </product>
   <product>
+    <id>d775e872-125e-cff7-a51d-4ded1080910b</id>
     <name>Πουκάμισο Καρό GOLF CLUB SPORT</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/πουκάμισο-καρό-golf-club-sport</link>
@@ -27713,6 +28194,7 @@
     </variations>
   </product>
   <product>
+    <id>48c3f7ba-0c19-0126-bca3-e6096059ab9c</id>
     <name>ΠΟΥΚΑΜΙΣΟ S.OLIVER 39N0</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/πουκαμισο-s-oliver-39n0</link>
@@ -27776,6 +28258,7 @@
     </variations>
   </product>
   <product>
+    <id>d880dd74-5afd-4ee4-cd4b-24dd82bec632</id>
     <name>ΠΟΥΚΑΜΙΣΟ S.OLIVER 99N0</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/πουκαμισο-s-oliver-99n0</link>
@@ -27838,6 +28321,7 @@
     </variations>
   </product>
   <product>
+    <id>f15c52d1-46d5-38db-e531-70a1e8677261</id>
     <name>ΠΟΥΚΑΜΙΣΟ SORTIL - EDWARD</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Πουκάμισα]]></category>
     <link>https://www.onikshop.gr/product-page/πουκαμισο-sortil-edward</link>
@@ -27910,6 +28394,7 @@
     </variations>
   </product>
   <product>
+    <id>7ca47512-7d48-328f-8e8b-62b4da31d8c7</id>
     <name>Τζάκετ με αποσπώμενη γούνα</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > ΠΑΝΩΦΟΡΙΑ > ΓΥΝΑΙΚΕΙΑ > Μπουφάν Γυναικεία]]></category>
     <link>https://www.onikshop.gr/product-page/τζάκετ-γυναικείο-με-αποσπώμενη-γούνα</link>
@@ -27963,6 +28448,7 @@
     </variations>
   </product>
   <product>
+    <id>30872025-c067-1c06-3f5d-416149624d47</id>
     <name>ΤΖΙΝ LEE  BROOKLYN STARIGHT - DARK PARK</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-dark-park</link>
@@ -28070,6 +28556,7 @@
     </variations>
   </product>
   <product>
+    <id>eea77f78-be18-72fe-ec55-c5c6d9352f9c</id>
     <name>ΤΖΙΝ LEE  BROOKLYN STARIGHT - RINSE</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/τζιν-lee-brooklyn-staright-rinse</link>
@@ -28196,6 +28683,7 @@
     </variations>
   </product>
   <product>
+    <id>f9621133-9473-981b-5e83-fa524db058c6</id>
     <name>ΤΖΙΝ LEE  DAREN - STRONG HAND</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Jeans]]></category>
     <link>https://www.onikshop.gr/product-page/τζιν-lee-daren-strong-hand</link>
@@ -28258,6 +28746,7 @@
     </variations>
   </product>
   <product>
+    <id>b699eb2d-8843-dfa2-cbfb-282b2bb5b1cb</id>
     <name>Τζιν παντελόνι Lee Carol</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > ΓΥΝΑΙΚΕΙΑ<br>
  > Jean Γυναικεία]]></category>
@@ -28340,6 +28829,7 @@
     </variations>
   </product>
   <product>
+    <id>bcf806ce-80d4-3cae-2397-05d7ed341c1a</id>
     <name>Τζιν σορτσάκια 5 Pocket L73MHVB71 Μπλε Regular Fit</name>
     <category><![CDATA[ΚΑΤΩ ΕΝΔΥΣΗ > Σορτς]]></category>
     <link>https://www.onikshop.gr/product-page/τζιν-σορτσάκια-5-pocket-l73mhvb71-μπλε-regular-fit</link>
@@ -28448,6 +28938,7 @@
     </variations>
   </product>
   <product>
+    <id>be61566d-698d-90b7-a01c-fdd0a7faa00f</id>
     <name>Τρίχρωμο  Hackers</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > T-shirt]]></category>
     <link>https://www.onikshop.gr/product-page/τρίχρωμο-hackers</link>
@@ -28508,6 +28999,7 @@
     </variations>
   </product>
   <product>
+    <id>0a91d359-4243-c175-1833-645ca28f08f9</id>
     <name>ΦΟΥΤΕΡ - PACO 218551</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ ]]></category>
     <link>https://www.onikshop.gr/product-page/φουτερ-paco-218551</link>
@@ -28577,6 +29069,7 @@
     </variations>
   </product>
   <product>
+    <id>1888b819-6acc-acee-a92d-afd403a1db90</id>
     <name>ΦΟΥΤΕΡ - PACO 218552</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ ]]></category>
     <link>https://www.onikshop.gr/product-page/φουτερ-paco-218552</link>
@@ -28646,6 +29139,7 @@
     </variations>
   </product>
   <product>
+    <id>4a854c70-e29f-c423-8c80-7d2fa3e1d2c1</id>
     <name>ΦΟΥΤΕΡ ΜΕ ΚΟΥΚΟΥΛΑ - PACO 218575</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/φουτερ-με-κουκουλα-paco-218575</link>
