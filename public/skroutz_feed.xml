@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <onikshop>
-  <created_at>2023-05-16 06:46</created_at>
+  <created_at>2023-05-16 06:57</created_at>
   <product>
     <id>214c8057-5db3-1cbc-ef96-517e036f5d78</id>
     <name>501 CROP TANGO BEATS LIGHT INDIGO WORN</name>
@@ -13402,15 +13402,80 @@
     </variations>
   </product>
   <product>
-    <id>14fb9b31-c767-7f90-fdf0-35b8ca4525d9</id>
+    <id>f8b124f3-4b2c-c594-766f-ff6c23908725</id>
     <name>Mrt Martini</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
-    <link>https://www.onikshop.gr/product-page/mrt-martini-10997</link>
+    <link>https://www.onikshop.gr/product-page/mrt-martini-11056</link>
+    <description><![CDATA[Φούτερ μονόχρωμο με τρέσα στα μανίκια <ul>	<li>Κανονική γραμμή</li>	<li>65% Βαμβάκι 35% Πολυέστερ </li></ul>]]></description>
+    <featureImage>https://static.wixstatic.com/media/6c7135_1e658211f2bf4a538f353fbcc805be9c~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_fe0525957d9a41bb9bdac39e2dc96545~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_37edc2e7a08b4ef8a59f668cbf21f819~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_aea331e1423745428c3cc0f8a090fd9a~mv2.jpg</additionalImage>
+    <color>Σιέλ</color>
+    <sizes>S, M, L, XL, XXL</sizes>
+    <brand>Martini</brand>
+    <weight>2000</weight>
+    <availability>Παράδοση σε 1-3 ημέρες</availability>
+    <quantity>2</quantity>
+    <variations>
+      <variation>
+        <variationid>9076e3e5-30ac-4022-84dc-bb131566f968</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>S</size>
+        <quantity>1</quantity>
+        <price>28.7</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-11056</link>
+        <mpn>11056</mpn>
+      </variation>
+      <variation>
+        <variationid>d0e60365-ae4c-4cd2-95bf-c19b8b848fc2</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>M</size>
+        <quantity>1</quantity>
+        <price>28.7</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-11056</link>
+        <mpn>11056</mpn>
+      </variation>
+      <variation>
+        <variationid>034191bb-a2f0-4d7e-a936-15cfc7f96586</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>L</size>
+        <quantity>0</quantity>
+        <price>28.7</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-11056</link>
+        <mpn>11056</mpn>
+      </variation>
+      <variation>
+        <variationid>b2749379-1b73-47b2-9c9a-f0ddc6a07ab3</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XL</size>
+        <quantity>0</quantity>
+        <price>28.7</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-11056</link>
+        <mpn>11056</mpn>
+      </variation>
+      <variation>
+        <variationid>aff4dc6f-4581-476b-bc37-eb640a60ca29</variationid>
+        <availability>Παράδοση σε 1-3 ημέρες</availability>
+        <size>XXL</size>
+        <quantity>0</quantity>
+        <price>28.7</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-11056</link>
+        <mpn>11056</mpn>
+      </variation>
+    </variations>
+  </product>
+  <product>
+    <id>45f30581-82fd-8a09-eedc-6dd0ef99e79e</id>
+    <name>Mrt Martini</name>
+    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
+    <link>https://www.onikshop.gr/product-page/mrt-martini-10994</link>
     <description>Η ανδρική μπλούζα φούτερ της εταιρίας Mrt Martini, είναι κατάλληλη για τις κρύες μέρες του χρόνου.</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_50c20cdfe5e74ab78038ca7b2deed8e5~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_57745f9dcd0f4467beb649dc7d5a7242~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_c9e12f3b853b452aa2dca670e6e87b39~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_8b919eb864fe4387975866a301463946~mv2.jpg</additionalImage>
+    <featureImage>https://static.wixstatic.com/media/6c7135_2912ca1cbed1471ead7f550542f0c991~mv2.jpg</featureImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_c7951e711d2f45b3999b7b283f0841f8~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_dc9eeae5bb5d41e78c0fafc379b3154e~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_82b4ff80775840829b8ec67b97a32593~mv2.jpg</additionalImage>
+    <additionalImage>https://static.wixstatic.com/media/6c7135_d761efcca673420fba22e174d5de312e~mv2.jpg</additionalImage>
     <color>Μαύρο</color>
     <sizes>S, M, L, XL, XXL</sizes>
     <brand>Martini</brand>
@@ -13419,55 +13484,55 @@
     <quantity>1</quantity>
     <variations>
       <variation>
-        <variationid>683e93c5-5349-45c5-a84b-230acc543318</variationid>
+        <variationid>8f4eecbd-37c0-4d64-9b4f-1cd047ecc73b</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>S</size>
         <quantity>0</quantity>
-        <price>22.38</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-10997</link>
-        <mpn>10997</mpn>
+        <price>24.25</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-10994</link>
+        <mpn>10994</mpn>
       </variation>
       <variation>
-        <variationid>2f82c673-ded0-44c0-a861-a8b45c4f9aec</variationid>
+        <variationid>173dd349-b48f-4e10-9979-8e432a08b6f7</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>M</size>
         <quantity>1</quantity>
-        <price>22.38</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-10997</link>
-        <mpn>10997</mpn>
+        <price>24.25</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-10994</link>
+        <mpn>10994</mpn>
       </variation>
       <variation>
-        <variationid>788df3e7-5895-4fbe-a9fe-e2643e6393a0</variationid>
+        <variationid>ab4995a1-b551-4070-95ba-c45f06a77947</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>L</size>
         <quantity>0</quantity>
-        <price>22.38</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-10997</link>
-        <mpn>10997</mpn>
+        <price>24.25</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-10994</link>
+        <mpn>10994</mpn>
       </variation>
       <variation>
-        <variationid>273d4875-b4eb-4d4a-b63a-c8287a3032e3</variationid>
+        <variationid>fc3abadb-582f-48a4-a62f-9862f51ce0ad</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XL</size>
         <quantity>0</quantity>
-        <price>22.38</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-10997</link>
-        <mpn>10997</mpn>
+        <price>24.25</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-10994</link>
+        <mpn>10994</mpn>
       </variation>
       <variation>
-        <variationid>86fb8ccd-bd16-4426-ba3a-0e433f65c3f6</variationid>
+        <variationid>5cbdcb71-ec30-4610-bcb1-c6ab55840e1e</variationid>
         <availability>Παράδοση σε 1-3 ημέρες</availability>
         <size>XXL</size>
         <quantity>0</quantity>
-        <price>22.38</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-10997</link>
-        <mpn>10997</mpn>
+        <price>24.25</price>
+        <link>https://www.onikshop.gr/product-page/mrt-martini-10994</link>
+        <mpn>10994</mpn>
       </variation>
     </variations>
   </product>
   <product>
     <id>4ab1910e-d549-11ad-aa60-cf9e739a4170</id>
-    <name>Mrt Martini 10975</name>
+    <name>Mrt Martini</name>
     <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
     <link>https://www.onikshop.gr/product-page/mrt-martini-10975</link>
     <description><![CDATA[Η ανδρική μπλούζα φούτερ της εταιρίας Mrt Martini, είναι κατάλληλη για τις κρύες μέρες του χρόνου.Βασικά χαρακτηριστικά:<br>• Στενή εφαρμογή που αγκαλιάζει το σώμα<br>• Με κουκούλα]]></description>
@@ -13537,135 +13602,6 @@
         <price>31.36</price>
         <link>https://www.onikshop.gr/product-page/mrt-martini-10975</link>
         <mpn>10975</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
-    <id>45f30581-82fd-8a09-eedc-6dd0ef99e79e</id>
-    <name>Mrt Martini 10994</name>
-    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
-    <link>https://www.onikshop.gr/product-page/mrt-martini-10994</link>
-    <description>Η ανδρική μπλούζα φούτερ της εταιρίας Mrt Martini, είναι κατάλληλη για τις κρύες μέρες του χρόνου.</description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_2912ca1cbed1471ead7f550542f0c991~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_c7951e711d2f45b3999b7b283f0841f8~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_dc9eeae5bb5d41e78c0fafc379b3154e~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_82b4ff80775840829b8ec67b97a32593~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_d761efcca673420fba22e174d5de312e~mv2.jpg</additionalImage>
-    <color>Μαύρο</color>
-    <sizes>S, M, L, XL, XXL</sizes>
-    <brand>Martini</brand>
-    <weight>2000</weight>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>1</quantity>
-    <variations>
-      <variation>
-        <variationid>8f4eecbd-37c0-4d64-9b4f-1cd047ecc73b</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>S</size>
-        <quantity>0</quantity>
-        <price>24.25</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-10994</link>
-        <mpn>10994</mpn>
-      </variation>
-      <variation>
-        <variationid>173dd349-b48f-4e10-9979-8e432a08b6f7</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>M</size>
-        <quantity>1</quantity>
-        <price>24.25</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-10994</link>
-        <mpn>10994</mpn>
-      </variation>
-      <variation>
-        <variationid>ab4995a1-b551-4070-95ba-c45f06a77947</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>L</size>
-        <quantity>0</quantity>
-        <price>24.25</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-10994</link>
-        <mpn>10994</mpn>
-      </variation>
-      <variation>
-        <variationid>fc3abadb-582f-48a4-a62f-9862f51ce0ad</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XL</size>
-        <quantity>0</quantity>
-        <price>24.25</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-10994</link>
-        <mpn>10994</mpn>
-      </variation>
-      <variation>
-        <variationid>5cbdcb71-ec30-4610-bcb1-c6ab55840e1e</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XXL</size>
-        <quantity>0</quantity>
-        <price>24.25</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-10994</link>
-        <mpn>10994</mpn>
-      </variation>
-    </variations>
-  </product>
-  <product>
-    <id>f8b124f3-4b2c-c594-766f-ff6c23908725</id>
-    <name>Mrt Martini 11056</name>
-    <category><![CDATA[ΑΝΩ ΕΝΔΥΣΗ > Φούτερ]]></category>
-    <link>https://www.onikshop.gr/product-page/mrt-martini-11056</link>
-    <description><![CDATA[Φούτερ μονόχρωμο με τρέσα στα μανίκια <ul>	<li>Κανονική γραμμή</li>	<li>65% Βαμβάκι 35% Πολυέστερ </li></ul>]]></description>
-    <featureImage>https://static.wixstatic.com/media/6c7135_1e658211f2bf4a538f353fbcc805be9c~mv2.jpg</featureImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_fe0525957d9a41bb9bdac39e2dc96545~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_37edc2e7a08b4ef8a59f668cbf21f819~mv2.jpg</additionalImage>
-    <additionalImage>https://static.wixstatic.com/media/6c7135_aea331e1423745428c3cc0f8a090fd9a~mv2.jpg</additionalImage>
-    <color>Σιέλ</color>
-    <sizes>S, M, L, XL, XXL</sizes>
-    <brand>Martini</brand>
-    <weight>2000</weight>
-    <availability>Παράδοση σε 1-3 ημέρες</availability>
-    <quantity>2</quantity>
-    <variations>
-      <variation>
-        <variationid>9076e3e5-30ac-4022-84dc-bb131566f968</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>S</size>
-        <quantity>1</quantity>
-        <price>28.7</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-11056</link>
-        <mpn>11056</mpn>
-      </variation>
-      <variation>
-        <variationid>d0e60365-ae4c-4cd2-95bf-c19b8b848fc2</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>M</size>
-        <quantity>1</quantity>
-        <price>28.7</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-11056</link>
-        <mpn>11056</mpn>
-      </variation>
-      <variation>
-        <variationid>034191bb-a2f0-4d7e-a936-15cfc7f96586</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>L</size>
-        <quantity>0</quantity>
-        <price>28.7</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-11056</link>
-        <mpn>11056</mpn>
-      </variation>
-      <variation>
-        <variationid>b2749379-1b73-47b2-9c9a-f0ddc6a07ab3</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XL</size>
-        <quantity>0</quantity>
-        <price>28.7</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-11056</link>
-        <mpn>11056</mpn>
-      </variation>
-      <variation>
-        <variationid>aff4dc6f-4581-476b-bc37-eb640a60ca29</variationid>
-        <availability>Παράδοση σε 1-3 ημέρες</availability>
-        <size>XXL</size>
-        <quantity>0</quantity>
-        <price>28.7</price>
-        <link>https://www.onikshop.gr/product-page/mrt-martini-11056</link>
-        <mpn>11056</mpn>
       </variation>
     </variations>
   </product>
